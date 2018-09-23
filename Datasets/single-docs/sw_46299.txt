@@ -1,0 +1,13 @@
+Footballer
+
+A footballer is the athlete who - with amatorial or professional interests - plays football.
+
+Footballers sign a contract with clubs, playing for them until his expire date. At this point, a footballer can marks an other contract or move to another club.
+
+During a game, each team uses 11 players with the compulsory presences of a goalkeeper and a captain. Roles are follows: goalkeeper, defender, midfielder and attacker. Each of these has more positions, for example:
+
+
+Despite each role requests different skills and moves, every footballer has a common objective: scoring goals.
+
+
+

@@ -1,0 +1,10 @@
+Airline hub
+
+An airline hub is an airport that an airline uses as a transfer point to get passengers to their intended destination.
+
+The airport is part of a "hub and spoke model". 
+
+Some airlines may use only a single hub, while other airlines use multiple hubs. 
+
+
+

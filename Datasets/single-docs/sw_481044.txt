@@ -1,0 +1,9 @@
+Transcription factor
+
+Transcription factors help to regulate genes. Each transcription factor binds to a specific DNA sequence. That is how they control the rate of transcription of genetic information from DNA to messenger RNA.
+
+Transcription factors are sometimes called a 'sequence-specific DNA-binding factor'. Alone or with other proteins in a complex, they promote or block RNA polymerase. RNA polymerase is the enzyme that transcribes genetic information from DNA to RNA for specific genes.
+
+A defining feature of transcription factors is that they have one or more DNA-binding domains (DBDs), which attach to specific sequences of DNA next to the genes that they regulate. Other proteins such as coactivators, chromatin remodellers, histone acetylases or deacetylases, kinases, and methylases, also playing crucial roles in gene regulation. Because they lack DNA-binding domains, they are not transcription factors.
+
+

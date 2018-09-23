@@ -1,0 +1,10 @@
+Chemical synapse
+
+Chemical synapses are synapses that use chemical messengers called neurotransmitters to transmit signals. They are found all over the body. Especially in the central nervous system and the brain.
+
+Neurons use electrical signals to carry information. These signals are called action potentials. There are an estimated 86 billion neurons in the average human brain. Neurons don't act alone. They need to connect to other neurons and pass messages between each other. The electrical signal cannot pass the gap between neurons alone. This is why neurotransmitters are needed to pass signals from one neuron to the next. In this sense they differ from electrical synapses which pass electric signals directly to the next neuron. Chemical synapses can be further classified depending upon function and structure.
+
+The structure of a typical chemical synapse comes in three parts: 
+
+
+

@@ -1,0 +1,12 @@
+Public good
+
+In Economics, a public good is a kind of common good. Public goods have two main properties:
+Examples for public goods are fresh air, knowledge, street lighting, or a fireworks display.
+
+Public goods are an example of market failure: If all actors maximize their gain, this does not produce an efficient solution. 
+
+It is obvious that because the goods are non-excludable, it means that a producer sees no benefit in producing or providing the good on the market, this is because it is impossible to make a profit from it as people who have not paid for the good. For this reason, the government may intervene to provide it. There are relatively few examples of "purely" public goods, however some examples are:
+
+The reason that the government feels the need to provide these goods is because the Marginal Social Benefit is greater than the Marginal Private Benefit, and so because there are positive externalities in consumption, it will always be under consumed in the market mechanism,
+
+

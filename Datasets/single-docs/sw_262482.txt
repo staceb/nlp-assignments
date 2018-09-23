@@ -1,0 +1,14 @@
+Chemiluminescence
+
+Chemiluminescence (or Chemoluminescence) is a kind of luminescence. It is a process of making light from a chemical reaction. Chemiluminescence in biological systems is called bioluminescence. 
+
+The light made in chemiluminiscence is not directly related to heat. A simple two step example of a reaction of A, and B, that produces; C, D, and light.
+C</sub> is an excited state of C. 
+
+This reaction is simpler than most chemiluminesence reactions. The excited state happens when electrons are pushed into a higher orbit by the energy of a chemical reaction. The excited state is less stable than the ground state. The electrons in the excited state fall to the ground state (lower energy), emitting light. 
+
+The amount of measurable light made is called "radiant intensity": I(calcium) inside of different parts of cells like the mitochondria can make light when it reacts with a protein from jellyfish named aequorin. Nitric oxide(NO) is in cells and is a way for cells to talk to each other, this can be measured with the compound luminol. 
+
+
+
+

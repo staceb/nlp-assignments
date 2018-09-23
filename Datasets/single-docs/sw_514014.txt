@@ -1,0 +1,7 @@
+Wiki farm
+
+A wiki farm is a site where you can create your own wiki. Getting web space is usually as easy as requesting an e-mail account. An account will generally allow a certain number of wiki sites and some are free. Most wiki farms let you create wikis that run Mediawiki software. 
+
+This table is not complete
+
+

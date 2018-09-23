@@ -1,0 +1,62 @@
+OGame
+
+OGame is a browser-based strategy game. The game was created in 2002 by Gameforge. OGame is able to go in different languages. It also has up to 39 uni (for short) or universes.
+
+Each player starts with one randomly given planet, with the starting name of "Homeworld" (which can be changed). Building from that one planet, he/she later has the option to keep on developing that planet or to expand his/her colony to include up to as many planets they can afford to build, originally 9 planets. All construction, research, and missions are performed and launched from a planet or moon. While playing the player has a chance of building fleets and defenses for their planet.
+
+An alliance is a group of people who have banded together and is mostly used for solidarity purposes. Alliances are created for players to protect each other from attacks, join together to raid other planets, or to promote free trade amongst members. Members of an alliance can use the ACS (Alliance Combat System), available in all universes.
+
+Metal Mine is what is used to gather the resource metal.
+
+Crystal Mine is what is used to gather the resource crystal.
+
+Deuterium Synthesizer is what is used to gather the resource deuterium.
+
+Solar Plant is a plant that produces energy from the sun to run mines or to do research.
+
+Fusion Reactor is like a solar plant but instead of gathering energy from the sun it uses deterium to produce it's energy.
+
+Robotic Factory is a building that decreases the building time of buildings.
+
+Nanite Factory is an upgraded version of the robotics factory.
+
+There are four resources used in OGame: metal, crystal, deuterium,and dark matter.
+
+Metal is mainly used for buildings, Ships, Defenses. To get this resources he/she has to upgrade or build a metal mine.
+
+Crystal is the second resource. Crystal is mostly used in research. Crystal is one of the hardest resource to obtain. It is obtained by building or upgrading a crystal mine.
+
+Deuterium is the third resource and can be obtained only from deuterium synthesizers. Deuterium is mainly used as fuel for a player's fleet to perform a mission, and for research.
+
+Dark Matter is a resource that can be bought with real money. If a user doesn't want to pay this resource will become the most rarest resource in the game. Dark Matter can be found on expeditions with the players fleet after researching Expedition.
+
+Energy is not actual energy you get from a mine but from solar planets and fusion reactors. Energy is needed to be able to run the mines to gather metal, crystal, deuterium, and to do research.
+
+A list of how these resources are obtained:
+
+
+Unlike other games, OGame doesn't allow the player to control his ships. While playing the game a player can send units to a specific moon or planet. Once the ship(s) arrive at the planet the player can only recall the ships, he/she cannot fly them.
+
+Researching various fields of science allows for better buildings, ships and defensive structures to be built. Research must be done for the production of Solar Satellites, which supplies power, to the fearsome Death Star, which is considered the strongest ship in the game. 
+
+The costs of research usually doubles each level, with the exception of Graviton Technology, which costs 300,000 energy and is not useful over level 1.
+
+Research time is reduced with each upgrade of the Research Lab, or reduced dramatically with the Intergalactic Research Network researched. 
+
+All purchased effects are paid with dark matter. In order to get dark matter he/she has to buy it on OGame.
+
+The Commander gives the player improved functions. Features include a building order which gives the player the ability to order several buildings to be built without requiring the player to login and start a new build. The player also gets an “Empire View” that shows the player all details on every planet including ships, defenses, resources, and energy. Other bonus given by OGame Commander are message filters, shortcuts, an improved galaxy view and commands, and a gaming experience free of ads.
+
+On February 16, 2007, Officers were introduced to the game. It is worth noting that Gameforge had earlier promised it's users it would never introduce pay-to-play options that provided direct benefits, and the change the caused a large scale of conflict in the community.
+
+The officer feature gives players a real advantage in the game, for a price, while those who cannot afford it go without. The 4 officers types are:
+
+
+As of version 0.78 people can hire a merchant to trade one resource type for another. This is almost the same as trading except that there are no other players involved. The only limitation you have is the amount of free space in your storage silos and the amount of dark matter you have. You cannot trade when your silos are full, or when standing on a moon. It is wise to move away all the resources you want to keep, so that you can trade the maximum amount that your storage holds.
+
+OGame is monitored by Game Operators, Super Game Operators and Game Administrators each of whom have the rights to ban any player suspected of misconduct and violation of the rules. The rules can be different for each OGame universe. Players who have been banned are put into the pillory of their universe. The pillory shows the reason of banning and the administrator who made the decision. It also shows the unbanning of a player when they have clarified the fault. The planets and colonies of players that have received lifelong bans are subject to the one month account deletion due to inactivity.
+
+OGame won the bronze Superbrowsergame Award in 2006. 
+
+
+

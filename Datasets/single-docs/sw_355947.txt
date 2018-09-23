@@ -1,0 +1,16 @@
+Matter wave
+
+In quantum mechanics, a branch of physics, a matter wave is when you think of matter as a wave. The concept of matter waves was first introduced by Louis de Broglie. Matter waves are hard to visualize, because we are used to thinking of matter as physical object. De Broglie revolutionized quantum mechanics by producing the equation for matter waves.
+
+Based on the fact that light has a wave-particle duality, De Broglie showed that matter might exhibit wave-particle duality as well (simply meaning that matter is made of both particles and waves). Basing his formula on earlier formulas, he arrived at the equation below. 
+
+formula_1
+
+Where λ is the wavelength of the object, "h" is Planck's constant, "m" is the mass of the object, and "v" is the velocity of the object. An alternate but correct version of this formula is
+
+formula_2
+
+Where "p" is the momentum. (Momentum is equal to mass times velocity). These equations merely say that matter exhibits a particle-like nature in some circumstances, and a wave-like characteristic at other times. Erwin Schrödinger created an advanced equation based on this formula and the Bohr model, known as the Schrödinger equation. 
+
+
+

@@ -1,0 +1,13 @@
+Implicit derivative
+
+Implicit derivatives are derivatives of implicit functions. This means that they are not in the form of formula_1 (explicit function), and are instead in the form formula_2 (implicit function). It might not be possible to rearrange the function into the form formula_3. To use implicit differentiation, we use the chain rule, 
+
+If we let formula_5, then, 
+
+Which we can work out to be equivalent to, using the above,
+
+Then we can isolate formula_10
+
+Then divide to get, 
+
+

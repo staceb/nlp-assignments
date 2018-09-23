@@ -1,0 +1,28 @@
+Energy
+
+Energy is a word with more than one meaning.
+
+
+In science energy is something that can do work.
+
+Basic forms of energy include:
+
+Energy cannot be made or destroyed, it is changed from one form to another. The amount of energy in a closed system is always the same. This rule is called the "conservation law of energy".
+
+In the early 20th century scientists discovered that matter can be made into energy, and energy into matter, through processes like nuclear fission and nuclear fusion. The law of conservation of energy has therefore been extended to become the Law of conservation of matter and energy. Albert Einstein was the first to mathematically derive this in the formula E = mc.
+
+A stone is thrown upwards and falls to the ground.
+
+
+Scientists have identified many types of energy, and found that they can be changed from one kind into another. For example:
+
+Energy can be measured. The amount of energy a thing has can be given a number.
+
+As in other kinds of measurements, there are measurement units. The units of measurement for measuring energy are used to make the numbers meaningful.
+
+The SI unit for both energy and work is the joule (J). It is named after James Prescott Joule. 1 joule is equal to 1 newton-metre. In terms of SI base units, 1 J is equal to 1 kg m s.
+
+The energy unit of measurement for electricity is the kilowatt-hour (kW·h). One kW·h is equivalent to 3,600,000 J (3600 kJ or 3.6 MJ)
+
+
+

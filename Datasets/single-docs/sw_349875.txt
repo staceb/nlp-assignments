@@ -1,0 +1,9 @@
+Positive-definite matrix
+
+A positive-definite matrix is a matrix with special properties. The definition of the term is best understood for square matrices that are symmetrical, also known as Hermitian matrices. 
+
+A square matrix filled with real numbers is positive definite if it can be multiplied by any non-zero vector and its transpose and be greater than zero. The vector chosen must be filled with real numbers.
+
+when the entries "z", "z" are real and at least one of them nonzero, this is positive. This proves that the matrix formula_4 is positive-definite.
+
+

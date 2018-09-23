@@ -1,0 +1,5 @@
+Critical error
+
+A critical error is an error which the OS cannot reasonably ignore so as to respond again. The critical error is often linked with a BSOD. These errors are known also as system failure. However, not all types of OS failure are critical errors. Freezing or deadlock are "NOT" usually considered critical. Critical errors can lead to error avalanches also.
+
+

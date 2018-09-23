@@ -1,0 +1,6 @@
+Capacitance
+
+Capacitance is the ability of a body to store electric charge. A common device to do such task is a capacitor. The SI unit for capacitance is "farad".
+
+
+

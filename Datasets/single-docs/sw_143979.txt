@@ -1,0 +1,16 @@
+Supercomputer
+
+A supercomputer is a computer with great speed and memory. This kind of computer can do jobs faster than any other computer of its generation. They are usually thousands of times faster than ordinary personal computers made at that time. Supercomputers can do arithmetic jobs very fast, so they are used for weather forecasting, code-breaking, genetic analysis and other jobs that need many calculations. When new computers of all classes become more powerful, new ordinary computers are made with powers that only supercomputers had in the past, while new supercomputers continue to outclass them. 
+
+Electrical engineers make supercomputers that link many thousands of microprocessors.
+
+Supercomputer types include: shared memory, distributed memory and array. Supercomputers with shared memory are developed by using a parallel computing and pipelining concept. Supercomputers with distributed memory consist of many (about 100~10000) nodes. CRAY series of CRAYRESERCH and VP 2400/40, NEC의 SX-3 of HUCIS are shared memory types. nCube 3, iPSC/860, AP 1000, NCR 3700, Paragon XP/S, CM-5 are distributed memory types.
+An array type computer named ILIAC started working in 1972. Later, the CF-11, CM-2, and the Mas Par MP-2 (which is also an array type) were developed. Supercomputers that use a physically separated memory as one shared memory include the T3D, KSR1, and Tera Computer.
+
+"Organizations"
+"Centers"
+
+
+
+
+

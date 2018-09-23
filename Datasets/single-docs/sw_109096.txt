@@ -1,0 +1,13 @@
+Alkene
+
+In organic chemistry, an alkene, olefin, or olefine is an unsaturated chemical compound containing at least one carbon-to-carbon double bond. The simplest alkenes, with only one double bond, no rings, and no other functional groups, are hydrocarbons with the general formula CH.
+
+Aromatic compounds are often drawn as cyclic alkenes, but their structure and properties are different and they are not considered to be alkenes.
+
+The double bond in the middle makes them more reactive because the molecule is not saturated. An alkene's unsaturation means that it will take the color out of bromine. The names of alkenes always end with -ene.
+
+The following is a list of the first sixteen Alkenes:
+
+The physical properties of alkenes are comparable with those of alkanes. The main differences between the two are that the acidity levels of alkenes are much higher than the ones in alkanes. The physical state depends on molecular mass (gases from ethene to butene - liquids from pentene onwards). The simplest alkenes, ethene, propene and butene are gases. Linear alkenes of approximately five to sixteen carbons are liquids, and higher alkenes are waxy solids. 
+
+

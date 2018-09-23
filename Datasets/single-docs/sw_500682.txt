@@ -1,0 +1,9 @@
+Bernoulli distribution
+
+The Bernoulli distribution is a probability distribution. It is used in probability theory and statistics. It is named after a Swiss scientist Jacob Bernoulli.
+
+A Bernoulli distribution is useful because it can be used to approximate the outcomes of an experiment (such as tossing a coin) as a range of percentages. It represents a "yes or no" type experiment. If the experiment succeeds, it is given value 1. If the experiment does not succeed, it is given value 0. This can be used, for example, in tossing a coin. "1" means it lands on "heads" and "0" means it lands on "tails" (or the other way around).
+
+This distribution has only one parameter, the probability of a success ("p"). In fact, Bernoulli distribution is the binomial distribution with "n"=1. Meaning all of the answers are between 0 and 1 (such as 0.123432345).
+
+

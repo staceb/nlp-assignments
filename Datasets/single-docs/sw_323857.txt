@@ -1,0 +1,8 @@
+Cantor set
+
+The Cantor set is a subset of real numbers with certain properties that are interesting to mathematicians. These properties relate to topology, measurement, geometry, as well as set theory. Some of them are:
+The set is named after Georg Cantor. Henry John Stephen Smith discovered it in 1875, and Cantor first described it in 1883.
+
+The set is made by starting with a line segment and repeatedly removing the middle third. The Cantor set is the (infinite) set of points left over. The Cantor set is "more infinite" than the set of natural numbers (1, 2, 3, 4, etc.). This property is called uncountability. It is related to the Smith–Volterra–Cantor set and the Menger Sponge. The Cantor set is self-similar.
+
+

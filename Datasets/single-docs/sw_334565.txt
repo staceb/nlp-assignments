@@ -1,0 +1,6 @@
+T helper cell
+
+T helpers are a kind of lymphocyte blood cell, produced in the Thymus. They do not kill or eat bacteria. What they do is to help other immune cells target onto infecting bacteria. They activate T-killer cells (cytotoxic T cells) and B cells to kill infecting bacteria or cells that are infected by viruses.
+T helpers get attacked by HIV virus.
+
+

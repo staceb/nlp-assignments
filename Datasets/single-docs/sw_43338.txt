@@ -1,0 +1,31 @@
+Transistor
+
+A transistor is an electronic component that can be used as an amplifier, or as a switch. It is made of semiconductor material. Transistors are found in most electronic devices. 
+
+A transistor has three connectors or terminals. In the older bipolar transistor they are the collector, the emitter, and the base. The flow of charge goes in the collector, and out of the emitter, depending on the charge flowing to the base. In this way, it is possible for the base to switch on or off the flow through the transistor. A MOSFET names its terminals differently because it works differently. 
+
+The transistor can be used for a variety of different things including amplifiers and digital switches for computer microprocessors. Digital work mostly uses MOSFETs. Some transistors are individually packaged, mainly so they can handle high power. Most are inside integrated circuits. 
+
+Transistors have three parts, the gate, the drain, and the source (also, the wires can be called the emitter, the collector, and the base). When the source is connected to the negative terminal of the battery, and the drain to the positive terminal, no electricity will flow in the circuit (assuming you have only a lamp in series with the transistor). But when you touch the gate with the drain, electricity will flow. This is because when the gate is positively charged, the positive electrons will push other positive electrons in the transistor letting the negative electrons flow through. The transistor can also work when the gate is just positively charged, so it doesn't need to be touching the drain.
+
+An easy way to think of how a transistor works is as a hose with a sharp bend, the water is the electrons, and when you positively charge the gate, it unbends the hose, letting water flow.
+
+The basic Darlington transistor circuit is formed from two transistors wired emitter to base so they act as one transistor.
+
+Transistors can be used as a switch or as an amplifier.
+
+When the gate of a P-channel MOSFET is positively charged, electricity will flow through, this is useful for electronics that require a switch to be turned on, making it an electronic switch. This rivals the mechanical switch, which requires a constant force pressing on it.
+
+In a MOSFET used as an amplifier, transistors take the flow of the drain and source, and since the source current is so much larger than the drain's current, it is common for the drain's current to rise to the value of the source's, amplifying it.
+
+Transistors are made of semiconductor chemical elements, usually Silicon, which belongs to in Group IV in the periodic table of elements. Germanium, another group-IV element, is used together with silicon in specialized transistors. Researchers also study transistors made from special forms of carbon. Transistors can be also made from compounds such as gallium arsenide.
+
+The transistor was not the first three terminal device. The triode served the same purpose of the transistor 50 years earlier. Vacuum tubes were important in household technology. Unfortunately, tubes were big and fragile and used far too much energy which shortened the life of the tube. The transistor was invented to solve these problems. 
+
+Three physicists were credited with the invention of the transistor in 1947: Walter H. Brattain, John Bardeen, and William Shockley who contributed the most.
+
+The transistor is an important component today. If not for the transistor, devices such as cell phones and computers, would be very different, or they might have not been invented.
+
+Depending on their material and the process that is used to make them there are different types of transistors. For example FETs (Field Effect Transistors), IGBTs (Insulated Gate Bipolar Transistors) etc.
+
+

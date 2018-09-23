@@ -1,0 +1,9 @@
+Thermal power plant
+
+A thermal power plant is a power plant where steam is used to drive a steam turbine. This turbine is connected to an electrical generator. After this, the water is condensed, and may be used again. This is known as the Rankine cycle. There are different procedures that can be used to heat the water; this gives different types of thermal power plants:
+
+
+Fossil fueled thermal power plants produce a large part of man-made CO2 emissions to the atmosphere, and efforts to reduce these are varied and widespread.
+
+
+

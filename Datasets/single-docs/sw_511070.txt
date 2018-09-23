@@ -1,0 +1,21 @@
+Methods of computing square roots
+
+There are a numbers of ways to calculate square roots of numbers, and even more ways to estimate them.
+
+The mathematical operation of finding a root is the opposite operation of exponentiation, and therefore involves a similar but reverse thought process.
+
+Firstly, one needs to know how precise the result is expected to be. This is because often square roots are irrational. For example, square root of a nice round whole number 28 is a fraction which in its decimal notation has infinite length, and therefore it is impossible to express it exactly:formula_1
+
+Moreover, for some real numbers the square root is a complex number. For example, square root of -4 is a complex number 2"i" :formula_2
+
+In many cases there may be multiple valid answers. For example, square root of 4 is 2, but -2 is also a valid answer. One can verify that they are both valid answers by squaring each candidate answer and checking if you obtain 4 as the result of verification:formula_3
+
+formula_4
+
+Please note that calculating a square root is a special case of the problem of calculating N root.
+
+Most calculators provide a function for calculation of a square root.
+
+If the result does not have to be very precise, the following estimation techniques could be helpful:
+
+

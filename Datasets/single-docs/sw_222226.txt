@@ -1,0 +1,17 @@
+Centrosome
+
+In cell biology, the centrosome is an organelle that is the main place where cell microtubules are organized. They occur only in animal cells. Also, it regulates the cell division cycle, the stages which lead up to cell division. 
+
+The centrosome was discovered by Edouard Van Beneden in 1883, and was described and named in 1888 by Theodor Boveri. 
+
+The centrosome has apparently only evolved in metazoan eukaryotic cells. Fungi and plants use other structures to organize their microtubules. Although the centrosome has a key role in efficient mitosis in animal cells, it is not necessary.
+
+A centrosome is composed of two centrioles at right angles to each another. They are surrounded by a shapeless mass of protein.
+
+The centrosome is copied only once per cell cycle so that each daughter cell inherits one centrosome, containing two centrioles. The centrosome replicates during the interphase of the cell cycle. During the prophase of mitosis, the centrosomes migrate to opposite poles of the cell. The mitotic spindle then forms between the two centrosomes. Upon division, each daughter cell receives one centrosome. 
+
+Interestingly, centrosomes are not required for the progression of mitosis. When the centrosomes are irradiated by a laser, mitosis proceeds with a normal spindle. In the absence of the centrosome, the microtubules of the spindle are focused by motors allowing the formation of a bipolar spindle. Many cells can completely undergo interphase without centrosomes.
+
+Although centrosomes are not required for mitosis or survival of the cell, "they are required for survival of the organism". Cells without centrosomes lack certain microtubules. With centrosome the cell division is much more accurate and efficient. Some cell types arrest in the following cell cycle when centrosomes are absent, though this doesn't always happen.
+
+

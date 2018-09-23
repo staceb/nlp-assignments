@@ -1,0 +1,5 @@
+Microsoft OneNote
+
+OneNote is for making and sharing notes. The first version was in Office 2003. OneNote is in Microsoft Office Enterprise 2007. OneNote is a important part of Microsoft Office Enteprise and Ultimate 2007. OneNote is a relatively new part of Microsoft Office. Along with other programs, such as InfoPath, uses the Ribbon User Interface. Users may add embedded multimedia recordings and web links. For OneNote to work, it needs the Windows 2000 SP(Service Pack) 4 operating system or later. OneNote's 'pages' are called notebooks.
+
+

@@ -1,0 +1,18 @@
+Tensile strength
+
+Tensile strength is a measurement of the force required to pull something such as rope, wire, or a structural beam to the point where it breaks. 
+
+The tensile strength of a material is the maximum amount of tensile stress that it can take before failure, for example breaking.
+
+There are three typical definitions of tensile strength:
+
+
+
+
+Some typical tensile strengths of some materials:
+
+(Source: A.M. Howatson, P.G. Lund and J.D. Todd, "Engineering Tables and Data" p41)
+
+
+
+

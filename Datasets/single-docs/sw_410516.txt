@@ -1,0 +1,5 @@
+Trimmer potentiometer
+
+A trimmer potentiometer is a kind of a potentiometer which is very small. It is adjustable with a screwdriver.
+
+

@@ -1,0 +1,18 @@
+Factorial
+
+n factorial (written n!) is the number we get when we multiply every number from 1 to "n". If "n" is 0, n factorial is 1. "n"! is not defined for negative numbers. However, the related gamma function is defined over the real and complex numbers (but the integers it is defined over are positive).
+
+It is used to find out how many possible ways there are to arrange n objects.
+
+For example, if there are 3 letters (A, B, and C), they can be arranged as ABC, ACB, BAC, BCA, CAB, and CBA. That's 6 choices because A can be put in 3 different places, B has 2 choices left after A is placed, and C has only one choice left after A and B have been placed. That is 3×2×1 = 6 choices.
+
+More generally, if there are three objects, and we want to find out how many different ways there are to arrange (or select them), for the first object, there are 3 choices, for the second object, there are only two choices left as the first object has already been chosen, and finally, for the third object, there is only one position left.
+
+Therefore 3! is equivalent to 3×2×1, or 6.
+
+This function is a good example of recursion (doing things over and over), as 3! can be written as 3×(2!), which can be written as 3×2×(1!) and finally 3×2×1×(0!). N! can therefore also be defined as N×(N-1)! with 0! = 1.
+
+The factorial function grows very fast. There are 3,628,800 ways to arrange 10 items.
+
+
+

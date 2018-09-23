@@ -1,0 +1,5 @@
+Chain
+
+A chain is like a rope, but made up of several elements called links.
+
+

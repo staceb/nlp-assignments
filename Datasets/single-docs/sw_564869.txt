@@ -1,0 +1,14 @@
+Transiting Exoplanet Survey Satellite
+
+The Transiting Exoplanet Survey Satellite (TESS) is a planned NASA space telescope designed to search for planets outside of the Solar System (such planets are called "exoplanets"). 
+
+TESS is planned to be launched in 2018 on a SpaceX Falcon 9 Full Thrust rocket from the Cape Canaveral Air Force Station. The total value of the launch services contract is US$87 million. SpaceX was awarded the launch in December 2014.
+
+"TESS" will be orbiting the Earth with a period of about 14 days, which is half of the period of the Moon. The orbit will be highly elliptical, which means that it will be closer to the Earth at some points but very far from the Earth at other times. "TESS" will have 4 high-resolution cameras and will be continuously taking photos of the sky. It will send the photos to the laboratory on Earth which will make them available to scientists to study. Members of the public, like astronomy hobbyists and enthusiasts, will also be able to download and see the photos.
+
+The main purpose of "TESS" is to find planets around other stars. Such planets, when they are orbiting around their stars, partially cover the stars and make them not as bright half of the time. "TESS" will be looking for such stars.
+
+"TESS" satellite will be small, about in size, with the solar panel span of . It will weigh at launch.
+
+
+

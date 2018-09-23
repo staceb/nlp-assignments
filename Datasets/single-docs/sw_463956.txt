@@ -1,0 +1,11 @@
+Timeline
+
+A timeline is a way of displaying a list of events in the order they happened (called chronological order). It may be in the form of a list or a graphic design. A graphic timeline typically shows a long bar labelled with dates and usually events. But it can be other layouts as well. 
+
+Timelines are often used in education. They help students and researchers understand the order or chronology of historical events for a subject. A timeline can be used to visualize the time between events, durations (such as lifetimes or wars), and the overlap of events. 
+
+Timelines are particularly useful for studying history, as they convey a sense of change over time. Wars and social movements are often shown as timelines. Timelines are also useful for biographies.
+
+Another type of timeline is used for project management. They are important to help team members to know what milestones need to be achieved. It also shows the time schedule. An example is showing a project timeline for a Systems development life cycle of a computer system.
+
+

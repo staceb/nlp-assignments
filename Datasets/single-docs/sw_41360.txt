@@ -1,0 +1,15 @@
+Vibration
+
+Vibration or oscillation means quick moving back and forth (or up and down) about a point of equilibrium. The vibration may be periodic (having a pattern) or random. Something that is vibrating may shake at the same time. If it vibrates in a regular way, it may produce a musical note because it can make the air to vibrate. This vibration will send sound waves to the ear and to the brain.
+
+In structural dynamics and, particularly, in earthquake engineering, vibrations may be, unfortunately, bad: they may cause the structure to fail.
+
+The time it takes a vibrating object to go back and forth completely is the period. The number of back-and-forth movements in one second is its frequency, measured in Hertz (Hz). The farthest possible distance from the equilibrium point is the amplitude.
+
+Free vibration occurs when vibration is set off with a push and allowed to vibrate freely. Examples of this type of vibration are pulling a child back on a swing and then letting go or hitting a tuning fork and letting it ring. The mechanical system will then vibrate at a 'Natural frequency' and gradually wind down.
+
+Forced vibration is when an alternating force or motion is applied to a mechanical system. Examples of this type of vibration include 
+In forced vibration the frequency of the vibration is the frequency of the force or motion applied. The size of the effect depends on the actual mechanical system.
+
+
+

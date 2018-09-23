@@ -1,0 +1,7 @@
+Coriolis effect
+
+The Coriolis effect is a force that is found in a rotating object. Gaspard Gustave de Coriolis first described the Coriolis effect in 1835 using mathematics. The Coriolis effect can best be seen in hurricanes. In the northern hemisphere, or part of the earth, they spin clockwise, in the southern hemisphere they spin the other way. This happens because the earth spins on its tilt.
+
+One example of the Coriolis effect that is often described is that water flows down a drain in the opposite direction in the northern and southern hemispheres. However, in reality, the force of the Coriolis effect is not strong enough to see in such a small amount of water. 
+
+

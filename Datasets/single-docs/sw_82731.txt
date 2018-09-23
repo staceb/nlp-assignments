@@ -1,0 +1,6 @@
+IEEE 802.1X
+
+IEEE 802.1 is the name for a number of high-level protocols for computer networks. In this context, IEEE 802.1X helps secure such a network. It defines methods to authenticate devices and to authorise the access to certain resources. A dedicated server checks information received from a "supplicant". Depending on the result of the check, access to the given resource is granted or denied. 
+
+
+

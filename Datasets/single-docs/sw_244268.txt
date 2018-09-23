@@ -1,0 +1,5 @@
+Sticky keys
+
+Sticky keys are activated when a computer user presses the "Shift" key five times. This lets the user capitalize a letter without having to press down the "Shift" key.
+
+

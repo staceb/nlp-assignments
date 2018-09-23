@@ -1,0 +1,18 @@
+Group theory
+
+In mathematics and abstract algebra, group theory studies a type of algebraic structure called a group. Group theory is often used in mathematics as a starting point for the study of many algebraic structures, and of addition and multiplication of numbers. Because group theory is also useful for studying symmetry in nature and abstract systems, it has many applications in physics and chemistry.
+
+A group is a set (collection) "G" whose members are called "elements". The elements can be numbers of some kind, or other abstract objects. The elements can even be material objects. There is also a "binary operation" which combines any two elements of "G" and results in another element of "G". This new element may be different from either of the original two, but it does not have to be. It only has to be an element of "G". To be a group, the following four conditions must be true of "G" and the operation defined over "G":
+
+
+An important fact about groups is that when two elements are combined using the operation, the order of the elements matters. Switching the order of two combined elements typically gives a different result. This means that we have many cases with "a" • "b" ≠ "b" • "a".
+
+However, if the order of a and b actually does not matter (for "any" a and b, we "always" have "a" • "b" = "b" • "a"), then the group is called an abelian group.
+
+A simple example of a group is the set of integers (called Z) with the addition operator +. This group is called "G" = (Z, +). Each required condition is true of "G", so "G" is a group. If we replace • with the + sign, then we can easily check these conditions:
+
+The addition operator is also commutative: The order of "a" and "b" does not matter. For any two integers "a" and "b" in G, "a" + "b" = "b" + "a". For example, 7+3 is the same as 3+7. Thus, "G" is also an abelian group.
+
+Commutative operators are common in our daily lives. For example, 7 · 3 also is the same as 3 · 7. However, not all operators are commutative. For example, 7÷3 is different from 3÷7 (and neither of these results is an integer). And in particular, 7 is different from 3. Therefore, not all combinations of number sets and mathematical operations can form an abelian group, or even a group at all.
+
+

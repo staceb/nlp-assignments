@@ -1,0 +1,9 @@
+Denial-of-Service attack
+
+A Denial-of-Service attack (DoS) is when someone arranges for multiple computers to open a website. This then stops the ability for everyone else to access the website as there is too much traffic flowing to it. People who have slower internet connections, such as dial-up, are affected more by attacks.
+
+There are different kinds of DoS attacks:
+
+In the 1990s and early 2000s, many web companies were hit by DoS attacks. For example, Microsoft was affected by DoS attacks in early 2001. Many users were unable to access the Microsoft website and many Microsoft services. On June 10, 2014, Evernote was targeted by a DDoS attack for 24 hours. 
+
+

@@ -1,0 +1,14 @@
+Soyuz (spacecraft)
+
+Soyuz (, ) is a series of spacecraft designed for the Soviet space programme. It was first used in the 1960s. The Soyuz spacecraft is launched on a Soyuz rocket, the most frequently used and most reliable launch vehicle in the world to date. All Soyuz spacecraft are launched from the Baikonur Cosmodrome in Kazakhstan.
+
+The first Soyuz flight had no people aboard. It launched on November 28, 1966. The first Soyuz mission with a crew, Soyuz 1, launched on 23 April 1967 but crashed, killing cosmonaut Vladimir Komarov. Soyuz 3 (October 26, 1968) was the first successful manned mission. Now, the Soyuz is widely considered the world's safest, most cost-effective human spaceflight vehicle. Soyuz spacecraft were used to carry cosmonauts to and from Salyut and later Mir Soviet space stations, and are now used for transport to and from the International Space Station (ISS). At least one Soyuz spacecraft is docked at the ISS at all times for use as an escape craft in the event of an emergency.
+
+The newest Soyuz spacecraft is the Soyuz MS-01. It is due to be launched on June 21st 2016. The crew will consist of a Russian commander, a Japanese flight engineer, and an American flight engineer.
+The Soyuz spacecraft has three parts:
+
+The orbital module is also called the Habitation section. It has all the equipment not needed for reentry, such as experiments, cameras and cargo. It also contains a docking collar for docking to space stations. It does not come back to earth.
+The reentry module is used for launch and the journey back to earth. Half of it is covered in heat protection tiles. It comes back to earth.
+The service module has solar panels. It contains systems for temperature control, electric power supply, long-range radio communications and radio telemetry. It does not come back to earth.
+
+

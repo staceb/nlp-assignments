@@ -1,0 +1,8 @@
+Planck time
+
+The Planck time is the length of time at which no smaller meaningful length can be validly measured due to the indeterminacy expressed in Werner Heisenberg's Uncertainty Principle. Theoretically, this is the shortest time measurement that is possible. Planck time is roughly 10 seconds. However, to date, the smallest time interval that was measured was 10 seconds.
+One Planck time is the time it would take a photon travelling at the speed of light to cross a distance equal to one Planck length.
+It is figured out from the Planck constant, which was first thought of by the physicist Max Planck in 1900. This work by Planck asserts that the energy of a photon is proportional to its frequency, and their relation can be put in terms of familiar units such as the joule by using the proportionality constant Planck gave us. Heisenberg's original quantum theory was improved by his teacher and colleague Max Born. Born put Heisenberg's equation into a matrix form. Born immediately noticed that to calculate using these matrices one matrix had to be multiplied by another matrix. In matrix multiplication multiplying matrix P by matrix X gives a different result from the one obtained by multiplying matrix X by matrix P. He further noticed that the difference between the two matrices involves h, the Planck proportionality constant. It shows that one can never pin down things like P (momentum) and X (location) exactly. It turns out that we cannot pin down a time any better than we can pin down a place or a momentum. We get closer and closer and then we reach the "Planck time."
+
+
+

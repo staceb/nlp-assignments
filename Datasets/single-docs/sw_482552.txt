@@ -1,0 +1,11 @@
+Predicate (grammar)
+
+The predicate in traditional grammar is the second part of a clause or sentence, the first being the subject. A predicate completes an idea about the subject, such as what it does or what it is like.
+
+The predicate provides information about the subject.
+
+The subject NP is shown in green, and the predicate VP in blue. 
+
+There is a quite different theory of sentence structure, called dependency structure grammar. This puts the finite verb (= conjugated verb) as the root of all sentence structure. It rejects the binary NP-VP division.
+
+

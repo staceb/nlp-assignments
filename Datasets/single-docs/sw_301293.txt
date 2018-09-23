@@ -1,0 +1,18 @@
+Most common words in English
+
+This list of the most common words in English has been produced by Oxford University Press. By "words" is meant dictionary head words or lemmas.
+
+It is based on an analysis of a body of over a billion words. It represents a study done by Oxford Online, associated with the Oxford English Dictionary. 
+
+This source includes writings of all sorts from "literary novels and specialist journals to everyday newspapers and magazines and from Hansard to the language of chatrooms, emails, and weblogs", unlike some sources which use texts from only specific sources.
+
+"The Reading Teachers Book of Lists" claims that the first 25 words make up about one-third of all printed material in English, and that the first 100 make up about one-half of all written material.
+
+Note that the items listed may represent more than one actual word; they are lemmas. For instance the entry "be" contains within it the occurrences of "are", "is", "were" and "was". Note also that these top 100 lemmas listed below account for 50% of all the words in the Oxford English Corpus.
+
+Source: 
+
+In parentheses are their position in the overall list. Some words are not listed here because they can be used as more than one part of speech. The lists show clearly that 'function' words, like prepositions and connectives, are more common than 'content' words, like nouns, and most verbs, adjectives and adverbs. Verbs like "to be" have both content and linguistic functions. 
+Source: 
+
+

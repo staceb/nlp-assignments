@@ -1,0 +1,73 @@
+Adaptation
+
+Adaptation is the evolutionary process where an organism becomes better suited to its habitat. This process takes place over many generations. It is one of the basic phenomena of biology.
+
+When people speak about adaptation, they often mean a 'feature' (a trait) which helps an animal or plant survive. An example is the adaptation of horses' teeth to grinding grass. Grass is their usual food; it wears the teeth down, but horses' teeth continue to grow during life. Horses also have adapted to run fast, which helps them to escape their predators, such as lions. These features are the "product" of the process of adaptation.
+
+The illustration of bird beaks shows an obvious sign of their different ways of life. However, eating a different food also means having a different digestive system, gut, claws, wings and above all, different inherited behaviour. For the major adaptations, what changes is not a single trait, but a whole group of features.
+
+Adaptation occurs because the better adapted animals are the most likely to survive, and to reproduce successfully. This process is known as natural selection; it is the basic cause of evolutionary change.
+
+Adaptation is, first of all, a "process", rather than a physical part of a body. 
+Adaptation... could no longer be considered a static condition, a product of a creative past, and became instead a continuing dynamic process. "Ernst Mayr".
+
+An internal parasite (such as a fluke) is a good example: it has a very simple bodily structure, but still the organism is highly adapted to its particular environment. From this we see that adaptation is not just a matter of visible traits: in such parasites critical adaptations take place in the life cycle, which is often quite complex.
+
+However, as a practical term, adaptation is often used for the "product": those features of a species which result from the process. Many aspects of an animal or plant can be correctly called adaptations, though there are always some features whose function is in doubt. By using the term "adaptation" for the evolutionary "process", and "adaptive trait" for the bodily part or function (the product), the two senses of the word may be distinguished.
+
+Adaptation is one of the two main processes that explain the diverse species we see in biology. The other is speciation (species-splitting or cladogenesis). A favourite example used today to study the interplay of adaptation and speciation is the evolution of cichlid fish in African lakes.
+
+An organism must be viable at all stages of its development and at all stages of its evolution. This places "constraints" on the evolution of development, behaviour and structure of organisms.
+
+The general idea is that each genetic and phenotypic change during evolution should be relatively small, because developmental systems are so complex and interlinked. But polyploidy in plants is a fairly common large genetic change. The origin of the eukaryota by the symbiosis of micro-organisms is a more exotic example.
+
+All adaptations help organisms survive in their ecological niches. This implies an increase in biological fitness.
+
+These adaptive traits may be structural, behavioural or physiological. Structural adaptations are physical features of an organism (shape, body covering, armament; and also the internal organization).
+
+Behavioural adaptations are composed of inherited behaviour chains and/or the ability to learn: behaviours may be inherited in detail (instincts), or a tendency for learning may be inherited (see neuropsychology). Examples: searching for food, sex, vocalizations.
+
+Physiological adaptations permit the organism to perform special functions (for instance, making venom, secreting slime, phototropism); but also more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis. Adaptation, then, affects all aspects of the life of an organism.
+
+Important adaptations do not come singly. They come in groups, which work together to make the animal or plant successful in its particular niche or life-style.
+
+Woodpecker adaptations are a good example of how a whole suite of features are needed for a successful way of life.
+
+Ancestral woodpeckers, which switched to climbing on tree trunks, had ancestral foot and tail structure. This suggests that a change in behaviour, perhaps to get at a better food source, was one of the first things that happened in the chain of events. The way evolutionary novelties start is an important topic.
+
+Not all features of an organism are adaptations. It may need field investigations or experiments to find out whether it has a function in the life of the species.
+
+Adaptations tend to reflect the past life of a species. If a species has recently changed its life style, a once valuable adaptation may become a dwindling vestige. Animals which live in dark caves often lose, over a long period, their colours and eyesight.
+
+The reasons for this may vary. The loss of structure and function may be a positive adaptation which saves energy and materials. But it may be simply a by-product of genes selected for other functions (pleiotropy). Or the structure may be linked in development, and affected by selection for some other structure.
+
+It is a general rule that any adaptations which are no longer useful either become vestigial organs (see vermiform appendix), or may be selected and adapted to other functions (see ear ossicles).
+
+Many adaptations serve more than one function. This is often the reason some traits become so noticeable that they almost define the species concerned. The legs of a horse are also a main defence: a horse's kick is very destructive. The antlers of male deer serve a sexual function as well as a defence against predators. Man's large brain serves not only for language, but also for thinking and problem-solving. Bird feathers are not just used to fly; they are the basis of its heat conservation, temperature regulation and signalling.
+
+It is a profound truth that Nature does not know best; that genetical evolution... is a story of waste, makeshift, compromise and blunder. "Peter Medawar".
+
+Adaptations are never perfect. There are always tradeoffs between the various functions and structures in a body. It is the organism as a whole which lives and reproduces, therefore it is the complete set of adaptations which gets passed on to future generations.
+
+All adaptations have a downside: horse legs are great for running on grass, but they cannot scratch their backs; mammals' hair helps temperature regulation, but offers a niche for ectoparasites. Compromise and makeshift occur widely, not perfection. Selection pressures pull in different directions, and the adaptation that results is some kind of compromise.
+
+Since the phenotype as a whole is the target of selection, it is impossible to improve simultaneously all aspects of the phenotype to the same degree. Ernst Mayr.
+
+Camouflage to avoid detection is destroyed when vivid colours are displayed at mating time. Here the risk to life is counterbalanced by the need for reproduction. The peacock's ornamental train (grown anew in time for each mating season) is a famous adaptation. It must reduce his maneuverability and flight, and is hugely conspicuous; also, its growth costs food resources.
+
+Darwin's explanation of its advantage was in terms of sexual selection: "it depends on the advantage which certain individuals have over other individuals of the same sex and species, in relation to reproduction". The kind of sexual selection represented by the peacock is called 'mate choice', meaning the process selects the more fit over the less fit, and so has survival value. In practice, the blue peafowl "Pavo cristatus" is a pretty successful species, with a big natural range in India, so the overall outcome of their mating system is quite viable.
+
+The size of the human foetal brain at birth means the brain of a newborn child is quite immature. The newborn's brain cannot be larger than about 400ccs, else it will not get through the mother's pelvis. Yet the size needed for an adult brain is about 1400ccs.
+
+The most vital things in human life (locomotion, speech) just have to wait while the brain grows and matures. That is the result of the birth compromise. Much of the problem comes from our upright bipedal stance, without which our pelvis could be shaped more suitably for birth. Neanderthals had a similar problem.
+
+The function of a trait can, and often does, change over time. Several terms have been used to describe this: "preadaptation", "exaptation", "cooption". 'Preadaptation' is the most common term used when a preexisting structure or trait inherited from an ancestor evolves a different function. It was the term used by Julian Huxley and Ernst Mayr. The term 'pre-' does not mean any foresight, it just means the adaptation was already available, serving some older function. 'Exaptation' was Stephen J. Gould's word.
+
+One example of preadaptation is in dinosaurs, which evolved feathers with the function of thermo-insulation and display long before they were used for flight by early birds. Sweat glands in mammals were later transformed into mammary glands. Another example is the long journey of the mammalian ear ossicles, which started in the gill covers of ancient fish, then became part of the lower jaw of reptiles, and then became part of the inner ear of mammals. Another example is the wings of penguins. Once used for flying, they are now used for 'flying' under water.
+
+Change of function in organs and structures is extremely common in evolution. Many of the features of tetrapods (land vertebrates) evolved from features with different functions in the ancestral lobe-finned fish (Sarcopterygii).
+
+The following definitions are mainly due to Theodosius Dobzhansky.
+
+
+

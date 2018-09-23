@@ -1,0 +1,8 @@
+Airline
+
+An airline is a company that transports people and items using airliners. An airline may have as few as one airplane or a fleet of hundreds of airplanes.
+
+Most airlines offer regular flights between a group of airports.
+
+
+

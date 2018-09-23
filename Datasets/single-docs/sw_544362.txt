@@ -1,0 +1,10 @@
+Interrupt
+
+An interrupt is when a microprocessor does something that it is not told to do because of things that happen outside what the program is supposed to do. Interrupts happen most often because the processor gets a signal from hardware, but they can also come from software that is running along with the program. Among the many things can cause interrupts are pressing keys on a keyboard, the built-in timer going off, a data transfer taking place, or any other event that needs an action from the processor right away. Interrupts can happen at any time while the processor is running a program, no matter where in the program's source code it is.
+
+A hardware or software call for an interrupt (known as an "interrupt request", or IRQ) is taken care of by an "interrupt handler" or "interrupt service routine" (ISR) in the processor. It puts what is it doing at the time onto a stack and then follows certain instructions that does a given task on behalf of the system, which does not have to be part of the program it does. Once it is done following the instructions, the ISR then takes back what it put on the stack and continues with what it was doing before the interrupt happened.
+
+Many interrupt controllers from today's processors use an interrupt vector to sort interrupts based on where it came from, among other ways. The vector typically contains the code that has to be run when the interrupt happens. ISRs are generally responsible for dealing with, or "servicing", the interrupt, along with keeping itself in working order. 
+
+
+

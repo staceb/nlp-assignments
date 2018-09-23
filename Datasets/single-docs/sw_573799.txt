@@ -1,0 +1,7 @@
+Central tendency
+
+In statistics, a central tendency (or 'measure of central tendency') is a central or typical value for a probability distribution. Measures of central tendency are often called averages.
+
+The most common measures of central tendency are the arithmetic mean, the median and the mode.
+
+

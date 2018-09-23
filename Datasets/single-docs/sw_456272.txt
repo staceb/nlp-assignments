@@ -1,0 +1,10 @@
+Unikont
+
+Unikonts are one of the five superkingdoms in the classification of eukaryotes. They are part of the taxonomy system of Thomas Cavalier-Smith.
+
+The group is claimed to be a clade. It includes eukaryotic cells that:
+The unikonts include opisthokonts (animals, fungi, and related forms) and Amoebozoa. By contrast other well-known eukaryotic groups are often referred to as bikonts. Bikonts include Archaeplastida (plants and relatives), Excavata, Rhizaria, and Chromalveolata. These groups may have two flagella (although there are many exceptions).
+
+The unikonts have a triple-gene fusion that is lacking in the bikonts. The three genes code for enzymes which make pyrimidine nucleotides. This must have involved a double gene fusion, a rare pair of events, which supports the shared ancestry of Opisthokonta and Amoebozoa.
+
+

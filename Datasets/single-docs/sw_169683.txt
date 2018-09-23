@@ -1,0 +1,11 @@
+Viscosity
+
+Viscosity is a physical property of fluids. It shows resistance to flow. In a simple example, water has a low viscosity, as it is "thin". Syrup and tar, on the other hand, have a high viscosity, as they are "thick". So next time you drink something think about the viscosity! A way to test for viscosity is the speed at which the substance runs down a slope. Syrup would reach the bottom very slowly, whereas water would be a lot quicker.
+
+There are two types of viscosity: "dynamic viscosity", measured in pascal seconds, and "kinematic viscosity", measured in metres per second squared.
+
+Viscosity is used as a way to predict when volcanoes erupt. When the lava comes out very thickly (viscous), there is more chance that it will erupt violently. This is because the lava has a hard time getting out and may burst out when it can. If the lava is thin (low viscosity), then it just flows out like water.
+
+The word "viscous" comes from the Latin "viscum", meaning sticky.
+
+

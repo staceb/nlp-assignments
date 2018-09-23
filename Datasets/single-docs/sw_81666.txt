@@ -1,0 +1,14 @@
+Himalia group
+
+The Himalia group is a group of prograde non-spherical moons of Jupiter that follow similar orbits to Himalia and are thought to have a common origin.
+
+The known members of the group are (in order from closest to farthest from Jupiter):
+The orbit estimate of the recently found moon S/2000 J 11 also qualified it as a member of the group (it appeared to have the same inclination, and a slightly bigger semi-major axis)
+but its orbit is not known exactly and the mean orbital elements have not yet been calculated.
+
+The International Astronomical Union (IAU) reserves names in -a for the moons in this group.
+
+The objects in the Himalia group have semi-major axes (distances from Jupiter) in the range of 11,150,000 and 11,750,000 km, inclinations between 26.6° and 28.3°, and eccentricities of between 0.11 and 0.25.
+All moons in the group are grey similar to C-type asteroids. It has been suggested that the group could be a remnant of the break-up of an asteroid from the main asteroid belt. The radius of the parent asteroid was probably about 89 km, only a bit bigger than that of Himalia, which retains approximately 87% of the mass of the original body. This indicates the asteroid was not heavily disturbed.
+
+

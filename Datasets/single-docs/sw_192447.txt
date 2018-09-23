@@ -1,0 +1,13 @@
+Invariable plane
+
+The invariable plane of a planetary system is the plane passing through its barycenter (center of mass). This is perpendicular to its angular momentum vector.
+
+In the solar system, about 98% of this effect is contributed by the orbital angular momenta of the four gas giants (Jupiter, Saturn, Uranus, and Neptune). The invariable plane is within 0.5° of the orbital plane of Jupiter. It is the weighted average of all planetary orbital and rotational planes.
+
+The invariable plane is simply derived from the sum of angular momenta, and is almost "invariable" (unchanging) over the entire system. In contrast, the "Laplace plane" may be different for different orbiting objects within a system. 
+
+The Sun forms a counterbalance to all of the planets, so it is near the barycenter when Jupiter is on one side and the other three jovian planets (gas giants) are diametrically opposite on the other side, but the Sun moves to 2.17 solar radii away from the barycenter when all jovian planets are in line on other side. The orbital angular momenta of the Sun and all non-jovian planets, moons, and minor solar system bodies, as well as the axial rotation momenta of all bodies, including the Sun, total only about 2%.
+
+For almost all purposes the plane can be considered invariable when working in Newtonian dynamics.
+
+

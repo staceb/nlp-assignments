@@ -1,0 +1,19 @@
+Binomial expansion
+
+Binomial expansion uses an expression to make a series. It uses a bracket expression like formula_1. There are three binomial expansions.
+
+There are basically three binomial expansion formulas:
+
+We can explain why there are such 3 formulas with a simple expansion of the product:
+
+If formula_5 is an integer (formula_6), we use Pascal's triangle.
+To expand formula_7:
+
+So formula_14
+For example:
+
+So as a rule:
+
+where formula_17 is the number at row formula_5 and position formula_19 in Pascal's triangle.
+
+

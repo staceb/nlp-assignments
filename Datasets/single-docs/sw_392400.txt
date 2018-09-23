@@ -1,0 +1,5 @@
+Atmosphere (unit)
+
+The standard atmosphere (symbol: atm) is a unit of pressure that refers to the air pressure at sea level. It is defined as equal to 101325 Pa. Since 1982, it has been replaced by the bar, which is equal to exactly 10 Pa. The usage of either unit is discouraged.
+
+

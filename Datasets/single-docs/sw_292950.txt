@@ -1,0 +1,10 @@
+At bat
+
+In baseball, an at bat (AB) or time at bat is used for certain statistics. These statistics include batting average, on base percentage, and slugging percentage. It is a more narrow definition of a plate appearance. A batter starts with an at bat every time he faces a pitcher; however, the batter gets "no time at bat" in the following cases:
+
+Section 10.02.a.1 of the official rules of Major League Baseball defines an at bat as:
+"Number of times batted, except that no time at bat shall be charged when a player: (1) hits a sacrifice bunt or sacrifice fly; (2) is awarded first base on four called balls; (3) is hit by a pitched ball; or (4) is awarded first base because of interference or obstruction..."
+
+An at bat is counted when:
+
+

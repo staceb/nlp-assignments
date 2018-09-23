@@ -1,0 +1,9 @@
+Astronomical clock
+
+An astronomical clock is a clock with special mechanisms and dials to display astronomical information. It shows the relative positions of the sun, moon, zodiacal constellations, and sometimes major planets. Some examples are large public clocks, but others are instruments for use inside buildings. Astronomical watches are made by several manufacturers. They are also extremely accurate.
+
+The clocks made in the middle ages used the geocentric method, showing the Earth at the centre. The Sun rotates round the Earth: this accords with daily experience and with the world view of pre-Copernican Europe.
+
+The idea of an astronomical clock is ancient. Although not a clock in the traditional sense, the 2nd century BC Antikythera mechanism of ancient Greece was used to calculate the positions of the sun, moon, and stars at any given point by use of complex mechanical gears. European astronomical clocks are probably descended from the technology of the Antikythera mechanism. As Cicero later wrote in the 1st century BC, Archimedes and Posidonius's orrery achieved virtually the same thing.
+
+

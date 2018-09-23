@@ -1,0 +1,23 @@
+Grouped data
+
+Grouped data is a statistical term used in data analysis. Raw data can be organized by grouping together similar measurements in a table. This frequency table is also called grouped data.
+
+For example, someone gave a group of students a simple math question, and timed how long it took them to answer it. The numbers are below:
+
+The smallest amount of time was 8 seconds, and the largest was 34 seconds. One method we could use to analyze the needed time is to group close numbers together. In order to keep the analysis fair, we'll make each group be the same amount of seconds. We can then count how many students fell in each group. For example, if we organized scores into 5 second ranges:
+
+Another way to group data is to organize the scores data into groups based on their performance. Suppose there are three types of students:
+
+then the grouped data looks like the following:
+
+An estimate, formula_1, of the mean can be calculated from grouped data.
+
+Note that this estimated mean may be different from the sample mean of the ungrouped data. The mean of the grouped data in the above example can be calculated as follows:
+
+Therefore, the mean of the grouped data is
+
+
+
+R
+
+

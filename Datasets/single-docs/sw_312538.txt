@@ -1,0 +1,8 @@
+Tetration
+
+Tetration is the hyperoperation which comes after exponentiation. formula_1 means y exponentiated by itself, (x-1) times. List of first 4 natural number hyperoperations:
+
+The above example is read as "the nth tetration of a".
+For the example, addition is assumed.
+
+

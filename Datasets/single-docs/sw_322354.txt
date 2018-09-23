@@ -1,0 +1,12 @@
+Zork II
+
+Zork II: The Wizard of Frobozz is an interactive fiction video game published by Infocom in 1981. It was written by Marc Blank, Dave Lebling, Bruce Daniels and Tim Anderson. It was the second game in the popular Zork trilogy. It begins where "Zork I" left off and leads into "Zork III". It is Infocom's second game.
+
+The player starts in the Barrow from Zork I armed only with the brass lantern and the elvish sword. The purpose of the game is not initially clear.
+
+The Wizard of Frobozz is soon introduced. The wizard was once a good sorceror, but when his powers began to go away he was exiled by Lord Dimwit Flathead. Now bordering on insanity, the wizard is a force to be reckoned with. Your goal, as you venture into the wizard's area, is to avoid his tricks and learn to control his magic.
+
+Like its predecessor, "Zork II" is essentially a treasure hunt. Unlike the previous game, the ten treasures are tied together by a crude plot. Finding the treasures does not end the game, and finding all the treasures is not needed to finish the game. Instead, the adventurer must figure out a way to use the treasures in order to reach the game's finale.
+
+
+

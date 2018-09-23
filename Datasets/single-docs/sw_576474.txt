@@ -1,0 +1,14 @@
+Symsyn
+
+Symsyn is a simple syntax programming language and real time multitasking runtime environment.
+
+Named for its SIMple SYNtax, Symsyn is based on Free Pascal, which is based on Pascal, developed by Niklaus Wirth and named in honor of the French mathematician, philosopher and physicist Blaise Pascal.
+
+Symsyn has a simple syntax and short learning curve. It provides access to functionality found in more sophisticated languages, such as the free version of the Pascal programming language, Free Pascal. The language's primitives, or basics, are Pascal procedures which, in some cases, access the Free Pascal Run Time Library.
+
+These primitives provide the normal testing, arithmetic, move, and string handling capabilities as well as the following additions:
+
+It is extensible, in that it can be extended. Algorithms can be added to the collection of primitives. Many programs can be written in SymSyn. Like most programming languages, SymSyn can say hello to the world.
+
+
+

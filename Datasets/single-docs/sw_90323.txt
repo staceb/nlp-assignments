@@ -1,0 +1,11 @@
+Čerenkov radiation
+
+The Cherenkov effect is an effect in physics discovered by Pavel Alekseyevich Čerenkov.
+
+According to special relativity, a particle cannot move faster than the speed of light in a vacuum. However, when light travels in a transparent medium (such as water or glass), it moves more slowly than it would in a vacuum. This means that particles can actually move faster than the speed of light in certain mediums. When a particle with an electric charge moves faster than light in a medium which can be polarized, it causes the medium to send out photons (light particles) and thereby loses energy. The photons that are sent out can be measured, as they are simple light.
+
+Because nothing can move faster than light in a vacuum, there is no Cherenkov light in a vacuum. However, if we say that light in water moves only with 75% of its speed in vacuum, particles with very high energy are now able to move faster than light (through water) and create Cherenkov light.
+
+The reason Cherenkov light often appears blue is because its effect is proportional to the frequency, in that the higher the frequency, the higher the effect of the radiation. Because higher frequency light equates to shorter wavelengths, and blue light has one of the shortest wavelengths of visible light, Cherenkov light is usually blue.
+
+

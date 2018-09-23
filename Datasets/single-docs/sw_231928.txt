@@ -1,0 +1,5 @@
+ChessBase
+
+ChessBase GmbH is a German company that markets chess software. It also has a chess news website, and uses a server for online chess. Set up in 1998, it builds and sells large databases, with up to three million games, classified in various ways. A smaller fraction have notes, about 60,000 at present. It is possible to connect the database with one or more "chess engines" which calculate likely good moves. Databases organize data from past games; engines do calculations and use look-up tables for standard information, having, for example, answers to special endgame problems.
+
+

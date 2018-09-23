@@ -1,0 +1,7 @@
+Cabal Online
+
+Cabal Online is a free Massive Multiplayer Online Role-Playing Game (MMORPG) created by ESTsoft Corporation.
+
+There are six characters players can choose from in Cabal Online. They are: Warrior, Blader, Magician, Force Archer, Force Blader and Force Shielder.
+
+

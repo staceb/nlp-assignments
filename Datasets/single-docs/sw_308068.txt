@@ -1,0 +1,34 @@
+Chondroitin sulfate
+
+Chondroitin sulfate is a sulfated glycosaminoglycan (GAG). It is a chain of alternating sugars (N-acetylgalactosamine and glucuronic acid). It is usually found attached to proteins as part of a proteoglycan. A chondroitin chain can have over 100 individual sugars, each of which can be sulfated in variable positions and quantities. Chondroitin sulfate is an important structural component of cartilage and provides much of its resistance to compression. Along with glucosamine, chondroitin sulfate has become a widely used dietary supplement for treatment of osteoarthritis. It is commonly extracted from shark cartilage.
+
+Chondroitin sulfate was originally isolated well before chemists learned its structure. So, its name changed over time. Early researchers identified different types of the substance with letters.
+
+"Chondroitin sulfate B" is an old name for dermatan sulfate, and it is no longer classified as a form of chondroitin sulfate.
+
+"Chondroitin", without the "sulfate", has been used to describe a type with little or no sulfation. However, this distinction is not used by all.
+
+The name "chondroitin sulfate" sounds like a salt with a sulfate counter-anion. This is not the case. The sulfate is attached to the sugar with a covalent bond. Since the molecule has multiple negative charges at physiological pH, a cation is present in salts of chondroitin sulfate. Commercial preparations of chondroitin sulfate typically are the sodium salt. Barnhill et al. have suggested that all such preparations of chondroitin sulfate be referred to as "sodium chondroitin" regardless of their sulfation status.
+
+Chondroitin sulfate chains are unbranched polysaccharides of variable length containing two alternating monosaccharides: D-glucuronic acid (GlcA) and N-acetyl-D-galactosamine (GalNAc). Some GlcA residues are epimerized into L-iduronic acid (IdoA); the resulting disaccharide is then referred to as dermatan sulfate.
+
+Chondroitin sulfate chains are linked to hydroxyl groups on serine residues of certain proteins. Exactly how proteins are selected for attachment of glycosaminoglycans is not understood. Glycosylated serines are often followed by a glycine and have neighboring acidic residues. But this does not always predict glycosylation.
+
+Attachment of the GAG chain begins with four monosaccharides in a fixed pattern: Xyl - Gal - Gal - GlcA. Each sugar is attached by a specific enzyme, allowing for multiple levels of control over GAG synthesis. Xylose begins to be attached to proteins in the endoplasmic reticulum, while the rest of the sugars are attached in the Golgi apparatus.
+
+Each monosaccharide may be left unsulfated, sulfated once, or sulfated twice. In the most common case, the hydroxyls of the 4 and 6 positions of the N-acetyl-galactosamine are sulfated, with some chains having the 2 position of glucuronic acid. Sulfation is mediated by specific sulfotransferases. Sulfation in these different positions gives specific biological activities to chondroitin GAG chains.
+
+Chondroitin's functions depend largely on the properties of the overall proteoglycan of which it is a part. These functions can be broadly divided into structural and regulatory roles. Some proteoglycans have both structural and regulatory roles (see versican).
+
+Chondroitin sulfate is a major component of extracellular matrix, and is important in maintaining the structural integrity of tissue. This function is typical of the large aggregating proteoglycans: aggrecan, versican, brevican, and neurocan, collectively termed the lecticans.
+
+As part of aggrecan, chondroitin sulfate is a major component of cartilage. The tightly packed and highly charged sulfate groups of chondroitin sulfate generate electrostatic repulsion that provides much of the resistance of cartilage to compression. Loss of chondroitin sulfate from the cartilage is a major cause of osteoarthritis.
+
+Chondroitin sulfate readily interacts with proteins in the extracellular matrix due to its negative charges. These interactions are important for regulating many cellular activities. The lecticans are a major part of the brain extracellular matrix, where the chondroitin sugar chains function to stabilize normal brain synapses as part of perineuronal nets. The levels of chondroitin sulfate proteoglycans are vastly increased after injury to the central nervous system where they act to prevent regeneration of damaged nerve endings. Although these functions are not as well characterized as those of heparan sulfate, new roles continue to be discovered for the chondroitin sulfate proteoglycans.
+
+In cortical development, chondroitin sulfate is expressed by the Sub Plate and acts as a stop signal for neurons migrating from the Ventricular Zone. Neurons stopping here may then be programmed for further migration to specific layers in the cortical plate.
+
+Chondroitin is in dietary supplements used as an alternative medicine to treat osteoarthritis and also approved and regulated as a symptomatic slow-acting drug for this disease (SYSADOA) in Europe and some other countries. It is commonly sold together with glucosamine. Chondroitin and glucosamine are also used in veterinary medicine.
+
+
+

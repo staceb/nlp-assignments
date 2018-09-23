@@ -1,0 +1,19 @@
+Countable set
+
+If you can count the things in a set, it is called a countable set. A set with one thing in it is countable, and so is a set with one hundred things in it. A set with all the natural numbers (counting numbers) in it is countable too. It's infinite but if someone counted forever they wouldn't miss any of the numbers. Sometimes when people say 'countable set' they mean countable and infinite. Georg Cantor coined the term. 
+
+Countable sets include all sets with a finite number of members, no matter how many.
+
+Countable sets also include some infinite sets, such as the natural numbers. Since it is impossible to actually count infinite sets, we consider them countable if we can find a way to list them all without missing any. The natural numbers have been nicknamed "the counting numbers" since they are what we usually use to count things with. 
+
+You can count the natural numbers with formula_1
+
+You can count the whole numbers with formula_2
+
+You can count the integers with formula_3
+
+You can count the square integer numbers with formula_4
+
+The rational numbers are also countable, but it becomes tricky. We can't just list the fractions as (0/1, 1/1, -1/1, 2/1, -2/1...) since we will never get to 1/2 this way. However, we can list all of the rational numbers in the form of a table. The horizontal rows are the numerators while the vertical columns are the denominators. We can then zigzag through the list, starting at 1/1, then 2/1, then 1/2, then 1/3, then 2/2, then 3/1, then 4/1, then 3/2, then 2/3 etc. If we keep this up, we will get to all of the numbers on the table in due time! Each time we hit a rational number that is new for us, we add it to the list of counted numbers. We don't want to count numbers twice, so when we hit 3/6 we can skip it, because we already counted the rational number 1/2. In this way, we produce an infinite list with all the rational numbers. Therefore, the rational numbers are countable. 
+
+

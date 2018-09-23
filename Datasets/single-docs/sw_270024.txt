@@ -1,0 +1,5 @@
+PlayStation Portable system software
+
+The PlayStation Portable has firmware that can get an update. When one updates the firmware, the battery must be charged (to 3 bars, i.e. 60%), and the PSP should not be switched off. This may result in a brick and/or a constant startup BSOD or another screen "of death". As of August 10, 2011, the latest firmware is 6.60.
+
+

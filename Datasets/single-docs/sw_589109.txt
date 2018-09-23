@@ -1,0 +1,15 @@
+Euler–Mascheroni constant
+
+The Euler-Mascheroni constant is a number that appears in analysis and number theory. It first appeared in the work of Swiss mathematician Leonhard Euler in the early 18th century. It is usually represented with the Greek letter, formula_1, although Euler used the letters C and O instead. It is not known yet whether the number is irrational (which would mean that it cannot be written as a fraction with an integer numerator and denominator) and/or transcendental (which would mean that it is not the solution of a polynomial with integer coefficients). The numerical value of formula_1 is about formula_3. Italian mathematician Lorenzo Mascheroni also worked with the number, and tried, unsuccessfully, to approximate the number to 32 decimal places, making mistakes on five digits. 
+
+It is significant because it links the divergent harmonic series with the natural logarithm. It is given by the limiting difference between the natural logarithm and the harmonic series :
+
+It can also be written as an improper integral involving the floor function, which gives the greatest integer less than or equal to a given number. 
+
+The gamma constant is closely linked to the Gamma function , specifically its logarithmic derivative, the digamma function, which is defined as
+
+For formula_7, this gives us
+
+Using properties of the digamma function, formula_1 can also be written as a limit. 
+
+

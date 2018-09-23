@@ -1,0 +1,10 @@
+Satellite DNA
+
+Satellite DNA has many sections of repeating, non-coding DNA. 
+
+Satellite DNA is a type of tandem repeat. The repeats sit next to each other, in tandem. These are multiple copies of the same base-pair sequence lying end-to-end. Tandem repeats also include minisatellite and microsatellite DNA. 
+Satellite DNA is the main component of centromeres. It forms the main part of heterochromatin.
+
+The most common type of tandem repeat is the heterochromatin, which sits on chromosomes around the centromeres and elsewhere. It is "transcriptionally inactive", meaning, it does not code for proteins.
+
+

@@ -1,0 +1,7 @@
+Isomorphism
+
+To say that two things are isomorphic is to say that they are the same in some sense. More specifically, in abstract algebra, an isomorphism is a function between two things that preserves the relationships between the parts (see https://en.wikipedia.org/wiki/Isomorphism#Examples). Using the language of category theory, morphisms map to morphisms without breaking composition. 
+
+Or consider the operation of adding integers Z. The doubling function φ(x) = 2x maps elements of Z to elements of the even integers 2Z. Since φ(a+b) = 2(a+b) = 2a+2b = φ(a)+φ(b), this is an example of an isomorphism.
+
+

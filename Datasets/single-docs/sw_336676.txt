@@ -1,0 +1,5 @@
+Karl Weierstraß
+
+Karl Theodor Wilhelm Weierstraß (31 October 1815 - 19 February 1897) was a German mathematician. Most of his work is about using logic as a foundation of analysis. He mainly used power series for this. He also provided foundations for Elliptic functions, Differential geometry and the calculus of variations. Bolzano-Weierstrass theorem is named in his honour: According to the theroem, finite series have certain properties: Finite convergent series of complex numbers have at least one limit point, those of real numbers have at least two.
+
+

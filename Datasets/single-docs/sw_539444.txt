@@ -1,0 +1,11 @@
+Smelting
+
+Smelting is the general term for getting a metal from its natural ore. Gold is an exception, because it is usually found as a pure metal. Other metals, like iron, copper, zinc, and silver, need to be got from their ore.
+
+The process of smelting always involves heating the ore, and may also use a reducing agent like coke or charcoal. Most ores are oxides and this process removes the oxygen from the oxide, leaving behind the metal. The metal is still not pure, so then another process is needed. A flux is added, to clean and purify the metal. Limestone is the usual flux for this purpose. It removes the impurities as slag.
+
+Beyond this, each metal has its own special methods. Producing iron from its ore is done in a blast furnace. Producing zinc or aluminium from their ores requires (in addition to heat) electrolysis.
+
+Smelting is a key to the early civilisations. The earliest evidence of copper smelting dates from between 5500 BC and 5000 BC. The sites are in Pločnik and Belovode, Serbia.
+
+

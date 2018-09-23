@@ -1,0 +1,18 @@
+Cilia
+
+A cilium (plural "cilia") is an organelle found in eukaryotic cells. Cilia are slender protuberances that project from the much larger cell body.
+
+There are two types of cilia: 
+
+In eukaryotes, cilia and flagella together make up a group of organelles known as undulipodia.
+Eukaryotic cilia are structurally identical to eukaryotic flagella, although distinctions are sometimes made according to function and/or length.
+
+Motile cilia are found on protist ciliates like "Paramecium". They are how "Paramecium" moves around. They are also found on the epithelial cells of many internal organs of metazoans, such as the digestive system and the trachea of the lungs.
+
+Non-motile (or "primary") cilia usually occur one per cell; nearly all mammalian cells have a single non-motile "primary cilium". In addition, examples of specialized primary cilia can be found in human sensory organs such as the eye and the nose: 
+
+Cilia are structurally almost identical with the much larger flagella. So much so that it has been proposed protists bearing either should be unified in the Phylum "Undulipodia". Previously, Margulis had proposed that the Ciliates alone should be placed in a Phylum "Ciliophora". Admittedly, the Protista is a collection of disparate single-celled forms, but while a more sophisticated taxonomy is in flux (changing), Protista is still a useful term.
+
+Cilia and flagella are cell organelles, specialised units which carry out well-defined functions, like mitochondria and plastids. It is fairly certain now that all or most of these organelles have their origin in once-independent prokaryotes (bacteria or archaea), and that the eukaryote cell is a 'community of micro-organisms' working together in 'a marriage of convenience'.
+
+

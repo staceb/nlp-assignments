@@ -1,0 +1,7 @@
+Dungeon
+
+A dungeon is a room or cell in a castle to keep prisoners. Most dungeons are underground, some are high up in towers.
+
+An oubliette is a type of dungeon that can be entered by using a trapdoor in the ceiling.
+
+

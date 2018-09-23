@@ -1,0 +1,18 @@
+Chain rule
+
+The chain rule is a way of finding the derivative of a function. It is used where the function is in another function. This is called a composite function. 
+
+If F(x) equals two functions that we can take a derivative of, such as:
+
+then the derivative, F prime, is
+
+1. Find the derivative of the outside function (all of it at once).
+
+2. Find the derivative of the inside function (the bit between the brackets).
+
+3. Multiply the answer from the first step by the answer from the second step. This is basically the last step in solving for the derivative of a function.
+
+
+In this example, the cubed sign () is the outside function and formula_7 is the inside function. The derivative of the outside function would be formula_8, where the inside function is plugged in for x. The derivative of the inside function would be 2x, which is multiplied by formula_9 to get formula_10. 
+
+

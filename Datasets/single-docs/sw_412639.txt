@@ -1,0 +1,16 @@
+Mac App Store
+
+The Mac App Store is an application that lets Apple Macintosh users download other applications ("apps") to their computer. In June 2013, the Mac App Store had more than 15,300 applications.
+
+The store was announced by Apple on October 20, 2010 alongside OS X Lion. People were able to send the apps they had made to Apple from November 3, 2010 so they would be included in the App Store when it was released. 
+
+The Mac App Store was released on January 6, 2011 as an update to all users using the newest version of OS X. After 24 hours of release, Apple announced that there was a total of more than one million downloads. It launched with over 1000 programs on January 6, 2011, including Apple's own "Work '09", "iLife '11", "Aperture" and apps made by other companies that were first made for the iPhone and iPad, such as "Angry Birds", "Flight Control", and Twitter for Mac. Most of the apps were games. "Angry Birds", a popular video game on the iOS App Store, was the number one paid app on the Mac App Store on the first day.
+
+Before an app is added to the store, it is first checked by Apple to make sure it is a useful app and does not break any of the App Store rules. Apps in the store are not allowed to:
+
+
+Apple regularly uses the store to sell its own software. Some examples of software provided by Apple through the App Store are:
+
+
+
+

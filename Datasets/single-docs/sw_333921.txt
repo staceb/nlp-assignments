@@ -1,0 +1,13 @@
+Weighted average
+
+A weighted average is the average of values which are scaled by importance. The weighted average of values is the sum of weights times values divided by the sum of the weights.
+
+Given two school classes, one with 20 students, and one with 30 students, the grades in each class on a test were:
+
+The straight average for the morning class is 80 and the straight average of the afternoon class is 90. The straight average of 80 and 90 is 85, the mean of the two class means. However, this does not account for the difference in number of students in each class, hence the value of 85 does not reflect the average student grade (independent of class). The average student grade can be obtained by averaging all the grades, without regard to classes (add all the grades up and divide by the total number of students):
+
+Or, this can be accomplished by weighting the class means by the number of students in each class (using a weighted mean of the class means):
+
+Thus, the weighted mean makes it possible to find the average student grade in the case where only the class means and the number of students in each class are available.
+
+

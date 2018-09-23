@@ -1,0 +1,26 @@
+Volume
+
+The volume of an object is a measure of the amount of space occupied by that object, not to be confused with mass. The volume of a mountain is much larger than the volume of a rock, for instance.
+
+The word volume implies a three-dimensional context where, by convention,
+
+For objects at or near the Earth's surface, height or depth often refers to the dimension of the object along the local vertical. All physical objects occupy a volume, even if some are so thin that they appear to be two-dimensional, like a sheet of paper.
+
+The unit of volume in the International System of Units is the cubic meter, which is represented by the symbol m.
+
+In some fields or applications, it is convenient to use different units to simplify the discussions or writings. For instance,
+
+
+Traditional units are still in encountered in some countries: Imperial units such as the gallon or the fluid ounce were in widespread use within the British Empire. Some of them are still popular in the United States, which also uses units like the bushel, or the quart, the cup and the teaspoon (in cooking recipes, for example). See U.S. customary units for more examples.
+
+The volume of an object is not a fundamental property of that object: it can change with environmental conditions such as pressure and temperature, especially if the object is highly compressible.
+
+The volume of a mixture of fluids (liquids, gases) may or may not be equal to the sum of their volumes before they were mixed.
+
+The volume of simple geometric objects can often be calculated on the basis of their known dimensions:
+
+
+The volume of a gas is typically that of its container, but it could be ill-defined, as in the case of the atmosphere, which has no clear upper limit. The volume of a liquid is often measured by pouring it into a graduated container. The volume of a small solid can be estimated by immersing it into a graduated container partially filled with a known amount of liquid, provided the solid is not soluble in the liquid.
+
+
+

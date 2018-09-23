@@ -1,0 +1,50 @@
+Integral
+
+In calculus, an integral is the space under a graph of an equation (sometimes said as "the area under a curve"). An integral is the reverse of a derivative. A derivative is the steepness (or "slope"), as the rate of change, of a curve. The word "integral" can also be used as an adjective meaning "related to integers".
+
+The symbol for integration, in calculus, is: formula_1 as a tall letter "S". This symbol was first used by Gottfried Wilhelm Leibniz, who used it as a stylized "ſ" (for "summa", Latin for sum) to mean the summation of the area covered by an equation, such as "y" = "f(x)".
+
+Integrals and derivatives are part of a branch of mathematics called calculus. The link between these two is very important, and is called the Fundamental Theorem of Calculus. The theorem says that an integral can be reversed by a derivative, similar to how an addition can be reversed by a subtraction.
+
+Integration helps when trying to multiply units into a problem. For example, if a problem with rate, formula_2, needs an answer with just distance, one solution is to integrate with respect to time. This means multiplying in time to cancel the time in formula_3. This is done by adding small slices of the rate graph together. The slices are close to zero in width, but adding them forever makes them add up to a whole. This is called a Riemann Sum.
+
+Adding these slices together gives the equation that the first equation is the derivative of. Integrals are like a way to add many tiny things together by hand. It is like summation, which is adding formula_4. The difference with integration is that we also have to add all the decimals and fractions in between.
+
+Another time integration is helpful is when finding the volume of a solid. It can add two-dimensional (without width) slices of the solid together forever until there is a width. This means the object now has three dimensions: the original two and a width. This gives the volume of the three-dimensional object described.
+
+By the fundamental theorem of calculus, the integral is the antiderivative.
+
+If we take the function formula_5, for example, and anti-differentiate it, we can say that an integral of formula_5 is formula_7. We say "an" integral, not "the" integral, because the antiderivative of a function is not unique. For example, formula_8 also differentiates to formula_5. 
+Because of this, when taking the antiderivative a constant C must be added. This is called an indefinite integral. This is because when finding the derivative of a function, constants equal 0, as in the function
+
+A simple equation such as formula_13 can be integrated with respect to x using the following technique. To integrate, you add 1 to the power x is raised to, and then divide x by the value of this new power. Therefore, integration of a normal equation follows this rule:
+formula_14
+
+The formula_15 at the end is what shows that we are integrating "with respect to x", that is, as x changes. This can be seen to be the inverse of differentiation. However, there is a constant, C, added when you integrate. This is called the constant of integration. This is required because differentiating an integer results in zero, therefore integrating zero (which can be put onto the end of any integrand) produces an integer, C. The value of this integer would be found by using given conditions.
+
+Equations with more than one terms are simply integrated by integrating each individual term:
+
+formula_16
+
+There are certain rules for integrating using e and the natural logarithm. Most importantly, formula_17 is the integral of itself (with the addition of a constant of integration):
+formula_18
+
+The natural logarithm, ln, is useful when integrating equations with formula_19. These cannot be integrated using the formula above (add one to the power, divide by the power), because adding one to the power produces 0, and a division by 0 is not possible. Instead, the integral of formula_19 is formula_21:
+formula_22
+
+In a more general form:
+formula_23
+
+The two vertical bars indicated a absolute value; the sign (positive or negative) of formula_24 is ignored. This is because there is no value for the natural logarithm of negative numbers.
+
+The integral of a sum of functions is the sum of each function's integral. that is,
+The proof of this is straightforward: The definition of an integral is a limit of sums. Thus
+Note that both integrals have the same limits.
+
+When a constant is in an integral with a function, the constant can be taken out. Further, when a constant "c" is not accompanied by a function, its value is "c" * "x". That is,
+This can only be done with a constant.
+Proof is again by the definition of an integral.
+
+If a, b and c are in order (i.e. after each other on the x-axis), the integral of f(x) from point a to point b plus the integral of f(x) from point b to c equals the integral from point a to c. That is,
+
+

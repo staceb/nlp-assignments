@@ -1,0 +1,11 @@
+Ohm
+
+There are some materials which offer some resistance to the current flow, they are called resistive materials, for example graphite, iron, and certain synthetic materials.
+
+The magnitude that represents this characteristic is the resistance, and it is measured in ohms. An ohm (referred to by the Greek letter Ω (Omega)) is the SI unit of resistance (R). It can be defined by Ohm's law and the equation: 
+where formula_2 is resistance in ohms, formula_3 is voltage in volts, and formula_4 the current in amperes.
+
+The ohm was named after Georg Ohm.
+
+
+

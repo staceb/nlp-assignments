@@ -1,0 +1,5 @@
+Heat transfer
+
+Heat transfer is the way the heat moves from one physical system (or body) to another. Heat transfer requires a difference in temperature. Heat moves from the hotter body (higher temperature) to the colder one (lower temperature). The bodies in question may be in a solid state, a liquid state or a gaseous state. There are three modes of heat transfer: conduction, convection and radiation.
+
+

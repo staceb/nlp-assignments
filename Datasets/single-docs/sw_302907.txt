@@ -1,0 +1,14 @@
+Diels–Alder reaction
+
+The Diels–Alder reaction (DA) is a chemical reaction between organic compounds. The reaction causes the compounds to form a new six-sided compound. This is called a cyclohexene. A conjugated diene joins with an alkene to make the cyclohexene. This compound looks like a ring.
+
+This reaction was discovered by Otto Diels and Kurt Alder in 1928. In 1950, they were given the Nobel Prize in Chemistry for their work on this reaction. The DA reaction is very useful as it means cyclohexenes can be made with very little energy. Cyclohexenes are used to make complex organic molecules. One of the first uses of the DA reaction was to make insecticides.
+
+The DA reaction makes a new hexagonal ring-shaped compound. A compound with two double bonds which are one carbon atom apart from each other is joined to another compound with at least one double bond. A DA reaction can also happen if some of the atoms in the newly formed ring are not carbon. Some of the DA reactions are reversible. The reaction caused during this breaking up of the cyclic system is called the retro-Diels–Alder. These retro-Diels–Alder compounds are often seen when they are analyzed by mass spectrometry.
+
+Some chemists call the Diels–Alder reaction the 'Mona Lisa' of organic reactions. Like the simple smile on the painting, the reaction may be far more complex than chemists have so far discovered.
+
+Lewis acids (AlCl, ZnCl, and others) act as catalysts to the reaction.
+
+
+

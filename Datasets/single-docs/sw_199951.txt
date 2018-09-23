@@ -1,0 +1,29 @@
+Mycorrhiza
+
+A mycorrhiza (Greek for "fungus roots") is a symbiotic association between a fungus and the roots of a plant.
+
+In a mycorrhiza, the fungus lives inside the plant roots, and in the earth. The fungal hyphae are more efficient than plant roots at absorbing nutrients.
+
+Mycorrhizas are important for plant growth in many ecosystems. At least 80% of all land plant species (and over 90% of families) have mycorrhiza. They depend on it for survival. They are the most common symbionts in the plant kingdom: they involve about 6000 species of fungi and 240,000 species of plants.
+
+Mycorrhizas are divided onto two main types: ectomycorrhiza and endomycorrhiza. 
+The hyphae of ectomycorrhizal fungi do not penetrate individual cells within the root, while the hyphae of endomycorrhizal fungi penetrate the cell wall and invaginate the cell membrane. 
+
+The mycorrhizal symbiosis is ancient, dating to at least 400 million years ago.
+
+This mutualism gives the fungus sugars, such as glucose and sucrose produced by the plant in photosynthesis. 
+The carbohydrates move from their source (usually leaves) to the root and then to the fungal partner. In return, the plant gains the use of the mycelium's very large surface area to absorb water and mineral nutrients from the soil, especially phosphorus.
+The mechanisms of increased absorption are both physical and chemical. Mycorrhizal mycelia are much smaller in diameter than the smallest root. They can explore a greater volume of soil, providing a larger surface area for absorption: "It is estimated that every kilogram of soil contains at least 200 km of fungi strands".
+
+Mycorrhizal plants are often more resistant to diseases, such as those caused by microbial soil-borne pathogens, and are also more resistant to the effects of drought. These effects are perhaps due to the improved water and mineral uptake in mycorrhizal plants. 
+
+Mycorrhiza is especially advantageous to the plant in nutrient-poor soils. Plants grown in sterile soils and growth media often perform poorly without the addition of spores or hyphae of mycorrhizal fungi to colonise the plant roots and aid in the uptake of soil mineral nutrients. The absence of mycorrhizal fungi can also slow plant growth in harsh areas.
+
+The fungal partners may also help plant-to-plant transfer of sugars and other nutrients. Such mycorrhizal communities are called "common mycorrhizal networks". 
+Some species inhabit the tissues inside roots, stems, and leaves, in which case they are called "endophytes". 
+Similar to mycorrhiza, endophytic colonization by fungi may benefit both partners. Endophytes of grasses give their host more resistance to grazers and get food and shelter from the plant in return.
+
+Mycorrhizal roots offer excellent ecological niches for other microbes. Mycorrhizal fungi may host bacteria that complete their life cycles within fungal cells. One of the best known is "Geosiphon pyriforme", which can host cyanobacteria inside characteristic bladders.
+Arbuscular mycorrhiza (AM) fungi are unique in hosting bacteria in their cytoplasm. Intracellular structures very similar to bacteria were first described in the 1970s. Research later identified them as true bacteria.
+
+

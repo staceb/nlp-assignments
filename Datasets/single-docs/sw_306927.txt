@@ -1,0 +1,34 @@
+SN2 reaction
+
+The S2 reaction (also known as bimolecular nucleophilic substitution) is a substitution reaction in organic chemistry. It is a type of nucleophilic substitution, where a lone pair from a nucleophile attacks an electron deficient electrophilic center and bonds to it. This expels another group called a "leaving group". So, the incoming group replaces the leaving group in one step. Since two reacting species are involved in the slow, rate-determining step of the reaction, this leads to the name "bimolecular nucleophilic substitution", or "S2". Among inorganic chemists, the S2 reaction is often known as the "interchange mechanism".
+
+The reaction most often occurs at an aliphatic sp carbon center with an electronegative, stable leaving group attached to it - 'X' - frequently a halide atom. The breaking of the C-X bond and the formation of the new C-Nu bond occur simultaneously to form a transition state in which the carbon under nucleophilic attack is pentacoordinate, and approximately sp hybridized. The nucleophile attacks the carbon at 180° to the leaving group, since this provides the best overlap between the nucleophile's lone pair and the C-X σ* antibonding orbital. The leaving group is then pushed off the opposite side and the product is formed.
+
+If the substrate under nucleophilic attack is chiral, this can lead, although not necessarily, to an inversion of stereochemistry, called the Walden inversion.
+
+In an example of the S2 reaction, the attack of OH (the nucleophile) on a bromoethane (the electrophile) results in ethanol, with bromide ejected as the leaving group:
+A S2 reaction occurs if the backside route of attack is not blocked by other atoms in the molecule (sterically hindered by substituents on the substrate). So, this mechanism usually occurs at an unhindered primary carbon center. If there is steric crowding on the substrate near the leaving group, such as at a tertiary carbon center, the substitution will use an S1 rather than an S2 mechanism, (an S1 would also be more likely with blocked molecules because a sufficiently stable carbocation intermediary could be formed.)
+
+In coordination chemistry, associative substitution proceeds by a similar mechanism as S2.
+
+Four factors affect the rate of the reaction:
+
+
+
+
+The rate of an S2 reaction is second order, as the rate-determining step depends on the nucleophile concentration, <nowiki>[</nowiki>Nu<nowiki>]</nowiki> as well as the concentration of substrate, <nowiki>[RX]</nowiki>.
+
+This is a key difference between the S1 and S2 mechanisms. In the S1 reaction, the nucleophile attacks after the rate-limiting step is over. But in a S2 reaction, the nucleophile forces off the leaving group in the limiting step. In other words, the rate of S1 reactions depend only on the concentration of the substrate while the S2 reaction rate depends on the concentration of both the substrate and nucleophile. In cases where both mechanisms are possible (for example at a secondary carbon center), the mechanism depends on solvent, temperature, concentration of the nucleophile or on the leaving group.
+
+S2 reactions are generally favored in primary alkyl halides or secondary alkyl halides with an aprotic solvent. They occur at a negligible rate in tertiary alkyl halides due to steric hindrance.
+
+S2 and S1 are two extremes of a sliding scale of reactions. It is possible to find many reactions which exhibit both S2 and S1 character in their mechanisms. For instance, it is possible to get a contact ion pairs formed from an alkyl halide in which the ions are not fully separated. When these undergo substitution the stereochemistry will be inverted (as in S2) for many of the reacting molecules but a few may show retention of configuration. S2 reactions are more common than S1 reactions.
+
+A common side reaction taking place with S2 reactions is E2 elimination: the incoming anion can act as a base rather than as a nucleophile, removing a proton and leading to formation of the alkene. This effect can be demonstrated in the gas-phase reaction between a sulfonate and a simple alkyl bromide taking place inside a mass spectrometer:
+
+With ethyl bromide, the reaction product is predominantly the substitution product. As steric hindrance around the electrophilic center increases, as with isobutyl bromide, substitution is disfavored and elimination is the predominant reaction. Other factors favoring elimination are the strength of the base. With the less basic benzoate substrate, isopropyl bromide reacts with 55% substitution. In general, gas phase reactions and solution phase reactions of this type follow the same trends, even though in the first, solvent effects are dropped.
+
+A development attracting attention in 2008 concerns a S2 roundabout mechanism observed in a gas-phase reaction between chloride ions and methyl iodide with a special technique called "crossed molecular beam imaging". When the chloride ions have sufficient velocity, the energy of the resulting iodide ions after the collision is much lower than expected, and it is theorized that energy is lost as a result of a full roundabout of the methyl group around the iodine atom before the actual displacement takes place.
+
+
+

@@ -1,0 +1,38 @@
+Proto-Indo-European language
+
+Proto-Indo-European language (PIE) is the ancestor of the Indo-European languages. 
+
+Far more work has gone into reconstructing it than any other proto-language, and it is by far the best-understood of all proto-languages. The techniques of comparison and analysis are called historical linguistics.
+
+There are several competing hypotheses about when and where PIE was spoken. Scholars estimate that PIE may have been spoken as a single language (before divergence began) around 3700 BC. Estimates by different authorities can vary by more than a millennium. The most popular hypothesis for the origin and spread of the language is the Kurgan hypothesis, an origin in the Pontic-Caspian steppe of Eastern Europe.
+
+There is no direct evidence of PIE, because it was never written. All PIE sounds and words are reconstructed from later Indo-European languages. The asterisk is used to mark reconstructed PIE words, such as *' 'water', *' 'dog', or *"" 'three (masculine)'. Many of the words in the modern Indo-European languages seem to have derived from such "protowords" by regular sound changes, such as Grimm's law.
+
+These phonemes are generally accepted:
+
+PIE had a "free pitch accent", which could appear on any syllable. This distinguished between different meanings of a word by high or low pitch.
+
+PIE was an "inflected language", meaning it had roots with suffixes. This basic root shape is often altered by "ablaut". In linguistics, ablaut is a system of regular vowel variations. An example of ablaut in English is the strong verb sing, sang, sung and its related noun song.
+
+Most Indo-European languages are synthetic. By that is meant "a high morpheme-per-word ratio". Morphemes may be stuck together to make composite words, as in German. Or, root words may be joined to "bound morphemes" to show function. They are morphemes which only appear as part of a larger word.
+These methods were probably typical of PIE. Languages like English, which has very few such combinations, are derived from earlier, more typical Indo-European languages. English is derived from Anglo-Saxon, a western Germanic language. That English once was synthetic like German is shown by Cranberry morphemes, so called because the "cran-" is a fossil of a word which no longer exists. Likewise "mulberry" and "raspberry", where also the first syllable is a bound morpheme.
+
+As PIE was spoken by a prehistoric society, there are no genuine sample texts. Scholars have made various attempts to compose example texts for purposes of illustration. These texts are educated guesses. In spite of its 150 years' history, comparative linguistics is not in the position to reconstruct a single well-formed sentence in PIE. Nevertheless, such texts do have the merit of giving an impression of what a coherent utterance in PIE might have sounded like. 
+
+A passage by Schleicher has been reworked a number of times:
+
+"Avis akvāsas ka"
+
+Comment: Schleicher's reconstruction assumed that the o/e vocalism was secondary, and his version of PIE is much more closely based on Sanskrit than modern reconstructions.
+
+"Owis ek’wōses-kʷe"
+
+Comment: Hirt introduced the o/e vocalism, and some rather different consonants.
+
+"The Sheep and the Horses"
+
+Some of the differences between the texts are just varying spelling conventions: w and u̯, for example, are only different ways to indicate the same sound, a consonantal u. However, many other differences are because there are different views on the sounds and structure of PIE.
+
+
+
+

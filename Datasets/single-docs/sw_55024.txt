@@ -1,0 +1,13 @@
+Flux
+
+Flux is a term in physics and mathematics. It is broadly defined as "How much stuff goes through your thing."
+
+For instance, imagine a butterfly net. The amount of air passing through the net is the flux.
+
+In the study of transport phenomena (heat transfer, mass transfer and fluid dynamics), flux is defined as flow per unit area, where flow is the movement of some quantity per time. Flux, in this definition, is a vector.
+There are many fluxes used in the study of transport phenomena. Each type of flux has its own distinct unit of measurement along with distinct physical constants. Six of the most common forms of flux from the transport literature are defined as:
+
+In the field of electromagnetism, flux is usually the integral of a vector quantity over a finite surface. The result of this integration is a scalar quantity. The magnetic flux is thus the integral of the magnetic vector field over a surface, and the electric flux is defined similarly. Using this definition, the flux of the Poynting vector over a specified surface is the rate at which electromagnetic energy flows through that surface. Confusingly, the Poynting vector is sometimes called the "power flux", which is an example of the first usage of flux, above. It has units of watts per square metre (W/m).
+
+
+

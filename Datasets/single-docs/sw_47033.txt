@@ -1,0 +1,26 @@
+Demon
+
+A demon or daemon is a bad or powerful being in many world religions. The word 'demon' has different meanings all over the world, but often there is the idea that they are spirits that lived in a place, or went with a person. The word is also used for a type of computer program that does useful things in the background of a computer, but this use is not related to the religious meaning.
+
+A demon is usually thought to be a supernatural creature that is an evil spirit. Demons are often described as being summoned by someone, and then either being sent to do works of evil, or to create chaos. "To demonize" means to make someone appear evil. 
+
+In a few writings, there are also good demons, for example in stories by James Clerk Maxwell, Hesiod and Shakespeare. In Indo-European mythology and traditions of Iranian Avestan and Vedic, the idea of "demons" was there for many years. Ancient Egyptians thought of demons as "monsters" that ate souls of people when they went to the afterlife. In ancient Greek mythology, there are also "daemons" but they were thought to be invisible protectors that they believed protect them. In the book "Northern Lights" by Philip Pullman, a daemon is said to be a creature that everyone has as part of the body. So if it is far away from someone, that person would feel hurt.
+
+"Monotheistic" religions (that say there is one God) usually teach that demons are rebels and under God at all times. The English poet John Milton describes Satan as rebelling against God but losing, and being allowed to survive only by God's grace. In some "polytheistic" religions, demons are equal to gods. In Hinduism, the demon-goddess Kali represents destruction and thus from a human standpoint is "bad".
+
+The "grimoire" (medieval book about magical beliefs) called "Ars Goetia", writes about 72 demons that a king has called and put in a bronze container sealed by magical symbols. The demons had to do whatever the king said. This book is all about spirits and demons, good and evil, that were called by magic. 
+
+Christians believe that demons were angels that went bad. They fought against God, who won the battle with Michael (see Book of Revelation chapter 12) God sent the bad demons into a prison called Hell and they could not see God now for the punishment. Those demons are called the fallen angels. 
+
+In the Greek New Testament and Hebrew Old Testament, demons are said to be bad. In Hebrew, demons are called "". In other Hebrew writings, they do not come from heaven, but came from another world and made much troubles. They gave diseases too. And they have a prince who is not God, but a demon.
+
+In Islam, "djinns" are creatures that cannot be seen by people most of the time, made of fire, with special powers to help and harm people. "Djinns" must serve and obey God (Allah).
+
+In Hinduism, demons are called "asuras". "Patala" is thought to be an underground place below the Earth, where humans live. "Asura" means supernatural beings that were good or bad. People who do evil and horrible things in their lives, by reincarnation, will turn into evil, ghost spirits called "Vetalas, Pishachas, Bhūtas".
+
+In "InuYasha", a fictional manga, yokai (Japanese for supernatural creatures and translated demon in English) cannot die easily and they age more slowly than humans.
+
+A daemon is a type of program found in computers running operating systems based on Unix like Linux, BSD, and Mac OS X. (In Windows these programs are usually called "services" instead.) It usually starts when the computer starts, and does useful things. Some daemons start other programs after waiting until a certain time of day, or wait for you to ask for a file from another computer. The term is a reference to Maxwell's Demon, not religion.
+
+
+

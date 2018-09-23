@@ -1,0 +1,18 @@
+Evolutionary grade
+
+An evolutionary grade is a group of species at the same level of organisation. 
+
+It refers to a group of animals or plants which are very similar, but which are not a clade. They have a similar morphological or physiological complexity, and they are often adapted to the same way of life. 
+
+The term was coined by Julian Huxley, to contrast with clade, which is a strictly phylogenetic unit. The use of 'grade' as a term in biology was strongly supported by Ernst Mayr, who also pointed out that the term had been used for some time before cladism.
+
+An evolutionary grade is a group of species united by similarities. These similarities led to their being given a name. But now to be a clade, the whole group from the first known member to the present day must be included. 
+
+The most commonly cited example is that of reptiles. In the early 19th century, tetrapods were put in the four familiar classes of amphibians, reptiles, birds and mammals. In this system, reptiles are defined by traits such as laying cleidoic eggs, having skin covered in scales or scutes, and having a 'cold-blooded' metabolism. 
+
+However, we now know that amphibia gave rise to early egg-laying amniotes. These gave rise to sauropsids (the ancestors of reptiles and birds) and synapsids (the ancestors of mammals. 'Reptile' is just a common term for those sauropsids which survived to the present day, minus the birds. As an everyday word, everyone understands it. But as a modern "scientific" term, it is no longer good, and is less used.
+
+Paraphyletic and polyphyletic taxa often represent evolutionary grades. In some cases paraphyletic taxa are united simply by not being part of any other groups, and give rise to so-called wastebasket taxa.
+
+
+

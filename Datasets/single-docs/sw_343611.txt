@@ -1,0 +1,15 @@
+RNA polymerase
+
+RNA polymerase (RNAP) is the enzyme which does transcription.The 2006 Nobel Prize in Chemistry was awarded to Roger D. Kornberg for creating detailed molecular images of RNA polymerase during various stages of the transcription process.
+
+With the help of some other molecules, it makes messenger RNA from a strand of a DNA. This is its main function, but it does various other things. Products of RNAP include:
+
+Eukaryotes have various RNAPs in their nuclei, each to synthesis a type of RNA. All are similar and related to each other and to bacterial RNAP:
+
+Eukaryotic chloroplasts have an RNAP very similar to bacterial RNAP ("plastid-encoded polymerase"). Eukaryotic chloroplasts also have a second, unrelated, RNAP.
+
+Eukaryotic mitochondria contain an unrelated RNAP (member of the "single-subunit RNAP" protein family).
+
+X-ray crystallography of DNA and RNA polymerases show that, other than having a Mg ion at the catalytic site, they are virtually unrelated to each other. So the two classes of enzyme have arisen independently twice in the early evolution of cells. One line led to the modern DNA polymerases and reverse transcriptases. The other line led to all modern cellular RNA polymerases.
+
+

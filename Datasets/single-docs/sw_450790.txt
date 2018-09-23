@@ -1,0 +1,13 @@
+Simple harmonic motion
+
+A body is said to be vibrating if it moves back and forth or to and fro about a point . Another term for vibration is oscillation . A special kind of vibratory or oscillatory motion is called "simple harmonic motion". In mathematics and physics, when something moves so that its distance from a fixed point (plotted on a graph against time) looks like a sine wave, the movement is called simple harmonic motion. This sort of movement will happen whenever the force towards the fixed point is proportional to the distance from the point and always acts towards that point. Examples include a weight on a spring and a pendulum (approximately). 
+
+The amplitude is the biggest distance from the fixed point. The period is the time taken to get back to the same point again (with the same speed and in the same direction).
+"Simple harmonic motion can be defined as" : "Simple Harmonic motion occurs when the net force is directly proportional to the displacement from the mean position and is always directed towards the mean position" 
+In other words, when an object oscillates about a fixed position (mean position) such that it's acceleration is directly proportional to it's displacement from the mean position and it is always directed towards the mean position , its motion is called "Simple harmonic motion" (SHM)
+
+The equations of simple harmonic motion can be found by looking at a fixed wheel with radius formula_1 that is spinning with steady speed formula_2 radians per second. The time formula_3 taken for one complete turn is formula_4 formula_5 because there are formula_6 radians in a full circle.
+
+Imagine a white spot painted on the rim of the wheel. If it starts level with the axle, and the wheel has turned through an angle formula_7 in time formula_8 seconds, then the height formula_9 of the spot above the axle is given by formula_10 (where formula_11 means the sine of the angle turned, and trigonometry is used to find the height).
+
+

@@ -1,0 +1,20 @@
+Fraction (mathematics)
+
+A fraction is a number that shows how many equal parts there are. When we write fractions, we show one number with a line above another number, for example, formula_1 or or 1/4. The top number tells us how many parts there are, the second number tells us the total number of parts.
+
+The top part of the fraction is called a numerator. The bottom part of the fraction is called a denominator. For example, formula_1: The 1 is the numerator here, and the 4 is the denominator.
+
+
+A fraction is a mathematical expression relating two quantities or numbers, one divided by the other. The numbers may be whole numbers (or integers) – this is a rational number. For example, formula_6 is a fraction. They can also be polynomials – this is a rational function.
+
+Mathematically, a fraction is a quotient of numbers, representing the number's value when the numerator is divided by the denominator (lower number). Thus formula_6 means one divided by two, or, in decimals, 0.5.
+
+To find formula_6 of formula_6, the denominators are multiplied. That means: denominator 2 multiplied by 2 equals 4 or: formula_6 x formula_6 = formula_1 or: 0.5 x 0.5 = 0.25.
+
+To find formula_6 "divided by" formula_6, multiply formula_6 by the reciprocal of formula_6, which is 2. That answer is 1.
+
+The numerator is multiplied by the other numerator. The denominator is multiplied by the other denominator.
+E.g. ' x ' = you can simplify
+this by dividing both the numbers by a common factor.This would be 
+
+

@@ -1,0 +1,25 @@
+Variable star
+
+A variable star is a star that is sometimes brighter or dimmer. Most stars have only very small differences in brightness, like the Sun. But some stars can vary hugely.
+
+There are generally two types of variable stars:
+
+There are a number of different types of variable stars.
+
+
+
+
+Protostars are young objects that have not yet completed the process of contraction from a gas nebula to a true star. Most protostars show irregular brightness variations.
+
+Large stars lose their matter relatively easily. Variability due to eruptions and mass loss is fairly common among giants and supergiants.
+
+Supernovae are the most dramatic type of events in the universe. A supernova can briefly emit as much energy as an entire galaxy, brightening by more than 20 magnitudes (over one hundred million times brighter). Supernovae result from the death of an extremely massive star, many times heavier than the Sun.
+
+The supernova explosion is caused by a white dwarf or a star core reaching a certain mass/density limit, the Chandrasekhar limit. Then the star collapses in a fraction of a second. This collapse "bounces" and causes the star to explode and emit an enormous amount of energy. 
+
+The outer layers of these stars are blown away at speeds of many thousands of kilometers an hour. The expelled matter may form nebulae called "supernova remnants". A well-known example of such a nebula is the Crab Nebula, left over from a supernova that was observed in China and North America in 1054. The core of the star or the white dwarf may either become a neutron star (generally a pulsar) or disintegrate completely in the explosion.
+
+A supernova may also result from mass transfer onto a white dwarf from a star companion in a double star system. The infalling matter pushes the white dwarf over the Chandrasekhar limit. The absolute luminosity of this type of supernova can be calculated from its light curve, so these explosions can be used to fix the distance to other galaxies. One of the most studied supernovae is SN 1987A in the Large Magellanic Cloud.
+
+
+

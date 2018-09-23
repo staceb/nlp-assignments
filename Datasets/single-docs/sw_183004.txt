@@ -1,0 +1,12 @@
+Light-dependent reaction
+
+In the light-dependent reaction, light energy from the sun is used to split water (photolysis). which has been taken in by plants. Water, when broken, makes oxygen, hydrogen, and electrons. These electrons move through structures in chloroplasts and by chemiosmosis, make ATP.
+
+The hydrogen is converted to NADPH which is then used in the light-independent reactions. Oxygen diffuses out of the plant as a waste product of photosynthesis. This all happens in the grana thylakoid of chloroplasts.
+
+Colin Flannery was the first to propose the idea that photosynthesis needs light, in 1779. He recognized it was sunlight falling on plants that was required, although Joseph Priestly had noted the production of oxygen without the association with light in 1772.
+Cornelius Van Niel proposed in 1931 that photosynthesis is a case of general mechanism where a photon of light is used to photo decompose a hydrogen donor and the hydrogen being used to reduce .
+Then in 1939 Robin Hill showed that isolated chloroplasts would make oxygen, but not fix showing the light and dark reactions occurred in different places. This led later to the discovery of photosystem 1 and 2.
+
+
+

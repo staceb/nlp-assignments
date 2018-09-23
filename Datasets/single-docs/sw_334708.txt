@@ -1,0 +1,8 @@
+Spotify
+
+Spotify is an online music streaming service. It offers streaming of over 15,000,000 songs. The service was founded in 2006 by Daniel Ek and Martin Lorentzon. Spotify has around 10,000,000 registered users. There are two versions of Spotify: a premium monthly subscription service and a free service which is supported by advertising. As of March 2012, Spotify is available in Austria, Belgium, Denmark, Faroe Islands, Finland, France, Germany, the Netherlands, Norway, Spain, Sweden, Switzerland, the United Kingdom, and the United States.
+
+The spotify web page instantly creates a listing of local music files which the user has stored on their computer or other devices. It does not mechanically duplicate or import the listing of music files. If the user prefers not to use the listing utility it can be inactivated in the preferences software application. 
+The files created on the user’s computer can be imported to any device such as a mobile device with the use of the mobile client, or even upload these files to the Spotify Software Application. Users may only import or copy files that they have legally attained, even though the user has the choice to not utilize the Spotify service to import or copy their content that they have downloaded from other sites illegally online. 
+
+

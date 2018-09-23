@@ -1,0 +1,23 @@
+Function composition
+
+In mathematics, function composition is a way to make a new function from two other functions.
+
+If we let "f" be a function from "X" to "Y" and "g" be a function from "Y" to "Z" then we say that "g" composed with "f" is written as "g ∘ f" a function from "X" to "Z" (notice how it is usually written in the opposite way to how people would it expect it to be as we will explain below).
+
+The value of "f" given the input "x" is written as "f(x)". The value of "g ∘ f" given the input "x" is written "(g ∘ f)(x)" and is defined as "g(f(x))" (which means our way of writing "g" composed with "f" makes sense).
+
+Here is another example. Let "f" be a function which doubles a number (multiplies it by 2) and let "g" be a function which subtracts 1 from a number.
+
+These would be written as:
+
+"g" composed with "f" would be the function which doubles a number and "then" subtracts 1 from it:
+
+"f" composed with "g" would be the function which subtracts 1 from a number and "then" doubles it:
+
+Function composition can be proven to be associative, which means:
+
+Function composition is in general not commutative however, which means:
+
+This can be seen in the first example where "(g ∘ f)(2) = 2*2 - 1 = 3" and "(f ∘ g)(2) = 2*(2-1) = 2".
+
+

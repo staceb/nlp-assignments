@@ -1,0 +1,43 @@
+Solid-state chemistry
+
+Solid-state chemistry, (also called materials chemistry) is the study of the synthesis, structure, and properties of solid phase materials. It focuses on non-molecular solids. It has much in common with solid-state physics, mineralogy, crystallography, ceramics, metallurgy, thermodynamics, materials science and electronics. It focuses on the synthesis of new materials and their characterization.
+
+Technology helps solid-state inorganic chemistry. Solid-state chemistry works to make materials used in commerce. Researchers serve industry, as well as answering academic questions. There were many important discoveries in the 20th century: zeolite and platinum-based catalysts for petroleum processing in the 1950s, high-purity silicon as a core component of microelectronic devices in the 1960s, and “high temperature” superconductivity in the 1980s. William Lawrence Bragg invented X-ray crystallography in the early 1900s, which brought further discoveries.
+
+Carl Wagner's worked on oxidation rate theory, counter diffusion of ions, and defect chemistry. This work showed how reactions proceed at the atomic level in the solid state. Because of this, he has sometimes been referred to as the "father of solid state chemistry".
+
+A diverse variety of syntheic methods are used to make solid-state compounds. For organic materials, such as charge transfer salts, the methods operate near room temperature and are often similar to the methods of organic synthesis. Redox reactions are sometimes conducted by electrocrystallisation. For example, Bechgaard salts can be made from tetrathiafulvalene.
+
+For materials that can withstand heat, chemists often use high temperature methods. For example, chemists use tube furnaces to prepare bulk solids. This allows reactions to be conducted up to around . For higher temperatures up to , chemists use special equipment such as ovens made with a tantalum tube through which an electric current is passed. Such high temperatures are at times required to induce diffusion of the reactants. But this depends strongly on the system studied. Some solid state reactions already proceed at temperatures as low as .
+
+Chemists often melt the reactants together and then later anneal the solidified melt. If volatile reactants are involved, the reactants are often put in an ampoule and then all air is removed. Often, the chemists keep the reactant mixture cold (for example, by keeping the bottom of the ampoule in liquid nitrogen) and then seal the ampoule. The sealed ampoule is then put in an oven and given a specified heat treatment.
+
+Solvents can be used to prepare solids by precipitation or by evaporation. At times the solvent is used under pressure at temperatures higher than the normal boiling point (hydrothermally). Flux methods add a salt of relatively low melting point to the mixture to act as a high temperature solvent in which the desired reaction can take place.
+
+Many solids react readily with reactive gases such as chlorine, iodine, oxygen or others. Others solids form adducts with other gases, (for example CO or ethylene). Such reactions are often carried out in a tube with open ended on both sides and through which the gas flows. A variation of this is to let the reaction take place inside a measuring device such as a thermogravimetric analysis (TGA). In that case stoichiometric information can be obtained during the reaction. That information helps identify the products. (By accurately measuring the amount of each reactant, chemists can guess the ratio of the atoms in the final products.)
+
+A special case of a gas reaction is a chemical transport reaction. These are often carried out by adding a small amount of a transport agent (for example, iodine) to a sealed ampoule. The ampoule is then placed in a zone oven. This method can be used to obtain the product in the form of single crystals suitable for structure determination by X-ray diffraction (XRD).
+
+Chemical vapor deposition is also a widely used high temperature method for the preparation of coatings and semiconductors from molecular precursors.
+
+Many solids attract water (hygroscopic) and/or sensitive to oxygen. For example, many halides absorb water and can only be studied in their anhydrous form if they are handled in a glove box filled with dry (and/or oxygen-free) gas, usually nitrogen.
+
+Because a new synthetic method produces a mixture of products, it is important to be able to identify and characterize specific solid-state materials. Chemists try changing the stoichiometry to find which stoichiometries will lead to new solid compounds or to solid solutions between known ones. A prime method to characterize the reaction products is powder diffraction, because many solid state reactions will produce polycristalline ingots or powders. Powder diffraction will help the identification of known phases in the mixture. If a pattern is found that is not known in the diffraction data libraries an attempt can be made to index the pattern, that is to identify the symmetry and the size of the unit cell. (If the product is not crystalline the characterization is much more difficult.)
+
+Once the unit cell of a new phase is known, the next step is to establish the ratio of the elements (stoichiometry) of the phase. This can be done in a number of ways. Sometimes the composition of the original mixture will give a clue, if one finds only one product (a single powder pattern) or if one was trying to make a phase of a certain composition by analogy to known materials. But this is rare.
+
+Often chemist work hard to improve the synthetic methodology to get a pure sample of the new material.
+If chemists can separate the product from the rest of the reaction mixture, then chemists can use elemental analysis on the isolated product. Other ways involve Scanning electron microscopy (SEM) and the generation of characteristic X-rays in the electron beam. The easiest way is to solve the structure is by using single crystal X-ray diffraction.
+
+Improving the preparative procedures requires chemists to study which phases are stable at what composition and what stoichiometry. In other words, the chemists draw the phase diagram of the substance. An important tools in finding the phase diagram data are thermal analysis such as DSC or DTA and increasingly also, thanks to the advent of synchrotrons temperature-dependent power diffraction. Increased knowledge of the phase relations often leads to further refinement in synthetic procedures which repeats the cycle. New phases are thus characterized by their melting points and their stoichiometric domains. Identifying stichiometric domains is important for the many solids that are non-stoichiometric compounds. The cell parameters obtained from XRD are particularly helpful to characterize the homogeneity ranges of non-stoichiometric compounds.
+
+In many cases new solid compounds are further characterized by a variety of techniques from solid-state physics.
+
+For non-metallic materials, chemists try to get ultra-violet/visible spectra. In the case of semiconductors that will give an idea of the band gap.
+
+Four-point (or five-point) probe methods are often applied either to ingots, crystals or pressed pellets to measure resistivity and the size of the Hall effect. This gives information on whether the compound is an insulator, semiconductor, semimetal or metal and upon the type of doping and the mobility in the delocalized bands (if present). So, important information is obtained on the chemical bonding in the material.
+
+Magnetic susceptibility can be measured as function of temperature to establish whether the material is a para-, ferro- or antiferro- magnet. This tells the bonding in the material. This is particularly important for transition metal compounds. In the case of magnetic order, neutron diffraction can be used to find the magnetic structure.
+
+
+

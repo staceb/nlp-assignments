@@ -1,0 +1,8 @@
+Yahtzee
+
+Yahtzee is a popular dice game that is well-known all over the world. The object of the game is to roll five dice (up to three times) to create certain combinations such as:
+
+
+Most of these combinations come from poker.
+
+

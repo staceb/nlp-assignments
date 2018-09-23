@@ -1,0 +1,5 @@
+Orthonormality
+
+Two vectors in an inner product space are orthonormal if and only if they are orthogonal (perpendicular) and unit vectors.
+
+

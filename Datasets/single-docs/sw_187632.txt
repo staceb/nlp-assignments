@@ -1,0 +1,5 @@
+Apple Worldwide Developers Conference
+
+The Apple Worldwide Developers Conference (WWDC, also called "dub-dub") is an event held every year for software developers who create software for OS X and iOS. It is usually held in early June in San Francisco, California. Sometimes new products are announced at the conference.
+
+

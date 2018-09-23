@@ -1,0 +1,7 @@
+Mercury-in-glass thermometer
+
+The mercury-in-glass thermometer was invented by Daniel Gabriel Fahrenheit in Amsterdam (1714). It is a bulb containing Mercury attached to a glass tube of narrow diameter. The volume of mercury in the tube is much less than the volume in the bulb. The volume of mercury changes slightly with temperature. The small change in volume drives the narrow mercury column up the tube. The space above the mercury may be filled with nitrogen or it may be at less than atmospheric pressure, a partial vacuum. 
+
+Mercury cannot be used to measure temperatures lower than -39˚C (as mercury freezes at that point) or temperature higher than 356.7˚C (the boiling point of mercury). Mercury has been replaced largely by alcohol for use in thermometers, as alcohol is cheaper and safer than mercury. 
+
+

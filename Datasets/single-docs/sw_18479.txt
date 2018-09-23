@@ -1,0 +1,11 @@
+Key
+
+A key is an object used to open and close locks. Many things have locks, for example, doors. Keys are also used to turn on cars, machines and other things. 
+
+A key is used by placing the key into the slot of the thing you want to unlock. 
+
+A key that can open more than one lock (if each lock also has its own key) is called a master key or skeleton key.
+
+The key was likely invented by Theodore of Samos in 6th Century BC.
+
+

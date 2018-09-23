@@ -1,0 +1,14 @@
+Insulator (electricity)
+
+An electrical insulator is a material that does not easily conduct an electric current. Materials typically used to insulate include rubber, plastic and glass. In transformers and electric motors, varnish is used. Insulating gases such as Sulfur hexafluoride are used in some switches. Wires that carry electric currents are usually insulated so the electricity goes to the right place.
+
+Insulator can mean not only the material but things that are made of that material. They are made of various materials such as: glass, silicone, rubber, plastic, oil, wood, dry cotton, quartz, ceramic, etc. 
+
+The type of insulator will depend on the uses. Insulators have high electrical resistivity and low conductivity. The insulators prevent the loss of current and make the current more efficient by concentrating the flow. 
+
+Electric power transmission uses three types of overhead insulator: pin insulator, suspension insulator, and strain insulator.
+
+
+
+
+

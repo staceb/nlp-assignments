@@ -1,0 +1,12 @@
+Negative feedback
+
+Negative feedback is a basic concept of cybernetics; it is the basis of regulation and control. It is important in engineering and physiology. In biology and physiology negative feedback is known as homeostasis.
+
+Negative feedback occurs when the output of a system acts to oppose changes to the input of a system. This has the result that the changes are made less, and the system kept within limits. The classic example is a central heating system which cuts off when a (suitably placed) temperature sensor hits a pre-set mark. The negative feedback part is the thermostat.
+
+Virtually all aspect of living systems involve homeostasis, and disease follows when any of these systems fail. Examples: blood pressure, glucose level, liver functions, cell division, and so on.
+
+Homeostasis was defined by Claude Bernard and later by Walter Bradford Cannon in 1926, 1929 and 1932 is the property of a system, either open or closed, that regulates its internal environment and tends to maintain a stable, constant condition. The concept came from that of "milieu interieur" which was created by Claude Bernard and published in 1865. 
+If the overall feedback of the system is negative, then the system will tend to be stable.
+
+

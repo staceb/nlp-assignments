@@ -1,0 +1,15 @@
+MIT License
+
+The MIT License is a free software license that was created at the Massachusetts Institute of Technology (MIT). It is a permissive license, meaning that it allows programmers to put the code in proprietary software on the condition that the license is given with that software, and GPL-compatible, meaning that the GPL permits programmers to combine and redistribute it with software that uses the MIT License.
+
+According to the Free Software Foundation, the MIT License is more accurately called the X11 license, since MIT has used many licenses for software and the license was first written for the X Window System.
+
+Software that use the MIT License include Expat, PuTTY, Mono development platform class libraries, Ruby on Rails, Cakephp, Twisted, Lua 5.0 onwards and the X Window System, which the license was written for.
+
+Some software are dual licensed under the MIT License, such as older versions of the cURL library, which allowed recipients to choose either the Mozilla Public License or the MIT License.
+
+This is the license:
+
+
+
+

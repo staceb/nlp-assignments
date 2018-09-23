@@ -1,0 +1,8 @@
+Notepad++
+
+Notepad++ is a text editor and source code editor for Microsoft Windows.
+
+Notepad++ is distributed as free software and licensed under the GNU General Public License.
+
+
+

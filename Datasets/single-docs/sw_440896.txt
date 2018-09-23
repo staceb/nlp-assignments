@@ -1,0 +1,15 @@
+Holocene calendar
+
+The Holocene calendar, also called the Holocene Era Human era or (HE), is a year numbering system that adds 10,000 years to the currently used "Anno Domini" (AD) or Common Era (CE) system. It places the first year near the beginning of the Holocene epoch and the Neolithic revolution. People who like the Human Era system say that it makes for easier geological, archaeological, dendrochronological and historical dating. They say that it is based on an event more important than the birth of Jesus. The current year of AD can be made into a Holocene year by adding the number "1" before it, making it 1 HE. The "Human Era" was first thought of by the scientist Cesare Emiliani in 1993 (11993 HE).
+
+Cesare Emiliani's reasons for wanting a new calendar include:
+
+Instead, HE places its epoch to 10,000 BC. This is a rough approximation of the start of the current geologic epoch, the Holocene (the name means "entirely recent"). The reason for this is that human civilization (e.g., the first settlements, agriculture, etc.) is believed to have started within this time. All important dates in human history can then be listed using a simple increasing date scale with smaller dates always before larger dates.
+
+Conversion to the Human Era from Julian or Gregorian AD years can be achieved by adding 10,000. BC years are converted by subtracting the BC year from 10,001.
+
+A useful check is that the last single number of BC and HE equivalent pairs must add up to 1 or 11.
+
+
+
+

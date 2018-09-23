@@ -1,0 +1,16 @@
+Transformer
+
+A transformer is a device that transfers electrical energy from one electrical circuit to another through mutual electromagnetic induction) and without change in frequency. Transformers are an important part of electrical systems. 
+
+Transformers are made in many different sizes, from a very small coupling transformer inside a stage microphone to big units that carry hundreds of MVA used in power grids.
+
+The main reason to use a transformer is to make power of one voltage level into power of another voltage level. High voltage is easier to send a long distance, but less voltage is easier and safer to use in the office or home.
+Transformers are used to increase or decrease alternating current (AC) voltage in circuits. The transformer is usually built with two coils around the same core. The primary coil or input coil is connected to supply side while secondary coil supplies power to load. The second one is called the output coil. Energy is transferred from the primary to the secondary by electromagnetism. In power grids many transformers are used. These are networks for delivering electricity from the generator and to the user. 
+
+The transformers in your neighborhood, on electricity poles, or the ones connected to underground wires, usually transform high voltage of 7,200 volts to 220-240 volts of electricity to power lights and appliances such as refrigerators in homes and businesses. Some countries, such as America use different voltages in homes, such as 120 volts. Transformers cannot increase power, so if the voltage is raised, the current is proportionally lowered. If the voltage is lowered, the current is proportionally increased.
+
+Transformers inside electronics equipment provide the kinds of electricity the various parts need. 
+
+There are several basic types of transformers:
+
+

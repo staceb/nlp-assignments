@@ -1,0 +1,17 @@
+Congruence
+
+Two geometrical shapes are congruent if one can be moved or rotated so that it fits exactly where the other one is. If one of the object has to change its size, the two objects are not congruent: they are just called similar. 
+
+If two figures or objects are congruent, they have the same shape and size; but they can be rotated, moved, mirror imaged (reflected) or translated, so that it fits exactly were the other one is.
+
+
+
+We have quite a few possibilities, a few rules to make new shapes congruent to the original one.
+
+
+The relationship, that "a shape is congruent to another shape" has three famous properties.
+
+
+The famous three properties, "reflexivity", "symmetry" and "transitivity" together make the notion of "equivalence". Hence, the property congruence is one sort of "equivalence" relation between shapes of a plane.
+
+

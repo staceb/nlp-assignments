@@ -1,0 +1,9 @@
+Chaperone (protein)
+
+Molecular chaperones are proteins which help large molecules fold or unfold. Some help assemble or take apart other macromolecular structures. They do not occur in these structures when the structures go about their normal functions. 
+
+The first protein to be called a chaperone assists the assembly of nucleosomes from folded histones and DNA. Those assembly chaperones, especially in the nucleus, assemble folded subunits into larger structures such as cell organelles. 
+
+One major function of chaperones is to prevent polypeptide chains and assembled subunits sticking together in clumps which do not function. Some chaperones are "holdases" which act to stop aggregation. Others, called "foldases", do help fold proteins which cannot do it themselves. Such proteins violate Anfinsen's dogma.
+
+

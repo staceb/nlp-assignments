@@ -1,0 +1,106 @@
+Dot product
+
+In mathematics, the dot product is an operation that takes two vectors as input, and that returns a scalar number as output. The number returned is dependent on the length of both vectors, and on the angle between them. The name is derived from the centered dot "·" that is often used to designate this operation; the alternative name scalar product emphasizes the scalar (rather than vector) nature of the result.
+
+The dot product contrasts (in three dimensional space) with the cross product, which produces a vector as result.
+
+The dot product of two vectors a = ["a", "a", ..., "a"] and b = ["b", "b", ..., "b"] is defined as:
+where Σ denotes summation notation ( the sum of all the terms) and "n" is the dimension of the vector space.
+
+In dimension 2, the dot product of vectors [a,b] and [c,d] is ac + bd.
+The same way, in a dimension 3, the dot product of vectors [a,b,c] and [d,e,f] is ad + be + cf.
+For example, the dot product of two three-dimensional vectors [1, 3, −5] and [4, −2, −1] is
+
+In Euclidean geometry, the dot product, length, and angle are related. For a vector a, the dot product a · a is the square of the length of a, or
+
+where ||a|| denotes the length (magnitude) of a. More generally, if b is another vector
+
+where ||a|| and ||b|| denote the length of a and b and "θ" is the angle between them.
+
+This formula can be rearranged to determine the size of the angle between two nonzero vectors:
+
+One can also first convert the vectors to unit vectors by dividing by their magnitude:
+then the angle "θ" is given by
+
+As the cosine of 90° is zero, the dot product of two orthogonal(perpendicular) vectors is always zero. Moreover, two vectors can be considered orthogonal if and only if their dot product is zero, and they both have a nonzero length. This property provides a simple method to test the condition of orthogonality.
+
+Sometimes these properties are also used for "defining" the dot product, especially in 2 and 3 dimensions; this definition is equivalent to the above one. For higher dimensions the formula can be used to define the concept of angle.
+
+The geometric properties rely on the basis being orthonormal, i.e. composed of pairwise perpendicular vectors with unit length.
+
+If both a and b have length one (i.e., they are unit vectors), their dot product simply gives the cosine of the angle between them.
+
+If only b is a unit vector, then the dot product a · b gives |a| cos(θ), i.e., the magnitude of the projection of a in the direction of b, with a minus sign if the direction is opposite. This is called the scalar projection of a onto b, or scalar component of a in the direction of b (see figure). This property of the dot product has several useful applications (for instance, see next section).
+
+If neither a nor b is a unit vector, then the magnitude of the projection of a in the direction of b, for example, would be a · (b / |b|) as the unit vector in the direction of b is b / |b|.
+
+A rotation of the orthonormal basis in terms of which vector a is represented is obtained with a multiplication of a by a rotation matrix R. This matrix multiplication is just a compact representation of a sequence of dot products.
+
+For instance, let
+Then the rotation from "B" to "B" is performed as follows:
+
+Notice that the rotation matrix R is assembled by using the rotated basis vectors u, v, w as its rows, and these vectors are unit vectors. By definition, Ra consists of a sequence of dot products between each of the three rows of R and vector a. Each of these dot products determines a scalar component of a in the direction of a rotated basis vector (see previous section).
+
+If a is a row vector, rather than a column vector, then R must contain the rotated basis vectors in its columns, and must post-multiply a:
+
+In physics, magnitude is a scalar in the physical sense, i.e. a physical quantity independent of the coordinate system, expressed as the product of a numerical value and a physical unit, not just a number. The dot product is also a scalar in this sense, given by the formula, independent of the coordinate system. 
+Example:
+
+The following properties hold if a, b, and c are real vectors and "r" is a scalar.
+
+The dot product is commutative:
+
+The dot product is distributive over vector addition:
+
+The dot product is bilinear:
+
+When multiplied by a scalar value, dot product satisfies:
+(these last two properties follow from the first two).
+
+Two non-zero vectors a and b are perpendicular if and only if a • b = 0.
+
+Unlike multiplication of ordinary numbers, where if "ab" = "ac", then "b" always equals "c" unless "a" is zero, the dot product does not obey the cancellation law:
+
+Provided that the basis is orthonormal, the dot product is invariant under isometric changes of the basis: rotations, reflections, and combinations, keeping the origin fixed. The above mentioned geometric interpretation relies on this property. In other words, for an orthonormal space with any number of dimensions, the dot product is invariant under a coordinate transformation based on an orthogonal matrix. This corresponds to the following two conditions:
+
+If a and b are functions, then the derivative of a • b is a' • b + a • b'
+
+This is a very useful identity (also known as Lagrange's formula) involving the dot- and cross-products. It is written as
+
+which is easier to remember as "BAC minus CAB", keeping in mind which vectors are dotted together. This formula is commonly used to simplify vector calculations in physics.
+
+Consider the element of R
+Repeated application of the Pythagorean theorem yields for its length |v|
+But this is the same as
+so we conclude that taking the dot product of a vector v with itself yields the squared length of the vector.
+
+Now consider two vectors a and b extending from the origin, separated by an angle θ. A third vector c may be defined as
+creating a triangle with sides a, b, and c. According to the law of cosines, we have
+Substituting dot products for the squared lengths according to Lemma 1, we get
+But as c ≡ a − b, we also have
+which, according to the distributive law, expands to
+Merging the two c • c equations, "(1)" and "(2)", we obtain
+Subtracting a • a + b • b from both sides and dividing by −2 leaves
+Q.E.D.
+
+The inner product generalizes the dot product to abstract vector spaces and is usually denoted by formula_26. Due to the geometric interpretation of the dot product the norm ||a|| of a vector a in such an inner product space is defined as
+
+such that it generalizes length, and the angle θ between two vectors a and b by
+
+In particular, two vectors are considered orthogonal if their inner product is zero
+
+For vectors with complex entries, using the given definition of the dot product would lead to quite different geometric properties. For instance the dot product of a vector with itself can be an arbitrary complex number, and can be zero without the vector being the zero vector; this in turn would have severe consequences for notions like length and angle. Many geometric properties can be salvaged, at the cost of giving up the symmetric and bilinear properties of the scalar product, by alternatively defining
+where "b" is the complex conjugate of "b". Then the scalar product of any vector with itself is a non-negative real number, and it is nonzero except for the zero vector. However this scalar product is not linear in b (but rather conjugate linear), and the scalar product is not symmetric either, since
+This type of scalar product is nevertheless quite useful, and leads to the notions of Hermitian form and of general inner product spaces.
+
+The Frobenius inner product generalizes the dot product to matrices. It is defined as the sum of the products of the corresponding components of two matrices having the same size.
+
+The dot product between a tensor of order n and a tensor of order m is a tensor of order n+m-2. The dot product is worked out by multiplying and summing across a single index in both tensors. If formula_32 and formula_33 are two tensors with element representation formula_34 and formula_35 the elements of the dot product formula_36 are given by
+
+This definition naturally reduces to the standard vector dot product when applied to vectors, and matrix multiplication when applied to matrices.
+
+Occasionally, a double dot product is used to represent multiplying and summing across two indices. The double dot product between two 2nd order tensors is a scalar.
+
+
+
+

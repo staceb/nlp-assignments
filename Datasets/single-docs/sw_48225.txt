@@ -1,0 +1,13 @@
+Hemoglobin
+
+Hemoglobin (or haemoglobin) is a protein in red blood cells which contains iron. It is used to transport oxygen around the human body. Hemoglobin is found in the red blood cells of all vertebrates apart from white-blooded fish. It also occurs in some invertebrates.
+
+Hemoglobin is involved in the transport of other gases. It carries some of the body's respiratory carbon dioxide (about 20-25% of the total). 
+
+Red blood cells get their color from hemoglobin, which is red. There are millions of hemoglobin molecules in each red blood cell and millions of red blood cells in the human body. When hemoglobin has oxygen attached, it is called oxyhemoglobin. 
+
+The most common type of hemoglobin in mammals contains four such subunits. Each subunit of hemoglobin is a globular protein (globin) with a heme group inside it. Each heme group has one iron atom. This binds one oxygen molecule. So the complete hemoglobin molecule has four globin chains, four heme molecules, and four iron atoms. When hemoglobin is in the lungs, it picks up oxygen in its hemes, and carries it to the rest of the body. 
+
+Its structure took years to work out. Max Perutz and John Kendrew worked out the structure of myoglobin first. That muscle globin is smaller, with only one heme group.
+
+

@@ -1,0 +1,11 @@
+Osmosis
+
+Osmosis is the movement of water or other solvent through a plasma membrane from a region of low solute concentration to a region of high solute concentration. Osmosis is passive transport, meaning it does not require energy to be applied. What causes osmotic pressure is different concentrations of solutes on the two sides of the membrane. 
+
+When osmosis happens, water moves from the side of the membrane with a lower amount of osmotic pressure to the side of the membrane with the higher amount. An important example of osmosis is the movement of liquid (solvent) molecules across a cell membrane into a cell with a higher solute concentration. Osmosis is a fundamental part of cell biochemistry, but also has mechanical applications and usages.
+
+"Hypotonic" describes the less concentrated solution. An "isotonic" solution is when the concentration is equal on both sides of the membrane. "Hypertonic" describes the more concentrated solution. When there is a hypotonic solution outside the cell, and hypertonic solution inside, the cell gets swollen and distorted.
+
+The plasma membrane of a cell is semi-permeable, which means it lets small molecules pass through, but blocks larger molecules. The membrane also has ports or gateways which get certain macromolecules through. This is active transport, which uses energy and is selective.
+
+

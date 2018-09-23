@@ -1,0 +1,6 @@
+Puppet (software)
+
+Puppet is a computer program for managing the options of other software. It is open source.
+
+
+

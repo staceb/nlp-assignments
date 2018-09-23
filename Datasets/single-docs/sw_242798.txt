@@ -1,0 +1,19 @@
+Bible version debate
+
+The Bible is a collection of texts. The original of these texts were written in different languages. Today, the collection of texts that is called "The Bible" is written in one language only. For this reason, at least some texts need to be translated. Versions of the Bible are also different in the texts they include, some texts are not part of some Bible versions. One of the first such translations is the Septuagint, which is Ancient Greek. Another well-known translation is the Vulgate, which is Latin. From about the 14th century, the Bible was also translated into other languages.
+
+Translating a text is also always linked to looking at its meaning, and to interpreting it. A word in one language cannot be translated into a word in a different language, with exactly the same meaning. 
+One such method of translation is called "literal translation" or "formal equivalence". Literal translation tries to be as close as possible to what is written in the original language. Often this means translating each word separately. There are a number of problems with literal translations: First, words must be added, to get a valid grammar in the target language. These words are not in the source text. The second problem is that the reader must be familiar with the subject, to understand some of the translation.
+
+Another way is to look at the thoughts and ideas of the source text and to get these into the target language. This is called "dynamic equivalence". A translation that uses dynamic equivalence may use other words and phrases, but tries to keep the meaning intact.
+
+A third way is called "paraphrasing". It tries to explain the concepts that are found in the text, and does not even use dynamic equivalence. That way, paraphrasing may leave out sections of text, or add other sections that explain these concepts. A paraphrased text may be very easy to understand, but is not suited for in-depth study.
+
+Another problem that can occur with translation is that the meaning of some words may not be known. This is often the case with words that only occur once in a text. Such words are known as Hapax legomena. Their meaning must be guessed from the context.
+
+Before the invention of the printing press, texts had to be copied by hand. This introduced errors. After a certain time there were different versions of the same text. Comparing such versions is known as textual criticism. The translation of two different versions of the same text may result in two different texts.
+
+Some translators also translate the names, others simply write the name as it occurs in the original.
+
+
+

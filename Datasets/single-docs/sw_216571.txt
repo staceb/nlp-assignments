@@ -1,0 +1,13 @@
+Monsters vs. Aliens
+
+Monsters vs. Aliens is a 2009 American computer-animated 3-D movie from DreamWorks Animation and Paramount Pictures. The movie was the first computer animated movie to be directly produced in a stereoscopic 3-D format instead of being changed into 3-D after completion, which added $15 million to the film's budget. 
+
+The movie was supposed to come out in May 2009, but the release date was moved to March 27, 2009. It was released on DVD and Blu-ray September 29, 2009 in North America. "Monsters vs. Aliens" has the voices of Reese Witherspoon, Seth Rogen, Hugh Laurie, Will Arnett, Conrad Vernon, Rainn Wilson, Kiefer Sutherland, Stephen Colbert, and Paul Rudd.
+
+
+
+Ed Leonard, CTO of DreamWorks Animation, says it took about 45.6 million hours to make "Monsters vs. Aliens", more than eight times as many as the first "Shrek". Many hundred Hewlett-Packard xw8600 workstations were used, along with a large and powerful "render farm" of HP ProLiant blade servers. It had over 9,000 server cores, to read through the animation. The movie had to have 120 terabytes (120,000 gigabytes) of data to complete. It also had one explosion scene alone having 6 terabytes (6000 gigabytes).
+
+Since "Monsters vs. Aliens", all big movies released by DreamWorks Animation will be made in a 3-D format, using Intel's InTru3D technology.
+
+

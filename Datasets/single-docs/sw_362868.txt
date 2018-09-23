@@ -1,0 +1,7 @@
+Inflection
+
+Inflection (or inflexion) is a piece added to a word to express variations in grammar. The added bits are called affixes. They are prefixes (in front), suffixes (at the end) and infixes (in the middle). They are added to the "root", the part of the word which does not change.
+
+Examples:
+
+

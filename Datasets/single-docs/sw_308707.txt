@@ -1,0 +1,10 @@
+Chess rating system
+
+A chess rating system is a system used in chess to estimate the strength of a player, based on his performance against other players. They are used by all national chess organisations, and by FIDE, the International Chess Federation. In these systems a higher number indicates a stronger player. In general, a player's rating goes up if he performs better than expected and down if he performs worse than expected. The Elo rating system is used by FIDE and by many countries. 
+
+The first modern rating system was used by the Correspondence Chess League of America in 1939. Soviet player Andrey Khachatoruv proposed a similar system in 1946. The first one that made an impact on international chess was the Ingo system in 1948. The USCF (United States Chess Federation) adopted the Harkness system in 1950. Shortly after, the British Chess Federation started using a system devised by Sir Richard Clarke, a statistician and senior civil servant. The USCF switched to the Elo rating system in 1960, which was adopted by FIDE in 1970.<ref name=H/W>Hooper, David & Whyld, Kenneth 1992. "The Oxford Companion to Chess". 2nd ed, Oxford University Press. p332 ISBN 0-19-280049-3</ref>
+
+The principle which lies behind a grade is this. The grade is a prediction of how well a player will perform against other players of different grades. If the player does better than predicted, his grade goes up; if he does worse, his grade goes down. An arithmetic calculation shows by how much the player's grade changes. Today, all results are fed into a computer database, and computer software does all the calculations. Then the list is published as a 'grading list'.
+
+
+

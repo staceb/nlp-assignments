@@ -1,0 +1,13 @@
+Body volume index
+
+The Body Volume Index is a proposed alternative to the Body Mass Index (BMI). The BMI is used as an indicator for weight problems such as being overweight or underweight. The BMI puts a persons total weight in relation to their height. This measure does not take into account where on the body the mass is located. Recent studies have shown the limitations of BMI as an indicator of individual health risk.
+
+The BVI was made in 2000 as an alternative to the BMI. With the data, a computer should be able to check whether a person is obese. The BVI measures the BMI, the circumference of the waist, and the waist-hip-ratio. 
+
+The BVI is used on a 3D full body scanner to determine the health risk of the person scanned. Using the scanner, the BVI can differentiate between people with the same BMI, but with a different shape or weight distribution. The BVI is currently being tested in different hospitals in the US and Europe; a two-year project was started to see whether it would be as useful as the BMI.
+
+The BMI can be measured manually, using the height and weight of a person. The BVI is calculated automatically based on data from the 3D scanner. The total weight or total fat content are not used. Scienmtific studies showed that fat content of the abdomen, and "mass" around it pose a greater health risk. This fact is commonly known as central obesity. A full body surface scanner determines the three-dimensional outline of a person's exterior surface, so that computation can be used to calculate the part volumes and the part body composition of that person. BVI makes an inference as to the body's distribution of fat and weight using complex and detailed Body Composition data. 
+
+Most body scanners take a number of images from different angles. Different lighting as well as patterns projected onto the body are used to determine the body shape and the distribution of the weight in the body of the patient.
+
+

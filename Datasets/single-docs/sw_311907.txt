@@ -1,0 +1,6 @@
+Equivalence relation
+
+The equivalence relation is a mathematical relation that is symmetric, transitive and reflexive. Using this relation, it is possible to partition a set into (non-empty) subsets, which are called "equivalence classes". As an example, look at the animals on a farm: We now define a relation: we say that two animals are related, if they belong to the same species. That way, a cow is related to an ox, but not to a chicken. The relation we just defined is an equivalence relation:
+In this example, all cattle form an equivalence class.
+
+

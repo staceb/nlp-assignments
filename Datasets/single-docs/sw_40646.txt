@@ -1,0 +1,28 @@
+Order of operations
+
+The order of operations is a mathematical and algebraic set of rules. It is used to evaluate (solve) and simplify expressions and equations. The order of operations is the order that different mathematical operations are done. The standard mathematical operations are addition (+), subtraction (−), multiplication (* or ×), division (/), brackets (which are grouping symbols, like parentheses () or []) and exponentiation (^n or , also called orders or indices).
+
+Mathematicians have agreed on a correct order to use operations, and it is very important that they know these rules. When people are solving a problem with more than one operation, they will need to know the correct order to solve the problem correctly. Otherwise the answer will be wrong.
+
+Follow all the rules in this order from left to right in the equation. 
+
+Use operations inside brackets and solve any indices. You should always solve brackets first when solving an equation.
+
+Example:
+
+When seeing an exponent, solve it first after solving the Brackets. (5 = 5 * 5 * 5 = 125)
+
+Solve any multiplication and division in the problem.
+Note that multiplication does not precede division; this is a common mistake. Both are solved from left to right as they occur.
+
+Example:
+
+Lastly, solve any addition or subtraction.
+
+It is in a Acronym of GEMDAS or PEMDAS which means Grouping/Parenthesis, Exponent, Multiply & Divide and Add & Subtract.
+
+Some pupils are confused that it MUST be in it's position when solving.
+
+8 - 7 + 5, people say that 7 + 5 must start but that's incorrect. look from left to right for the correct Answer. This rule also applies on Multiplication and Division.
+
+

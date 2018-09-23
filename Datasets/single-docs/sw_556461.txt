@@ -1,0 +1,7 @@
+LIGO
+
+The Laser Interferometer Gravitational-Wave Observatory (LIGO) is a large-scale physics observatory which detects cosmic gravitational waves co-founded by Scottish physicist Ronald Drever. They were first funded by the National Science Foundation (NSF) and were conceived, built and are operated by Caltech and MIT. 
+The NSF has funded improvements for LIGO to increase sensitivity, which allowed them to make the first detection of gravitational waves. LIGO is the largest and most ambitious project ever funded by the NSF.
+
+
+

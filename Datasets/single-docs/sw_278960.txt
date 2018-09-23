@@ -1,0 +1,20 @@
+Colour vision
+
+Colour vision is the capacity of an organism to distinguish objects based on the wavelengths (or frequencies) of the light they reflect, emit, or transmit. Colour is a quality constructed by the visual brain and not a property of objects.
+
+A 'red' apple does not emit red light. Rather, it simply absorbs all the frequencies of visible light shining on it except for a group of frequencies that are reflected.
+
+It is these frequencies which are perceived as red.
+
+The nervous system derives colour by comparing the responses to light from the several types of cone photoreceptors in the eye. These cone photoreceptors are sensitive to different portions of the visible spectrum.
+
+For humans, the visible spectrum ranges approximately from 380 to 740 nm, and there are normally three types of cones. The visible range and number of cone types differ between species.
+
+With colour vision gets better vision (more information) about the things it sees. This lets it see when fruit or vegetables are ripe, and lets it see animals hiding from plain sight. The advantage of colour vision is mainly in the daytime. At night the main problem is to collect light and see in the weak light. This is something rods do better than cones.
+
+Colour vision is not an all-or-none state. Many groups of animals can distinguish colour, but in different ways. In mammals, for instance, some groups are without colour vision, and some are dichromats: they have two kinds of cones, and cannot see ultraviolet, red and orange light. It is thought that the mammals which survived though the Jurassic period were small nocturnal burrowing animals with little need to see colour. Later, after the extinction of the dinosaurs, many lines adapted to be more active in the daytime. Most developed a form of colour vision, which is much more useful in the daytime. Primates developed full (trichromacy) colour vision. For them, the ability to distinguish the colour of fruit and leaves is almost essential.
+
+Many insects have colour vision in the ultraviolet range, which humans do not. That is why honey guides on flowers are so noticeable in ultraviolet light photographs.
+
+
+

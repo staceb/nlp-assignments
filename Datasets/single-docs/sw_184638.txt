@@ -1,0 +1,9 @@
+Meselson–Stahl experiment
+
+The Meselson–Stahl experiment was an experiment done by Matthew Meselson and Franklin Stahl in 1958, using "E. coli" DNA.
+With their experiment, they concluded that DNA replication was semiconservative. The DNA consists of two helices that are combined. When the two helices are copied, each will have one part coming from the original cell. The other part will be newly made. In chemistry, this is called "synthesis". 
+There are three different way this replication could happen:
+
+Meselson and Stahl concluded that DNA employs semi-conservative replication. They placed the bacteria in an environment which contained a selected Nitrogen isotope. They first used N. The bacteria then integrated this isotope into their DNA. Later they used an environment that contained N. They then looked at which of the isotopes the bacterial DNA contained. They found that it contained both isotopes of nitrogen, which implies that conservative replication is not the correct conclusion. By having a closer look they could then also rule out disperse replication. Some helix strands were all N. Other helix strands from the time in the N environment had N.
+
+

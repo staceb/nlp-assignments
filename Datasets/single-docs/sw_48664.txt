@@ -1,0 +1,5 @@
+Prism (optics)
+
+Prisms are used in binoculars to reflect the light. This lets the tubes of the binoculars be short. Some cameras use a prism to send light to the viewfinder, so the photographer can see what will be photographed.
+
+

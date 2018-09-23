@@ -1,0 +1,8 @@
+Kepler (spacecraft)
+
+Kepler is a space observatory launched by NASA to discover Earth-like planets orbiting other stars. The spacecraft, named in honor of the 17th-century German astronomer Johannes Kepler, was launched on 7 March 2009. It has been active for as of 11, 2017.
+The Kepler mission is "specifically designed to survey a portion of our region of the Milky Way galaxy to discover dozens of Earth-size planets in or near the habitable zone and determine how many of the billions of stars in our galaxy have such planets". A photometer continually monitors the brightness of over 145,000 main sequence stars in a fixed field of view. This data is transmitted to Earth, then analyzed. The aim is to find periodic dimming caused by extrasolar planets which cross in front of their host star. As of January 2013, there are a total of 2,740 candidates.
+Kepler is part of NASA's Discovery Program of relatively low-cost primary science missions. The telescope's construction and initial operation were managed by NASA's Jet Propulsion Laboratory. To start with, the mission lifetime was 3.5 years. In 2012, this was extended to 2016, partly due to difficulties in processing and analyzing the huge volume of data collected by the spacecraft.
+The Kepler space telescope has had to give up its planet-hunting mission because its pointing system has problems which the engineers cannot fix.
+
+

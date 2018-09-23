@@ -1,0 +1,33 @@
+Taylor series
+
+A Taylor series is an idea used in computer science, calculus, and other kinds of higher-level mathematics. It is a series that is used to create an estimate (guess) of what a function looks like. There is also a special kind of Taylor series called a Maclaurin series.
+
+The theory behind the Taylor series is that if a point is chosen on the coordinate plane (x- and y-axes), then it is possible to guess what a function will look like in the area around that point. This is done by taking the derivatives of the function and adding them all together. The idea is that it is possible to add the infinite number of derivatives and come up with a single finite sum.
+
+In mathematics, a Taylor series shows a function as the sum of an . The sum's terms are taken from the function's derivatives. Taylor series come from Taylor's theorem. 
+
+The Ancient Greek philosopher Zeno of Elea first came up with the idea of this series. The paradox called "" was the result. He believed that it would be impossible to add an infinite number of values and get a single finite value as a result.
+
+Another Greek philosopher, Aristotle, came up with an answer to the philosophical question. It was Archimedes, however, who came up with a mathematical solution using his method of exhaustion. He was able to prove that when something is split up into an infinite number of tiny pieces, they will still add up to a single whole when all of them are added back together. The ancient Chinese mathematician Liu Hui proved the same thing several hundred years later.
+
+The earliest known examples of the Taylor series are the work of Mādhava of Sañgamāgrama in India in the 1300s. Later Indian mathematicians wrote about his work with the trigonometric functions of sine, cosine, tangent, and arctangent. None of Mādhava's writings or records still exist today. Other mathematicians based their work on Mādhava's discoveries and worked more with these series until the 1500s.
+
+James Gregory, a Scottish mathematician, worked in this area in the 1600s. Gregory studied the Taylor series and published several Maclaurin series. In 1715, Brook Taylor discovered a general method for applying the series to all functions. (All of the previous research showed how to apply the method to only specific functions.) Colin Maclaurin published a special case of the Taylor series in the 1700s. This series, which is based around zero, is called the "Maclaurin series".
+
+A Taylor series can be used to describe any function "ƒ"("x") that is a smooth function (or, in mathematical terms, "infinitely differentiable.") The function "ƒ" can be either real or complex. The Taylor series is then used to describe what the function looks like in the neighborhood of some number "a".
+
+This Taylor series, written as a power series, looks like:
+
+This formula can also be written in sigma notation as:
+
+Here "n"! is the factorial of "n". "ƒ"("a") is the "n"th derivative of "ƒ" at the point "a". formula_3 is a number in the function's domain. If the Taylor Series of a function is equal to that function, the function is called an "analytic function."
+
+When formula_4, the function is called a Maclaurin series. The Maclaurin series written as a power series looks like:
+
+When written in sigma notation, the Maclaurin series is:
+
+Some important Taylor series and Maclaurin series are the following.
+
+Where formula_15 is the nth Bernoulli number, and formula_16 is the natural logarithm.
+
+

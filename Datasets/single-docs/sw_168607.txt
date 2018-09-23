@@ -1,0 +1,10 @@
+Laplace transform
+
+The Laplace transform is a way to turn functions into other functions in order to do certain calculations more easily. This way of turning functions to other functions is very similar to U Substitution. The aim of this change is to be able to turn the hard work of integration into a simple algebraic addition and subtraction, just as logarithms allow us to add and subtract instead of multiplying and dividing. An example of its use is in Ruin Theory which is a subject of Actuarial Science with regards to insurance.
+
+Functions usually take a variable (say "t") as an input, and give some output (say "f"). The Laplace transform converts these functions to take some other input ("s") and give some other output ("F"). Because of certain shared properties of Laplace transforms, this makes it very easy to manipulate the original function into something useful.
+
+The Laplace transform is often formulated as:
+
+
+

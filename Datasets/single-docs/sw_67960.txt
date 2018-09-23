@@ -1,0 +1,24 @@
+Nitrogen fixation
+
+Nitrogen fixation is the process by which nitrogen is taken from its stable gas form (N) in air and changes into other nitrogen compounds (such as ammonia, nitrate and nitrogen dioxide) useful for other chemical processes. It is an important part of the nitrogen cycle.
+
+Nitrogen is fixed in biological and non-biological ways:
+
+Cyanobacteria are in most environments on Earth. They play key roles in the carbon and nitrogen cycle of the biosphere. Cyanobacteria use many sources of combined nitrogen, like nitrate, nitrite, ammonium, urea, or some amino acids. 
+
+Several cyanobacterial strains are also capable of diazotrophic growth. Diazotrophs fix nitrogen from the air, an ability that may have been present in their last common ancestor in the Archaean. 
+Cyanobacteria in coral reefs can fix twice the amount of nitrogen than on land—around 1.8 kg of nitrogen is fixed per hectare per day. The colonial marine cyanobacterium "Trichodesmium" may fix nitrogen on such a scale that it accounts for almost half of the nitrogen-fixation in marine systems on a global scale.
+
+Plants that contribute to nitrogen fixation include the legume family – Fabaceae – with taxa such as kudzu, clovers, soybeans, alfalfa, lupines, peanuts, and rooibos. They have symbiotic bacteria called "Rhizobia" in nodules in their root systems, producing nitrogen compounds that help the plant to grow and compete with other plants. When the plant dies, the fixed 
+nitrogen is released, making it available to other plants and this helps to fertilize the soil. Most legumes have this association, but a few genera (e.g., "Styphnolobium") do not. In traditional farming practice, fields are rotated through various types of crops, which usually includes one consisting mainly or entirely of clover or buckwheat (non-legume family "Polygonaceae"), which are often referred to as "green manure".
+
+Although most plants able to form nitrogen-fixing root nodules are in the legume family Fabaceae, there are a few exceptions:
+
+
+
+All these families belong to the orders Cucurbitales, Fagales, and Rosales, which together with the Fabales form a clade. In this clade, Fabales were the first lineage to branch off; thus, the ability to fix nitrogen was lost in most descendants of the original nitrogen-fixing plant. 
+
+Biological nitrogen fixation was discovered by Hermann Hellnegel (18311895) and Martinus Beijerinck (18511931).
+
+
+

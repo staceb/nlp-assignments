@@ -1,0 +1,6 @@
+Norm (mathematics)
+
+In mathematics, the norm of a vector is its length. For the real numbers the only norm is the absolute value. For spaces with more dimensions the norm can be any function formula_1 with
+
+
+

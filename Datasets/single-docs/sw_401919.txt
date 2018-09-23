@@ -1,0 +1,5 @@
+G0 phase
+
+The G phase (called the G zero phase) or resting phase is a period in the cell cycle in which cells are inactive. Cells enter G phase from G and stop dividing. Some cells, such as neurons, remain in G for indefinite period. Some cells enter G phase semi-permanently, such as some cells of the liver and kidney. Many cells do not enter G and continue to divide throughout an organism's life, e.g. epithelial cells.
+
+

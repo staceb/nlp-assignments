@@ -1,0 +1,11 @@
+Purchasing Power Parity
+
+There are two ways to measure GDP (total income of a country) of different countries and compare them. One way, called GDP at exchange rate, is when the currencies of all countries are converted into USD (United States Dollar). The second way is GDP (PPP) or GDP at Purchasing Power Parity (PPP).
+
+Purchasing Power Parity (PPP) is measured by finding the values (in USD) of a basket of consumer goods that are present in each country (such as orange juice, pencils, etc.). If that basket costs $100 in the US and $200 in the United Kingdom, then the purchasing power parity exchange rate is 1:2. 
+
+For example, suppose that Japan has a higher GDP per capita ($18) than the US ($16). That means that Japanese on average make $2 more than normal Americans. However, they are not necessarily richer. Suppose that one gallon of orange juice costs $6 in Japan and only $2 in the US; then $6 in Japan exchanges to only $2 worth of US goods, since the Japanese can only buy 3 gallons while the Americans can buy 8 gallons. We have decided to use 1 gallon of orange juice as a reference basket of goods. Therefore we can create a PPP index for Japan in terms of the US as 1/3.  Therefore, in terms of orange juice, the Americans are richer, and in this example the US has a GDP (PPP) of $16, unchanged since it is the reference currency. Japan, however, has GDP (PPP) of only $6 since the $18 in Japan can only buy 3 gallons of orange juice, which represents only $6 of US goods.
+
+Now apply this to daily life. The orange juice represents the previously mentioned "basket of goods" which represents the cost of living in a country. Therefore, even if a country has a higher GDP per capita (individual income), that country's people may still live poorer if the cost of living is higher.
+
+

@@ -1,0 +1,24 @@
+Henry (unit)
+
+In physics, and electronics, the henry (symbol H) is the SI unit of inductance. It is named after Joseph Henry (1797–1878), the American scientist who discovered electromagnetic induction. (In England, Michael Faraday (1791–1867) discovered the same thing independently. They invented it about the same time.) The magnetic permeability of a complete vacuum is 4π×10 H/m (henry per meter).
+
+The National Institute of Standards and Technology provides guidance for American users of SI to write the plural as henries. People do not capitalize unit names.
+
+If the rate of change of current in a circuit is one ampere per second and the resulting electromotive force is one volt, then the inductance of the circuit is one henry. Other equivalent combinations of SI units are as follows:
+
+where
+
+A = ampere
+<br>C = coulomb
+<br>F = farad
+<br>J = joule
+<br>kg = kilogram
+<br>m = meter
+<br>s = second
+<br>Wb = weber
+<br>T = tesla
+<br>V = volt
+<br>Ω = ohm.
+
+
+

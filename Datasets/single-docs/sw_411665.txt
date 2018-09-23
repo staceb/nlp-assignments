@@ -1,0 +1,5 @@
+Celestial coordinate system
+
+A Celestial coordinate system is a coordinate system that helps astronomers specify the location of objects in the sky. These objects may be stars, planets or even satellites. There are several such coordinate systems, all of them are spherical.
+
+

@@ -1,0 +1,12 @@
+Bending
+
+"This article is about the structural behavior. For other meanings see Bending (disambiguation)."
+
+In engineering and mechanics, bending (also known as flexure) characterizes the behavior of a structural elementsubjected to a lateral load (i.e. at right angles to its length). 
+
+A structural element subjected to bending is known as a beam. 
+
+A closet rod sagging under the weight of clothes is an example of a beam experiencing bending. 
+
+
+

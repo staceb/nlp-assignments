@@ -1,0 +1,11 @@
+Exclusive disjunction
+
+Exclusive disjunction (also called exclusive or, XOR) is a Logic operation on two values. It will be true, if exactly one of the two values is true. Otherwise it will be false. This also means that the result of 'XOR' will be true only if both the values are different. Same values will result in a false.
+
+The best way to remember a XOR operation is: "One or the other, but not both".
+
+This is different from inclusive disjunction.
+
+The truth table of formula_1 (also written as formula_2, or formula_3) is as follows:
+
+

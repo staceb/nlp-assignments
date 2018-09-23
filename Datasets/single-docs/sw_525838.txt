@@ -1,0 +1,16 @@
+Diatonic scale
+
+The diatonic scale is one of the scales used in music. It is also called heptatonic scale, because it uses seven distinct pitch classes, or tones. For each octave there are five whole steps and two half steps. The two half steps are separated by two or three whole steps. The word "diatonic" comes from the Greek , meaning progressing through tones.
+
+The seven pitches of any diatonic scale can be obtained using a chain of six perfect fifths. An example of this would be the seven natural pitches which form the C-major scale. It can be constructed from a stack of perfect fifths starting from F:
+This property of the diatonic scale is called Pythagorean tuning. It was historically relevant and contributed to the worldwide diffusion of diatonic scales, because it allowed musicians to tune musical instruments easily by ear.
+
+Any sequence of seven successive natural notes, such as C-D-E-F-G-A-B, and all transpositions, are diatonic scales. Piano keyboards are designed to play natural notes, which are diatonic scales, with their white keys. A diatonic scale can be also described as two tetrachords separated by a whole tone.
+
+The term "diatonic" originally referred to the diatonic genus, one of the three genera of the ancient Greeks. In musical set theory, Allen Forte classifies diatonic scales as set form 7–35.
+
+The following scales are diatonic
+The sequence of eight white keys on the piano is not diatonic, because there is a third half step, which is usually between the seventh and eighth note. This scale is called whole-tone scale. Another example for scales that are not diatonic are the Gypsy scales, which are often used for folk music.
+
+
+

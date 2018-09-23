@@ -1,0 +1,36 @@
+Squamata
+
+Squamata ("scaled reptiles") is the order of reptiles which includes lizards and snakes. 
+
+Their skins have overlapping horny scales. They also have movable quadrate bones, which make it possible to move the upper jaw relative to the braincase. This is particularly visible in snakes, which are able to open their mouths very wide to accommodate comparatively large prey. 
+
+They are the most variably-sized order of reptiles, ranging from the 16 mm (0.63 in.) Dwarf gecko ("Sphaerodactylus ariasae") to the 8 m (26 ft.) Green Anaconda ("Eunectes murinus").
+
+This is the only living reptile group which has both viviparous and ovoviviparous species, as well as the usual oviparous (egg-laying) reptiles.
+
+The Squamata does not include the Tuataras from New Zealand. They are a sister group to the squamates. The Crocodilia are much more distantly related.
+
+Squamates are a monophyletic group that is a sister group to the tuatara. The squamates and tuatara together are a sister group to crocodiles and birds, the living archosaurs. 
+
+Squamate fossils first appear in the early Jurassic, but a mitochondrial phylogeny suggests that they evolved in the late Permian. The evolutionary relationships within the squamates are not yet completely worked out, with the relationship of snakes to other groups being most problematic. 
+
+From morphological data, Iguanid lizards have been thought to have diverged from other squamates very early, but recent molecular phylogenies, both from mitochondrial and nuclear DNA, do not support this early divergence. Because snakes have a faster molecular clock than other squamates, and there are few early snake and snake ancestor fossils, it is difficult to resolve the relationship between snakes and other squamate groups.
+
+Recent research suggests that the evolutionary origin of venom lies deep in the squamate phylogeny. 60% of squamates are venomous Toxicofera. 
+
+Venom in the families Caenophidia, Anguimorpha, and Iguania evolved once, then the three families diverged. All three lineages share nine common toxins. The fossil record shows that the divergence between anguimorphs, iguanians, and advanced snakes dates back roughly 200 MYA to the Upper Triassic/Lower Jurassic.
+
+Snake venom evolved by the duplication of a gene encoding for a normal regulatory or bioactivity protein. Then the copy was expressed in the venom gland. 
+
+Different toxins have been recruited from different proteins and are diverse as the functions themselves. 
+
+Natural selection has driven the diversification of the toxins to counter the defences of the prey. Venom genes form large multigene families, and evolve by protein evolution. This leads to a diversification of toxins that let sit-and-wait predators attack a wide range of prey. 
+
+The rapid evolution and diversification is the result of a prey/predator evolutionary arms race where each adapts to counter the other.
+
+Classically, the order is divided into three suborders:
+
+
+Of these, the lizards form a paraphyletic group. In newer classifications the name Sauria is used for reptiles and birds in general, and the Squamata are divided differently:
+
+

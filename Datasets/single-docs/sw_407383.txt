@@ -1,0 +1,11 @@
+Moulding
+
+Moulding (or molding) is the shaping of raw material using a solid frame of a particular shape, called a pattern. It is a process used in manufacturing. A mould is a hollow container that will hold the liquid material until it turns solid. The liquid hardens or sets inside the mould, adopting its shape. Materials commonly used imoldingng include plastic, metal, glass and ceramic.
+
+Tyres are made using moulds, where the molten rubber is poured into the mould and then left to set. Moulds can vary greatly in size. They are usually made of hardened steel which can resist wearing.
+
+Compression moulds work by taking the empty mould and placing a piece of unshaped rubber inside. The mould is then pressed shut using high heat and pressure forcing the rubber to liquify and flow into the recess created for the part while excess rubber is forced into the moulds dump groove. It is important when making a mould to keep in mind that when the part cools it will shrink slightly.
+
+Injection moulds work under the same principle as compression moulds except that instead of pressing the mould together on the rubber the mould is first closed and the liquid rubber is then injected into a fill hole drilled into the mould. This is used more for plastic products.
+
+

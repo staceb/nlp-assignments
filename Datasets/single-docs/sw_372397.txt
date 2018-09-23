@@ -1,0 +1,12 @@
+Prophylaxis (chess)
+
+Prophylaxis is a term in chess, as well as being a general idea. It was introduced by the grandmaster Aaron Nimzovich in his book "My system" in the 1920s. The term refers to actions taken by a player to anticipate and thwart the opponent's plans, and moves of these type are often called "prophylactic moves".
+One simple example of a prophylactic move is when a player moves a rook's pawn forward h3 or h6 to prevent a back rank mate, and at the same time prevent an enemy bishop or knight from occupying g4 or g5. In the example, mate was not an issue, but h3 was still played by world champion Karpov.
+
+Other examples are so subtle that club players would probably never think about them as possible moves. In the second example Nimzovich himself was playing black. In general, he wanted to turn his KP into a passed pawn by advancing it. However, the direct ...e5 does not work well, because the black king gets pushed back:
+
+Nimzovich found another way to go:
+
+To avoid this, White himself neeeds to play a prophylactic move, namely:
+
+

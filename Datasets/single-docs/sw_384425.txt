@@ -1,0 +1,30 @@
+Gamma function
+
+In mathematics, the gamma function (Γ("z")) is an extension of the factorial function to all complex numbers except negative, integers. The argument of the function is shifted down by one. This means that if n is a positive integer
+
+The gamma function is defined for all complex numbers. But it is not defined for negative integers and zero. For a complex number whose real part is not a negative integer, the function is defined by:
+
+This improper integral is convergent. Legendre first used the notation Γ("z"). If the real part of the complex number "z" is positive (Re("z") > 0), then the integral
+
+This means that
+
+The gamma function also has a duplication formula:
+
+This formula is a special case of the multiplication theorem
+
+A property of the function is that:
+
+A famous value of the function at a non-integral point is:
+
+This is found if we set "z" = 1/2 in the reflection or duplication formulas. If we simply make the substitution "u = √t" in the integral definition of the gamma function, we get a Gaussian integral. In general, for non-negative integer values of "n" we have:
+
+where "n"<nowiki>!!</nowiki> denotes the double factorial and, when "n" = 0, (-1)!! = 1. 
+
+The derivatives of the gamma function are described in terms of the polygamma function. For example:
+
+For positive integer "m" the derivative of gamma function can be calculated as follows (here γ is the Euler–Mascheroni constant):
+
+The "n"-th derivative of the gamma function is:
+
+
+

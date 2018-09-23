@@ -1,0 +1,25 @@
+Stop error screen
+
+A Stop error screen is a screen that a device shows when it has an error it cannot fix and has to stop. These screens are usually called screens of death because the device cannot recover from the error and the operating system or firmware has to close.
+
+The screens are usually color-coded such as a Windows computer showing a Blue Screen of Death (BSoD) or an Xbox showing a green screen of death when they have errors.
+
+If its settings tell it to, the computer will do a "core dump" and save data to a disk file, or "dump file", for later, to help an expert fix the problem.
+
+These screens are usually caused by problems in device drivers. They can also be caused by hardware errors, such as bad RAM or power supplies, overheating of the inside of the system, or hardware which is run at higher rates than the limits. This is called overclocking.
+
+These errors were in all the Windows operating systems since Windows 3.1.
+
+The first BSODs were seen when starting Windows 1.0 and Windows 2.0, and had random data, mess, shown with a blue screen, hence the name.
+
+The first BSOD that looked like an error was in Windows 3.1. BSODs like that appeared in Windows 95, Windows 98 and Windows ME. These showed an error message with an all-blue screen. The error screen was shown when there was a startup error, or when there was some other error such as an error occurring in a hardware driver file. 
+
+When Bill Gates was showing Windows 98 to the public, a BSOD happened. The computer crashed when his assistant, Chris Capossela, connected a scanner to show that Windows 98 could support Plug and Play. Bill Gates responded: "That must be... er... that must be why we're not shipping Windows 98 yet!" 
+
+Beginning with Windows 2000, the BSOD remained an all-blue color, but changed to show more detailed technical information, and also listed a few steps that the user could do to fix the problem causing the BSOD to appear. The same screen was used in Windows XP, Windows Vista, and Windows 7.
+
+Windows 8 and Windows 8.1 uses a lighter blue color for the BSOD, and made the message easier to read. It even added an emoticon of a frowing face. The technical details was replaced with a simple line of text showing the name of the crash error so that the user could look it up on the Internet.
+
+
+
+

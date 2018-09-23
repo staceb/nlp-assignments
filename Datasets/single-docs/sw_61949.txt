@@ -1,0 +1,20 @@
+Basic Roman
+
+The Basic Roman spelling of English is a 2002 proposal for regular English spelling. It is based on five principles:
+
+The Basic Roman system serves no particular standard of English pronunciation. Instead, it gives one way to spell the different varieties of English. The system uses 22 Roman letters to represent the set of English phonemes considered by J.C. Wells. The letters ‘j’, ‘q’, ‘w’ and ‘x’ are not used (letters ‘j’ and ‘w’ are used in an extended version of the Basic Roman spelling, see below).
+
+By way of illustration, the following reference text by V. Yule is given in traditional spelling and in Basic Roman (shown is the non-rhotic version; in the rhotic one, relevant words like ‘daughter’, ‘heart’, ‘pictures’ etc. are spelled ‘dootar’, ‘haart’, ‘pikcharz’ etc.):
+
+A more elaborate version of the system is the Extended Basic Roman spelling of English, which uses also the letters ‘j’ and ‘w’, and has two specific two-letter combinations for the English voiced and voiceless dental fricatives. The above sample text would appear in Extended Basic Roman (non-rhotic version) as follows:
+
+The Extended Basic Roman is close to one-to-one phoneme-grapheme correspondence, paving the way to a pronunciation respelling for English by means of the closely related Roman Phonetic Alphabet for English.
+
+The Roman Phonetic Alphabet for English is a system based on the Extended Basic Roman spelling of English. It includes two pairs of stress marks which disambiguate words which share the same spelling but have different meanings. This is to get a one-to-one phoneme (sound)–grapheme (spelling) correspondence. The system has certain similarities to the systems of the NBC Handbook of Pronunciation, the Carnegie Mellon version of Arpabet alphabet, and the World Book Dictionary.
+
+Primary stress is indicated by the mark <’>, respectively <”> in the case of \\ and \\. Secondary stress is shown by <,> and <„> respectively. Stress marks are placed before the syllables concerned.
+
+By way of illustration, the following reference text by V. Yule is given in traditional English spelling and in Roman Phonetic Alphabet transcription (non-rhotic version):
+
+
+

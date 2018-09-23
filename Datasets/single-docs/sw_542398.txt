@@ -1,0 +1,19 @@
+Intel NUC
+
+The Intel NUC (Next Unit of Computing) is a very small desktop computer replacement that uses the ultra compact form factor. It is built to be a very small PC that can be used for basic computer jobs like word processing and internet reading. It can also be used to play most computer games. Some people use the NUC as a home theater computer because of its small size and how quiet it is.
+
+The Intel NUC is on its sixth generation. The generations were called, in order from oldest to newest, Sandy Bridge, Ivy Bridge, Bay Trail, Haswell, Broadwell/Braswell, and Skylake. The names come from the processor that is on the motherboard of the NUC.
+
+Sandy Bridge
+
+Ivy Bridge
+
+Bay Trail
+
+Haswell
+
+Broadwell / Braswell
+
+Skylake
+
+

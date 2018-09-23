@@ -1,0 +1,14 @@
+Electromagnetic spectrum
+
+The electromagnetic (EM) spectrum is the range of all possible electromagnetic radiation. Electromagnetic radiation can be divided into octaves — as sound waves are — adding up to eighty-one octaves. Physicists have studied electromagnetic radiation with wavelengths from thousands of kilometres down to fractions of the size of an atom. It is commonly said that EM waves beyond these limits are uncommon, although this is not known to be true. The short wavelength limit is likely to be the Planck length, and the long wavelength limit is the size of the universe itself, though in principle the spectrum is infinite. 
+
+Radiation of shorter wavelength than about 30 μm is commonly detected by its ability to exceed the ionization energy of atoms. Radiation of longer than 3mm is commonly detected by its ability to induce electrical currents. Radiation between these limits was little used until the 21st century because of the difficulty of detecting it. 
+
+Nearly all objects in the universe emit, reflect or transmit some light. (Black holes do not.) The distribution of this light along the electromagnetic spectrum (called the "spectrum" of the object) is determined by the object's composition. Several types of spectra can be distinguished depending upon the nature of the radiation coming from an object.
+
+Spectroscopy is the branch of physics that studies matter by its emitted or reflected spectra.
+
+NOTE: The AUDIO entry in this graphic is there for comparison only. Sound waves and radio waves are two different things entirely.
+
+
+

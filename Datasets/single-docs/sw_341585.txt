@@ -1,0 +1,16 @@
+Hilbert's problems
+
+In 1900, the mathematician David Hilbert published a list of 23 unsolved mathematical problems. The list of problems turned out to be very influential. After Hilbert's death, another problem was found in his writings; this is sometimes known as Hilbert's 24th problem today. This problem is about finding criteria to show that a solution to a problem is the simplest possible.
+
+Of the 23 problems, three were unresolved in 2012, three were too vague to be resolved, and six could be partially solved. Given the influence of the problems, the Clay Mathematics Institute formulated a similar list, called the Millennium Prize Problems in 2000.
+
+The formulation of certain problems is better than that of others. 
+Of the cleanly-formulated Hilbert problems, problems 3, 7, 10, 11, 13, 14, 17, 19, 20, and 21 have a resolution that is accepted by consensus. On the other hand, problems 1, 2, 5, 9, 15, 18, and 22 have solutions that have partial acceptance, but there exists some controversy as to whether it resolves the problem.
+
+The solution for problem 18, the Kepler conjecture, uses a computer-assisted proof. This is controversial, because a human reader is unable to verify the proof in reasonable time. 
+
+That leaves 16, 8 (the Riemann hypothesis) and 12 unresolved. On this classification 4, 16, and 23 are too vague to ever be described as solved. The withdrawn 24 would also be in this class. 6 is considered as a problem in physics rather than in mathematics.
+
+Hilbert's twenty-three problems are:
+
+

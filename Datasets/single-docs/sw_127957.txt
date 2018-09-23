@@ -1,0 +1,5 @@
+One Laptop Per Child
+
+One Laptop Per Child is an organization founded at the Massachusetts Institute of Technology. It is a non-profit organisation. It wants to make cheap laptops so that children in less rich countries without as much technology can also use a computer to learn. The laptop is called an XO. It has an operating system called sugar based on GNU/Linux. It also can run Windows.
+
+

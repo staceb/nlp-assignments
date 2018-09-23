@@ -1,0 +1,5 @@
+Power of two
+
+In mathematics, a power of two is any number which is an integer power of two. Powers of two are important in binary just as powers of ten (like 1, 10, 100, etc.) are important in decimal. The numbers one less than powers of two are called Mersenne numbers.
+
+

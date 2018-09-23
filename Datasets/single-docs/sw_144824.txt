@@ -1,0 +1,13 @@
+Snell's law
+
+Snell's law is the scientific law of the refraction of light or other waves. In optics, Snell's law is about the speed of light in different media. The law states that when light passes through different materials (for example from air to glass) the ratio of sines of the incidence (incoming) angle and the refraction (outgoing) angle does not change:
+
+With each formula_2 as the angle measured from the normal of the boundary, formula_3 as the velocity of light in the respective medium (SI units are meters per second, or m/s). formula_4 is the refractive index of the medium. 
+
+The index of refraction of a vacuum is 1 and the velocity of light in a vacuum is formula_5. When a wave passes the material where the index of refraction is n, the velocity of the wave becomes formula_6.
+
+Snell's law can be proved by Fermat's principle. Fermat's principle states that "light travels along the path which takes the least time". 
+
+The idea has a long history. The problem had the attention of Hero of Alexandria, Ptolemy, Ibn Sahl, and Huygens. Ibn Sahl actually discovered the law of refraction. In "Traité de la Lumiere", 1678, Huygens showed how Snell's law of sines could be explained by, or derived from, the wave nature of light.
+
+

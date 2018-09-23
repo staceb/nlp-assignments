@@ -1,0 +1,5 @@
+Time domain
+
+Time domain is the display of mathematical graph with respect to time. The time can be in the form of discrete time (for digital signal) or in continuous time (for analogue signal).
+
+

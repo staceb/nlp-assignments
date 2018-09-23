@@ -1,0 +1,43 @@
+Alternation of generations
+
+The term alternation of generations is used to describe a process in the life cycle of some eukaryotes. It describes an alternation in forms which occurs in plants and some protists. One form is diploid, with 2"n" chromosomes: the sporophyte. The other form is haploid with only one set of chromosomes: the gametophyte. Both forms are multicellular.
+
+In sexual reproduction, organisms have a haploid phase with one set of chromosomes and a diploid phase with two sets of chromosomes. In animals the body (soma) is usually diploid, while the haploid stage is only the gametes. In other eukaryotes alternation of generations may occur. It means that both the diploid and the haploid phases are multi-cellular organisms. The classic example is the mosses, where the green plant is a haploid gametophyte, and the reproductive phase is the diploid sporophyte. The two forms often occur together, as shown in the illustration on the right
+The term "alternation of generations" refers only to the sexual cycle; organisms often have asexual reproduction as well. The term should not be confused with life cycle stages in animals, which may look very different, but where all cells have two sets of chromosomes.
+
+The alternation of generations is an important concept in the evolution of plants. All land plants have alternation of generations.
+
+In mosses and their relatives (Bryophytes), the haploid gametophyte is the dominant generation, and the diploid sporophytes are sporangium-bearing stalks growing from the gametophytes. In ferns, the diploid sporophyte is much larger, but the haploid gametophyte is also a little plant that can grow for a long time.
+
+For flowering plants ("Angiosperms"), the sporophyte generation is almost the whole life cycle (the green plant, roots etc.) except the small reproductive structures (pollen and ovule).
+
+The sporophyte produces spores (hence the name), by meiosis. These develop into a gametophyte. Both the spores and the resulting gametophyte are haploid, meaning they have half as many chromosomes. Later, the mature gametophyte produces male or female gametes (or both) by mitosis. The fusion of male and female gametes (fertilization) produces a diploid zygote which develops into a new sporophyte. This is the cycle which is known as alternation of generations or alternation of phases.
+
+In the landmark work "Variation and evolution in plants", Stebbins discussed how alternation of generations related to the overall evolution of plants. He began:
+
+Later Stebbins comments:
+The point is that, in diploids, new alleles are sheltered and (collectively) they are a reservoir of potential variation in the population.
+
+Most algae have dominant gametophyte generations, but in some species the gametophytes and sporophytes are morphologically similar (isomorphic). 
+
+Bryophytes (mosses, liverworts and hornworts) have a dominant gametophyte stage on which the adult sporophyte is dependent on the gametophyte for nutrition. The sporophyte develops from the zygote inside the female sex organ, so its early development is nurtured by the gametophyte.
+
+An independent sporophyte is the dominant form in all clubmosses, horsetails, ferns, gymnosperms, and angiosperms (flowering plants) that have survived to the present day. 
+
+Early land plants had sporophytes that produced identical spores: they looked the same whichever sex they developed into. The ancestors of the gymnosperms evolved complex heterosporous life cycles: the spores producing male and female gametophytes were of different sizes. The female "megaspores" tending to be larger, and fewer in number, than the male "microspores". 
+
+During the Devonian, several plant groups independently evolved "heterospory" and later "endospory", in which single megaspores were kept inside the sporangia of the parent sporophyte. These endosporic megaspores had a miniature multicellular female gametophyte with female sex organs and egg cells. The ova were fertilised by free-swimming sperm produced by windborne miniatuarised male gametophytes in the form of pre-pollen. 
+
+The resulting zygote developed into the next sporophyte generation while still inside the single large female megaspore in the sporangium of the parent sporophyte. The evolution of heterospory and endospory were among the earliest steps in the evolution of seeds of the kind produced by gymnosperms and angiosperms.
+
+Some Chromalveolata, some fungi and some slime moulds have what seems to be genuine alternation of generations. These groups include such a wide range of different types that lt is difficult to say how common the phenomenon is. Certainly slime moulds are not a monophyletic group, and that may be true of the other two groups, 
+
+Alternation of generations between a multicellular diploid and a multicellular haploid generation does not exist in animals. 
+
+In some animals, there is a life cycle with different diploid stages. This has sometimes mistakenly been called "alternation of generations", but is quite different from what happens in plants and some protists. The most common case is that there are two distinct generations, where only one has sexual reproduction. Animals where it has been found include the Cnidaria and the Tunicates. The images on the right show the case of jellyfish: The medusa looks different from the polyp; they are different phenotypes. Only the medusa reproduces sexually. 
+
+Other animals with life cycle forms include parasites such as certain flukes, which live in different snails for one part of their life, and in vertebrates for another part. 
+
+In some cases, the cycle includes more than two generations. If this is the case, only one stage uses sexual reproduction. In aphids, for example, there is one generation that reproduces sexually, and up to forty that use parthenogenesis, a type of asexual reproduction.
+
+

@@ -1,0 +1,11 @@
+Absolute threshold of hearing
+
+The absolute threshold of hearing (ATH) is the minimum loudness of a pure tone that an average ear with normal hearing can hear with no other sound present. The absolute threshold relates to the sound that can just be heard by the organism. This is also known as the auditory threshold.
+
+The threshold of hearing in humans is 20 µPa (micropascals) = 2×10 pascal (Pa). The tympanic membrane of the ear operates as a sound pressure sensor, as does a microphone
+
+Measurement of the absolute hearing threshold provides some basic information about our auditory system. The tools used to collect such information are called psychophysical methods.
+
+Because human hearing is more sensitive to some frequency bands than others, thresholds vary depending on the frequency of the stimulus tone.
+
+

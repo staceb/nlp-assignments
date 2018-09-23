@@ -1,0 +1,5 @@
+Law of the excluded middle
+
+The law of the excluded middle is a simple rule of logic. It states that for any proposition, there is no middle ground. Every proposition is either true or false. For example, "Ginger is a cat" affirms the fact that Ginger is a cat. If it is true, then its opposite cannot also be true. If Ginger is a cat, then Ginger is not something else.
+
+

@@ -1,0 +1,25 @@
+Acute accent
+
+The acute accent ( ´ ) is a mark in many written languages. It is usually added to the top a vowel to show how to say it. Acute accents are sometimes added to consonants too. Sometimes, the acute accent changes the sound of the whole word by giving it stress in a sentence. This accent is part of many modern languages that use Latin, Cyrillic, and Greek alphabets. The acute accent is one of many similar marks called diacritics.
+
+The acute accent was first used in Ancient Greece. It told the speaker when to say a syllable with a high pitch. Another early accent mark was the apex. In Latin the apex marked long vowels.
+
+The acute accent is mainly used to tell readers about the sound of vowels in words. Sometimes it is very important to the meaning because it shows the difference between two similar words. For example, "resume" may mean to start again, but "résumé" is a summary of someone's work and school experience. Some languages use the accent to show the same changes in sounds, but others use it differently. The acute accent may show:
+
+Some languages use the accent to actually make new letters. Both Faroese and Icelandic add the acute accent to all of their vowels to make new letters. These letters, á, í, ó, ú and ý (plus é in Icelandic) are separate letters with different pronunciations. In Turkmen, the letter is a consonant: .
+
+Many languages have borrowed words from French. Many Norwegian words which came from French keep an acute accent. Some examples are: "allé", "kafé", "idé", "komité". Swedish examples include "café" and "resumé" (noun). Examples in English include: "attaché", "canapé", "cliché", "communiqué", "café", "décor", "fiancé", "passé", "toupée" and "touché". However, sometimes writers forget or choose not to use the accent mark.
+
+Some languages such as Arabic, Persian, or Japanese do not use alphabets. Some writers use the acute accent to tell how the words should sound when words from these languages are written in English. This is more common in older books and less common today.
+
+The ISO-8859-1 and Windows-1252 character encodings included "á", "é", "í", "ó", "ú", "ý". They also had how letters and accents looked when they were written as capital letters. Unicode has many more letters with the acute accent.
+
+To make an accented letter in a Microsoft Office software (Word, PowerPoint, Excel, etc.), users hold the key and press the apostrophe key once. Then, let the key go, and press the letter they want.
+
+On Apple Macintosh computers, users press "option-e" and then the vowel. Vowels can also be capitalised. For example, users make á by pressing "option-e" and then 'a'. Pressing "Option-e" and then "Shift-a" makes Á.
+
+On Wikipedia, users make these symbols by clicking on a link in a box. Some other websites work the same way.
+
+
+
+

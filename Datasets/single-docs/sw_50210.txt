@@ -1,0 +1,19 @@
+Feedback
+
+Feedback is when the effect of a process (or things that come out of it) have a connection to its cause (or things that go in to it).
+
+Sometimes, output from an electronic source affects future input. This can form what is called a "feedback loop". In some cases the output reinforces the input, making it stronger; this is called "self-reinforcing", "positive", "runaway" or "amplifying". In other cases, the output blocks or stops some of the input; this is called a negative feedback loop.
+
+Think about a sound system with input from a microphone and output to a loudspeaker. If the sound coming out of the loudspeaker is heard by the microphone, a loop is created, from speaker, to the microphone, through the cord, and back into the speaker. The loop is made up of sound and the electrical energy that the microphone and loudspeaker use to create that sound. If nothing stops the sound and electricity in the loop, it will travel faster and faster, which is why feedback starts out as a low hum and turns into a high squeal very quickly
+
+This is an example of a positive feedback loop: the output reinforces the input; it makes the input stronger.
+
+Think about two mirrors that face each other. The mirrors reflect each other infinitely, or forever, but in each reflection, the image in the mirror is slightly smaller than the image it reflects. The images get smaller and smaller until they are no longer visible.
+
+This is an example of a negative feedback loop: the output (the relfection) reduces the input; it makes the input smaller.
+
+Warm temperature caused a glacier to melt. As the glacier melts, areas that were at one time covered by snow and ice are now water or land. Because snow and ice reflect heat but water and land absorb heat, this causes the glacier to melt faster as more snow and ice is melted. This is not a feedback loop; it is a feedforward loop which accelerates the process.
+
+American mathematician Norbert Wiener made feedback loops more well known in 1948 in his book "Cybernetics". Cybernetics is the study of feedback loops and their role in communication and control.
+
+

@@ -1,0 +1,5 @@
+Futures contract
+
+A futures contract is an agreement between two parties. The buyer pays the seller today for the promise of the commodity at a future date. Futures contracts are traded in futures exchanges. The commodities can be things such as livestock, agriculture produce, metals, energy, and financial products. Trading futures can be profitable. But it is also complex and very risky. Instead of gaining a profit, an investor can lose the money invested. They could be required to pay more than they invested.
+
+

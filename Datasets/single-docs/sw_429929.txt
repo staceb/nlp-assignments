@@ -1,0 +1,6 @@
+Power system protection
+
+Power system protection is part of an electric power system. It protects an electrical network from faults by isolating the faulted parts from the healthy parts. This keeps the power system working as much as possible.
+
+
+

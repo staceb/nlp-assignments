@@ -1,0 +1,17 @@
+NVIDIA
+
+NVIDIA Corporation is an American based multinational corporation (has branches in many countries). They make graphics processors technologies for computers and small mobile devices (for example: smartphones). The company, based in Santa Clara, California, is supplies electronic chips for motherboard chipsets, smart phones' graphic controller, graphics processing units (GPUs), and game consoles. NVIDIA product lines include: GeForce, Quadro, and nForce (chipsets).
+
+"NVIDIA", is a combination of two parts: n (usually used as a mathematical variable) and video (Latin: to "see"). NVIDIA was established in 1993 by Jen-Hsun Huang, Curtis Priem, and Chris Malachowsky. In 2000 NVIDIA took intellectual possession of 3dfx, one of the biggest GPU producers in 1990s.
+
+On December 14, 2005, NVIDIA purchased ULI. At that time ULI supplied 30% Southbridge parts for chipsets to ATI), NVIDIA's competitor. In March 2006, NVIDIA bought the company Hybrid Graphics.
+On January 5, 2007, the company announced their acquisition of PortalPlayer, Inc.
+
+In December 2006 NVIDIA, along with its main rival in the graphics industry AMD, received subpoenas from the Justice Department. This was regarding possible antitrust violations in the graphics-card industry.
+
+Forbes magazine called NVIDIA "Company of the Year for 2007" for accomplishing company goals in last 5 years.
+
+
+
+
+

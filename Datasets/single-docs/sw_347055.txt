@@ -1,0 +1,9 @@
+Electrical filament
+
+In a light bulb there is a small thin wire with two bigger wires holding it up. This wire is called a filament. The filament is the part of the light bulb that produces light.
+
+Filaments in incandescent light bulbs are made of tungsten. When electric current goes through the filament, the filament glows. It may also be known as the electron emitting element in a vacuum tube. To make the bulb produce more light, the filament is usually made of coils of fine wire, also known as the coiled coil.
+
+The first successful light bulb filaments were made of carbon. As the filaments got hotter, their electrical resistance decreased. Carbon filaments were heated up by current passing through them. Changing the carbon to graphite changed the lamp to a positive temperature number (rather than a negative) like a metallic conductor. Changing the filament helped stabilize the amount of power it used. In 1902 a tantalum filament was developed which made lamps even more efficient. Tantalum filaments could operate at higher temperatures. In 1906 the tungsten filament was invented. The tungsten filament is a solid cylinder equal to the power of the coiled coil. 
+
+

@@ -1,0 +1,21 @@
+Lorentz factor
+
+The Lorentz factor is the factor by which time, length, and mass changes in for an object moving at speeds close to the speed of light (relativistic speeds).
+
+the equation is:
+where v is the speed of the object and c is the speed of light. The quantity (v/c) is often labeled formula_2 (beta) and so the above equation can be rewritten:
+
+Classical relativity is the idea that if you throw a ball at 50 mph while running at 5 mph, the ball travels 55 mph. Of course, the ball still moves away from you at 50 mph, so if one were to ask you, you "saw" the ball traveling 50 mph. Meanwhile, your friend, Rory saw that you happened to be running at 5 mph. He would say that the ball was traveling 55 mph. Both of you are right, you just happened to be moving "with" the ball.
+
+The speed of light, c, is 670,616,629 mph. So if you are in a car traveling half the speed of light (0.5c) and you turn on your headlights, the light moves away from you at 1 c... or is it 1.5 c? It ends up that c is c no matter what. The next section explains why it's not c - 0.5c.
+
+When a clock is in motion, it ticks slower by a tiny factor of formula_4. The famous twin paradox says that if there were two twins and twin A stayed on earth while twin B traveled near c for a few years, when twin B got back to earth, he would be many years younger than twin A (because he experienced less time). For example, if twin B left when he was 20 and traveled at .9c for 10 years, then we he got back to earth, twin B would be 30 (20 years + 10 years) and twin A would be almost 43:
+Twin B would not notice that time had slowed at all. To him, if he looked out a window, it would seem like the universe was moving past him, and therefore slower (remember, to him, he's at rest). So time is relative.
+
+Things shorter in the direction of movement when they travel at relativistic speeds. During twin B's journey, he would notice something strange about the universe. He would notice that it got shorter (contracted in the direction of his motion). And the factor by which things get shorter is formula_4.
+
+Relativistic mass also increases. It makes them harder to push. So by the time you reach 0.9999c, you need a very big force to make you go faster. This makes it impossible for anything to reach the speed of light.
+
+Still, if you travel a bit slower, say 90% of the speed of light, your mass only grows by 2.3 times. So, while it may be impossible to reach the speed of light, it may still be possible to get close to it—that is, if you have enough fuel.
+
+

@@ -1,0 +1,27 @@
+Polynomial remainder theorem
+
+The polynomial remainder theorem states that:
+
+for every polynomial formula_1 and every real number formula_2 the remainder of division of formula_1 by formula_4 is formula_5.
+
+This theorem can easily be proven, but it is important for various calculations.
+
+If we divided formula_1 by formula_4, it means that we found such formula_8 and formula_9, that
+
+formula_10.
+
+Let formula_11. Then formula_12 Q.E.D.
+
+Let's divide formula_13 by formula_14.
+
+The theorem says that the remainder will be equal to formula_15
+
+So, let's divide formula_16 by formula_14: formula_18.
+
+We get that formula_19.
+
+Sometimes, it can be difficult to calculate formula_5 fast (if the polynomial is very big). There exist methods of fast division by formula_4, so the computing the remainder could be easier than the whole function.
+
+The theorem itself is also very important for theoretical use. Its proof can easily be applied to another similar objects with little changes. It is used, for example, in the fundamental theorem of algebra, in the form of a generalisation in complex numbers.
+
+

@@ -1,0 +1,5 @@
+Mute (instrument)
+
+A mute is an object used to make a musical instrument quieter.
+
+

@@ -1,0 +1,11 @@
+Number theory
+
+Number theory is a part of mathematics. It explains what some types of numbers are, what properties they have, and ways that they can be useful.
+
+Topics in number theory are: 
+
+Important theorems in number theory are: 
+
+A well-known application of number theory is encrypted messaging (encryption). Data compression also makes use of the field.
+
+

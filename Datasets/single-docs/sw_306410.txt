@@ -1,0 +1,24 @@
+Chemical synthesis
+
+In chemistry, chemical synthesis means using chemical reactions to get a product, or several products. This happens by physical and chemical manipulations. Often, several different chemical reactions are used; one after another. In modern laboratory usage, a chemical synthesis is reproducible (if the experiment is done a second time, it will have the same results as the first time), reliable (not broken by small changes in conditions), and established to work in multiple laboratories.
+
+Chemists start to design a chemical synthesis by selecting compounds to combine. These starting compounds are known as reagents or reactants. Chemists use various reaction types to these to synthesize the product, or an intermediate product. This requires mixing the compounds in a reaction vessel. (The vessel can be a chemical reactor or a simple round-bottom flask.) Many reactions require some form of work-up procedure before the final product is isolated.
+
+The amount of product in a chemical synthesis is the reaction yield. Typically, chemical yields are expressed as a weight in grams or as a percentage of the total theoretical quantity of product that could be produced. A side reaction is an unwanted chemical reaction taking place that reduces the yield of the wanted product.
+
+The chemist Adolph Wilhelm Hermann Kolbe was the first to use the word "synthesis" in its present-day meaning.
+
+In most cases, a single reaction will not convert a reactant (starting chemical) into the desired reaction product. Chemists have many strategies to find the best sequence of reactions to make the desired product. In cascade reactions multiple chemical changes take place within a single reactant. In multi-component reactions up to 11 different reactants form a single reaction product. In a telescopic synthesis, one reactant goes through multiple transformations without isolating intermediates after each step.
+
+Organic synthesis is a special type of chemical synthesis. Only organic compounds are created in organic synthesis. The total synthesis of a complex product may take many steps to reach the goal product. These steps can take too much time. Chemists want to have skill in organic synthesis and being able to find a synthesis path with the least number of steps. The synthesis of very valuable or difficult compounds has earned chemists, such as Robert Burns Woodward, the Nobel Prize in Chemistry.
+
+If a chemical synthesis starts from basic laboratory compounds and yields something new, it is a "purely synthetic process". If it starts from a product isolated from plants or animals and then proceeds to a new compounds, the synthesis is called a "semisynthetic process".
+
+Most times, chemical synthesis means the overall, many step procedure for making a desired product. Sometimes, chemists use "chemical synthesis" to mean just a "direct combination reaction". In a direct combination reaction, two or more reactants combine to form a single product. The chemical equation for a direct combination reaction is:
+where A and B are elements or compounds, and AB is a compound consisting of A and B. Examples of combination reactions include:
+
+Four special synthesis rules are:
+
+
+
+

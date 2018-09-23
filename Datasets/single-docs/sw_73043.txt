@@ -1,0 +1,21 @@
+Translation (genetics)
+
+Translation is the second part of protein biosynthesis (the making of proteins). It is part of the process of gene expression. 
+
+Before translation comes: 
+
+In eukaryotes, translation happens on the ribosomes in the cytoplasm and in the endoplasmic reticulum. In bacteria, translation happens in the cell cytoplasm: they have no nucleus.
+
+Ribosomes are made of a small part and a large part which surround the mRNA (messenger RNA). In translation, mRNA has the base sequence to make a specific polypeptide. This sequence is originally specified by the DNA, and copied by the mRNA. The polypeptide can be a whole protein. Or, it can be just a part, waiting to be combined with other polypeptides so it can make a whole protein. The polypeptide also has to be folded before it works as a protein. 
+
+Amino acids are carried by specific tRNAs with anticodons to connect with mRNA's matching codons. Each tRNA has its own anticodon and carries an amino acid. An anticodon is always together with the same amino acid. 
+
+When the tRNA matches with the mRNA, the amino acid that is connected to the tRNA is unconnected from the tRNA and connected to the amino acid brought by the previous tRNA. 
+
+So, a ribosome works a lot like a stock ticker and ticker tape. Many ribosomes, together with mRNA, will attach themselves to the outer membrane of the rough endoplasmic reticulum. Any proteins that those ribosomes make go into the inside of the endoplasmic reticulum, where it will probably go into a vesicle later. The vesicles will then bring the proteins to other organelles or even the outside of the cell.
+
+Translation happens in four stages: activation (make ready), initiation (start), elongation (make longer) and termination (stop). These terms describe the growth of the amino acid chain (polypeptide). 
+
+Some antibiotics work by keeping translation from happening. Prokaryotic ribosomes are different from eukaryotic ribosomes. So antibiotics can kill bacteria without hurting the eukaryotic host. For example, antibiotics taken by a human might kill the bacteria that is making the human sick but wouldn't hurt the human.
+
+

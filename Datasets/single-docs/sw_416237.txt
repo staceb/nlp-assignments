@@ -1,0 +1,11 @@
+Technical writing
+
+Technical writing is communication about technical and occupational fields. The Society for Technical Communication (STC) defines technical writing as any form of communication that is: 
+
+The audience is a vital part of the writing. If, say, writing medical instructions to help patients and care-providers, the writing might be for doctors & nurses; lay people with a good general education; or poorly-educated people. The writing would be quite different in each case. For example:
+
+Technical writing communicates visually as well as verbally. A communication should follow an overall logic. One approach is descriptive, such as "Parts of a car engine". Another is the problem-solver: "How to change tyres". Practical encyclopedias usually inform and have how to do it sections. Medical encyclopedias are a good example. A medical encyclopedia provides information to readers about health questions.
+
+People have always needed how-to guides, which appeared in manuscripts before the arrival of print.
+
+

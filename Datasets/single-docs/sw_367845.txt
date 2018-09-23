@@ -1,0 +1,5 @@
+Immersion (mathematics)
+
+In differential geometry, an immersion is a function that maps one manifold onto another. Immersions are only possible if the manifolds have certain properties.
+
+

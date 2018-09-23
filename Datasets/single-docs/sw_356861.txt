@@ -1,0 +1,9 @@
+Faraday's law of induction
+
+Faraday's law of induction is a law of physics proposed by English physicist Michael Faraday in 1831. It is one of the basic laws of electromagnetism. The law explains the operation principles of generators, transformers and electrical motors.
+
+Faraday's law of induction says that when a magnetic field changes, it causes a voltage. That phenomenon was also found by Joseph Henry in 1831. To describe the law, the magnetic flux and also a surface with a wire loop as border. This leads to the following surface integral:
+
+When the flux changes, it produces electromotive force. The flux changes when B changes or when the wire loop is moved or deformed, or when both happens. The electromotive force can then be calculated with the following equation:
+
+

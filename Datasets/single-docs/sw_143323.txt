@@ -1,0 +1,25 @@
+Application-specific integrated circuit
+
+ASIC or Application-specific integrated circuit is a kind of integrated circuit. It is built for a particular use instead of for general-purpose use. Digital circuits are a common form of ASIC, but analog ASICs were manufactured beginning in the latter half of the 1990s.
+
+ASIC has advantages compared to Programmable Logic Device or Standard Logic IC. 
+
+There are also disadvantages of ASIC. 
+
+Design of ASIC is gate array design, cell base design, embedded array design, standard cell design, and structured ASIC design.
+Gate array design has elementary gate circuit at first base, (we) manufacture the products with putting ordered proper wire-layers.
+Manufacturing is quick because a finished product needs only production of wire-layers and it is cheap because of mass production of its foundation.
+However, because (we) form a circuit with formation of standard gate, it has worse contact rate and efficiency.
+
+Cell base design uses wire-layer between block that was designed and arranged and logical circuit. and product is manufactured .
+performance is better than gate array. but time of making cell base is longer than time of making gate array. and cost of making cell base is more expensive than cost of making gate array.
+
+Embedded array design use finished functional block were located. It was rest of theory for wired to use part of gate array. It was called that gate array and basis of cell were compro-mising.
+
+Standard cell design is a general term for gate array, cell base, embedded array. if standard cell is cell base IC, direction is different each company.
+
+Structured ASIC design uses customization of standard subsystems to speed design and production.
+Designers of ASIC use a hardware description language (HDL) such as Verilog or VHDL to describe the functionality of the design. 
+
+
+

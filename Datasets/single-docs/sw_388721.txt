@@ -1,0 +1,26 @@
+Coefficient of friction
+
+A coefficient of friction is a value that shows the relationship between the force of friction between two objects and the normal reaction between the objects that are involved. It is a value that is sometimes used in physics to find an object's normal force or frictional force when other methods are available.
+
+The coefficient of friction is shown by formula_1 . In that equation, formula_2 is the frictional force, formula_3 is the coefficient of friction, and formula_4 is the normal force.
+
+The coefficient formula_5 can be two different things. It is either the coefficient of static friction formula_6, or the coefficient of kinetic friction formula_7.The coefficient of static friction is the friction force between two objects when neither of the objects is moving. The coefficient of kinetic friction is the force between two objects when one object is moving, or if two objects are moving against each other.
+
+The coefficient of friction is dimensionless, meaning it does not have any units. It is a scalar, meaning the direction of the force does not affect the physical quantity.
+
+The coefficient of friction depends on the objects that are causing friction. The value is usually between 0 and 1 but can be greater than 1. A value of 0 means there is no friction at all between the objects. This is only theoretically possible. All objects in the real world will have some friction when they touch each other. A value of 1 means the frictional force is equal to the normal force. Some people think that the coefficient of friction can never be more than 1, but this is not true. A coefficient of friction that is more than one just means that friction is stronger than the normal force. An object such as silicone rubber, for example, can have a coefficient of friction much greater than one. The coefficient of friction can also be changed by the mass and speed of the moving object. 
+
+The friction force is the force exerted by a surface when an object moves across it - or makes an effort to move across it.
+
+The frictional force or force of friction can be expressed as
+
+formula_8 (1)
+
+where
+
+formula_2 is the frictional force (in Newton),
+
+formula_5 is the static (formula_6) or kinetic (formula_7) frictional coefficient (dimensionless) and
+
+formula_13 is the normal force (in Newton).
+

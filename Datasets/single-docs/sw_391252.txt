@@ -1,0 +1,21 @@
+Murchison meteorite
+
+The Murchison meteorite is named after the place it fell: Murchison, Victoria, Australia. It is large (>100 kg) and it was seen falling. It is one of the most studied meteorites, since it belongs to a group of meteorites rich in organic compounds, known as carbonaceous chondrites.
+
+On 28 September 1969 at about 10:58 am, a bright fireball was seen. It separated into three fragments before disappearing, leaving a cloud of smoke. About 30 seconds later, a tremor was heard. People found fragments over an area larger than 13 km², with fragments up to 7 kg. One, weighing 680 g, broke through a roof and fell in hay. The total collected mass exceeds 100 kg.
+
+The whole question of the biochemistry is: were the organic compounds definitely in the meteorite before it landed? Also, how many different kinds of compounds were there? The details below answer these questions as: Q1 yes; Q2 very many.
+
+This type of meteorite is rich in carbon and among the most chemically primitive meteorites. Murchison contains over 15 amino acids. All the amino acids found in the Murchison meteorite have been synthesised in laboratory experiments by the action of electric discharge on a mixture of methane, nitrogen, and water with traces of ammonia.
+
+The amino acids were mostly racemic. This means the chirality of their enantiomers are almost equally left- and right-handed, which suggests they are not caused by terrestrial contamination. A complex mixture of alkanes was isolated as well, similar to that found in the Miller-Urey experiment. Serine and threonine, often earthly contaminants, were absent from the samples.
+
+In 1997 research showed that individual amino-acids from Murchison were enriched in the nitrogen isotope N relative to their terrestrial counterparts. This confirmed an extraterrestrial source. The organic materials identified included sugar-like compounds (polyols).
+
+Research in 2005 showed that an amino acid like -proline is capable of catalyzing the formation of chiral sugars. The catalysis is non-linear, and produces more of one enantiomer than the other. In other words, a small excess of left-handed amino acids may explain terrestrial life's preference for right-handed sugars.
+
+Several lines of evidence show that the inside of well-preserved fragments from Murchison are pristine (not contaminated). A 2010 study using high resolution analytical tools including spectroscopy, identified 14,000 molecular compounds including 70 amino acids in a sample of the meteorite. There may be 50,000 or more unique molecular compositions; the team thinks millions of distinct organic compounds might be in the meteorite.
+
+Measured purine and pyrimidine compounds are indigenous components of the Murchison meteorite. Carbon isotope ratios for uracil and xanthine of 44.5‰ and +37.7‰, respectively, indicate a non-terrestrial origin for these compounds. These results show that many organic compounds which are components of life on Earth were already present in the early Solar System. They may have played a key role in life's origin.
+
+

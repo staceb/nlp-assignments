@@ -1,0 +1,17 @@
+CRISPR
+
+CRISPR is a term used in microbiology. It stands for Clustered Regularly-Interspaced Short Palindromic Repeats. These are a natural segment of the genetic code found in prokaryotes: most bacteria and archaea have it.
+
+CRISPR has a lot of short repeated sequences. These sequences are part of an adaptive immune system for prokaryotes. It allows them to remember and counter other organisms that prey on them, such as bacteriophages.
+
+They have the potential to modify the genes of almost any organism. They are part of a tool that allows precisely targeted cutting and insertion of genes in genetic modification (GM). Work is under way to find how they can be used to attack virus diseases in humans. 
+
+Each repetition is followed by short segments of "spacer DNA" from previous exposures to a bacterial virus or plasmid. CRISPR spacers recognize and cut up the foreign genetic elements in a manner like RNA interference in eukaryotic organisms.
+
+In effect, the spacers are fragments of DNA from viruses that have previously tried to attack the cell line. The foreign source of the spacers was a sign to researchers that the CRISPR/cas system could have a role in adaptive immunity in bacteria.
+
+The actual cutting is done by a nuclease called "Cas9". "Cas9" has two active cutting sites, one for each strand of the DNA's double helix. "Cas9" does this by unwinding foreign DNA and checking whether it is complementary to the 20 basepair spacer region of the guide RNA (the spacer region RNA). If it is, the foreign DNA gets chopped up.
+
+The technology has been used to switch off genes in human cell lines and cells, to study "Candida albicans", to modify yeasts used to make biofuel and to genetically modify crop strains.
+
+

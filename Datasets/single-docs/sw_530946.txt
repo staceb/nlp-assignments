@@ -1,0 +1,8 @@
+Approximation theory
+
+Approximation theory is a field of mathematics which is concerned with approximating the values of a function. Usually, the approximation is only needed for a range of values or domain. A good approximation will only have a small error in the domain of interest.
+
+There are different ways in which this approximation is done: common ones are using a combination of simpler functions or using polynomials. 
+
+
+

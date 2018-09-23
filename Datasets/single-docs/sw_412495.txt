@@ -1,0 +1,6 @@
+Paint.net
+
+Paint.net is a free software picture maker. Rick Brewster wrote the program as a student project at Washington State University. It was a simple replacement for Microsoft Paint. There have been many versions of the program and it has become more powerful. Users can create logos. They can also edit photographs, making them bigger or smaller, changing colors. Users can also change the file format of an image.
+
+
+

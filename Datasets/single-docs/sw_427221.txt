@@ -1,0 +1,28 @@
+High-voltage direct current
+
+A high-voltage direct current (HVDC) is a transmission system which uses direct electric current (DC) to transmit electricity. It is more efficient over long distances distances than the usual high-voltage alternating current (HVAC).
+
+HVDC was first demonstrated in 1882 in Germany. The technology was further developed during the 1930s in Sweden and Nazi Germany. Early commercial uses were in the Soviet Union and Sweden in 1951.
+
+The converter in HVDC system converts AC electricity to DC electricity or vice versa. Converting AC to DC, it acts as a rectifier. Converting DC to AC, it acts as an inverter.
+
+Types of HVDC converters:
+
+The transformer at the converter station ensures that the station is isolated from the AC system connected to the HVDC system. It also provides the correct voltage level which will be converted to DC voltage.
+
+Because harmonics are always produced in electronic equipment, harmonic filters are used at the AC terminal of the converter. The DC harmonic filters can also be used at the DC line after the AC/DC conversion.
+
+The electrode provides a ground return path for line current in monopolar configuration and unbalanced current in bipolar configuration.
+
+In HVDC monopole configuration, one of the terminals of the rectifier is connected to earth ground. The other terminal is connected to the transmission line. The earthed terminal may be connected to the corresponding connection at the inverting station by means of a second conductor.
+
+In HVDC bipolar configuration, a pair of conductors are used, each at a high potential with respect to ground in opposite polarity. The DC current flows via the positive pole and returns via the negative pole. The connection point between the positive and negative poles is grounded to the earth.
+
+In this configuration, virtually no earth or neutral current is flowing. When one pole is broken, half of its transfer capability is still available.
+
+A back-to-back HVDC station is a HVDC station in which both converters are located within the same building area where the length of the DC line is being kept as short as possible.
+
+
+
+
+

@@ -1,0 +1,16 @@
+Partial derivative
+
+In calculus, an advanced branch of mathematics, the partial derivative of a function is basically the derivative of one named variable, and the unnamed variable of the function is held constant. In other words, the partial derivative takes the derivative of certain indicated variables of a function and doesn't differentiate the other variable(s). The notation
+
+formula_1
+
+is usually used, although other notations are valid. Usually, although not in all cases, the partial derivative is taken in a multivariable function, (i.e., the function has three or more variables, whether independent or dependent variables).
+
+If we have a function formula_2, then there are several partial derivatives of "f(x, y)" that are all equally valid. For example,
+
+Or, we can do the following
+
+
+
+
+

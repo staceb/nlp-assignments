@@ -1,0 +1,5 @@
+Deep Space Network
+
+The Deep Space Network is NASA's group of large antennae at three sites around world. These communicate with satellites and probes in space. The antennae also listen to stars and other events in space.
+
+

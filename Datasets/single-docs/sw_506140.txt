@@ -1,0 +1,6 @@
+Snapchat
+
+Snapchat is a photo sharing app. Using the app, people can take pictures, add a text or drawing and send them to a list of contacts. The service started in September 2011. At first it was intended to send selfies that would disappear quickly but people learned how to save the pictures.
+As of June 24th, 2017 Snapchat CEO, has stated that the service was under attack apparently hackers have been logging in and changing users passwords and stealing photos. Users are advised to update the app, and change their passwords. The"For Your Eyes" only section of the "Memories" feature is not at risk, however the password data may be leaked to prying eyes.
+
+

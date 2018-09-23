@@ -1,0 +1,25 @@
+Words with Friends
+
+Words with Friends is a multi-player word game made by Zynga. Players take turns to place words like crosswords on a board, like in Scrabble. Up to 30 games can be played at the same time. Notifications are used to tell users when it is their turn. Players can find friends by their username, or by Facebook. They can also be randomly given an opponent using “Smart Match”.
+
+The game was released in July 2009. It can be played across the operating systems operating systems Android, Windows Phone and iOS (iPad, iPhone, iPod Touch).  It can also be played on Facebook, Kindle Fire, and Nook Tablet. In the game is a chat feature, which allows opponents to send messages to each other. From 2010 to 2011 Words with Friends was one of the top games in the iOS app store. It can be played as a free version with advertisements, or a paid version without ads.
+
+The rules of the game are like Scrabble. Some features are different, such as where bonus tiles are, and the points scored by some letters. Players have 7 randomly picked tiles. These tiles are filled whenever some are played on the board, until all 104 tiles have been used. Players take turns to put words on the board. If they do not play a word, they can swap tiles with ones not yet used, or simply pass their turn. Words can be placed up and down, or left and right. Players want to score as many points as they can.
+
+DW tiles double the value of a word. TW tiles triple the score of a word. When all 7 tiles are used in one move, 35 bonus points are scored.
+
+The game will end if a player plays all their tiles, and there are no more tiles in the bag. Also, if 3 moves that score 0 points are played one after the other, the game will end. However, this does not apply if both players’ score is zero. After the last tile is played, the other player will lose points equal to the score of their tiles. These points are given to the person who played the last tile. The player with the highest score wins.
+
+Players can move their tiles around, or shuffle them by pressing a button, or by shaking the device. Players can quit games if they want to. The game has two more features, “tile bag” and “word-o-meter”, both can be used for free. 
+
+173,000 words can be played. The list of words used is based on the Enhanced North American Benchmark Lexicon (ENABLE), and some words are added by Zynga, such as "QI" and "ZEN".
+
+The game was made by Shawn Lohstroh for brothers Paul and David Bettner, the owners of Newtoy Inc. at the time.
+
+In 2012, Zynga made many physical board game versions of "Words with Friends" with Hasbro. This includes a normal version, a “Luxe” version with a turning gameboard, and a “To Go” travel edition. 
+
+Many other games by Zynga have been released as board games, including "Draw Something", a "CityVille" edition of "Monopoly", and many kids' games like "FarmVille".
+
+Similar games include a math version "Math With Your Friends", a numbers game "Five-O" for iOS, an arithmetic game"GoSum" for iOS, "Letterpress" for iOS, "Alphajax" for Windows Phone, "Word Derby" for iOS, "Spellathon", another numbers game "Yushino" for iOS, "Word Frenzy", "Word Mix", Wordfeud, "7 Little Words", and "Chiktionary".
+
+

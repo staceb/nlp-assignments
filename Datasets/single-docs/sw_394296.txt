@@ -1,0 +1,5 @@
+Control unit
+
+The control unit is a circuit inside of the Central Processing Unit (CPU). It coordinates the activity of all other units in the computer system. It gives direction to the other parts of computer. Its main function is to fetch the code from the program, decode it and send the instructions to various units to perform the task. All computer resources are managed by the CU. It directs the flow of data between the CPU and the other devices.
+
+

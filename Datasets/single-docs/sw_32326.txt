@@ -1,0 +1,7 @@
+Google Maps
+
+Google Maps is a free Earth mapping service application and technology from Google. It provides satellite pictures and road maps for anywhere in the world, and can generate driving directions given a start and end street address. Maps can be embedded on other websites via the Google Maps API. It has a feature called Google Street View, which provides photos of streets in some places.
+
+
+
+

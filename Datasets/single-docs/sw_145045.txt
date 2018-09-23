@@ -1,0 +1,5 @@
+Cavity magnetron
+
+The cavity magnetron is a high-powered vacuum tube that makes microwaves using the interaction of a stream of electrons with a magnetic field. The 'resonant' cavity magnetron type of the earlier magnetron tube was invented by John Randall and Harry Boot in 1940. The high power of pulses from the cavity magnetron made centimetre-band radar practical. Shorter wavelength radars allowed the finding of smaller objects. The small cavity magnetron tube made the size of radar sets much smaller so that they could be put into in aircraft and ships used to find submarines. At present, cavity magnetrons are commonly used in microwave ovens and in various radar applications.
+
+

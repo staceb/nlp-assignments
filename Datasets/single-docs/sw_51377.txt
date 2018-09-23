@@ -1,0 +1,18 @@
+Supply and demand
+
+Supply and demand is a model of microeconomics. It describes how a price is formed in a market economy. There are two determining factors on such a market, the number of things made available, called supply, and the number of things consumers want, called demand. Supply and demand shows how producers and consumers interact with each other. This relationship will fix the price for a certain type of good. In perfect competition, the quantity demanded (demand) and the quantity supplied will be equal. This will fix the price. There will be economic equilibrium.
+
+For normal goods, and a normal market, there are four basic laws that determine the change in the market, if either supply or demand changes:
+
+When there is more supply, this will cause prices to fall because people will not want to pay more for items that can be found easily. When there is more demand, prices will go up because many people want to buy the same item but there is not enough supply for it.
+
+When demands for new goods and services go up, new markets come into being. The greater the demand, the faster this happens. This greater number of providers makes the supply go up, which forces the price down toward the cost of production and distribution.
+
+One of the first to see this was Adam Smith. In his book "The Wealth of Nations" (1776), he says that the demand was dependent on the price of a good. He did not see the inverse, that the demand also influences the price. David Ricardo published the book "Principles of Political Economy and Taxation" in 1817, where he explained market equilibrium as it is explained above. Others who are known for this model are Alfred Marshall and Léon Walras.
+
+There are certain goods which violate the model above
+
+The rules above are only valid for a perfect competition market: In such a market, there are many buyers and sellers, and no single buyer or seller can directly influence the price. If either the buyers or the sellers can influence this price, the market will react differently. Sometimes there is only one supplier (a monopoly). When this happens, the supplier chooses the price and the demand only determines how much is bought. The supplier will probably raise the price very high as long as people are still willing to buy at that price. If there is only one buyer, the market is called monopsony, and that buyer is able to fix the price.
+
+
+

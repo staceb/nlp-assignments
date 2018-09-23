@@ -1,0 +1,10 @@
+Saetgang Station
+
+Saetgang Station is a train station of Seoul Subway Line 9, located in Yeouido, Seoul, South Korea.
+
+
+Station has 2 side platforms, 4 tracks; two tracks are for passing express train. As local(All stop) train stops at platform, express train passes by using the passing track.
+
+Data of 2009 is calculated from July 24 (First Opened) ~ December 31.
+
+

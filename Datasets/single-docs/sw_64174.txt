@@ -1,0 +1,9 @@
+100 (number)
+
+100 (also written as one hundred, C, and "cent") is the natural number after 99 and before 101. It is the first three-digit number above zero. The number 100 is an abundant number.
+Usage
+
+100 m running competition.
+In binary and bcd -code, 100 means number four.
+
+

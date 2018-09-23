@@ -1,0 +1,12 @@
+Magnitude (astronomy)
+
+The apparent magnitude () of a celestial object is a number that is a measure of its brightness as seen by an observer on Earth. The brighter an object appears, the lower its magnitude value (i.e. inverse relation). The Sun, at apparent magnitude of −27, is the brightest object in the sky.
+
+Magnitude is a logarithmic measure. It is measured in a specific wavelength or passband, usually in optical or near-infrared wavelengths. A full moon is −13 magnitude and the brightest planet Venus measures −5. The brightest man-made objects, Iridium flares, are ranked at −9 and the International Space Station measures −6.
+
+The Greek astronomer Hipparchus first invented our system of apparent magnitude. He gave the brightest stars a magnitude of 1 and increased the numbers for dimmer stars. About 300 years later Ptolemy of Alexandria created an encyclopedia of stars based on Hipparchus' work. The Persian astronomer Al-Sufi took Ptolemy's work and gave Arabic names to the stars some 800 years later. Medieval European astronomers simply translated Al-Sufi's work into Latin which is why many stars today have Arabic names.
+
+
+
+
+

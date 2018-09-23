@@ -1,0 +1,12 @@
+FatRat
+
+FatRat is an open source extensible download manager for Linux. It is built on top of the Trolltech Qt 4 library in C++. Developing of this program was started in November 2006. FatRat provides few advanced features such as speed limiting, segmented downloads.
+
+It supports a lot of download and file exchange protocols, such as HTTP, Proxy/SOCKS5, FTP, BitTorrent (through libtorrent). Internationalization of interface is carried out with the help of Qt Linguist. FatRat also has RSS feed and podcasts support, and it can work with RapidShare web-storage service and with Dropbox and OpenSubtitles.
+
+Available as a package of the most popular Linux repositories, such as Debian, Ubuntu, Fedora.
+
+Features and characteristics:
+
+
+

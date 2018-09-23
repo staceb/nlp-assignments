@@ -1,0 +1,20 @@
+Distributive property
+
+Distribution is a concept from algebra: It tells how binary operations are to be handled. The most simple case is that of addition and multiplication of numbers. 
+For example, in arithmetic:
+
+In the left-hand side of the first equation, the 2 multiplies the sum of 1 and 3; on the right-hand side, it multiplies the 1 and the 3 individually, with the products added afterwards.
+Because these give the same final answer (8), it is said that multiplication by 2 "distributes" over addition of 1 and 3.
+Since one could have put any real numbers in place of 2, 1, and 3 above, and still have obtained a true equation, we say that multiplication of real numbers "distributes" over addition of real numbers.
+
+Given a set and two binary operators ∗ and + on , we say that the operation: 
+
+∗ is "left-distributive" over + if, given any elements , and of ,
+∗ is "right-distributive" over + if, given any elements , and of ,
+∗ is "distributive" over + if it is left- and right-distributive.
+Notice that when ∗ is commutative, the three conditions above are logically equivalent.
+
+The distributive property can also be applied to:
+
+
+

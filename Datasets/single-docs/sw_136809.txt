@@ -1,0 +1,9 @@
+Zlib License
+
+The zlib License is an open source software license.
+
+The words of the zlib License are:
+
+
+
+

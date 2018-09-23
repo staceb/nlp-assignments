@@ -1,0 +1,7 @@
+Binary image
+
+A Binary image is a kind of raster graphic image. Each pixel of the image can only one of two different values, usually black and white. For this reason, only one bit is needed per pixel. Most of the time, the value 0 is coded as black, and 1 is used for white. 
+
+Binary images are used:
+
+

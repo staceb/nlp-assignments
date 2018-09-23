@@ -1,0 +1,8 @@
+Virtual machine
+
+A virtual machine is a program on a computer that works like it is a separate computer inside the main computer. The program that controls virtual machines is called a hypervisor and the computer that is running the virtual machine is called the host. The hypervisor controls how the virtual machine can access memory, hard drive space, and other resources on the host computer. Virtual machines can be created through software known as virtualization software (such as VMware Workstation and VirtualBox).
+
+There are many reasons to run a virtual machine:
+
+
+

@@ -1,0 +1,9 @@
+Material property
+
+In science, a property is anything that describes a material or substance. It is a characteristic of that material. For example, how hard the material is, its colour, or its shape. Elasticity is a property of rubber; in other words: rubber is elastic. A property may be a constant (always the same) or it may only appear when something changes, such as temperature.
+
+Chemical properties include things like surface tension, pH, reactivity, allotropy. Conductivity is how able a material is to transport electric charge or heat.
+
+
+
+

@@ -1,0 +1,17 @@
+ISO 3166-2:GB
+
+ISO 3166-2:GB is an International Organization for Standardization (ISO) coding system that gives geocodes to administrative divisions of the United Kingdom:
+The Channel Islands and the Isle of Man are not part of the UK, but ISO offers codes for them under "GB-".
+
+The first part of each code is the ISO 3166-1 code GB for the United Kingdom. The second part is a three-letter code which is the same as in the British Standard BS 6879.
+
+The ISO has also issued codes for some areas with Welsh names and codes.
+
+These codes are used by the BS. They were added to ISO 3166-2 in Newsletter 9, except for the Isle of Man and Channel Islands:
+
+
+BS also has Welsh language code for Welsh names of Wales and its subdivisions, where they differ from the English language names. These are not listed here.
+
+
+
+

@@ -1,0 +1,20 @@
+Passenger name record
+
+Passenger name record is the name for a set of data in a database, which contains the path a passenger travelling with one or more airlines takes. In some cases, groups of people travelling together are stored in the same passenger name record. Passenger details often contain more information than that which is strictly necessary. Additional information stored includes the gender of the passenger, if the passenger is part of a frequent flyer programme, details about the ticket, or if the passenger has special meal requirements - for example vegetarian.
+
+United States–European Union Agreement on Passenger Name Records.
+
+On January 16, 2004, the Article 29 Working Party released their "Opinion 1/2004 (WP85)" on the level of PNR protection ensured in Australia for the transmission of Passenger Name Record data from airlines.
+
+In 2010 the European Commission's Directorate-General for Justice, Freedom and Security was split in two. The resulting bodies were the Directorate-General for Justice (European Commission) and the Directorate-General for Home Affairs (European Commission).
+
+On the 4th of May 2011, Stefano Manservisi, Director-General at the Directorate-General for Home Affairs (European Commission) wrote to the European Data Protection Supervisor (EDPS) with regards to a PNR sharing agreement with Australia, a close ally of the US and signatory to the UKUSA Agreement on signals intelligence.
+
+The EDPS responded on the 5th of May in "Letter 0420 D845":
+
+The Article 29 Working Party document "Opinion 1/2005 on the level of protection ensured in Canada for the transmission of Passenger Name Record and Advance Passenger Information from airlines (WP 103)", 19 January 2005, offers information on the nature of PNR agreements with Canada.
+
+In India PNR is used by Indian Railway as Passenger Name Record Usually Travelers need it to check their confirmation of their seats. It is a 10 Digit Number which has to be entered on website for checking PNR Status.
+
+
+

@@ -1,0 +1,18 @@
+Tide
+
+A tide is the periodic rising and falling of Earth's ocean surface caused mainly by the gravitational pull of the Moon acting on the oceans. Tides cause changes in the depth of marine and estuarine (river mouth) waters. Tides also make oscillating currents known as tidal streams (~'rip tides'). This means that being able to predict the tide is important for coastal navigation. The strip of seashore that is under water at high tide and exposed at low tide, called the intertidal zone, is an important ecological product of ocean tides.
+
+The height of tides varies somewhat with the phases of the Moon. At New Moon and Full Moon, tides are higher because the Sun's tidal force adds to the Moon's. This is called "spring tide".
+
+In most places, there are two tides a day. They each have a high point (the high tide) and a low point (the low tide). We speak of a "flood tide" coming in towards high tide, and an "ebb tide" going out towards low tide.
+
+The period of the tide is about 12 hours and 25.2 minutes, exactly half a "tidal lunar day". The lunar day is longer than the Earth day because the Moon orbits in the same direction the Earth spins. This is analogous to the minute hand on a watch crossing the hour hand at 12:00 and then again at about 1:05½ (not at 1:00).
+
+The Moon orbits the Earth in the same direction as the Earth rotates on its axis, so it takes slightly more than a day—about 24 hours and 50 minutes—for the Moon to return to the same location in the sky. During this time, it has passed overhead once and underfoot once, so in many places the period of strongest tidal forcing is the above mentioned, about 12 hours and 25 minutes. 
+
+Because the gravitational field created by the Moon weakens with distance from the Moon, it exerts a slightly stronger than average force on the side of the Earth facing the Moon, and a slightly weaker force on the opposite side. The Moon thus tends to "stretch" the Earth slightly along the line connecting the two bodies. The solid Earth deforms a bit, but ocean water, being fluid, is free to move much more in response to the tidal force, particularly horizontally. As the Earth rotates, the magnitude and direction of the tidal force at any particular point on the Earth's surface change constantly; although the ocean never reaches equilibrium—there is never time for the fluid to "catch up" to the state it would eventually reach if the tidal force were constant—the changing tidal force nonetheless causes rhythmic changes in sea surface height.
+
+
+
+
+

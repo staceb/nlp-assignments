@@ -1,0 +1,18 @@
+Power station
+
+A power station (or power plant) is a place where electricity is produced. Most do this by a big spinning electrical generator. In big powers stations the spinning is usually driven by a steam turbine. The steam may come from:
+
+
+Some do not use steam engines to spin the generator. Rather they use: 
+
+A few power stations use the sun's rays to generate solar power without motion. There are many power stations around the world, because many things need electricity to work.
+
+Stations may be operated as Load following power plant, peaking power plant, or base load power plant.
+
+
+
+These all use heat as a source of energy.
+
+These sources have no moving parts. They are more expensive than generators, and are used where other questions are more important.
+
+

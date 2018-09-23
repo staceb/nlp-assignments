@@ -1,0 +1,7 @@
+Lone pair
+
+A lone pair is a group of two electrons that are not used in any bonds between atoms. They are always in the last shell of an atom, the valence shell. Together with the electrons used in bonding they make up the total number of valence electrons. They are usually high in energy.
+
+A lone pair can be used to form new bonds between molecules. Nucleophiles always have a lone pair that is used to attack an electrophile. Lone pairs are also important for the shape of a molecule. They take more space around an atom than a bonding electron. Lone pairs on a same atom want to be as far away from each other as possible.
+
+

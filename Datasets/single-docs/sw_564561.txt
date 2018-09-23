@@ -1,0 +1,54 @@
+Combined gas law
+
+The combined gas law is a formula about ideal gases. It comes from putting together three different laws about the pressure, volume, and temperature of the gas. They explain what happens to two of the values of that gas while the third stays the same. The three laws are:
+The combined gas law shows how the three variables are related to each other. It says that:
+
+The formula of the combined gas law is:
+
+where:
+
+To compare the same gas with two of these cases, the law can be written as:
+
+By adding Avogadro's law to the combined gas law, we get what is called the ideal gas law.
+
+Boyle's Law states that the pressure-volume product is constant:
+Charles's Law shows that the volume is proportional to the absolute temperature:
+Gay-Lussac's Law says that the pressure is proportional to the absolute temperature:
+where "P" is the pressure, "V" the volume and "T" the absolute temperature of an ideal gas.
+
+By combining (1) and either of (2) or (3), we can gain a new equation with "P", "V" and "T". If we divide equation (1) by temperature and multiply equation (2) by pressure we will get:
+As the left-hand side of both equations is the same, we arrive at
+which means that
+
+Substituting in Avogadro's Law yields the ideal gas equation.
+
+A derivation of the combined gas law using only elementary algebra can contain surprises. For example, starting from the three empirical laws
+where "k", "k", and "k" are the constants, one can multiply the three together to obtain
+Taking the square root of both sides and dividing by "T" appears to produce of the desired result
+However, if before applying the above procedure, one merely rearranges the terms in Boyle's Law, "k" = "PV", then after canceling and rearranging, one obtains
+which is not very helpful if not misleading.
+
+A physical derivation, longer but more reliable, begins by realizing that the constant volume parameter in Gay-Lussac's law will change as the system volume changes. At constant volume, "V" the law might appear "P" = "k""T", while at constant volume "V" it might appear "P" = "k""T".
+Denoting this "variable constant volume" by "k"("V"), rewrite the law as
+The same consideration applies to the constant in Charles's law, which may be rewritten
+
+In seeking to find "k"("V"), one should not unthinkingly eliminate "T" between (4) and (5), since "P" is varying in the former while it is assumed constant in the latter. Rather, it should first be determined in what sense these equations are compatible with one another. To gain insight into this, recall that any two variables determine the third. Choosing "P" and "V" to be independent, we picture the "T" values forming a surface above the "PV"-plane. A definite "V" and "P" define a "T", a point on that surface. Substituting these values in (4) and (5), and rearranging yields
+Since these both describe what is happening at the same point on the surface, the two numeric expressions can be equated and rearranged
+Note that and are the slopes of orthogonal lines parallel to the "P"-axis/"V"-axis and through that point on the surface above the "PV" plane. The ratio of the slopes of these two lines depends only on the value of at that point.
+
+Note that the functional form of (6) did not depend on the particular point chosen. The same formula would have arisen for any other combination of P and V values. Therefore, one can write
+This says that each point on the surface has its own pair of orthogonal lines through it, with their slope ratio depending only on that point. Whereas (6) is a relation between specific slopes and variable values, (7) is a relation between slope functions and function variables. It holds true for any point on the surface, i.e. for any and all combinations of "P" and "V" values. To solve this equation for the function "k"("V"), first separate the variables, "V" on the left and "P" on the right.
+Choose any pressure "P". The right side evaluates to some arbitrary value, call it "k".
+This particular equation must now hold true, not just for one value of "V", but for all values of "V". The only definition of "k"("V") that guarantees this for all "V" and arbitrary "k" is
+which may be verified by substitution in (8).
+
+Finally, substituting (9) in Gay-Lussac's law (4) and rearranging produces the combined gas law
+
+Note that while Boyle's law was not used in this derivation, it is easily deduced from the result. Generally, any two of the three starting laws are all that is needed in this type of derivation – all starting pairs lead to the same combined gas law.
+
+The combined gas law can be used to explain the mechanics where pressure, temperature, and volume are affected. For example: air conditioners, refrigerators and the formation of clouds and also use in fluid mechanics and thermodynamics.
+
+
+
+
+

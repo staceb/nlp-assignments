@@ -1,0 +1,20 @@
+Riemann zeta function
+
+In mathematics, the Riemann zeta function, is a prominent function of great significance in number theory. It is named after German mathematician Bernhard Riemann. It is so important because of its relation to the distribution of prime numbers. It also has applications in other areas such as physics, probability theory, and applied statistics. It is named after Bernhard Riemann, who wrote about it in the memoir "On the Number of Primes Less Than a Given Quantity", published in 1859. 
+
+The Riemann hypothesis is a conjecture about the distribution of the zeros of the Riemann zeta function. Many mathematicians consider the Riemann hypothesis to be the most important unsolved problem in pure mathematics.
+When using mathematical symbols to describe the Riemann zeta function, instead of explaining it using English, it is written like this, as an infinite series:
+
+Where formula_2 is the real part of the complex number formula_3. For example, if formula_4, then formula_5. (where formula_6)
+
+This makes a sequence, the first few terms of this sequence would be, 
+
+However, this doesn't apply for numbers where formula_8. This is because, if we interpret this function as an infinite sum, the sum does not converge, it instead diverges. This means that instead of nearing a specific value, it will get infinitely large. Riemann used some very clever mathematics known as analytic continuation, so that he could give a value to all numbers except 1. formula_9 represents the harmonic series, which diverges, meaning that the sum does not near any specific number. 
+
+Leonhard Euler discovered the first results about the series that this function represents in the eighteenth century. He proved that the Zeta function can be written as an infinite product of prime numbers. In mathematical notation: 
+
+formula_10
+
+This is an infinite product. formula_11 means that only prime numbers are included in the product. The first few terms of the product would look like: 
+
+

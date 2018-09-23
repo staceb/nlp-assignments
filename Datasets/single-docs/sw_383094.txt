@@ -1,0 +1,7 @@
+Zumbl
+
+Zumbl is an online chat service where users can converse with strangers anonymously. The users have to use facebook or google based login, following which they choose an username and an avatar for themselves.
+
+They can add topics they are interested in, join communities such as "Entrepreneurs", "Love collecting coins", etc. At this step, they can connect themselves with strangers and have meaningful conversations with them. Users ‘tag’ each other on the basis of their conversations, which are indicative of their personality and get reflected in their avatars.
+
+

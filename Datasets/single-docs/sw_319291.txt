@@ -1,0 +1,9 @@
+GIS
+
+GIS may stand for Geographic Information Sciences or for Geographic Information System. These are two different but related things in geography. The Geographic Information Sciences include many fields of knowledge that help to understand geographic information while a Geographic Information System is a system designed to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data and allow for the study of "layers" of geographic information.
+
+GIS also known as geographic information system is a computer system made for capturing and displaying positions on the earth’s surface and portraying data in many different ways on maps. Its main job is to help in analyzing groups of data and find correlations or patterns. For example a map could use GIS to find out the amount of rubbish in one area, and also include how many factories are in that area, to help find which ones are littering.
+
+GIS can give information about a location and help provide knowledge on many different topics in a location. Users can specify a place via latitude and longitude, post code or an address. Then GIS can provide information in that area about people including: income, population and education levels. It can also tell about soil types, vegetation, water sources, manmade structures like buildings and roads, and many other things. 
+
+

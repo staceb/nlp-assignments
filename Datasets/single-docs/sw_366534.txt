@@ -1,0 +1,10 @@
+Flow chart
+
+A flow chart is a type of diagram, made of boxes and arrows. It can be used to show:
+
+The flow chart uses boxes, arrows and other elements: 
+
+The following table shows some of the most common shapes used in flowcharts. Generally, flowcharts are read from top to bottom and left to right. Reading flowcharts can also be called "flowing".
+
+
+

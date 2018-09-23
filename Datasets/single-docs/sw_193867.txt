@@ -1,0 +1,14 @@
+Calculator
+
+A calculator is a machine which allows people to do math operations more easily. For example, most calculators will add, subtract, multiply, and divide.
+Some also do square roots, and more complex calculators can help with calculus and draw function graphs. Calculators are found everywhere. A smartphone or other computer can also act as a calculator. 
+
+Some calculators, like the abacus, will work without batteries. Others, like the electronic calculator, require batteries. There are two types of electronic calculators: simple calculators, which can only add, subtract, multiply and divide, and sometimes take square roots; and scientific calculators, which can do many other things, such as calculate factorials and trigonometry functions.
+
+There are different ways to write mathematics on a calculator. For example, after pressing "3" and then "+" and then "2" and then "=" (or "ENTER") the number "5" will be displayed on the screen. This is called infix notation. Many more advanced calculators use postfix notation, that is, "3 4 +" instead of "3 + 4 =". The third way of noting things, "+ 3 4", called prefix notation, is rarely found on calculators.
+A pocket calculator is a small calculator that helps people do arithmetic. It is so small that it can be put in a pocket. Its most common use is for addition, subtraction, multiplication, and division. Many pocket calculators are powered by solar cells. They are commonly seen in schools and businesses around the world and can be used quickly and efficiently for simple mathematical problems. Other names are 'miniature calculator' or 'mini calculator'.
+
+A scientific calculator can do more things. It can often use exponents, pi, trigonometric ratios, and the order of operations. Scientific calculators can also use bigger numbers. They tend to cost more than pocket calculators. Most are programmable. The user can make a program directly with the calculator, or transfer one from a computer. 
+
+
+

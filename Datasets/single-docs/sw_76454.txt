@@ -1,0 +1,5 @@
+Semi-major axis
+
+In geometry, the term semi-major axis (also spelled out semimajor axis) is used to describe the dimensions of ellipses and hyperbolae. It is half of the major axis. The major axis is the longer one.
+
+

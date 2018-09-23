@@ -1,0 +1,8 @@
+Western European Summer Time
+
+Western European Summer Time (WEST) is a summer daylight saving time scheme, 1 hour ahead of Coordinated Universal Time. It is used in the following places:
+
+Western European Summer Time is also known by other names:
+The scheme runs from the last Sunday in March to the last Sunday in October each year. At both the start and end of the schemes, clock changes take place at 01:00 UTC. During the winter, Greenwich Mean Time (UTC+0) is used.
+
+

@@ -1,0 +1,66 @@
+Grignard reaction
+
+The Grignard reaction (pronounced ) is an organometallic chemical reaction in which alkyl- or aryl-magnesium halides (Grignard reagents) attack electrophilic carbon atoms that are present within polar bonds (for example, in a carbonyl group as in the example shown below). Grignard reagents act as nucleophiles. The Grignard reaction produces a carbon–carbon bond. It alters hybridization about the reaction center. The Grignard reaction is an important tool in the formation of carbon–carbon bonds. It also can form carbon–phosphorus, carbon–tin, carbon–silicon, carbon–boron and other carbon–heteroatom bonds.
+
+It is a nucleophilic organometallic addition reaction. The high pK value of the alkyl component (pK = ~45) makes the reaction irreversible. Grignard reactions are not ionic. The Grignard reagent exists as an organometallic cluster (in ether).
+
+The disadvantage of Grignard reagents is that they readily react with protic solvents (such as water), or with functional groups with acidic protons, such as alcohols and amines. Atmospheric humidity can alter the yield of making a Grignard reagent from magnesium turnings and an alkyl halide. One of many methods used to exclude water from the reaction atmosphere is to flame-dry the reaction vessel to evaporate all moisture, which is then sealed to prevent moisture from returning. Chemists then use ultrasound to activate the surface of the magnesium so that it consumes any water present. This can allow Grignard reagents to form with less sensitivity to water being present.
+
+Another disadvantage of Grignard reagents is that they do not readily form carbon–carbon bonds by reacting with alkyl halides by an S2 mechanism.
+
+François Auguste Victor Grignard discovered Grignard reactions and reagents. They are named after this French chemist (University of Nancy, France) who was awarded the 1912 Nobel Prize in Chemistry for this work.
+
+The addition of the Grignard reagent to a carbonyl typically proceeds through a six-membered ring transition state.
+
+However, with steric hindered Grignard reagents, the reaction may proceed by single-electron transfer.
+
+Grignard reactions will not work if water is present; water causes the reagent to rapidly decompose. So, most Grignard reactions occur in solvents such as anhydrous diethyl ether or tetrahydrofuran (THF), because the oxygen in these solvents stabilizes the magnesium reagent. The reagent may also react with oxygen present in the atmosphere. This will insert an oxygen atom between the carbon base and the magnesium halide group. Usually, this side-reaction may be limited by the volatile solvent vapors displacing air above the reaction mixture. However, chemists may perform the reactions in nitrogen or argon atmospheres. In small scale reactions, the solvent vapors do not have enough space to protect the magnesium from oxygen.
+Grignard reagents are formed by the action of an alkyl or aryl halide on magnesium metal. The reaction is conducted by adding the organic halide to a suspension of magnesium in an ether, which provides ligands required to stabilize the organomagnesium compound. Typical solvents are diethyl ether and tetrahydrofuran. Oxygen and protic solvents such as water or alcohols are not compatible with Grignard reagents. The reaction proceeds through single electron transfer.
+
+Grignard reactions often start slowly. First, there is an induction period during which reactive magnesium becomes exposed to the organic reagents. After this induction period, the reactions can be highly exothermic. Alkyl and aryl bromides and iodides are common substrates. Chlorides are also used, but fluorides are generally unreactive, except with specially activated magnesium, such as Rieke magnesium.
+
+Many Grignard reagents, such as methylmagnesium chloride, phenylmagnesium bromide, and allylmagnesium bromide are available commercially in tetrahydrofuran or diethyl ether solutions.
+
+Using the Schlenk equilibrium, Grignard reagents form varying amounts of diorganomagnesium compounds (R = organic group, X = halide):
+
+Many methods have been developed to initiate Grignard reactions that are slow to start. These methods weaken the layer of MgO that covers the magnesium. They expose the magnesium to the organic halide to start the reaction that makes the Grignard reagent.
+
+Mechanical methods include crushing of the Mg pieces "in situ", rapid stirring, or using ultrasound (sonication) of the suspension. Iodine, methyl iodide, and 1,2-dibromoethane are commonly employed activating agents. Chemists use 1,2-dibromoethane because its action can be monitored by the observation of bubbles of ethylene. Also, the side-products are innocuous:
+The amount of Mg consumed by these activating agents is usually insignificant.
+
+The addition of a small amount of mercuric chloride will amalgamate the surface of the metal, allowing it to react.
+
+Grignard reagents are produced in industry for use in place, or for sale. As with at bench-scale, the main problem is that of initiation. A portion of a previous batch of Grignard reagent is often used as the initiator. Grignard reactions are exothermic; this exothermicity must be considered when a reaction is scaled-up from laboratory to production plant.
+
+Grignard reagents will react with a variety of carbonyl derivatives.
+
+The most common application is for alkylation of aldehydes and ketones, as in this example:
+Note that the acetal function (a masked carbonyl) does not react.
+
+Such reactions usually involve a water-based (aqueous) acidic workup, though this is rarely shown in reaction schemes. In cases where the Grignard reagent is adding to a prochiral aldehyde or ketone, the Felkin-Anh model or Cram's Rule can usually predict which stereoisomer will form.
+
+In addition, Grignard reagents will react with electrophiles.
+
+Another example is making salicylaldehyde (not shown above). First, bromoethane reacts with Mg in ether. Second, phenol in THF converts the phenol into Ar-OMgBr. Third, benzene is added in the presence of paraformaldehyde powder and triethylamine. Fourth, the mixture is distilled to remove the solvents. Next, 10% HCl is added. Salicylaldehyde will be the major product as long as everything is very dry and under inert conditions. The reaction works also with iodoethane instead of bromoethane.
+
+The Grignard reagent is very useful for forming carbon–heteroatom bonds.
+
+A Grignard reagent can also be involved in coupling reactions. For example, nonylmagnesium bromide reacts with methyl "p"-chlorobenzoate to give "p"-nonylbenzoic acid, in the presence of Tris(acetylacetonato)iron(III), often symbolized as Fe(acac), after workup with NaOH to hydrolyze the ester, shown as follows. Without the Fe(acac), the Grignard reagent would attack the ester group over the aryl halide.
+
+For the coupling of aryl halides with aryl Grignards, nickel chloride in tetrahydrofuran (THF) is also a good catalyst. Additionally, an effective catalyst for the couplings of alkyl halides is dilithium tetrachlorocuprate (LiCuCl), prepared by mixing lithium chloride (LiCl) and copper(II) chloride (CuCl) in THF. The Kumada-Corriu coupling gives access to [substituted] styrenes.
+
+The oxidation of a Grignard reagent with oxygen takes place through a radical intermediate to a magnesium hydroperoxide. Hydrolysis of this complex yields hydroperoxides and reduction with an additional equivalent of Grignard reagent gives an alcohol.
+
+A reaction of Grignards with oxygen in presence of an alkene makes an ethylene extended alcohol. These are useful in synthesizing larger compounds. This modification requires aryl or vinyl Grignard reagents. Adding just the Grignard and the alkene does not result in a reaction, showing that the presence of oxygen is essential. The only drawback is the requirement of at least two equivalents of Grignard reagent in the reaction. This can addressed by using a dual Grignard system with a cheap reducing Grignard reagent such as n-butylmagnesium bromide.
+
+Grignard reagents are nucleophiles in nucleophilic aliphatic substitutions for instance with alkyl halides in a key step in industrial Naproxen production:
+
+In the Boord olefin synthesis, the addition of magnesium to certain β-haloethers results in an elimination reaction to the alkene. This reaction can limit the utility of Grignard reactions.
+
+Grignard degradation at one time was a tool in structure identification (elucidation) in which a Grignard RMgBr formed from a heteroaryl bromide HetBr reacts with water to Het-H (bromine replaced by a hydrogen atom) and MgBrOH. This hydrolysis method allows the determination of the number of halogen atoms in an organic compound. In modern usage, Grignard degradation is used in the chemical analysis of certain triacylglycerols.
+
+An example of the Grignard reaction is a key step in the industrial production of Tamoxifen. (Tamoxifen is currently used for the treatment of estrogen receptor positive breast cancer in women.):
+
+
+
+

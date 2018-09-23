@@ -1,0 +1,11 @@
+Nerve impulse
+
+A nerve impulse is the way nerve cells (neurons) communicate with one another. Nerve impulses are mostly electrical signals along the dendrites to produce a nerve impulse or action potential. 
+
+The action potential is the result of ions moving in and out of the cell. Specifically, it involves potassium (K) and sodium (Na) ions. The ions are moved in and out of the cell by potassium channels, sodium channels and the sodium-potassium pump.
+
+Faster electrical synapses are used in escape reflexes, the retina of vertebrates, and the heart. They are faster because they do not need the slow diffusion of neurotransmitters across the synaptic gap. Therefore, electrical synapses are used whenever fast response and coordination of timing are crucial. 
+
+These synapses connect the presynaptic and postsynaptic cells directly together. When an action potential reaches such a synapse, the ionic currents cross the two cell membranes and enter the postsynaptic cell through pores known as connexons. Thus, presynaptic action potential directly stimulates the postsynaptic cell. 
+
+

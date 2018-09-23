@@ -1,0 +1,5 @@
+Tesla coil
+
+A Tesla coil is a machine invented by Nikola Tesla in 1891 that makes lightning bolts. It can also, when connected to a MIDI device, create music. They are commonly used nowadays to entertain.It is used to produce high-voltage,low-current,high frequency alternating-current electricity.
+
+

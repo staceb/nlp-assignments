@@ -1,0 +1,13 @@
+Tilde
+
+The tilde ( ~ ) can be many things, such as a diacritic. Many languages use tildes. Two of these are Spanish and Portuguese.
+
+In Spanish, the tilde, which is only put over the N ( Ñ ), makes it sound like [ɲ] (like 'ny' in "canyon") instead of [n].
+
+The tilde also appears in Portuguese where it is used to nasalise (meaning to sound them through the nose) the vowels "a" (ã) and "o" (õ).
+
+In UNIX operating systems, a tilde represents the user's "home" directory.
+
+The tilde is also used to denote when something is an estimate, such as ~24 meaning approximately 24
+
+

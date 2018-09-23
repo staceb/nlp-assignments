@@ -1,0 +1,9 @@
+Natural deduction
+
+Natural deduction is a branch of mathematical logic developed in Poland in the 1920s and 30s. It is meant to express inference rules closely related to the "natural" way of reasoning. However, it does not mean "how ordinary people think".
+
+Spurred on by a series of seminars in Poland in 1926 by Łukasiewicz that advocated a more natural treatment of logic, Jaśkowski made the earliest attempts at defining a more natural deduction. In 1929 he first suggested in 1929 using a diagrammatic notation, and later updated his proposal in papers in 1934 and 1935. 
+
+
+
+

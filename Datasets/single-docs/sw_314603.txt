@@ -1,0 +1,29 @@
+Sign (mathematics)
+
+In mathematics, the word sign refers to the property of being positive or negative. Every real number (that is not zero) is either positive or negative, and therefore has a sign. Zero itself is without a sign, or signless. In addition to putting signs in to real numbers, the word sign is used throughout mathematics to indicate parts of mathematical objects that mean positivity and negativity. Usually, if numbers are seen without a sign, they are seen as a positive number.
+
+The word sign is also sometimes used to refer to various mathematical signs, such as the plus and minus signs and the multiplication sign.
+
+A real number is said to be positive if it is greater than zero, and negative if it is less than zero. The attribute of being positive or negative is called the sign of the number. Zero itself is not considered to have a sign.
+
+In arithmetic, the sign of a number is often denoted by placing a plus or minus sign before the number. For example, +3 would denote a positive 3, and −3 would denote a negative 3. When no plus or minus sign is given, the main way of seeing it is that a number is positive.
+
+The sign of any number that is not zero can be changed to positive using the absolute value function. For example, the absolute value of −3 and the absolute value of 3 are both equal to 3. In symbols, this would be written |−3| = 3 and |3| = 3.
+
+The number zero is neither positive nor negative, and therefore has no sign. In arithmetic, +0 and −0 both mean the same number 0.
+
+Because zero is neither positive nor negative, the following are sometimes used to refer to the sign of an unknown number:
+Thus a non-negative number is either positive or zero, while a non-positive number is either negative or zero. For example, the absolute value of a real number is always non-negative, but is not necessarily positive.
+
+The same definition is sometimes used for functions that take real or integer values. For example, a function would be called positive if all of its values are positive, or non-negative if all of its values are non-negative.
+
+In many texts, it is common to see a sign together with the measure of an angle, particularly a located angle or an angle of rotation. In such a situation, the sign says whether the angle is in the clockwise or counterclockwise direction. Though different conventions can be used, it is common in mathematics to have counterclockwise angles count as positive, and clockwise angles count as negative.
+
+It is also possible to put a sign to an angle of rotation in three dimensions, assuming the axis of rotation has been oriented. Specifically, a right-handed turn around an axis usually counts as positive, while a left-handed rotation counts as negative.
+
+In arithmetic and physics, it is common to label certain directions as positive or negative. For a basic example, the number line is usually drawn with positive numbers to the right, and negative numbers to the left:
+On the Cartesian plane, the rightward and upward directions are usually thought of as positive, with rightward being the positive "x"-direction, and upward being the positive "y"-direction.
+
+In addition to the sign of a real number, the word sign is also used in various related ways throughout mathematics and the sciences:
+
+

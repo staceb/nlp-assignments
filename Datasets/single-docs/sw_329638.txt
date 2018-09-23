@@ -1,0 +1,12 @@
+Les Patineurs
+
+The Skaters Waltz (1882) is a waltz by Émile Waldteufel. It is known as Les Patineurs Valse in French, and Die Schlittschuhläufer-Walzer in German. It was inspired by the Cercle des Patineurs (skating rink) at the Bois de Boulogne in Paris. Glissando notes and bells suggest a winter's day. The waltz was published by Hopwood & Crew. It was dedicated to Ernest Coquelin, the younger brother of two celebrated actor brothers of the Comédie Française. It has been used as background music for several movies.
+
+<score vorbis="1">
+</score>
+
+<score vorbis="1">
+</score>
+
+
+

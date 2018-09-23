@@ -1,0 +1,22 @@
+Stellar classification
+
+In astronomy, stellar classification is a way of grouping stars by temperature. Star temperature can be measured by looking at its spectrum, the type of light that the star shines.
+
+Stars are also grouped into spectral types or classes by color. In general, a star's temperature determines its color, from red to blue-white. Spectral types are named with a letter: "M", "K", "G", "F", "A", "B" and "O". "M" stars are the coldest stars and "O" stars are the hottest.
+
+The closest star to the Earth, the sun, is a class G star.
+
+The Harvard classification system is a one-dimensional classification scheme. Stars vary in surface temperature from about 2,000 to 40,000 kelvin. Physically, the classes indicate the temperature of the star's atmosphere and are normally listed from hottest to coldest, as is done in the following table: 
+
+Note: The conventional color description describe only the peak of the stellar spectrum. However, the actual apparent colors the eye sees are lighter than the conventional color descriptions. 
+
+The mass, radius, and luminosity listed for each class are appropriate only for stars on the main-sequence portion of their lives and so are not appropriate for red giants. The spectral classes O through M are subdivided by Arabic numerals (0–9). For example, A0 denotes the hottest stars in the A class and A9 denotes the coolest ones. The Sun is classified as G2.
+The Hertzsprung-Russell diagram is more often used in astronomy, because it relates three important variables: the absolute magnitude, the luminosity and the surface temperature. It is as important to astronomy as the periodic table is to chemistry.
+
+The "conventional color" descriptions are traditional in astronomy, and represent colors relative to the mean color of an "A-class star" which is considered to be white. The "apparent color" descriptions are what the observer would see if trying to describe the stars under a dark sky without aid to the eye, or with binoculars. 
+
+The Sun itself is white, though it is sometimes called a yellow star. This is a natural consequence of the evolution of human optical senses: the response curve that maximizes the overall efficiency against solar illumination will by definition perceive the Sun as white, though there is some subjective variation between observers.
+
+
+
+

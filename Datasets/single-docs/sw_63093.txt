@@ -1,0 +1,39 @@
+Conservation of energy
+
+In physics, the conservation of energy is that energy can not be created or destroyed, it can only be changed from one form to another, such as when electrical energy is changed into heat energy. Formally, it says that the total amount of energy in an isolated system remains constant, although it may change forms, e.g. friction turns kinetic energy into thermal energy. In thermodynamics, the first law of thermodynamics is a statement of the conservation of energy for thermodynamic systems. 
+
+From a mathematical point of view, the energy conservation law is a consequence of the shift symmetry of time; energy conservation is a result of the empirical fact that the laws of physics do not change with time itself. Philosophically, this can be stated as "nothing depends on time per se (time itself)".
+
+Ancient philosophers as far back as Thales of Miletus had the idea that there is some underlying substance of which everything is made. But that is not the same as our concept of "mass-energy" today (for example, Thales thought the underlying substance was water).
+In 1638, Galileo published his analysis of several situations. This included the famous "interrupted pendulum". This can be described (in modernized language) as conservatively converting potential energy to kinetic energy and back again. However, Galileo did not explain the process in modern terms and had not understood the modern concept either. The German Gottfried Wilhelm Leibniz during 1676-1689 attempted a mathematical formulation of the kind of energy which is connected with "motion" (kinetic energy). Leibniz noticed that in many mechanical systems (of several masses, "m" each with velocity "v" ),
+
+was conserved so long as the masses did not interact. He called this quantity the "vis viva" or "living force" of the system. The principle represents an accurate statement of the approximate conservation of kinetic energy in situations where there is no friction. 
+Meanwhile, in 1843 James Prescott Joule independently discovered the mechanical equivalent in a series of experiments. In the most famous, now called the "Joule apparatus", a descending weight attached to a string caused a paddle immersed in water to rotate. He showed that the gravitational potential energy lost by the weight in descending was approximately equal to the thermal energy (heat) gained by the water by friction with the paddle.
+
+Over the period 1840-1843, similar work was carried out by engineer Ludwig A. Colding though it was little-known outside his native Denmark.
+
+It is easy to see that
+
+formula_2
+
+which is also
+
+formula_3
+
+formula_4
+
+Assuming that formula_5 and that formula_6, then
+
+formula_7
+
+formula_8
+
+formula_10
+
+Therefore, energy does not vary with time.
+
+
+
+
+
+

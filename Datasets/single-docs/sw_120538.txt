@@ -1,0 +1,7 @@
+VMDK
+
+The VMDK (Virtual Machine Disk) is a file format used by VMware products.
+
+
+
+

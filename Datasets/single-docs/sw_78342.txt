@@ -1,0 +1,17 @@
+7 (number)
+
+The number seven is a natural number that comes after six and before eight. In Roman numerals, it is VII.
+
+In mathematics, the number seven is an odd number and a prime number.
+It is also a Mersenne prime.
+Example
+
+918785
+77 is divisible by 7, so the original number 918785 is also divisible by 7.
+
+Proof:
+Pretend formula_1 is the root number and formula_2 is the last digit. Then formula_3 is the whole number.
+If the whole number (formula_3) is divisible by 7, formula_5 is also a multiple of 7. And formula_6 also divide 7. That proves formula_7 is divisible seven, since 3 and 6 are both multiples of 3. So formula_8 is also divisible by 7.
+
+
+

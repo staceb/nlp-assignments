@@ -1,0 +1,8 @@
+Nepal Standard Time
+
+Nepal Standard Time (NPT) is the time zone for Nepal. With a time offset from Coordinated Universal Time (UTC) of , all over Nepal Standard Time is one of only three time zones with a 45-minute offset from
+UTC. (The others are Chatham Island Standard Time, with an offset of , and the
+unofficial Australian Central Western Time, with an offset of .) NPT is an approximation of Kathmandu mean time, which is 5:41:16 ahead of
+UTC. 
+
+

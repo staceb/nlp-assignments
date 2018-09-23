@@ -1,0 +1,5 @@
+Dichotomous key
+
+A dichotomous key is a series of questions with only two alternatives. There are only two options at each step. The purpose is to make an identification or to reach a decision. The system has long been used for identifying animals and plants. However, in principle, it can be used for many other tasks, such as fault-finding in complex machinery.
+
+

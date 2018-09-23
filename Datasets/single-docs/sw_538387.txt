@@ -1,0 +1,80 @@
+Income tax in the United States
+
+In the United States, people have to pay income taxes to the United States government, most state governments, and many local governments. This means that people have to pay taxes to these governments, based on how much money they earn.
+
+Income taxes are based on what a person earns in one calendar year between January 1 and December 31.
+
+When it takes income taxes, the government takes a percentage of a person's income. This percentage is called an income tax rate. In other words, the income tax rate is the part, or portion, of a person's income that the government takes.
+
+The United States government, and most states, use "progressive" tax rates. This means that as a person earns more income, their income tax rate gets higher. In other words, as a person earns more money, they have to pay more taxes.
+
+Every year, the government divides incomes into categories. These categories are called tax brackets. Each tax bracket includes a range of incomes the lowest and highest amounts a person could earn to be in that tax bracket.
+
+Tax brackets are important because each one is taxed at a different tax rate. In other words, a person in a higher income category has to pay a larger percentage of their income in taxes. The tax rates for each different tax bracket are called marginal tax rates.
+
+For example, in 2016, these are the tax brackets and marginal tax rates for single people:
+
+However, this does not mean that a person making $415,051 is paying 39.6% of that entire $415,051 in income taxes. Tax rates in the United States are "marginal." This means that different portions of a person's income get taxed at different rates. 
+
+For example, if a person earns $9,276 in a year, they do not have to pay 15% of that whole amount. The first $9,275 that they earned falls into the first tax bracket ($0 $9275, which has a 10% tax rate). The person pays the 10% tax rate for all of their income that fell into that tax bracket. The person has only $1 left in income that falls into the next tax bracket ($9,276 $37,650). They only have to pay that tax bracket's tax rate of 15% on that one dollar.
+
+In other words, what the chart above really means is that in 2016, for a single person:
+
+Usually, the government uses a person's gross income to decide how much they should be taxed. A person's gross income is every dollar they have earned in a year.
+
+However, there are some types of income that the government cannot take as part of income taxes.
+
+Deductions are certain kinds of costs that the government does not tax. The government will decrease (or "deduct") these costs from a person's gross income. This means the government will be taxing the person on less income.
+
+There are many kinds of deductions. There are some deductions that anyone who pays taxes can take. For example, if a person has paid to move, paid into a retirement fund, or paid student loan interest, they can take these costs off their gross income. The government will not tax these costs.
+
+The federal government also gives a "standard deduction" to most people who are paying income taxes. For example, in 2015, the standard deduction for a single person was $6,300. The government does not tax this amount.
+
+Sometimes people have other deductions that will add up to more than the standard deduction. These can also be used to decrease the amount of income the government can tax a person on. 
+
+The federal government allows each person who files taxes to take a tax deduction called a "personal exemption." When the United States Congress created tax rules in 1954, they thought a certain amount of money should not be taxed so that a person could spend that money on food, housing, and other basic needs. In 2015, the personal exemption for one person was $4,000. Most people can take another exemption for their spouse, and another for each child in their home.
+
+Many states have their own deductions. For example, if a person in Massachusetts pays rent to a landlord, they can deduct half of their rent (up to $3,000) from the amount of income the government can tax them on.
+
+The federal government also offers tax credits. This means that if a person spends money on certain things, and meets all the rules of the credit program, the credit can be up to 35 percent of your qualifying expenses, depending upon your adjusted gross income. For example, the Child and Dependent Care Credit is for parents who work, but have to pay over $3,000 a year for someone to take care of their children while they are working. Each credit has many different rules that people must meet. However, if they do meet them, the federal government will take $3,000 off of their taxes, to help the parents continue to work.
+
+Every year, most people in the United States must file a report of their income from the year, their deductions, credits, and any other special tax issues. This report is called a tax return. The tax return helps work out what a person might owe the government in taxes. On the other hand, if a person has been paying their taxes bit by bit, the government may owe "them" money. This is called a tax refund.
+
+Usually, all tax returns are due by April 15. However, because of holidays in Washington, D.C., sometimes "Tax Day" comes a few days later.
+
+There are a five different ways that a person, or a couple, can file their tax returns:
+
+Sometimes a person fits into more than one of these categories. If this happens, they are allowed to file their taxes using the category that will let them pay the least amount of taxes.
+
+Filing status is important because many things change based on what filing status a person files their taxes under. For example:
+
+Here is a basic example of how a person would work out what they have to pay in taxes, based on their income, filing status, and deductions.
+
+
+First the person needs to work out their "taxable income". This is the amount of income the government can tax. It does not include deductions, since the government does not tax those. So, to get their taxable income, the person needs to subtract their deductions from their gross income. In other words:
+
+$20,000 (gross income) $6,300 (standard deduction) $4,000 (personal exemption) = $9,700 taxable income
+
+Now the person can use lists of tax brackets and marginal tax rates to figure out what they owe in taxes. Here are the tax brackets and marginal tax rates that apply to this person:
+
+
+This person is paying only 4.9% of their gross (total) income to the government in income taxes.
+
+According to the White House, in 2014, the United States government spent people's federal income taxes on these things:
+
+Every state gets to decide where to spend the income tax it collects (its income tax revenue). Different states use this money for different things, at different times.
+
+In 2015, a report looked at what every state spent its income tax revenue on. It found that most of state income tax dollars went to pay for education and health care.
+
+Specifically, states spent over half of their income tax revenues on three different things:
+
+The 2015 report found that the states spent the other half of their income tax revenues on many different things. Here are some examples.
+
+Transportation makes up about 5% of the states' spending. Income taxes pay for many things, like:
+
+States spend about 4% of their income tax revenue on corrections. These income taxes pay for things like:
+
+Many states also use income tax revenues to pay for important "public services," like:
+
+
+

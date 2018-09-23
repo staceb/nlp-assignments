@@ -1,0 +1,5 @@
+Metacritic
+
+Metacritic is a website which collects expert reviews for films, video games, music and books. It provides a Metascore, an average score out of 100 possible points based on published reviews.
+
+

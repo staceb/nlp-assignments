@@ -1,0 +1,17 @@
+Susumu Ohno
+
+Susumu Ohno was born of Japanese parents in Seoul, Korea, on February 1, 1928. The family returned to Japan after the war in 1945. 
+
+His passion for science came from his lifelong love of horses. He earned a Ph.D. in veterinary science at Tokyo University of Agriculture and Technology in 1949, and later a Ph.D. and D.Sc. from Hokkaido University. 
+
+Ohno suggested that gene duplication plays a major role in evolution in his classic book "Evolution by Gene Duplication" (1970). 
+
+Subsequent research has overwhelmingly confirmed the key role of gene duplication in molecular evolution. Sometimes. one gene copy, or "paralog", takes on a totally new function after a gene duplication event. This means one of the gene copies mutates to develop a function that was not present in the ancestral gene. In this way, a gene duplication may lead to new possibilities in its descendents.
+
+Normally, a big change in gene function is resisted because the original function is needed, but after a duplication one gene carries on the original function. Therefore, a change of function in the second copy is possible without loss of fitness.
+
+In his book, he also suggested that vertebrate genome is the result of one or more entire genome duplications. Variations of this idea have come to be known as the 2R hypothesis (also called "Ohno's hypothesis"). He indicated that mammalian X chromosomes are conserved among species: it has been referred to as Ohno's law. He also invented the term Junk DNA for segments of the DNA that have no known function. 
+
+
+
+

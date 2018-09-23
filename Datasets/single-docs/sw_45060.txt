@@ -1,0 +1,17 @@
+E (mathematical constant)
+
+e is a number, about 2.71828. It is a mathematical constant. "e" also has other names, like "Euler's number" (because of the Swiss mathematician Leonhard Euler), or "Napier's constant" (because of the Scottish mathematician John Napier). It is an important number in mathematics, like π and "i." It is an irrational number, which means it is impossible to write as a fraction with two integers; but some numbers, like 2.71828182845904523536, come close to the true value. The true value of "e" is a number that never ends. Euler himself gave the first 23 digits of e.
+
+The number "e" is very important for exponential functions. For example, the exponential function applied to the number one, has a value of "e". 
+
+e was discovered in 1683 by the Swiss mathematician Jacob Bernoulli while he was studying compound interest. 
+
+There are many different ways to define "e". Jacob Bernoulli who discovered e, was trying to solve the problem:
+
+In other words, there is a number that the expression formula_2 approaches as n becomes larger. This number is "e". 
+
+Another definition is to find the solution of the following formula: 
+
+The first 200 digits after the decimal point are:
+
+

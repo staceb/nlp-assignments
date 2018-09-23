@@ -1,0 +1,15 @@
+Cepheid variable
+
+Cepheids are a type of very luminous variable stars. There is a strong direct relationship between a Cepheid's luminosity and pulsation period. This makes Cepheids important standard candles for the galactic and extragalactic distance scales.
+
+Cepheid variables are divided into several subclasses which exhibit clearly different masses, ages, and evolutionary histories: 
+
+The first cepheid known was Delta Cephei in the constellation Cepheus, found by John Goodricke in 1784. Delta Cephei is of great importance because its distance is extremely well known, thanks in part to it being in a star cluster, and the precise Hubble Space Telescope/Hipparcos parallaxes.
+
+Classical Cepheids (also known as Population I Cepheids, Type I Cepheids, or Delta Cephei variables) pulsate with very regular periods of the order of days to months. Classical Cepheids are population I variable stars which are 4–20 times more massive than the Sun, and up to 100,000 times more luminous. Cepheids are yellow supergiants of spectral class F6 – K2. When they pulsate, their radii change by ~25%. For the longer-period I Carinae this means millions of kilometers for a pulsation cycle.
+
+Type II Cepheids (also termed Population II Cepheids) are population II variable stars which pulsate with periods between 1 and 50 days. Type II Cepheids are typically metal-poor, old (~10 giga years), low mass objects (~half the mass of the Sun). Type II Cepheids are divided into several subgroups by period.
+
+Type II Cepheids are used to fix the distance to the galactic center of the Milky Way, globular clusters, and galaxies.
+
+

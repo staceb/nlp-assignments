@@ -1,0 +1,9 @@
+Octahedron
+
+An octahedron is a polyhedron (a 3D shape) with eight sides, which are all equilateral triangles, four of which meet at each corner. It has 12 edges and 6 corners. It is one of the 5 Platonic solids.
+
+Simply put, this is two rectangular pyramids put together. A rectangular pyramid is a pyramid with the base of a square or rectangle. In other words, this is just a pyramid that, when flipped to stand on its point (like a spinning top) it has a rectangular from a birds eye view.
+
+Octahedral shapes also occur in nature: The crystals of Diamond, alum, and fluorite have this shape. Certain dice also have this shape.
+
+

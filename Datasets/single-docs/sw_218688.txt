@@ -1,0 +1,10 @@
+Abelian group
+
+In group theory, an abelian group is a group that is commutative. 
+
+An abelian group is a set, "A", together with an operation "•". It combines any two elements "a" and "b" to form another element denoted . For the group to be abelian, the operation and the elements must follow some requirements. These are known as the "abelian group axioms":
+
+
+An abelian group is a commutative group. A group in which the group operation is not commutative is called a "non-abelian group" or "non-commutative group".
+
+

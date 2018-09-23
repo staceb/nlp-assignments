@@ -1,0 +1,37 @@
+List of series
+
+This list of mathematical series contains formulae for finite and infinite sums. It can be used in conjunction with other tools for evaluating sums.
+
+
+
+
+
+
+
+Many power series which arise from Taylor's theorem have a coefficient containing a factorial.
+
+
+
+
+
+
+
+
+
+Geometric series:
+
+Binomial Theorem:
+
+
+Square root:
+
+Miscellaneous:
+
+
+Sums of sines and cosines arise in Fourier series.
+
+
+
+
+
+

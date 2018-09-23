@@ -1,0 +1,54 @@
+Derivative (mathematics)
+
+In mathematics, the derivative is a way to represent rate of change, that is - the amount by which a function is changing at one given point. For functions that act on the real numbers, it is the slope of the tangent line at a point on a graph. The derivative is often written using "dy over dx" (meaning the difference in y divided by the difference in x. The "d"'s are not variable, and therefore cannot be cancelled out.
+
+The derivative of y with respect to x is defined as the change in y over the change in x, as the distance between formula_2 and formula_3 becomes infinitely small (infinitesimal). In mathematical terms,
+That is, as the distance between the two x points (h) becomes closer to zero, the slope of the line between them comes closer to resembling a tangent line.
+
+Derivatives of linear functions (functions of the form "a" "x" + "b" with no quadratic or higher terms) are constant. That is, the derivative in one spot on the graph will remain the same on another.
+
+When the dependent variable y directly takes x's value (y=x), the slope of the line is 1 in all places, so formula_5 regardless of where the position is.
+
+When y modifies x's number by adding or subtracting a constant value, the slope is still one because the change in x and y do not change if the graph is shifted up or down. That is, the slope is still 1 throughout the entire graph, so its derivative is also 1.
+
+Power functions (e.g. formula_6) behave differently than linear functions because their slope varies (because they have an exponent).
+
+Power functions, in general, follow the rule that formula_7. That is, if we give a the number 6, then formula_8
+
+Another possibly not so obvious example is the function formula_9. This is essentially the same because 1/x can be simplified to use exponents:
+
+In addition, roots can be changed to use fractional exponents where their derivative can be found:
+
+An exponential is of the form formula_15 where formula_16 and formula_17 are constants and formula_18 is a function of formula_19. The difference between an exponential and a polynomial is that in a polynomial formula_19 is raised to some power whereas in an exponential formula_21 is in the power.
+
+formula_22
+
+Find formula_23.
+
+formula_24
+
+formula_25
+
+formula_26
+
+formula_27
+
+Therefore,
+
+formula_28
+
+The derivative of logarithms is the reciprocal:
+Take, for example, formula_30. This can be reduced to (by the properties of logarithms):
+The logarithm of 5 is a constant, so its derivative is 0. The derivative of log(x) is formula_32. So,
+
+The cosine function is the derivative of the sine function, while the derivative of cosine is negative sine (provided that x is measured in radians):
+
+Derivatives can be broken up into smaller parts where they are manageable (as they have only one of the above function characteristics), for example:
+
+A function's derivative can be used to search for the maximums and minimums of the function by searching for places where its slope is zero.
+
+Derivatives are used in Newton's method which helps find zeros (roots) of a function.
+
+
+
+

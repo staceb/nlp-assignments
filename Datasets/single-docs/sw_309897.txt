@@ -1,0 +1,15 @@
+GFCI
+
+A ground fault circuit interrupter (GFCI), also called Ground Fault Interrupter (GFI) or Residual Current Device (RCD) is a device that shuts off an electric power circuit when it detects that current is flowing along an unintended path, such as through water or a person. It is used to reduce the risk of electric shock, which can cause the heart to stop or cause burns. They can also prevent some fires, like when a live wire touches a metal conduit.
+
+A GFCI works by measuring the current leaving one side of a power source (the so-called "live" or "hot wire"), and comparing it to current returning on the other (the "neutral" side). If they are not equal, then some of the current must be leaking in an unwanted way, and the GFCI shuts the power off. After the problem is fixed, the device must be reset manually by pushing the reset button (the red button in the image shown at right). If the problem is not fixed, the GFCI will keep shutting off. 
+
+There is also a test button next to the reset button, which shows that the GFCI works properly. GFCI outlets should be tested at least once a month.
+
+GFCIs are available in two types for permanent installation: the circuit breaker type that installs in an electrical panel, and the receptacle type that installs in a normal electrical outlet box. GFCIs that attach to appliance cords, or are built in to extension cords, are also available. Newer hair dryers may have them, too, appearing as a small box at the end of the power cord or on the handle itself. 
+
+GFCIs can be used to upgrade older two-prong (non-grounded) outlets to three-prong (grounded) outlets without installing any new wire. This is safer than using the two-to-three prong adapter, as these adapters may not connect the appliance to ground at all. The GFCI is installed in the electrical box without connecting the ground screw (as there is no ground wire). A label that says "No Equipment Ground" must be placed on the GFCI outlet and all downstream outlets. Several of these labels are usually included with the GFCI. Note that in some parts of the world, "ground" is called "earth".
+
+GFCIs are usually required by local laws to be installed in 2 prong receptacles, kitchens, bathrooms, unfinished basements, garages, outdoors, and anywhere near a sink. Notably, these are all places where water may allow a short circuit to happen.
+
+

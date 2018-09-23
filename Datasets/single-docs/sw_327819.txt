@@ -1,0 +1,10 @@
+Common year starting on Friday
+
+This is the calendar for any common year starting on Friday, January 1 (dominical letter C). The most recent year of this type was 2010 and the next one will be 2021 in the Gregorian calendar,
+or 2011 and 2022 in the Julian calendar. The exceptional common year, 2100 will also be a common year starting on Friday in the Gregorian calendar (see bottom tables).
+
+A common year is a year with 365 days, i.e., not a leap year.
+
+This is the only year type where the "n"th "Doomsday" (this year Sunday) is not in ISO week "n"; it is in ISO week "n"-1.
+
+

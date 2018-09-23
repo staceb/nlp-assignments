@@ -1,0 +1,5 @@
+Catcher
+
+A catcher is a position in baseball. The catcher crouches behind the home plate and catches the ball thrown by the pitcher.
+
+

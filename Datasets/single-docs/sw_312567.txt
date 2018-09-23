@@ -1,0 +1,16 @@
+Premise
+
+A premise is a statement which an argument claims will justify a conclusion. The proof of a conclusion depends on both the truth of the premises and the validity of the argument.
+
+Aristotle held that any logical argument could be reduced to three premises and a conclusion. Premises are sometimes left unstated in which case they are called missing premises, for example:
+
+It is understood that Socrates is a man. The fully expressed reasoning is thus:
+
+In this example, the first two independent clauses before the comma (namely, "all men are mortal" and "Socrates is a man") are the premises, while "Socrates is mortal" is the conclusion.
+
+In logic, an argument requires a set of two declarative sentences (or "propositions") known as the premises, with another declarative sentence (or "proposition") known as the conclusion. This structure of two premises and one conclusion forms the basic argumentative structure. 
+
+More complex arguments can use a series of rules to connect several premises to one conclusion, or to derive a number of conclusions from the original premises. An example of this is the use of the rules of inference found within symbolic logic.
+
+
+

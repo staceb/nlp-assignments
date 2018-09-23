@@ -1,0 +1,7 @@
+Adobe Flash
+
+Adobe Flash (formerly Macromedia Flash) is a rich internet application distributed by Adobe Systems. Adobe Flash and Adobe Flash Player are used to create and view animated content that can be placed on web pages. Adobe Flash is used commonly on the Internet by web browsers.
+
+Flash was created by FutureWave (a multimedia company) in 1995. Then it was called "FutureSplash Animator" (this was in fact Flash 1.0). FutureWave along with Flash were soon bought by Macromedia around 1997, who in December 2005 was again bought by Adobe Systems. From Flash version 2 to 8 it was called "Macromedia Flash", now it is called "Adobe Flash". In 2012, Adobe discontinued the Solaris version of Flash Player, and made the Linux version only for Google Chrome. The Linux version for Firefox will continue to receive security updates. The Android version was removed from Google Play, but it can still be downloaded from the Adobe website. The Android version is not officially supported on Android beyond 4.0, but it has been reported to work with versions 4.1 and 4.2.
+
+

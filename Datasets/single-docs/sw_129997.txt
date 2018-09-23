@@ -1,0 +1,7 @@
+Period (physics)
+
+A Time period (denoted by 'T' ) is the time needed for one complete cycle of vibration to pass a given point. As the frequency of a wave increases, the time period of the wave decreases. "Frequency" and time "Period" are in a reciprocal relationship that can be expressed mathematically as: T = 1/f or as: f = 1/T.
+
+
+
+

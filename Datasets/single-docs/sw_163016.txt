@@ -1,0 +1,13 @@
+Newton's law of universal gravitation
+
+Newton's universal law of gravitation is a physical law that describes the attraction between two objects with mass. It is talked about in Isaac Newton's "Philosophiae Naturalis Principia Mathematica". The law is part of classical mechanics. 
+
+The formula is
+
+formula_1
+
+In this equation:
+
+In SI units, is measured in newtons (N), and in kilograms (kg), in metres (m), and the constant is approximately equal to .
+
+

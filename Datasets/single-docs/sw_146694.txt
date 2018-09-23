@@ -1,0 +1,18 @@
+Falsifiability
+
+Falsifiability is the capacity to prove something is not correct. 
+
+Scientists make hypotheses and theories about their fields of study. At the start, they hope their hypothesis or theory is true but they and other scientists will use the scientific method to try and prove it false. Falsifiability (or refutability) means that a theory or hypothesis can be proved wrong because it failed a critical test or experiment.
+
+A famous example in the 20th century was the expedition led by Arthur Eddington to Principe Island in Africa in 1919 to record the positions of stars around the Sun during a solar eclipse. The observation of star positions showed that the apparent star positions close to the Sun were changed. In effect, the light passing the Sun was pulled towards the sun by gravitation. This confirmed predictions of gravitational lensing made by Albert Einstein in the general theory of relativity, published in 1915. Eddington's observations were considered to be the first solid evidence in favour of Einstein's theory. Had the observations resulted differently, this would have counted against Einstein's theory, and perhaps refuted it.
+
+Karl Popper had the opinion that only theories that are falsifiable are scientific. Falsifiability is then a line between science and other kinds of knowledge: if it can be refuted, it is science; it if cannot, then it is not science. Many working scientists think Popper was right.
+
+Not everyone agreed with this: Pierre Duhem and Paul Feyerabend had different ideas. Feyerabend's "Against method" (1975) argued that there was no one scientific method. Instead, "whatever works, works" and "anything goes". This is called "epistemological anarchy". 
+
+Duhem's idea was more subtle. He thought that for any given set of observations there is a huge and uncountable number of explanations. According to Duhem, an experiment in physics is not just an observation, but an interpretation of observations by means of a theoretical framework. Furthermore, no matter how well one constructs one's experiment, it is impossible to subject an isolated single hypothesis to an experimental test. Instead, it is a whole interlocking group of hypotheses, background assumptions, and theories that is tested. This thesis has come to be known as holism. According to Duhem, it makes crucial experiments impossible.
+
+There are some other problems with falsification:
+
+
+

@@ -1,0 +1,15 @@
+Eddington limit
+
+The Eddington limit, or Eddington luminosity was first worked out by Arthur Eddington. It is a natural limit to the normal luminosity of stars. The state of balance is a hydrostatic equilibrium. When a star exceeds the Eddington limit, it loses mass with a very intense radiation-driven stellar wind from its outer layers. 
+
+Eddington's models treated a star as a sphere of gas held up against gravity by internal thermal pressure. Eddington showed that radiation pressure was necessary to prevent collapse of the sphere. 
+
+Most massive stars have luminosities far below the Eddington luminosity, so their winds are mostly driven by the less intense line absorption. The Eddington limit explains the observed luminosity of accreting black holes such as quasars.
+
+Eddington limit explains the very high mass loss rates seen in the outbursts of η Carinae in 1840–1860. The regular stellar winds can only stand for a mass loss rate of about 10–10 solar masses per year. Mass loss rates of up to 0.5 solar masses per year are needed to understand the η Carinae outbursts. This can be done with the help of the super-Eddington broad spectrum radiation driven winds.
+
+Gamma-ray bursts, novae and supernovae are examples of systems exceeding their Eddington luminosity by a large factor for very short times, resulting in short and highly intensive mass loss rates. Some X-ray binaries and active galaxies are able to maintain luminosities close to the Eddington limit for very long times. For accretion powered sources such as accreting neutron stars or cataclysmic variables (accreting white dwarfs), the limit may act to reduce or cut off the accretion flow. Super-Eddington accretion onto stellar-mass black holes is one possible model for ultraluminous X-ray sources (ULXs).
+
+For accreting black holes, all the energy released by accretion does not have to appear as outgoing luminosity, since energy can be lost through the event horizon, down the hole. Effectively, such sources may not conserve energy. 
+
+

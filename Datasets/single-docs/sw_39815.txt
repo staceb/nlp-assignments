@@ -1,0 +1,6 @@
+Key (music)
+
+Most music is in a particular key. This means that one of the 12 notes (C, D flat, D, etc.) sounds like the “home note”. When the piece finishes it normally comes to rest on this home note (also called: the “tonic”). The piece will be built on the notes of the scale that starts on that note. There are two kinds of key (like there are two kinds of scale): major and minor. Sometimes the key of a piece is in its title: "Minuet in C", "Sonata in F sharp major". If the title does not say “major” or “minor” it is normally taken to be major.
+
+
+

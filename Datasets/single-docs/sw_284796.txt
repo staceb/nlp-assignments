@@ -1,0 +1,10 @@
+Degree of unsaturation
+
+Degree of unsaturation (DOU) is a way to figure out how many rings or double bonds are in a molecule.
+
+
+Each degree either equals one ring structure or pi bond. A double bond would have one DOU. A triple bond would have a DOU of two (triple bond is one sigma bond with two pi bonds).
+
+For the below, use the same rules as above, using the definitions below.
+
+

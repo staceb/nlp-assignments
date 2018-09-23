@@ -1,0 +1,9 @@
+Nanosecond
+
+A nanosecond (ns) is one billionth of a second. It is equal to 10 seconds.
+
+One nanosecond is equal to 1000 picoseconds. 1000 nanoseconds is equal to one microsecond. Ten nanoseconds are sometimes called a shake.
+
+Some things that take between one nanosecond and ten nanoseconds are listed below
+
+

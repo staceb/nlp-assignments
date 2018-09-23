@@ -1,0 +1,12 @@
+Krebs cycle
+
+The Krebs cycle (or citric acid cycle) is a part of cellular respiration. Named after Hans Krebs, it is a series of chemical reactions used by all aerobic organisms to generate energy. Its importance to many biochemical pathways suggests that it was one of the earliest parts of cellular metabolism to evolve.
+
+The Krebs cycle comes after the link reaction and provides the hydrogen and electrons needed for the electron transport chain. It takes place inside mitochondria. 
+
+The diagram below shows how this part of respiration is an ever-repeating cycle which produces ATP and gives off CO. The ATP is a molecule which carries energy in chemical form to be used in other cell processes. To summarize: 
+
+Because two acetyl-CoA molecules are produced from each glucose molecule, "two cycles are required per glucose molecule". Therefore, at the end of two cycles, the products are: two ATP, six NADH, two FADH two QH (ubiquinol) and four CO. 
+
+
+

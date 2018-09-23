@@ -1,0 +1,5 @@
+Tweeter
+
+A tweeter is a small loudspeaker. Tweeters are designed to reproduce high-pitched sounds (such as the sound of a whistle or a bird singing). It can mean sound's frequency going up to 20kHz. Humans can's hear frequencies bigger than 20 000 Hz. Small frequencies would break small speakers because it is not designed to have big movements.
+
+

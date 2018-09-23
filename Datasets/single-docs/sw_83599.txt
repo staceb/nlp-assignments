@@ -1,0 +1,6 @@
+Parallel projection
+
+In linear algebra and functional analysis, a projection is a linear transformation "P" from a vector space to itself such that "P" = "P". Projections map the whole vector space to a subspace and leave the points in that subspace unchanged.
+
+
+

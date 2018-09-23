@@ -1,0 +1,5 @@
+Longwave
+
+In radio, longwave (or long wave) refers to parts of the radio spectrum that has longer wavelengths. These are typically kilometer-sized or greater. The term is a historic one dating from the early 20th century. This was when the radio spectrum was considered to consist of long, medium and short wavelengths. Most modern radio systems and devices use wavelengths which would then have been considered 'ultra-short'. In modern usage, the term longwave is not defined precisely. Its meaning varies across the world. The most common definition is the radio band with wavelengths greater than 1000 meters (frequencies less than 300 kHz), In Europe, Africa and large parts of Asia this term means the same as AM broadcasting. In the United States longwave is used for beacons, Navigation and weather broadcasting.
+
+

@@ -1,0 +1,14 @@
+Telegraphy
+
+Telegraphy (from the Greek words "tele (τηλε)" = far and "graphein (γραφειν)" = write) is the long-distance transmission of written messages without physical transport of letters.
+
+A telegraph sends electric pulses in a special code, composed from short and large marks. Usually, amateur radio operators use Morse code. 
+
+Some of the first telegraphs were made in the late 1700s, but these were hard to use because they had too many wires. Samuel Morse was the first person to make a telegraph using only one wire. In 1844, he built a telegraph line that went from Baltimore to Washington, D.C., and soon, there were telegraphs all over the United States. This made it easier for people to talk to people far away and made it easier for people to move out West. Radio telegraphy became widespread in the early 20th century, especially on ships.
+
+People would send messages called "telegrams" to other people. They would give the message to somebody using a telegraph, who would send the message using Morse code. Somebody using a telegraph on the other end would write down the message and give it to the person receiving the message. After the 1930s, it became cheaper to make long-distance telephone calls than to send telegrams, so fewer telegrams were sent. Western Union, an American company that used to send telegrams, sent its last telegram in 2006.
+
+Telegraphs are not used as much as they used to be. This is because of newer kinds of technology that people can use to communicate, such as the telephone and the Internet.
+
+
+

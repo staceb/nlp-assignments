@@ -1,0 +1,15 @@
+Binomial nomenclature
+
+In biology, binomial nomenclature is how species are named. The name of a species is made of two parts: one indicating the genus and one indicating the species. Binomial nomenclature means "two-part name" or "system of two-part names".
+
+The person who popularized this system for use was Swedish botanist and physician Carolus Linnaeus (1707–1778). He gave a two-part name to every species he knew. This kind of naming had been used before Linnaeus by some naturalists, but after Linnaeus, it was accepted as a good method.
+
+The value of the binomial nomenclature comes from several things. It saves words because it replaces long descriptions, it is used everywhere, and the names are unique and stable. The system ended the use of local common names, which was the source of much confusion. When science was done by just a few European countries their common names for species were well-known. But as it happened, the common names in all countries was rather different. The same name might be used for more than one species, and several species given the same name. In the Linnaeus system, everyone uses the same name for the same species. Linnaeus chose Latin names. First, because it avoided competitive nationalism; second because most educated people in his day learnt Latin.
+
+The system has been a great success, but it does have some problems. It is not always clear what is a species and what is not. Although many species are quite clear, some are put nto one species by some biologists, and into several species by others. Linnaeus himself noticed that species were not always distinct.Today we know something about why this is so. In practice, international committees make decisions about naming species in difficult cases.
+
+
+The components of a name may come from any source whatsoever. Often they are Latin words, but come originally from Greek. This is gradually changing, and names may now come from a Latinized version of a place, a person, a name from a local language, etc. 
+
+
+

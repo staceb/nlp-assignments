@@ -1,0 +1,8 @@
+Nim
+
+Nim is a simple game used for examples in combinatorial game theory. The rules of nim are simple:
+
+There is a simple mathematical strategy to play the game perfectly. If both players play perfectly, the winner is determined by the initial setup.
+
+
+

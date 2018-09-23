@@ -1,0 +1,54 @@
+History of chess
+
+The history of chess goes back almost 1500 years. The game originated in northern India in the 6th century and spread to Persia. When the Arabs conquered Persia, chess was taken up by the Muslim world and subsequently, through the Moorish conquest of Spain, spread to Southern Europe. 
+
+In Europe, the moves of the pieces changed in the 15th century. The modern game starts with these changes. In the second half of the 19th century, modern tournament play began. Chess clocks were first used in 1883, and the first world chess championship was held in 1886. The 20th century saw advances in chess theory, and the establishment of the World Chess Federation (FIDE). Chess engines (programs that play chess), and chess data bases became important.
+
+
+The precursors of chess originated in northern India during the Gupta empire, where its early form in the 6th century was known as Chaturanga. This translates as 'the four divisions', meaning infantry, cavalry, elephantry, and chariotry, represented by the pieces that would evolve into the modern pawn, knight, bishop, and rook, respectively.<ref name="H/W">Hooper, David and Whyld, Kenneth 1992. "The Oxford Companion to Chess" 2nd ed, Oxford University Press. ISBN 0-19-866164-9</ref> 
+
+In Sassanid Persia around 600 the name became "Chatrang" and the rules were developed further, and players started calling "Shāh!" (Persian for 'King') when threatening the opponent's king, and "Shāh māt!" (Persian for 'the king is finished') when the king could not escape from attack. These exclamations persisted in chess as it traveled to other lands.
+
+The game was taken up by the Muslim world after the Islamic conquest of Persia, with the pieces largely retaining their Persian names; in Arabic "māt" or "māta" مَاتَ means "died", "is dead". In Arabic, the game became Shatranj. In all other languages, the name of the game is derived either from "shatranj" or from "shah".
+
+The following table provides a glimpse of the changes in the names and character of chess pieces, as they passed from one culture to another, from India through Persia to Europe:
+
+Changes in the Arabic names of pieces happened over several centuries after the game arrived in Europe. Most changed were the pieces which had no equivalent in Europe, such as the elephant (al-fil), the visier (an advisor: the firzan or wazir), and the chariot (rukhkh). The greatest variety of names was for the elephant, which was not seen in Europe, and so not used in war. In Spain names derived from Arabic lasted for centuries (alfil, aufin, orfil...). Eventually, all but France used a word for "bishop". In a similar manner, vizir eventually became "queen", and the chariot became a word for "castle". Except, that is, in English, where "rook" is obviously a version of "rukh". The following table does not capture all these complicated changes.
+
+The game reached Western Europe and Russia by at least three routes, the earliest being in the 9th century. By the year 1000 it had spread throughout Europe. Introduced into the Iberian Peninsula by the Moors in the 10th century, it was described in a famous 13th century manuscript covering shatranj, backgammon and dice named the "Libro de los juegos".
+
+Buddhist pilgrims, Silk Road traders and others carried it to the Far East, where it was transformed into a game often played on the intersection of the lines of the board rather than within the squares. Chinese chess and Shogi are the most important of the oriental chess variants. However, it was the changes made in medieval Europe which led to our modern game.
+
+The game of chess is really two games. There is the original Indo-Arabic game, and there is the modern game, usually called 'international chess'. The transition between the two happened during the change from the medieval world to the modern world, in the Europe of the later 15th century. In fact, the new game of chess was one of the early topics chosen for the new technology of printing.
+
+In early chess the moves of the pieces were:
+
+The game could be won by 1. Mating the king; 2. By giving stalemate; 3. By capturing all the opponent's pieces. This kept down the number of draws.
+
+In Europe some of the pieces got new names:
+
+About 500 years after chess first reached Europe, after some smaller experiments, there were big changes in the way the pieces moved. The effect was to make the start of the game run faster, and get the opposing pieces in contact sooner. The changes were:
+
+These changes made most of the older chess culture obsolete. The slow development in the openings was replaced by gambits and rapid attacks. The relative values of the pieces are changed. The game can now only be won by mate or resignation by one of the players. Originally, this was not seen as a problem, but as technique improved, so did the number of draws. This became a matter for discussion in the early 20th century. The limited number of ways to win changed what players needed to win in the endgame; many endgames which could be won with the old rules now were drawn.
+
+The first printed work on chess to survive to the present day is Luis de Lucena's "Arte de axedres", printed in Salamanca, Spain. It can be dated to 1496 or 1497. It presents a number of chess problems, some of which are in the old rules ("del viejo"), some in the new rules ("dela dama"). This suggests that the transition is not quite complete, and some readers might not know about the new rules. By 1512, when Damiano published his "Questo libro e da imparare giocare a scachi" in Rome, it only included problems with the new rules, and does not mention the medieval game. The same applies to the Gottingen manuscript, probably written in Spain or Portugal. Though it has been claimed to be earlier, its content suggests it was not written before 1500. England and Germany received the reformed game by 1530. After that, the old game was effectively dead -- in Europe, at any rate. A version of the old game survived in India until recently.
+
+Modern chess theory was slow in developing. After the new moves of the pieces, players spent their time playing gambits, and trying to mate each other. The games of Gioacchino Greco (1600– ~1634) clearly show this. The first ideas as to how to win indirectly, 'positionally', started with Philidor. Modern chess has a lot of indirect manoeuvering of a kind the old Arabic players would have understood. They could not attack directly, because their Alfil and Firzān (our bishop and queen) had such limited moves.
+
+One interesting fact is that the Arabs divided their game into the same three stages which we do today: opening, middlegame and endgame.
+
+At the start of a game, the Arabic masters took a number of moves before the pieces were in contact with the other side.
+
+The table, based roughly on square control, suggests the modern game deploys about 20% more force on the board than the older game. However, this understates the case, since the table does not allow for castling, nor the initial optional double move of the pawn. Also, the pawn promotion to the new queen is hugely significant when it takes place. No exact value can be placed on these elements, but perhaps the modern game makes use of up to a third more force than in the original game.
+
+Single pieces found in archaeology are seldom taken as chessmen; they are much more likely to be general art objects. "Groups" of small objects are more likely chessmen if there are of more than two types. Many board games have used two kinds of pieces, but only chess uses six different kinds. A dig might not turn up all six forms, but more than two is indicative of chess. If the forms have characteristic chess figures (foot soldiers, kings, man on horse) this is even more convincing.
+
+The evidence from archaeology comes mostly from the discovery of early chess sets, and also from rock art: carvings (petroglyphs) and paintings on rock. 
+
+The earliest chessmen found are the Afrosiab collection. In 1977 the Uzbekistan Academy of Archaeology conducted a dig at Afrosiab, near Samarkand. Samarkand is one of the oldest inhabited cities in the world, and at times it has been one of the greatest cities of Central Asia. Samarkand is on the trade route between China and the Mediterranean (the Silk Road), and so it is a logical place for a trader to store some of his precious goods.
+
+The Afrosiab finds include seven chess pieces. They are heavily worn, but they include: two foot soldiers with shields and short swords (= our pawns); a war elephant with chain armour and a rider in full battle-dress (= our bishop); a visier (= our queen) with two horses with armed rider; two mounted riders with sword and shield (= knights); and the Shah, on a three-horse chariot, holding a mace-like symbol of power (= our king). That is five out of the six types of piece, and completely convincing as a chess set. The rukh (rook) is also known: it features a three-horse chariot with two men, one driving, and the other armed with sword and shield. 
+
+This group is dated to the 7th–8th centuries, and probably come from the end of the Sassanid Empire just before the Arabic conquest. They are "representational", meaning they are small carvings (though somewhat crude) of war men and equipment. Later Arabic sets became abstract shapes, in accordance with their religious teaching.
+
+

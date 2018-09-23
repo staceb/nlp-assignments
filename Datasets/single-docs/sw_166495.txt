@@ -1,0 +1,13 @@
+Ideal gas
+
+An ideal gas is a gas with particular characteristics. 
+
+Ideal gases are hypothetical which means that they do not exist in their true form.
+
+The Ideal Gas Equation to work out the volume, pressure, temperature or amount of particles in an ideal gas is:
+
+formula_1
+
+Where: 
+
+

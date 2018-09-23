@@ -1,0 +1,32 @@
+Bayes' theorem
+
+In probability theory and applications, Bayes' theorem shows the relation between a conditional probability and its reverse form. For example, the probability of a hypothesis given some observed pieces of evidence and the probability of that evidence given the hypothesis. This theorem is named after Thomas Bayes ( or "bays") and often called Bayes' law or Bayes' rule.
+
+The equation used is:
+
+Where:
+
+A simple example is as follows: There is a 40% chance of it raining on Sunday. If it rains on Sunday, there is a 10% chance it will rain on Monday. If it didn't rain on Sunday, there's an 80% chance it will rain on Monday.
+
+"Raining on Sunday" is event A, and "Raining on Monday" is event B.
+
+The first thing we'd normally calculate is the probability of it raining on Monday:
+This would be the sum of the probability of "Raining on Sunday and raining on Monday" and "Not raining on Sunday and raining on Monday"
+
+However, what if we said: "It rained on Monday. What is the probability it rained on Sunday?" That is where Bayes' theorem comes in. It allows us to calculate the probability of an earlier event, given the result of a later event.
+
+The equation used is:
+
+In our case, "Raining on Sunday" is event A, and "Raining on Monday" is event B.
+
+So, to calculate the probability it rained on Sunday, given that it rained on Monday:
+or:
+In other words, if it rained on Monday, there's a 7.69% chance it rained on Sunday.
+
+To calculate the probability of it having rained on Sunday, given that it rained on Monday, we can take the following steps:
+Therefore,
+
+Another way to see this, which shows where Bayes' theorem comes from, is to consider the probability P(AB) that it rains on both Sunday and Monday. This can be calculated in two different ways, which give the same answer for P(AB):
+Bayes' theorem is just another way to write that equation.
+
+

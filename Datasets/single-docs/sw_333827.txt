@@ -1,0 +1,24 @@
+Cantilever bridge
+
+A cantilever bridge is a bridge built using a . A cantilever is only supported on one end. For small footbridges, the cantilevers may be simple beams. For large cantilever bridges, designed for road or rail traffic the cantilevers are trusses built from structural steel, or box girders built from prestressed concrete. The steel truss cantilever bridge was a major engineering breakthrough when it was first used, because it can span distances of over . They can be more easily built at difficult crossings as they do not need to be supported during the construction.
+
+Engineers in the nineteenth century knew that a bridge which was built across multiple supports would distribute the loads among them. This meant there would be lower stresses in the girder or truss and meant that longer spans could be built. Several nineteenth century engineers designed continuous bridges with hinge points mid-span. The use of a hinge in the multi-span system meant that engineers could better work out the loads and stresses on the bridge It also meant the bridge could handle the foundations settling at different rates. 
+
+Heinrich Gerber was one of the engineers to obtain a patent for a hinged girder (1866) and is recognized as the first to build one. The Hassfurt Bridge over the Main river in Germany has a central span of 124 feet (38 meters). Completed in 1867, it was the first modern cantilever bridge. Other early cantilever bridges included the High Bridge of Kentucky by C. Shaler Smith (1877), the Niagara Cantilever Bridge by Charles Conrad Schneider (1883) and the Poughkeepsie Bridge by John Francis O'Rourke and Pomeroy P. Dickinson (1889). The Kentucky River Bridge spanned a gorge that was 275 feet (84 meters) deep. It was built with a cantilver which meant that it did not need to be supported during the building. The most famous early cantilever bridge is the Forth Rail Bridge. This bridge held the record for longest span in the world for 17 years.
+
+Benjamin Baker showed how the cantilever system worked in the photo on the left. The suspended span, where Kaichi Watanabe sits, is seen in the center. The need to resist compression of the lower chord is seen in the use of wooden poles while the tension of the upper chord is shown by the outstretched arms. The action of the outer foundations as anchors for the cantilever can be seen in the placement of the counterweights. 
+
+A simple cantilever span is formed by two cantilever arms extending from opposite sides of the obstacle to be crossed, meeting at the center. With a suspended span, the cantilever arms do not meet in the center; instead, they support a central truss bridge which rests on the ends of the cantilever arms. The suspended span may be built off-site and lifted into place, or constructed in place using special traveling supports.
+
+with as balanced cantilever, the span is balanced by cantilevers going in the opposite direction. If these are anchored into solid foundations, they are called anchor arms. In a bridge built on two foundation piers, there are four cantilever arms: two which span the obstacle, and two anchor arms which extend away from the obstacle. Because of the need for more strength at the balanced cantilever's supports, the bridge superstructure often takes the form of towers above the foundation piers. The Commodore Barry Bridge is an example of this type of cantilever bridge.
+
+Steel truss cantilevers support loads by tension of the upper members and compression of the lower ones. Commonly, the structure distributes the tension through the anchor arms to the outermost supports, while the compression is carried to the foundations beneath the central towers.
+
+Prestressed concrete balanced cantilever bridges are often built using segmental construction.
+
+Some steel arch bridges (such as the Navajo Bridge) are built using pure cantilever spans from each side. These are then joined with a pin, usually after forcing the meeting point apart. When the jacks are removed and the bridge decking is added the bridge becomes a truss arch bridge. Such unsupported construction is only possible if suitable rock is available to support the tension in the upper chord of the span during construction, usually limiting this method to the spanning of narrow canyons.
+
+World's longest cantilever bridges (by longest span):
+
+
+

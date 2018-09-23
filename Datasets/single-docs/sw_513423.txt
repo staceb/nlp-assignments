@@ -1,0 +1,9 @@
+Traction (engineering)
+
+Traction, or tractive force, is the force used to generate motion between a body and a surface. This is usually due to friction, though the use of shear force of the surface is also commonly used.
+
+Traction can also mean the maximum tractive force between a body and a surface, as limited by available friction. When this is the case, traction is often expressed as the ratio of the maximum tractive force to the normal force and is termed the "coefficient of traction" (similar to coefficient of friction).
+
+Traction is an important force to motor vehicles. Tires, usually made of rubber, depend on traction to move a vehicle forward. In manual transmission cars and trucks, a clutch is a friction device that connects the engine to the drivetrain of the vehicle. To work properly, the clutch must have traction.
+
+

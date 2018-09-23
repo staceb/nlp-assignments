@@ -1,0 +1,7 @@
+Microsoft Edge
+
+Microsoft Edge is a web browser. It was developed by Microsoft. It is included in the company's Windows operating system. It was released on July 29, 2015. It replaced Internet Explorer as the default browser on Windows 10. It is also the default browser on Windows 10 for mobile devices.
+
+Edge connects with Microsoft's online platforms. It features Cortana, a digital assistant. Cortana provides voice control, search functionality, and personalized information related to searches in the address bar. Users can make annotations to web pages. The annotations can be stored to and shared with OneDrive. It also has a "Reading List" function to sync content between devices. It has a "Reading Mode" that makes reading websites easier. Internet Explorer 11 will remain available alongside Edge on Windows 10 for compatibility purposes.
+
+

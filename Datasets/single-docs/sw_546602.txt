@@ -1,0 +1,13 @@
+Moscow Time
+
+Moscow Time is UTC+3, the same time as Eastern European Summer Time, East Africa Time, and Arabia Standard Time.
+
+On 28 March 2010, Moscow Time became the time zone for the Samara olabast in Russia, leaving Samara Time (UTC+4) unused.
+
+On 8 February 2011, The Russian government announced the abandonment of winter time in all time zones across Russia. Moscovians setted their clocks forward on 27 March 2011, and then UTC+4 became its standard time permanently.
+
+In July 2014, The law to observe summer time year round was abandoned, and the clock has been set to UTC+3 starting from 26 October 2014.
+
+The time zone database is Europe/Moscow.
+
+

@@ -1,0 +1,10 @@
+Space (physics)
+
+Space, in everyday language, is something that we all know. It is measured in the three dimensions of distance: length, width, and height.
+
+In modern physics, space is a "boundless four-dimensional continuum" known as spacetime. Disagreement exist about whether it is an entity (something that actually exists). It may be just a relationship between entities, or part of a conceptual framework.
+The standard space interval, called a metre (or meter), is defined as the distance traveled by light in a vacuum during a time interval of about 1/300,000,000 of a second.
+
+Before Einstein's work on relativistic physics, time and space were viewed as independent dimensions. Einstein's discoveries have shown that due to relativity of motion space and time can be mathematically combined into space-time.
+
+

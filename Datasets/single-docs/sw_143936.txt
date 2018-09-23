@@ -1,0 +1,12 @@
+Triode
+
+A triode is a type of vacuum tube. It differs from a vacuum tube diode, which has only two electrodes, by having a third electrode, called the grid between the cathode and anode. 
+
+When the cathode is heated, it gives out electrons. These electrons are then absorbed by the anode. This process makes an electric current, which is controlled by the grid. The addition of the grid allows the triode to be used as an amplifier.
+
+Lee De Forest invented this device in 1908 from his original two-electrode Audion of 1906. The triode incorporates the key principle of amplification. The name triode emerged because people needed to distinguish it from other similar vacuum tubes (for example, diodes, tetrodes, pentodes, etc.)
+
+Not only can the triode perform amplification, it can also work as part of an oscillator (making waves) and detecting waves. It is used in radios, however, since the 1960s, the transistor has mostly replaced it. It is an ancestor of the transistor. It is still used in vacuum tube amplifiers.
+
+
+

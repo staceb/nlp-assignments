@@ -1,0 +1,11 @@
+Hygrometer
+
+A hygrometer, also known as a psychrometer, is a device that is used to measure the humidity in the air. A common way these devices work is by using a material that attracts moisture, and that changes depending on how moist it is. The probably simplest method of these is to use a human hair. The hair will change length, depending on the moisture.Hence,it calculates the relative humidity of a particular place.
+
+A hygrometer has two bulbs: one wet and one dry. Both bulbs are traditional thermometers, though one is covered with a wet towel. After a period of time, the water on the wet bulb evaporates and at that time, the temperature is measured on each bulb. The difference between the temperatures is noted. Then each is used on a chart to find the relative humidity of that temperature and area. A small difference between the temperature of the bulbs shows a high relative humidity coming from a low evaporation rate. In dry air, evaporation happens faster showing a large difference in temperature thus giving you a low relative humidity.
+
+Example: 30˚C Dry Bulb + 20˚C Wet Bulb = ~40% relative humidity
+
+A sling psychrometer works when the scientist spins two thermometers through the air, one plain and one with a wet cloth around it. The dry thermometer measures the air temperature. The wet thermometer measures the dew point, because the wet cloth is cooled as the thermometer spins. Since the water on the cloth evaporates, due to latent heat, which is the loss of heat energy when matter goes through a phase change, the cloth cools. Then, the thermometer measures the temperature of the cloth. Eventually the cloth will match the amount of water absorbed in it with the amount of water absorbed in the air, or the humidity. When the matching happens, the temperature will stabilize. Then, the scientist looks on a table to find the dew point according to the air temperature and humidity measured by the wet bulb. 
+
+

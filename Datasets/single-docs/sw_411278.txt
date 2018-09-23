@@ -1,0 +1,5 @@
+Pottiputki
+
+A pottiputki is a planting tool for putting plants to ground It makes planting faster. The worker strikes the tool into the ground, and then stamps on the mechanism and the pottiputki makes a hole in the ground. A plant is then dropped in the tube of the tool, and falls into the hole.
+
+

@@ -1,0 +1,5 @@
+Icosagon
+
+In geometry, an icosagon is a twenty-sided polygon. The sum of any icosagon's interior angles is 3240 degrees.
+
+

@@ -1,0 +1,9 @@
+Autotransformer
+
+An Autotransformer (sometimes called autostep down transformer) is a transformer which has only one winding. The "auto" (Greek for "self") prefix refers to the single coil acting on itself and not to any kind of automatic mechanism. The winding acts as both primary winding and secondary winding in a normal transformer. Since part of the winding does "double duty", autotransformers have the advantages of often being smaller, lighter, and cheaper than typical dual-winding transformers. The disadvantage of an autotransformer include not providing electrical isolation between the primary winding and the secondary winding. There is also a higher possibility of short circuits due to low impedance.
+
+Autotransformers are used in power transmission, power distribution, audio, rail transport, etc. Autotransformers are often used to step up (increase) or step down (decrease) voltages in the 110–120 V range and in the 220–240 V range.
+
+<br>
+
+

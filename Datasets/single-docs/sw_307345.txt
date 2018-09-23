@@ -1,0 +1,8 @@
+INDO
+
+INDO stands for Intermediate Neglect of Differential Overlap. It is a semi-empirical quantum chemistry method that is a development of the complete neglect of differential overlap (CNDO/2) method developed by John Pople. Like CNDO/2 it uses zero-differential overlap for the two-electron integrals. Integrals for over orbitals centered on the same atom are included in the INDO method.
+
+The method is now rarely used in its original form. But it is the basis for several other methods, such as MINDO, ZINDO and SINDO.
+
+
+

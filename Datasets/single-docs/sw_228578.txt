@@ -1,0 +1,10 @@
+Decision theory
+
+Decision theory is a mathematical theory about how to best reach a decision. This is done using probability theory, statistics and logical reasoning. A decision can be made in different ways. Decision theory usually picks the best decision by looking at the consequences each way to decide might have. 
+
+In most cases, decision theory is normative and prescriptive. Most of the time, it assumes the decision maker has "perfect knowledge". Decision makers know all the consequences, and case take the best pick. 
+
+There are three branches of decision theory:
+Decision theory can also be classified as follows:
+
+

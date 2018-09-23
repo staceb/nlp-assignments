@@ -1,0 +1,5 @@
+Balanced circuit
+
+A balanced circuit is a way to connect audio wires together so that connecting to an interference is easier. To do this, the two or more wires and ground must be in the same cable. Typically, balanced audio cables use XLR connectors or phone connectors. Princible helps a lot with quality problems when using microphones because microphones create so small signal.
+
+

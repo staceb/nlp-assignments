@@ -1,0 +1,9 @@
+Subscript and superscript
+
+Subscript is the text which a small letter/number is written after a particular letter/number. It hangs below its letter or number. It is used when writing chemical compounds. An example of subscript is N.
+
+Superscript is the small letter / number above a particular letter / number. An example of superscript is 2. The number 5 above the number 2 is an example of superscript. Superscript can be used for exponents in mathematics.
+
+In word-processing computer programs like Microsoft Word, the shortcut key for subscripts is Ctrl+=.
+
+

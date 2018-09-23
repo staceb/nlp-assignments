@@ -1,0 +1,5 @@
+Computed tomography scanner
+
+A computed tomography (CT) scanner is an X-ray machine that takes cross section images. They can help a doctor in diagnosis.
+
+

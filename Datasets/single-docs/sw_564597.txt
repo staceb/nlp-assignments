@@ -1,0 +1,7 @@
+Big data
+
+Big data is a term used for database systems. It is used for a number of technologies which help to organize data. To classify as big data, at least some of the following items apply:
+
+
+
+

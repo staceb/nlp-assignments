@@ -1,0 +1,5 @@
+DIP switch
+
+A DIP switch is a small electric switch, packaged in a dual inline package as though it were an integrated circuit. It typically has several switches.
+
+

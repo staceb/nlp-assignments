@@ -1,0 +1,42 @@
+Interpretations of quantum mechanics
+
+In quantum mechanics, the mathematical formalism is very difficult to interpret physically. However, there are many ideas about the interpretations and meanings of quantum mechanics. There are no facts to prove any interpretation over the others, but there are some that are more accepted than others.
+
+"Main article: Quantum mechanics"
+
+The main ideas of quantum mechanics are the postulates of Schrödinger and Heisenberg. The Schrödinger equation is a partial differential equation that describes the wavefunction of an object. The equation can be given by
+
+formula_1
+
+The basic meaning of this equation is that a particle, such as an electron, is not "just" a point-like particle, but also a type of wave. The philosophical implications will be explored shortly. Another fundamental of quantum mechanics is the Heisenberg uncertainty principle. This bizarre theory is the idea that the position and the momentum of an object cannot both be known. The greater the certainty of the "position" of an object, the less the certainty of the "momentum" of the object. The mathematical formulation of this is given by
+
+formula_2
+
+This can further be generalized by stating that
+
+formula_3
+
+Where formula_4 is the operator of formula_5 and formula_6. This law also gives rise to an uncertainty between energy and time, which can be expressed in the same way as the relation between momentum and position.
+
+Another important fact of quantum mechanics is that the electron behaves in a very weird way. At first, no one really knew what the wavefunction meant physically. Max Born, a theoretical physicist, explained that the wavefunction is a "probability wave." In other words, wherever the wave is denser, that is where the particle is most likely found, but it won't necessarily be found there. The way to find the probability 
+(formula_7) of the position of the particle in the region formula_8
+
+For example, if formula_7 is equal to .5, then there is a 50% chance of finding the particle within that region. This shows us that the location of a particle probabilistic; one can never say that the particle will "definitely" be found at a certain point in space, but rather, one can only give the probability of finding the particle within that region. 
+
+The most well-accepted interpretation of quantum mechanics is the idea called Copenhagen interpretation. This interpretation builds upon the probability-wave notion, but brings in a radical new idea called the superposition principle. The best way to explain this principle is by showing it mathematically. If the functions formula_10 are solutions of the Schrödinger equation, then the superposition of those wavefunctions is also a solution. i.e.,
+
+formula_11 
+
+Where formula_12 is the superposition of the various wavefunctions. This idea implies that a particle occupies every possible wavefunction it can. This implies that a particle occupies more than one position "at the same time." In other words, a particle exists in at least two different positions simultaneously. When an observer comes and actually measures the position of the particle, something called the wavefunction collapse occurs. So when someone observes the particle, the following happens:
+
+formula_13→formula_14
+
+In simple terms: when there is no observation or observer, then a particle occupies many positions simultaneously; when an observation takes place, the wavefunction collapses and the particle exists only in one position. 
+
+The many-worlds interpretation is by far the most fantastic interpretation of quantum mechanics. This interpretation says that rather than the wavefunction collapsing, each possibility actually occurs, but in separate universes. This means that the universes branch off for each possibility. 
+
+The interpretation presented by Albert Einstein himself, states that the outcome of some random event is predetermined. So, rather than a particle existing as a probability wave, this interpretation says that the particle only exists only in one position, but we just perceive it to be a probability. This idea is much less popular, but nonetheless mentionable.
+
+So, of the three main interpretations of quantum mechanics, which one is correct? Physicists seem to think that the Copenhagen interpretation is the most likely, but no one is for sure.
+
+

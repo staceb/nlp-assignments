@@ -1,0 +1,19 @@
+Social engineering
+
+Social Engineering (also known as „Social Manipulation“) is a way to influence people with the goal to illegally obtain sensitive data (i.e. passwords, credit card information). Social Engineers observe the personal environment of their victims and use fake identities to gain secret information or free services. In most cases Social Engineering is used to infiltrate third party computer systems to spy on sensitive data; in that case social engineering is also called Social Hacking.
+
+An early way of Social Engineering first occurred in the 1980's and was named Phreaking. Phreakers called phone companies and claimed to be system administrators and asked for passwords which they used to connect illegally and free of charge to the Internet.
+A more modern form of Social Engineering is called Phishing (Phishing is derived from “fishing”), which is an attempt to get access to Internet user's data via faked WWW-addresses. The most common way of Phishing is Fraud Mailing also known as Scam Mailing, where the victim is being sent a fake E-Mail i.e. of a bank. In most Scam Mails the letter includes a link that is redirecting to a fake website which is logging the login id and the appropriate password of the victim. The hackers are often using DNS-Spoofing to fake the sender's E-Mail address.
+
+The main model of Social Engineering shows up with faked phone calls: the Social Engineer calls employees of a company and impersonates a technician who needs sensitive data to complete important technical operations. In advance the attacker has gathered information about work routines of the target company from public sources or former raid attempts, that gives him advantage in further Social Engineering trials.
+The invader tries to confuse his victims and to seem trustful, using trade language and involving the victims in small talk. Further the assaulter pretends authority to frighten his victims. Under circumstances the employee actually requested technical support and is expecting such a phone call.
+
+The prevention of Social Engineering is difficult. By influencing the victim subconsciously, the invader abuses typical human behavior like helpfulness in emergency situations or to respond with help to the seemingly helpful attacker.
+General mistrust would disturb the efficient and trustful team work of an organization. The most effective way to avoid Social Engineering is to assure the identity of the caller. This can already be done by asking for the caller's name and phone number and to politely ask for patience, even if the caller's issue seems to be very urgent. Even if one could verify the caller's identity, one should only hand out the absolutely necessary information. 
+
+Social Engineering became generally known through Kevin David “Condor” Mitnick (movies: “Takedown” also known as “Hackers 2”), who became one of the most wanted persons of the United States of America because of successfully invading government systems such as the Pentagon and the NSA.
+
+Further well known Social Engineers are the check scammer Frank Abagnale (movie: “Catch Me If You Can”).
+
+
+

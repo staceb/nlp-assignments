@@ -1,0 +1,5 @@
+Abugida
+
+An Abugida is a writing system which is between syllabic and alphabetic scripts. In such systems, sequences of consonants and vowels are written as a unit: Each unit is based on the consonant letter. Vowels need to be written down as well, but are secondary. This is different from a truly alphabetic script, where vowels and consonants have the same status, and an abjad, where vowels are absent, or can be left out. Examples, where Abugidas are used are Ethiopic, and some languages found on the Indian subcontinent. Certain forms of Shorthand use diacritics for vowels.
+
+

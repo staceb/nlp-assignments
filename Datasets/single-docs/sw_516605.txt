@@ -1,0 +1,5 @@
+Ticker symbol
+
+A ticker symbol is a small abbreviation a company uses for stock indexes. They make the name easier to remember, like "GOOG" instead of Google.
+
+

@@ -1,0 +1,19 @@
+Sony Vegas
+
+Sony Vegas is a non-liner video editing software developed by Sony Creative Software. There are four versions of the software. The first version was 7.0 released in 2006, then came the 8.0 version released in 2007, then the 9.0 version released in 2009 and then the 10.0 version released in 2011. The Film Paranormal Activity was edited using the software and has won many awards.
+
+The software is only for Windows computers and PCs only and cost 600 dollars. 
+
+Sony Vegas contains a lot of video and audio effects and transitions including the Mirror Effect and Chroma Key. Sony Vegas also has tittles and other video generators.
+
+Sony Vegas also allows users crop video, Flip video horizontal or upside down, change the speed of video and audio with or without the pitch changing if going faster or slower and more.
+
+The 8.0 version was released in late 2007. It contains features including ProType Titling technology, Multicamera editing tools, 32-bit floating point video processing, Customizable window layouts, Improved HDV/SDI/XDCAM support and Mixing console window.
+
+The 9.0 version was released in 2009. The color of the program is now black rather than white. It contains features including support for 4K resolution and native support for pro camcorder formats like Red and XDCAM EX. 
+
+The latest 9.0 version was released in May 2010 called "Vegas Pro 9.0e" which includes a new white balance video effect.
+
+The 10.0 version was released in October 2010 and is the latest version of the software. It contains new features including Stereoscopic 3D Editing, Comprehensive Closed Captioning, GPU-Accelerated AVC Encoding (Using NVIDIA CUDA), Image Stabilization, Audio Event FX, Track Management, OpenFX plugins support.
+
+

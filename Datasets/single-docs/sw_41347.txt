@@ -1,0 +1,16 @@
+Sine wave
+
+A sine wave is a curve with this shape: 
+
+This is a picture of a sine wave.
+
+All waves can be made by adding up sine waves. The sine wave has a pattern that repeats. The length of this repeating piece of the sine wave is called the wavelength. The wavelength can be found by measuring the length or distance between one peak of a sine wave and the next peak. The wavelength can be found in many other ways too. 
+
+Waves are found everywhere in the natural world. Examples of waves:
+All of these waves are sums of signals.
+
+Sine waves have a "length" called a wavelength. There are other properties of waves and sine waves, such as their frequency, amplitude, phase, and speed.
+
+The frequency of a sine wave is the number of oscillations a wave has in a certain period of time, for example one second.
+
+

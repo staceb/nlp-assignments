@@ -1,0 +1,20 @@
+Glycolysis
+
+Glycolysis is a metabolic process in most organisms. It is the first stage in cellular respiration. It allows both aerobic and anaerobic respiration. Glycolysis releases only a small amount of energy. 
+
+Glycolysis is thought to be the archetype of a universal metabolic pathway. It occurs, with variations, in nearly all organisms, both aerobic and anaerobic. The wide occurrence of glycolysis shows that it is one of the most ancient known metabolic pathways.
+
+Glycolysis has ten intermediate compounds, catalysed by ten different enzymes. Only the broad outline is described here.
+
+The second half of glycolysis is known as the 'pay-off phase', by the net gain of the energy-rich molecules ATP and NADH. Since glucose leads to two triose sugars in the preparatory phase, each reaction in the pay-off phase occurs twice per glucose molecule. This yields 2 NADH molecules and 4 ATP molecules, leading to a net gain of 2 NADH molecules and 2 ATP molecules from the glycolytic pathway per glucose molecule.
+
+Summary: 2ATP → 4ATP + 2(NADH + H+) + 2 pyruvate (net production of 2ATP)
+
+Cells performing aerobic respiration (respiration using oxygen) synthesize much more ATP, but not as part of glycolysis. These further reactions use the pyruvate from glycolysis. 
+
+Eukaryote aerobic respiration produces about 30 additional molecules of ATP for each glucose molecule.
+Glycolysis, through anaerobic respiration, is the main energy source in many cells.
+
+
+
+

@@ -1,0 +1,9 @@
+Crash (computing)
+
+A Computer crash is when a computer program stops running normally. The program can be either an application or the computer's operating system. The program may freeze (stop) or may show a crash report explaining what happened. One, called the Blue Screen of Death has a blue screen and means whatever you were working on may have just 'died'. Many crashes involving computers are often the result of machine instructions not running right. Typical causes are if programs' counters are set to incorrect addresses or buffer overflows.
+
+An application crash can happen if an operation (a set of instructions) is performed that is not allowed by the operation system. If an application crashes, any work in progress may be lost. For this reason it is very important to backup computer files every few minutes. In some operating systems, when one application program crashes, other running programs may crash as a result.
+
+Operation systems often crash due to hardware problems. A device driver that is poorly written can cause an operating system to crash. The solution may be to upgrade the driver.
+
+

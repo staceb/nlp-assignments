@@ -1,0 +1,9 @@
+Symmetry
+
+Symmetry is a property of certain geometrical objects that appears the same when mirrored or reflected along an axis. This axis has to cross the shape through the middle of that object dividing into equal halves. 
+
+The precise notions of symmetry have various measures and operational definitions. For example, symmetry may be observed
+
+Asymmetry is the absence of symmetry. It is best defined like that because symmetry is relatively rare, and all other objects are asymmetric.
+
+

@@ -1,0 +1,7 @@
+Probability density function
+
+A probability density function is a function that can be defined for any continuous probability distribution. The integral of the probability density function in the interval formula_1 yields the probability that a given random variable with the given density is contained in the interval provided. 
+
+The probability density function is necessary to be able to work with continuous distributions. Casting a dice will give the numbers 1 to 6, with a probability of formula_2, but this is not a continuous function, as only the numbers 1 to 6 are possible. In contrast, two people will not have the same height, or the same weight. Using a probability density function, it is possible to determine the probability for people between and , or between and , even though there are infinitely many values between these two bounds.
+
+

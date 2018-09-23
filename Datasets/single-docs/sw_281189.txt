@@ -1,0 +1,11 @@
+Pirc defence
+
+The Pirc defence is one of the asymmetrical hypermodern defences, usually to 1.e4. It is similar to the Modern defence, but reserves the decision as to whether to fianchetto the g8 bishop.
+
+Because it is so flexible it lends itself to transpositions. This is one of the main lines:
+
+A completely different idea is:
+which is a transposition into Philidor's defence. Another idea is:
+which is called Wade's defence.
+
+

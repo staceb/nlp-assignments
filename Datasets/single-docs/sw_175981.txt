@@ -1,0 +1,13 @@
+Bose–Einstein condensate
+
+Bose–Einstein condensate (BEC) is what happens to a dilute gas when it is made very cold, near absolute zero( in kelvin). It forms when the particles that make it up have very low energy. Only bosons can make a Bose–Einstein condensate, when they are close to 0 °K (or −273 °C, or −459.67 °F). The gas has extremely low density, about one-hundred-thousandth the density of normal air.
+
+A Bose–Einstein condensate is a change of state. When matter is in the BEC state it has zero viscosity. Superfluidity and superconductivity are both closely connected with the BEC state of matter.
+
+Particles can only have a set amount of energy. They either have the energy to bounce around in gases or just the energy to flow like a liquid or be fixed like a solid. If you take enough of the particle's energy away you get to the tiniest or the smallest amount of energy possible. This is a Bose–Einstein condensate. This makes all of the particles exactly the same and instead of bouncing around randomly in all different directions, they all bounce up and down in exactly the same way, forming something called a 'giant matter wave'.fifth state of matter on the basic of chemical properties
+
+The Bose-Einstein Condensate was first suggested by Satyendra Nath Bose and Albert Einstein in 1924–25. Seventy years later its existence was proved. Eric Cornell and Carl Wieman made the first Bose–Einstein condensate in 1995 at the University of Colorado. Cornell, Wieman, and Wolfgang Ketterle at MIT were then given the 2001 Nobel Prize in Physics.
+
+Usually to get anything cold enough to make a Bose–Einstein condensate you have to first trap the stuff using magnets and then, by bouncing lasers off them, take all of their energy away through red shift. This still does not get things quite cold enough. Some of the particles will still be bouncing around a lot and only some will be lying down nicely. The magnetic field is then slowly lowered bit by bit to let the faster bouncing particles out. This just leaves us with the coldest and slowest atoms inside.
+
+

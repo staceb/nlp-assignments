@@ -1,0 +1,5 @@
+Dirac equation
+
+The Dirac equation is an equation from quantum mechanics. Paul Dirac formulated the equation in 1928. The equation describes the behaviour of fermions (e.g. electrons), and takes special relativity into account. The equation showed the existence of antimatter. 
+
+

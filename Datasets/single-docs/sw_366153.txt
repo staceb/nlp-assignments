@@ -1,0 +1,34 @@
+Gumbel distribution
+
+The Gumbel distribution is a probability distribution of extreme values.
+
+In probability theory and statistics, the Gumbel distribution is used to model the distribution of the maximum (or the minimum) of a number of samples of various distributions. 
+
+Such a distribution might be used to represent the distribution of the maximum level of a river in a particular year if there was a list of maximum values for the past ten years. It is also useful in predicting the chance that an extreme earthquake, flood or other natural disaster will occur. 
+
+The Gumbel distribution is a continuous probability distribution. Gumbel distributions are a family of distributions of the same general form. These distributions differ in their "location" and "scale" parameters: the mean ("average") of the distribution defines its location, and the standard deviation ("variability") defines the scale.
+
+One recognizes the Gumbel "probability density function" (PDF) and the Gumbel "cumulative distribution function" (CDF).
+
+In the PDF, the probability P of a value V to occur between limits A and B, briefly written as P(A<VP(V \leq A) = CDF(A) </math>.
+
+The mathematical expression of the CDF is:
+
+where μ is the "mode" (the value where the probability density function reaches its peak), "e" is a mathematical constant, about 2.718, and β is a value related to the "standard deviation" (σ) :
+
+where π is the Greek symbol for Pi whose value is close to 22/7 or 3.142, and the symbol formula_3 stands for the square root.
+
+The "mode" μ can be found from the "median" M, being the value of A where CDF(A)=0.5, and β:
+
+where "ln" is the natural logarithm.
+
+The "mean", E(x), given by:
+
+where formula_6 = "Euler constant" formula_7 0.5772.
+
+In a data series, the parameters "mode" (μ) and β can be estimated from the average, median and standard deviation. The calculation of the last three quantities is explained in the respective Wiki pages. Then, with the help of formulas given in the previous section, the factors μ and β can be calculated. In this way, the CDF of the Gumbel distribution belonging to the data can be determined and the probability of interesting data values can be found.
+
+In hydrology, the Gumbel distribution is used to analyze such variables as monthly and annual maximum values of daily rainfall and river discharge volumes, and also to describe droughts.
+The blue picture illustrates an example of fitting the Gumbel distribution to ranked maximum one-day October rainfalls showing also the 90% "confidence belt" based on the binomial distribution. 
+
+

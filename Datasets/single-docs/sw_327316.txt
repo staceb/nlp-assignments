@@ -1,0 +1,5 @@
+Magnetic pendulum
+
+A magnetic pendulum is an experiment where a metal ball on a thread (a pendulum) can be influenced by a number of magnets on the ground. The length of the rope is such that the ball cannot touch the magnets, but is still influenced by them. If the ball is moved, its movement will be influenced by both gravitation and the fields the magnets generate. If the movement is so large that the ball can get outside the influence of the magnets, the resulting movement will look irregular. While it is deterministic, it will depend on the starting conditions—that is the position of the ball at the start. This has been called deterministic chaos.
+
+

@@ -1,0 +1,28 @@
+Mutual information
+
+Mutual information measures how much more is known about one random value when given another. For example, knowing the temperature of a random day of the year will not reveal what month it is, but it will give some "hint". In the same way, knowing what month it is will not reveal the exact temperature, but will make certain temperatures "more or less likely". These "hints" or "changes in likelihood" are explained and measured with mutual information.
+
+To calculate mutual information, the probability (chance) of all possible events, and the probability of them happening at the same time, is needed. For example, to measure mutual information between month and temperature we would need to know how many days in the year are 10 degrees Celsius, how many days out of the year are March and finally how many days are 10 degrees Celsius in March.
+
+The formula requires the summation, or adding up, of many terms or numbers. Every possible outcome has its own term. From the above calculation of mutual information between month and temperature, we will use the following variables:
+
+This means m(3) equals the probability of a randomly selected day being in March. This is 31/365, or about 0.085, since 31 out of 365 days in the year are in March.
+
+One term would be as follows:
+
+In this formula, "log" means logarithm.
+
+Adding all possible terms together gives the value for mutual information.
+
+The larger the mutual information, the more you can learn about one random value (e.g. month) when told another (e.g. temperature).
+
+
+
+
+
+Mutual information does not change based on which random value is revealed. This means we know just as much about "temperature when told the month" as we know about "the month when told the temperature".
+
+Mutual information is difficult to compare. If we calculate mutual information for weather and another value for a card game, the two values cannot easily be compared.
+
+
+

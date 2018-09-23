@@ -1,0 +1,7 @@
+Inference (statistics)
+
+Statistical inference is the process of drawing conclusions from data that is subject to random variation. Examples would be observational errors or sampling variation. 
+
+For the most part, statistical inference makes statements about populations, using data drawn from the population of interest by some form of random sampling. The result is some kind of statistical proposition, such as:
+
+

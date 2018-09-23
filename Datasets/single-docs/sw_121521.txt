@@ -1,0 +1,5 @@
+Microsoft Excel
+
+Microsoft Excel (full name Microsoft Office Excel) is a part of Microsoft Office. It is also avaliable on Mac. It is made by Microsoft and it is proprietary software. It is used on the operating systems Microsoft Windows and Mac OS X. It can do calculations and graphics. For example, it can make charts and other pictures from data tables. It also has a macro programming language called Visual Basic for Applications (VBA). Excel is part of Microsoft Office. The current versions are 2016 for Windows and 2016 for Mac.
+
+

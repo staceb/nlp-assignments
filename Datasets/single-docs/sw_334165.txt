@@ -1,0 +1,13 @@
+Numerical analysis
+
+Numerical analysis studies different algorithms to get approximations for problems of mathematical analysis. Approximations are used for the following reasons:
+
+One of the earliest known uses of numerical analysis is a Babylonian clay tablet, which approximates the square root of 2. In a unit square, the diagonal has this length. Being able to compute the sides of a triangle is extremely important, for instance, in carpentry and construction.
+
+Numerical analysis continues this long tradition of practical mathematical calculations. Much like the Babylonian approximation of formula_1, modern numerical analysis does not seek exact answers, because exact answers are often impossible to obtain in practice. Instead, much of numerical analysis is concerned with obtaining approximate solutions while maintaining reasonable bounds on errors.
+
+Numerical analysis naturally finds applications in all fields of engineering and the physical sciences, but in the 21st century, the life sciences and even the arts have adopted elements of scientific computations. Ordinary differential equations appear in star movement; optimization occurs in portfolio management; numerical linear algebra is important for data analysis; stochastic differential equations and Markov chains are essential in simulating living cells for medicine and biology.
+
+Computers greatly helped this task. Before there were computers, numerical methods often depended on hand interpolation in large printed tables. Since the mid 20th century, computers calculate the required functions instead. These same interpolation formulas nevertheless continue to be used as part of the software algorithms for solving differential equations.
+
+

@@ -1,0 +1,33 @@
+The Bridge (poem)
+
+The Bridge is a long poem by American author Hart Crane. The work was published for the first time in 1930. It was intended by the poet to be a modern epic poem. The poem has fifteen parts. Many of them are about New York City. The best-known part of the poem is its introductory part named "To Brooklyn Bridge". "The Bridge" is considered to be Hart Crane's most ambitious undertaking. It is sometimes, however, called a failure, too. 
+
+Hart Crane is a modern poet. But in this poem he used mostly iambic pentameter. This iambic pentameter is usually unrhymed (blank verse), but sometimes rhymed.
+
+<poem>
+"And Thee, across the harbor, silver paced"
+"As though the sun took step of thee yet left"
+"Some motion ever unspent in thy stride,—"
+"Implicitly thy freedom staying thee!"
+</poem>
+
+Hart Crane is known for his attention to the sounds of language. He used alliteration, rhymes and internal assonance. The assonance, that is repeating of the same vowel, can be found in this strophe. The sound [i] occurs in many accented syllables in it. 
+
+<poem>
+"How many dawns, chill from his rippling rest"
+"The seagull’s wings shall dip and pivot him,"
+"Shedding white rings of tumult, building high"
+"Over the chained bay waters Liberty —"
+</poem>
+
+Alliteration, that is repeating of the same consonant, should be noticed in the next strophe.
+
+<poem>
+"O harp and altar, of the fury fused,"
+"(How could mere toil align thy choiring strings!)"
+"Terrific threshold of the prophet’s pledge,"
+"Prayer of pariah, and the lover’s cry,"
+</poem>
+
+
+

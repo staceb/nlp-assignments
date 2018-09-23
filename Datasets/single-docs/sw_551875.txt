@@ -1,0 +1,5 @@
+Constructive proof
+
+In mathematics a constructive proof is a method of proof that shows the existence of a mathematical object by giving a method on how to create the object. The other type of proof is called non-constructive proof, or existence proof: It shows that an object must exist, but does not give a way how to construct it.
+
+

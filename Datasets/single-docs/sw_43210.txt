@@ -1,0 +1,5 @@
+Logical conjunction
+
+Logical conjunction (very often called and) is a Logic operation. Logical conjunction shows a true/false value ("output"). Whether it is true or false depends on two other true/false values ("inputs"). If both of the inputs are "true" at the same time, then logical conjunction outputs "true." If one of the inputs is false, or if both of the inputs are false, then logical conjunction outputs "false." Its logic gate equivalent is the AND gate.
+
+

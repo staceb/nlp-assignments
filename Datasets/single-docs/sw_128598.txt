@@ -1,0 +1,5 @@
+Appliance
+
+An appliance is a machine that only has limited functionality. A prosthesis is an example. Many appliances need electricity to work.
+
+

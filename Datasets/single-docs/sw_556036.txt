@@ -1,0 +1,5 @@
+Life simulation game
+
+A life simulation game is a kind of role-playing game or RPG where the player takes on a god-like perspective of the game. Unlike most RPGs, which progress at the player's speed, a life simulation game continues automatically. "SimAnimals" is an example of a life simulation game.
+
+

@@ -1,0 +1,17 @@
+Uranium-lead dating
+
+Uranium-lead is one of the oldest and most refined of the radiometric dating schemes. 
+
+It can be used over an age range of about 1 million years to over 4.5 billion years. Precision is in the 0.1-1 percent range. 
+
+The method relies on two separate decay chains, the uranium series from U to Pb, with a half-life of 4.47 billion years and the actinium series from U to Pb, with a half-life of 704 million years.
+
+The existence of two 'parallel' uranium-lead decay routes allows several dating techniques within the overall U-Pb system. 
+
+The term 'U-Pb dating' normally implies the coupled use of both decay schemes. However, use of a single decay scheme (usually U to Pb) leads to the U-Pb isochron dating method, analogous to the rubidium-strontium dating method. 
+
+Finally, ages can also be determined from the U-Pb system by analysis of Pb isotope ratios alone. This is termed the lead-lead dating method. Clair Cameron Patterson, an American geochemist who pioneered studies of uranium-lead radiometric dating methods, is famous for having used it to obtain one of the earliest accurate estimates of the age of the Earth.
+
+Uranium-lead dating is usually performed on the mineral zircon (ZrSiO), though it can be used on other minerals. Zircon incorporates uranium and thorium atoms into its crystalline structure, but strongly rejects lead. Therefore, we can assume that the entire lead content of the zircon is radiogenic. Where this is not the case, a correction must be applied. Uranium-lead dating techniques have also been applied to other minerals such as calcite/aragonite and other carbonate minerals. These minerals often produce lower precision ages than igneous and metamorphic minerals traditionally used for age dating, but are more common in the geologic record.
+
+

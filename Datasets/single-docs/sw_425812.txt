@@ -1,0 +1,23 @@
+International Bank Account Number
+
+The International Bank Account Number is an internationally-recognised way of identifying bank account numbers. Its abbreviation is "IBAN". The IBAN was developed to enable people in the European Union to send money to a bank account in another country. When a person uses a computer to make a money transfer, the IBAN has features that allow the person’s computer to check for typing errors.
+The IBAN is now used in all European countries and also in many developing countries. Developed countries outside Europe such as the United States, Australia and Canada do not use the IBAN.
+
+IBANs are usually written in groups of four characters. This makes it easy for people to copy the numbers.
+
+The first four characters in an IBAN have the same meaning throughout the world. Each country has its own layout for the rest of the IBAN. For example "" is a British IBAN for a bank account at the National Westminster Bank. The parts of this IBAN are described below:
+The letters in the second row have the following meanings: 
+
+A computer can check an IBAN by changing it into an integer and dividing the number by 97. If the IBAN is valid, the remainder equals 1. The rules for changing the IBAN to an integer are:
+
+For Example check that "codice_1" is a valid IBAN. 
+
+Many computer programs have been written to check whether or not an IBAN is valid. These programs do not check whether or not an IBAN is genuine. They do check that a genuine IBAN has been copied correctly. UNESCO maintains one such program and have made the source code public. It will detect a large number of mistakes that users might make when they are copying a genuine IBAN by hand. These mistakes include: 
+
+The IBAN was developed to make it easier to transfer money from a bank in one EU country to a bank in another EU country. This was important when people bought goods from other countries. 
+The rules for the IBAN were drawn up by the International Organization for Standardization (ISO) in 1997. They were revised in 2003 and again in 2007. The rules that were written in 2007 consist of two rule books:
+All bank accounts within the European Union must have an IBAN. Bank accounts can also have a domestic bank account identifier. The domestic bank account identifier in the United Kingdom is the sort code and bank account number. During 2014 all banks in Europe that use the euro must start using the IBAN for customer account numbers. They will no longer be allowed to use older national systems.
+
+The IBAN is also used in many developing countries including Brazil, Pakistan. Turkey and many counties in the Middle East.
+
+

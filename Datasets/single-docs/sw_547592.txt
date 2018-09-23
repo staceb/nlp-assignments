@@ -1,0 +1,14 @@
+Angiosperm Phylogeny Group
+
+The Angiosperm Phylogeny Group (APG) is an informal international group of botanists who came together to try try and get a consensus on the taxonomy of flowering plants (angiosperms). They wanted to base it on plant relationships got from phylogeny.
+
+Four versions of a classification system have come from this collaboration. They were published in 1998, 2003, 2009 and 2016. Earlier angiosperm classifications were not based on monophyletic groups (i.e., groups that include all the descendants of a common ancestor).
+
+The principles of the APG's approach to classification were set out in the first paper of 1998, and have remained unchanged in subsequent revisions. Briefly, these are: 
+
+
+For a detailed discussion on phylogenetic nomenclature, see Cantino "et al" 2007.
+
+The latest version is APG IV.
+
+

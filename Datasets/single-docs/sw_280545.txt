@@ -1,0 +1,5 @@
+Charge conjugation
+
+Charge conjugation describes a type of symmetry of nature. To preform a charge conjugation, one would exchange all particles with their corresponding antiparticles. This action would create a physical system where everything would be the same except the electromagnetic charge would be reversed. For example, one could make an antihydrogen atom with an antiproton and an antielectron. This would result in an atom with a negatively charged nucleus orbited by a positively charged positron. The masses of the nucleus and the lepton orbiting the nucleus would remain unchanged. If the behavior of the system (such as the atom mentioned above) remains unchanged after charge conjugation, the system is said to be symmetric with respect to charge conjugation. This symmetry is also known as "C symmetry."
+
+

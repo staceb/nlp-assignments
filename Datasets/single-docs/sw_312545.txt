@@ -1,0 +1,5 @@
+Hyperoperation
+
+A hyperoperation is a generalization of addition, multiplication, exponentiation, tetration, etc. They are often written using Knuth's up-arrow notation. Natural number level hyperoperations can be defined recursively as a piecewise function:
+
+

@@ -1,0 +1,5 @@
+Gall–Peters projection
+
+The Gall–Peters projection is an equal-area map projection. It is a map style that has areas near the equator appear to be smaller than they are. Those areas closer to the poles appear larger. It was named after James Gall and Arno Peters. A controversy came up in the late 20th century about the political implications of map design. Maps based on this projection are promoted by UNESCO. They are also widely used by British schools.
+
+

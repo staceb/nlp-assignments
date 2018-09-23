@@ -1,0 +1,6 @@
+Rotor (electric)
+
+A rotor is the part of an electric machine (motor or generator) that rotates. It rotates because of the torque developed by wires and magnetic field inside the machine.
+
+
+

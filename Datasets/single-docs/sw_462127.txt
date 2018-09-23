@@ -1,0 +1,9 @@
+Plasmodesma
+
+Plasmodesma (plural is 'plasmodesmata') is a microscopic channel across the cell wall of a plant cell. It allows transport and communication between neighbouring cells. Plasmodesmata also evolved independently in some algae. 
+
+Unlike animal cells, every plant cell is surrounded by a polysaccharide cell wall. Neighbouring plant cells are therefore separated by a pair of cell walls. Although cell walls are permeable to small soluble molecules, plasmodesmata allow direct, regulated, intercellular transport of substances between cells.
+
+Similar structures connect animal cells. Stromules form between plastids in plant cells.
+
+

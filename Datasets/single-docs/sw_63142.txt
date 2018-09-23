@@ -1,0 +1,32 @@
+Pinyin
+
+Pinyin is the Mandarin word for "spelling", writing letters showing the sound of a word in place of a Chinese character. Today, it almost always has the sense of Hanyu Pinyin, the way of writing Mandarin sounds which has been used by the People's Republic of China from the 1950s. Other countries like the United States and Taiwan used other ways of spelling Chinese (such as the Wade-Giles way) for a long time, but in the late 20th century started to use Hanyu Pinyin as well. It is the standard of China as well as the United Nations. It is the most popular romanized Chinese system in the world nowadays.
+
+Pinyin uses Roman letters in a special way for certain Chinese sounds. For example, the pinyin letter C is pronounced as /ts/ as in the English word "cats" or the Japanese word "tsunami", and does not sound at all like /k/ or /s/ by itself. Pinyin uses special marks to show the four Chinese tones, which are very important to using Mandarin clearly.
+
+b p m f w
+
+d t n l
+
+g k ng h
+
+j q x y
+
+z c s
+
+a e i o u ü
+
+ai ei ao ou
+
+an en ang eng ong
+
+There are five kinds of tone in Pinyin:
+
+ā, á, ǎ, à, a
+
+"Geyin fuhao" is used after the syllables starting with vowels "a, o, e", for example: pi'ao.
+
+We should divide Pinyin text by words and write syllables connectedly, such as "I am a foreigner" should be written as "Wo shi waiguoren" in Pinyin. 
+
+
+

@@ -1,0 +1,33 @@
+Wave–particle duality
+
+Wave–particle duality is perhaps one of the most confusing concepts in physics, because it is so unlike anything we see in the ordinary world.
+
+Physicists who studied light in the 1700s and 1800s were having a big argument about whether light was made of particles shooting around like tiny bullets, or waves washing around like water waves. Light seems to do both. At times, light seems to go only in a straight line, as if it were made of particles. But other experiments show that light has a frequency and wavelength, just like a sound wave or water wave. Until the 20th century, most physicists thought that light was either one or the other, and that the scientists on the other side of the argument were simply wrong.
+
+In 1909, a scientist named Geoffrey Taylor decided that he was going to settle this argument once and for all. He borrowed an experiment invented earlier by Thomas Young, where light was shone through two small holes right next to each other. When bright light was shone through these two small holes, it created an "interference pattern" that seemed to show that light was actually a wave. 
+
+Taylor's idea was to take a photo of the light coming out of the holes with a special camera that was unusually sensitive to light. When bright light was shone through the holes, the photo showed an interference pattern, just like Young showed earlier. Taylor then turned down the light to a very dim level. When the light was dim enough, Taylor's photos showed tiny pinpoints of light scattering out of the holes. This seemed to show that light was actually a particle. If Taylor allowed the dim light to shine through the holes for long enough, the dots eventually filled up the photo to make an interference pattern again. This demonstrated that light was somehow "both" a wave "and" a particle.
+
+To make matters even more confusing, Louis de Broglie suggested that matter might act the same way. Scientists then performed these same experiments with electrons, and found that electrons too are somehow both particles and waves. Electrons can be used to do Young's double-slit experiment.
+
+Today, these experiments have been done in so many different ways by so many different people that scientists simply accept that both matter and light are somehow both waves and particles. Scientists generally admit that even they do not fully understand how this can be, but they are quite certain that it must be true. Although it seems impossible to understand how anything can be both a wave and a particle, scientists do have a number of equations for describing these things that have variables for both wavelength (a wave property) and momentum (a particle property). This seeming impossibility is referred to as the wave-particle duality.
+
+Wave–particle duality means that all particles show both wave and particle properties. This is a central concept of quantum mechanics.
+Classical concepts like "particle" and "wave" do not fully describe the behavior of quantum-scale objects. 
+
+An electron has a wavelength called the "de Broglie wavelength". It can be calculated using the equation
+
+formula_1
+
+formula_2 is the de Broglie wavelength.
+
+formula_3 is Planck's constant
+
+formula_4 is the momentum of the particle.
+
+This made the idea that electrons in atoms show a standing wave pattern.
+
+The photoelectric effect shows that a light photon which has enough energy (a high enough frequency), can cause an electron to be released off a metal's surface. Electrons in this case can be called photoelectrons.
+
+
+

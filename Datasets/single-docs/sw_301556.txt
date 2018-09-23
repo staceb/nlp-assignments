@@ -1,0 +1,24 @@
+Zoonosis
+
+Zoonosis or a zoonotic disease is an infectious disease which an animal can give to a human. These diseases may be caused by bacteria, viruses, fungi, or parasites. 
+
+Zoonotic diseases are very common. About 60% of all infectious diseases in humans are spread by animals.
+
+Zoonotic diseases can be spread in different ways. They may be spread from a sick animal directly to a human - for example, through bites and infected saliva (like with rabies), or through the air. This is called "direct zoonosis".
+
+Zoonotic diseases can also be spread through a vector. This is an animal that carries the pathogen that causes the disease without getting infected. Diseases like this are called "vector-borne diseases".
+
+Sometimes the vector picks up the disease from another animal. For example, rats who have the bubonic plague do not directly infect humans. Instead, fleas bite the rats and pick up the bacteria that causes plague without getting sick. Then, if the flea bites a human, they can pass the bacteria on to the human, and the human can get the plague. The rat is the host of the disease, and the flea is the vector.
+
+Many foodborne illnesses are zoonotic diseases. In these cases, a human gets sick from eating food that came from a sick animal.
+
+The most common pathogens that cause foodborne illnesses are "Salmonella", "Campylobacter", and "Escherichia coli" ("E. coli") bacteria. Eggs, seafood, meat, poultry, and dairy products can all carry these bacteria and cause foodborne illnesses, like food poisoning, in humans.
+
+Other zoonotic illnesses that humans can get from eating or drinking include:
+
+Often, people can avoid foodborne illnesses by cooking meat, seafood, and eggs well enough to kill the bacteria or parasites in them.
+
+Below are some examples of zoonotic diseases that humans can get directly from sick, live animals.
+
+
+

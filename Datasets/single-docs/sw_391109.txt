@@ -1,0 +1,8 @@
+Mycoplasma
+
+Mycoplasma is a genus of bacteria. They lack a cell wall around their cell membrane. 
+They are gram-negative, and need sterols such as cholesterol for growth. Without a cell wall, they are unaffected by many common antibiotics such as penicillin which target cell wall synthesis. "Mycoplasma" are the smallest bacterial cells yet discovered. They are typically about 0.1  µm in diameter.
+
+Many species are parasitic, pathogenic or saprophytic, and can survive without oxygen. In humans, "M. genitalium" causes urethritis, and "M. pneumoniae" is an important cause of pneumonia. 
+
+

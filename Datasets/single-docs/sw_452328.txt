@@ -1,0 +1,9 @@
+Chi-squared test
+
+Chi-squared test (or formula_1 test) is a statistical hypothesis test. It usually tests the hypothesis that "the experimental data does not differ from untreated data". That is a null hypothesis. The distribution of the test statistic is a chi-squared distribution when the null hypothesis is true.
+
+The test results are regarded as 'significant' if there is only one chance in 20 that the result could be got by chance.
+
+There are three main groups of tests:
+
+

@@ -1,0 +1,6 @@
+Fermat's little theorem
+
+Fermat's little theorem is a theorem from number theory. It is named after Pierre de Fermat who found it in the 17th century. It is about the properties of primes. It says that if "a" is a number, and "p" is a prime, then 
+If a is not a multiple of p, then the following is often used:
+
+

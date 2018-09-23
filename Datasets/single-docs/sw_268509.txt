@@ -1,0 +1,11 @@
+Clinical thermometer
+
+A clinical thermometer is a thermometer used to measure human body temperature. Most old ones use mercury thermometer. It is accurate and sensitive, because it has a narrow place where the mercury level rises very fast.
+
+These thermometers are used in clinics by doctors, so they are also called a doctor's thermometers or medical thermometers. Most of them show both Celsius scale and Fahrenheit temperature scales. The scale runs from 35 degree Celsius to 42 degree Celsius. 
+
+Medical thermometers are cleaned before and after each use, with alcohol.
+
+It has a kink which does not allow the mercury level to fall on its own.
+
+

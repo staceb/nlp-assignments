@@ -1,0 +1,6 @@
+Regular polygon
+
+A regular polygon is a polygon which is both equilateral (which means all its sides have the same length) and equiangular (which means that all its angles are the same). The simplest examples of regular polygons are equilateral triangle:
+and square:
+
+

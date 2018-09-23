@@ -1,0 +1,13 @@
+ISO 3166-2:UY
+
+ISO 3166-2:UY is the entry for Uruguay in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces, departments or states) of all countries that are in ISO 3166-1.
+
+Currently for Uruguay, ISO 3166-2 codes are defined for the 19 departments.
+
+Each code has of two parts, separated by a hyphen. The first part is , the second part is two letters.
+
+Subdivision names are listed as in the ISO 3166-2 standard published by the ISO 3166 Maintenance Agency (ISO 3166/MA).
+
+
+
+

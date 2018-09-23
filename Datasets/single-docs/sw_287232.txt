@@ -1,0 +1,31 @@
+Evolution of the eye
+
+The evolution of the eye is an example of a homologous organ present in a wide variety of taxa. 
+
+Certain components of the eye, such as the visual pigments, appear to have a common ancestry – that is, they evolved once, before the animals radiated. 
+
+However, complex, image-forming eyes evolved some 50 to 100 times – using many of the same proteins and genetic toolkits in their construction.
+
+Complex eyes appear to have first evolved within a few million years, in the rapid burst of evolution known as the Cambrian explosion. There is no evidence of eyes before the Cambrian, but a wide range of diversity is evident in the Middle Cambrian Burgess Shale.
+
+Eyes show a wide range of adaptations to meet the requirements of the organisms which bear them. Eyes may vary in their acuity, the range of wavelengths they can detect, their sensitivity in low light levels, their ability to detect motion or resolve objects, and whether they can discriminate colours.
+
+The first fossils of eyes appeared during the lower Cambrian period, about 540 million years ago. This period saw a burst of apparently rapid evolution, dubbed the 'Cambrian explosion'. One biologist holds that the evolution of eyes started an arms race that led to a rapid spate of evolution. 
+
+Earlier than this, organisms may have had use for light sensitivity, but not for fast movement and navigation by vision.
+
+It is difficult to estimate the rate of eye evolution. Simple modelling, supposing small mutations exposed to natural selection, shows that a primitive optical sense organ based upon efficient photopigments could evolve into a complex human-like eye in about 400,000 years.
+
+The earliest light sensors were photoreceptor proteins. They are eyespots, found in protists. Eyespots can only distinguish light from dark. This is enough for photoperiodism and daily synchronization of circadian rhythms. They cannot distinguish shapes or determine the direction light is coming from. 
+
+Eyespots are found in nearly all major animal groups. The "Euglena"'s eyespot, called a "stigma", is at the front. Its red pigment shades a collection of light sensitive crystals. Together with the leading flagellum, the eyespot allows the organism to move in response to light to assist in photosynthesis, and to predict day and night, the primary function of circadian rhythms. 
+
+Visual pigments are located in the brains of more complex organisms, and are thought to have a role in synchronising spawning with lunar cycles. By detecting the subtle changes in night-time illumination, organisms could synchronise the release of sperm and eggs to maximise the probability of fertilisation.
+
+Vision itself relies on a basic biochemistry which is common to all eyes. How this biochemical toolkit is used to interpret an organism's environment varies widely. Eyes have a wide range of structures and forms, all of which have evolved quite late relative to the underlying proteins and molecules.
+
+At a cellular level, there appear to be two main "designs" of eyes, one possessed by the protostomes (molluscs, annelid worms and arthropods), the other by the deuterostomes (chordates and echinoderms).
+
+
+
+

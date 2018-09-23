@@ -1,0 +1,16 @@
+Android (operating system)
+
+Android is an operating system for mobile devices. It is mostly used for , like Google's own Google Nexus, as well as by other phone manufacturers like HTC and Samsung. It has also been used for tablets such as the Motorola Xoom and Amazon Kindle Fire. A modified Linux kernel is used as Android's kernel.
+
+Google says that over 1.3 million Android smartphones are sold every day. Most are running Android making it the most popular mobile operating system. It is also the most popular operating system in general.
+
+It supports multitasking and two-dimensional and three-dimensional graphics.
+
+Programs for Android, also called "apps", come from the Google Play Store. The Android programs have an extension of .apk. Android programs are built in Python, C, C++, or Java programming languages but the UI is always made using Java and XML. There are over 2.8 million apps available for Android.
+
+Each version of Android has both a number and a name based on confectioneries. The version numbers and names are:
+
+
+
+
+

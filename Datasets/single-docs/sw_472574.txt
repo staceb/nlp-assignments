@@ -1,0 +1,5 @@
+Dagger (typography)
+
+A dagger is a symbol in typography, which usually looks like a vertical bar, with one or two traits. Sometimes it is also called obelisk. It is present in Unicode, at position 2020.
+
+

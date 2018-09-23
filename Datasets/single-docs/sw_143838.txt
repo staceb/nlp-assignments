@@ -1,0 +1,26 @@
+Diacritic
+
+A diacritic (for example, an "accent") is a mark put above, below, through or on a letter. The word comes from the Greek word διακριτικός (transl. diakritikós = 'distinguishing').
+Usually, it affects the way the word is said (pronounced). Most diacritics concern pronunciation because most alphabets do not describe the sounds of words exactly. Diacritics are rare in English, but common in many other languages.
+
+Diacritics are not used much in modern English. There are two types of diacritics that have become part of everyday English: the dot and the apostrophe. But they are no longer commonly thought of as being diacritical. The apostophe is used to show missing letters (elision, "it's" to replace "it is") and show possession (as in "Mike's car").
+
+In most other cases, use of diacritics for native English words is considered old-fashioned (not used anymore). Diaereses (similar to umlauts) can be used on words where two vowels next to each other are pronounced separately (rather than together as a diphthong), like "noöne", "reëstablished", or "coöperate". This method is still used sometimes, depending on the word. Diacritics are sometimes used in loanwords (words of foreign origin), such as "naïve", "entrée", "pâté".
+
+Letter e: common are the acute accent é (rising voice, as in the French word née), grave accent è (lowering voice); "élève" has (from the left) acute, grave and silent e. The cedilla ç denotes a soft c. 
+
+A different principle is illustrated by the circumflex î. This usually shows the loss of letter: e.g. maistre (Middle French) > maître (modern French). Thus its function is historical. Also, less often, the circumflex is used to distinguish between homophones. These are words spelt the same, but with different meanings. Example: "sur" = on, but "sûr" = safe. In those cases the pronunciation of the two words may be different.
+
+In Spanish the acute accent simply signals stress, e.g. "educación". There the stress is on the last vowel, not on the second to last. Second to last vowel (syllable) is the usual position for stress in spoken Spanish. It is usually not signalled by an accent. 
+
+The tilde ñ is pronounced like ny, and counts as a letter in their dictionaries, coming after n.
+
+The umlaut ü in German is pronounced ue, and is less used in modern German. Historical name-spellings should always keep the umlaut if it was used for that name.
+
+The Scandinavian languages treat the characters with diacritics ä, ö and å as new and separate letters of the alphabet, and sort them after z. Usually ä is sorted as equal to æ (ash) and ö is sorted as equal to ø (o-slash). Also, aa, when used as an alternative spelling to å, is sorted as such. Other letters modified by diacritics are treated as variants of the underlying letter, with the exception that ü is frequently sorted as y.
+
+Scripts for semitic languages such as Arabic and Hebrew have a wide variety of diacritics. This is partly because the semitic languages were originally formed without separate letters for vowels, and partly because some of the languages (Arabic in particular) are spoken in a number of dialects. 
+
+The diacritics in Hebrew and Arabic are not always used, however.
+
+

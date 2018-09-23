@@ -1,0 +1,22 @@
+Protein structure
+
+Protein structure describes how protein molecules are organised. This structure is what makes proteins work. 
+
+Proteins are important biological macromolecules present in all organisms. They are polymers formed from 20 possible amino acids by RNA translation. Protein structures range in size from tens to several thousand amino acids.
+
+After translation, proteins fold into specific shapes. This is not done by chemical bonds but by weaker forces such as hydrogen bonds. To understand how proteins work, it is often necessary to discover their three-dimensional structure. To do this biophysics uses techniques such as X-ray crystallography, NMR spectroscopy, and dual polarisation interferometry.
+
+A protein may switch from one shape to another as it does its job. The alternative states of the same protein are called conformations. An enzyme, for instance, will have at least two conformations: one with its co-enzyme and one without. The form with its coenzyme will have two conformations: one with its substrate and one without.
+
+There are four distinct levels of protein structure.
+
+Proteins are molecules that consist of one or more chains of amino acids. Each different protein has a distinct set of amino acids in a particular order. The primary structure refers to the sequence of the amino acids of a single polypeptide chain from its start (N-terminus) to its end (C-terminus). The amino acids are held together by a specific type of covalent bond, known as a peptide bond, which are made during the process of protein biosynthesis or translation. 
+
+Secondary structure refers to parts of the protein chain that form regular structures. There are two main types of secondary structure: alpha helix and beta strand (beta sheet). Alpha helices are coils that turn in a clockwise rotation and beta strands form a beta sheet where the chains lie along side each other. The two types of secondary structure were suggested in 1951 by Linus Pauling and coworkers. Unlike the polypeptide chain, which is bonded through covalent peptide bonds, secondary structure is formed by hydrogen bonds.
+
+This is the shape (spatial organization) of an entire protein molecule. Protein folding is largely self-organising. It is mainly done by the protein's primary structure its sequence of amino acids. This is called Anfinsen's dogma. However, the environment in which a protein is synthesized and folds also effect its final shape.
+
+If proteins are built of sub-units this gives another level of structure. This, the quaternary structure, is how the subunits fit together. Haemoglobin, for example, has two alpha and two beta chains. Both the alpha chains and beta chains are coded for by a cluster of six or seven genes, which provide the code for different versions of the molecule.
+
+
+

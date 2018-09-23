@@ -1,0 +1,7 @@
+Zebibyte
+
+A zebibyte (ZiB) is a large unit of measurement for computers of the future. Zebibytes hold 1024 exbibytes (EiB). 
+
+1024 zebibytes make 1 yobibyte.
+
+

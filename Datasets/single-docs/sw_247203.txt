@@ -1,0 +1,21 @@
+Media center
+
+The term media center refers either to a dedicated computer appliance or to a specialized application software designed to run on standard personal computer hardware which then becomes a so called ""HTPC"" (""Home Theater PC"", also sometimes referred to as a ""Media PC""), both of which are adapted for playing various kinds of media (music, movies, photos etc.). A media center usually has a GUI (Graphical User Interface) designed to be used with a living-room TV using a remote control. This remote control is commonly known by their designers as a 10-foot user interface. A media center typically allows one to watch movies (DVD, Blu-ray, and other digital video formats) and watching and recording television broadcasts, playing audio (CD as well as MP3, WMA, and other audio formats).
+
+The media itself may be stored, received by terrestrial, satellite or cable broadcasting or streamed from the internet. Stored media is kept either on a local hard drive or on a (wireless) network attached storage. Some software is capable of doing other tasks, such as finding news (RSS) from the Internet. Media centers are often operated with a remote control, connected to a television set for video output, and can sometimes function as a normal personal computer.
+
+A media center can be purpose-built, modified or created individuals by adding media center software to a PC or some other computer, for example a Home Theater PC or an Xbox. Lately, some video game consoles (such as PlayStation 3 and Xbox 360) with their network services can also act as a basic media center device by default.
+
+Typically, complete media centers offer the following functions to the user:
+
+
+Though media centers are often built using similar components to personal computers, they are often smaller; media centers sometimes have hardware that is not usually seen in personal computers, such as receivers for remote controls, or television tuner cards. Media centers have not seen widespread popularity but are starting to take hold in the UK and the United States.
+
+There are several common applications for which media centers are beginning to gain popularity. Simply put, any application requiring the playback of digital media based files, but not requiring the full features and flexibility of a personal computer stands to benefit from the reduced size, reduced complexity and reduced cost of media centers when compared to similarly equipped PCs.
+
+Common applications include :
+
+
+
+
+

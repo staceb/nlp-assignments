@@ -1,0 +1,6 @@
+Mesh networking
+
+Mesh networking is a way computer and other networks are laid out. Generally, this is known as topology. In mesh networking, each node is connected to one or more other nodes. Information is passed from one node to the next, until it reaches its target destination. As in most cases, there is more than one path from one node to another, such networks are very reliable. When a node fails, the data will simply take another route. The disadvantage of such networks is that building them can be very expensive. If each node is directly connected to every other node, the network is called a fully connected. Another type of a mesh network is Mobile ad hoc network. In such a network the nodes are mobile, and they network may reorganize itself while it is running. 
+
+
+

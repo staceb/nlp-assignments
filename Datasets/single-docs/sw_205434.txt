@@ -1,0 +1,18 @@
+Conjugate variables
+
+Conjugate variables are special pairs of variables (e.g., x, y, z) that do not commute, If two variables, let us call them m and n, commute, then mn = nm. If two variables, let us call them p and q, do not commute, then pq ≠ qp. 
+
+One of the best known pairs of conjugate variables was found in 1925 by Werner Heisenberg and his co-workers. Heisenberg changed equations from classical physics to describe and predict quantum events. That way he produced an equation that could be used to figure out the product of momentum (mass × velocity) and position (x, y, z, t): 
+
+In the following equations, n, n-a, n-b, etc. name energy levels of an electron in a hydrogen atom. So in the diagram that shows an electron falling from a higher to a lower orbit, a pair of values such as n and n-a would belong to the beginning orbit and the ending orbit.
+The first kind of equation could be used to calculate the product of momentum and position:
+
+The same kind of equation could be used to calculate the product of position and momentum:
+
+Heisenberg understood right away that these two results were going to be different, and it bothered him. He was very tired after making his work, which he wrote up as a paper for . So after he gave the paper to Max Born for editing and then to send off to the publisher, Heisenberg went on vacation. Born realized that these strange equations were blueprints for making a matrix for momentum and a matrix for position and then multiplying the two. He also saw that not only would multiplying the matrix p by the matrix q give a different answer matrix than multiplying the matrix q by the matrix p, but that the difference between the two could be computed from the other equations that were involved in Heisenberg's paper, and "Immediately there stood before me the strange :
+
+[The symbol Q is the matrix for position, P is the matrix for momentum, i stands for the square root of negative one (√-1), and h is Planck's constant.]
+
+This equation is an important hint to Heisenberg's uncertainty principle.
+
+

@@ -1,0 +1,8 @@
+Mixed number
+
+A mixed number is a whole number next to a fraction or decimal.
+
+Example: Whole number = 2<br>
+Example: Mixed number = 2 1/2 or 2.5
+
+

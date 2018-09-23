@@ -1,0 +1,15 @@
+Reductio ad absurdum
+
+Reductio ad absurdum is a Latin phrase which means "reduction to the absurd". The phrase describes a kind of indirect proof. It is a proof by contradiction, and is a common form of argument. It shows that a statement is true because its denial leads to a false or absurd result.
+
+The ridiculous or ""absurdum"" conclusion of a "reductio ad absurdum" argument can have many forms. For example,
+
+The phrase can be traced back to the Greek "η εις άτοπον απαγωγή" ("hê eis átopon apagogê"). This phrase means "reduction to the impossible". It was often used by Aristotle. The method is used a number of times in "Euclid's Elements".
+
+"Reduction ad absurdum" can be a tool of discovery.
+
+The method of proving something works by first assuming something about it. Then other things are deduced from that. If there is a contradiction, it shows that the first something cannot be correct. For example, 
+
+
+
+

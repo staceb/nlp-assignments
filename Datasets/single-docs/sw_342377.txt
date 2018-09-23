@@ -1,0 +1,11 @@
+ISO 639-2
+
+ISO 639 is a set of international standards that lists short codes for language names. First there was ISO 639-1. Because more languages were found, the ISO 639-2 was made.
+
+Each language has a 3 letter code. The list below shows all the codes in ISO 639-2.
+
+The following is a complete list of three-letter ISO 639-2 codes. Where two ISO 639-2 codes are given in the table, the one with the asterisk is the bibliographic code (B code) and the other is the terminological code (T code).
+
+Entries in the "Notes" column show:
+
+

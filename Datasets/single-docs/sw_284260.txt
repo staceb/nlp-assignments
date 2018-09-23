@@ -1,0 +1,22 @@
+Reproductive isolation
+
+Reproductive isolation refers to the situation where different species may live in the same area, but properties of individuals prevent them from interbreeding. 
+
+The things which stop species or groups of organisms reproducing sexually are called isolating mechanisms.
+Members of one species do not, in general, mate with members of another species, though there are many exceptions and variations to this. And, if such mating does take place, the offspring may not develop, or may not be fertile. 
+
+If species arise by the splitting of ancestral species, it might be asked what stops the new species continuing to reproduce together. If they did, they would again become one species.
+
+The answer given by Dobzhansky and Ernst Mayr was that species split mainly because they lived in different areas (geographical speciation). They developed features which, if they later lived together, would make crossing not work properly. 
+
+The idea of the biological species concept was that a species was defined as a group of interbreeding individuals. They would be a natural population which is reproductively isolated from other such groups. 
+
+A list was drawn up of isolating mechanisms: 
+
+Factors which cause individuals to mate with their own species. 
+
+Incompatibility of the two genomes stops normal development in the hybrid.
+
+There is still much debate as to whether the Dobzhansky/Mayr account is satisfactory. Modern researchers tends to avoid the general term 'isolating mechanisms' in favour of the more specific terms 'mate choice', 'hybrid incompatibility' and other forms of 'reproductive isolation'.
+
+

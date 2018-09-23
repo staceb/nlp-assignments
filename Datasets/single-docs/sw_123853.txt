@@ -1,0 +1,17 @@
+Associativity
+
+Associative property is a property of mathematical operations (like addition and multiplication). It means that if you have more than one of the same associative operator (like +) in a row, the order of operations does not matter.
+For example, if you have formula_1, there are two plus signs (+) in a row. This means we can add it in either this order:
+
+Or this order:
+
+The answer comes out the same both ways because addition is associative.
+In other words, associativity means:
+
+Not all operations are associative. Subtraction is not associative, which means:
+
+This is true because:
+And:
+Also, associativity is different from commutativity, which lets you move the numbers around.
+
+

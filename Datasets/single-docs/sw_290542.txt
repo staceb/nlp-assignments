@@ -1,0 +1,7 @@
+Apache License
+
+The Apache License is a free software license made by the Apache Software Foundation. All of the Apache Software Foundation's software and projects, such as the Apache HTTP Server, use this license. Some software that is not made by the Apache Software Foundation also use this license. In May 2008, Google said that 25.8 percent of projects hosted on Google Code used this license.
+
+
+
+

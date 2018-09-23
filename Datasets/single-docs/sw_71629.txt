@@ -1,0 +1,30 @@
+ISO 3166-1
+
+<onlyinclude> 
+ISO 3166-1, is part of the ISO 3166 standard. It gives a code for the names of countries and dependent territories, and is published by the International Organization for Standardization (ISO). The official name of the standard is "Codes for the representation of names of countries and their subdivisions – Part 1: Country codes". There are three sets of country codes:
+
+ISO 3166-1 is not the only standard for country codes. Many international organizations use their own country codes, where some of them closely correspond to the ISO 3166-1 codes. For examples, see "country codes".
+
+Currently, 244 countries and territories have official ISO 3166-1 codes. The only way to enter a new country name into ISO 3166-1 is to have it registered in one of the following two sources:
+
+To be listed in the bulletin "Country Names", a country or territory must be any of the following:
+
+Once a country name or territory name appears in either of these two sources, it will be added to ISO 3166-1 by default.
+
+The following is a complete ISO 3166-1 encoding code list in alphabetical order by the English short country names officially used by the ISO 3166 Maintenance Agency (ISO 3166/MA), which uses country names from United Nations sources.
+The table includes officially assigned codes only.
+
+Besides the officially assigned codes, code elements may be expanded by using either reserved codes or user-assigned codes.
+
+Reserved code elements are codes which, while not ISO 3166-1 codes, are in use for some applications in conjunction with the ISO 3166 codes. They are reserved to add flexibility to the coding system. Usually, obsolete codes may be kept as reserved, while some overseas territories, international organizations, and special nationality status have reserved codes of their own. See the corresponding sections in "ISO 3166-1 alpha-2" and "ISO 3166-1 alpha-3" for their respective reserved codes (ISO 3166-1 numeric does not have reserved codes).
+
+User-assigned code elements are codes at the disposal of users who need to add further names of countries, territories or other geographical entities to their in-house application of ISO 3166-1, and the ISO 3166/MA will never use them in the updating process of the standard. See the corresponding sections in "ISO 3166-1 alpha-2", "ISO 3166-1 alpha-3" and "ISO 3166-1 numeric" for their respective user-assigned codes.
+
+A country or territory may get new codes if it changes its name or its territorial boundaries. A country generally gets new alphabetical codes if its name changes, whereas a new numeric code is associated with a change of boundaries. Changes to ISO 3166-1 are announced in periodic newsletters, of which 12 have been released since the first edition of ISO 3166-1 was published in 1997:
+The second edition of ISO 3166-1 was published in 2007, which comprises a consolidation of all changes to the lists as published in the newsletters above.
+
+Information on reserved codes taken from "Reserved code elements under ISO 3166-1" published by Secretariat of ISO/TC 46, ISO 3166 Maintenance Agency, 2001-02-13, available on request from ISO 3166/MA.
+
+
+
+

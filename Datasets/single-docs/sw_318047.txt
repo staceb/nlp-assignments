@@ -1,0 +1,26 @@
+Mosaic (genetics)
+
+In genetics, a mosaic (or mosaicism) means the presence of two different genotypes in an individual which developed from a single fertilized egg. As a result, the individual has two or more genetically different cell lines derived from a single zygote. 
+
+Mosaicism may result from:
+
+The phenomenon was discovered by Curt Stern. In 1936, he demonstrated that recombination, normal in meiosis, can also take place in mitosis. When it does, it results in somatic (body) mosaics. These are organisms which contain two or more genetically distinct types of tissue.
+
+A genetic chimera is an organism composed of two or more sets of genetically distinct cells. Dispermic chimeras happen when two fertilized eggs fuse together. Mosaics are a different kind of chimerism: they originate from a single fertilized egg.
+
+This is easiest to see with eye colours. When eye colours vary between the two eyes, or within one or both eyes, the condition is called "heterochromia iridis" (= 'different coloured iris'). It can have many different causes, both genetic and accidental. For example, David Bowie had the appearance of different eye colours due to an injury that caused one pupil to be permanently dilated.
+
+On this page, only genetic mosaicism is discussed.
+
+The most common cause of mosaicism in mammalian females is X-inactivation. Females have two X chromosomes (and males have only one). The two X chromosomes in a female are rarely identical. They have the same genes, but at some loci (positions) they may have different alleles (versions of the same gene).
+
+In the early embryo, each cell independently and randomly inactivates one copy of the X chromosome. This inactivation lasts the lifetime of the cell, and all the descendants of the cell inactivate that same chromosome. 
+
+This phenomenon shows in the colouration of calico cats and tortoiseshell cats. These females are heterozygous for the X-linked colour genes: the genes for their coat colours are carried on the X chromosome. X-inactivation causes groups of cells to carry either one or the other X-chromosome in an active state.
+
+X-inactivation is reversed in the female germline, so that all egg cells contain an active X chromosome.
+
+"Mosaicism" refers to differences in the genotype of various cell populations in the same individual, but X-inactivation is an epigenetic change, a switching off of genes on one chromosome. It is "not" a change in the genotype. Descendent cells of the embryo carry the same X-inactivation as the original cells. This may give rise to mild symptoms in female 'carriers' of X-linked genetic disorders.
+
+
+

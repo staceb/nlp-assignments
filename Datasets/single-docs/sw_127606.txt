@@ -1,0 +1,5 @@
+Group velocity
+
+Group velocity is often considered to be the wave velocity at which information travels. Often, this can be seen as the speed at which the envelope of the wave travels.
+
+

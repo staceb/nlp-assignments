@@ -1,0 +1,7 @@
+Voice (grammar)
+
+Voice in grammar is about the way subject and object work in a sentence.
+
+The distinction only applies where the verb is transitive, since only a transitive verb comes with an object. For example: "We enjoyed the trip" is transitive and in active voice. "The trip was enjoyed by us" is transitive and in passive voice. "She hurried home" is not transitive and so has no voice. But if "she hurried the children home", that's transitive and active voice.
+
+

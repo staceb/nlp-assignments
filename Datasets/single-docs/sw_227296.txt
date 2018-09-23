@@ -1,0 +1,23 @@
+Taxicab number
+
+A taxicab number is the name given by mathematicians to a series of special numbers: 2, 1729 etc. A taxicab number is the smallest number that can be expressed as the sum of two positive cubes in "n" distinct ways. It has nothing to do with taxis, but the name comes from a well-known conversation that took place between two famous mathematicians: Godfrey Hardy and Srinivasa Ramanujan.
+
+Godfrey Hardy was a professor of mathematics at Cambridge University. One day he went to visit a friend, the brilliant young Indian mathematician Srinivasa Ramanujan, who was ill. Both men were mathematicians and liked to think about numbers. 
+
+When Ramanujan heard that Hardy had come in a taxi he asked him what the number of the taxi was. Hardy said that it was just a boring number: 1729. Ramanujan replied that 1729 was not a boring number at all: it was a very interesting one. He explained that it was the smallest number that could be expressed by the sum of two cubes in two different ways.
+
+This story is very famous among mathematicians. 1729 is sometimes called the “Hardy-Ramanujan number”.
+
+
+There are two ways to say that 1729 is the sum of two cubes.
+1x1x1=1; 12x12x12=1728. So 1+1728=1729
+But also: 9x9x9=729; 10x10x10=1000. So 729+1000=1729
+There are other numbers that can be shown to be the sum of two cubes in more than one way, but 1729 is the smallest of them.
+
+Ramanujan did not actually discover this fact. It was known in 1657 by a French mathematician Bernard Frénicle de Bessy.
+
+Since the famous conversation between Hardy and Ramanujan, mathematicians have tried to find other interesting numbers that are the smallest number that can be expressed by the sum of two cubes in three/four/five etc. different ways. These numbers are very, very big, and have been found by computers.
+
+So far, the following six taxicab numbers are known :
+
+

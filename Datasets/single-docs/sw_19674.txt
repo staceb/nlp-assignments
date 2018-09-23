@@ -1,0 +1,5 @@
+Tetrahedron
+
+A tetrahedron (triangular pyramid) is a three dimensional shape. It has four corners. It looks like a pyramid. It has six equally long edges, four corners and four equilateral triangular faces. Every two edges meet on one of those corners forming a sixty-degree angle. All its sides are triangles. 
+
+

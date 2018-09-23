@@ -1,0 +1,15 @@
+Redox
+
+Redox (shorthand for reduction/oxidation) describes all chemical reactions in which atoms have their oxidation number (oxidation state) changed.
+
+The term "redox" comes from the two concepts of reduction and oxidation. It can be explained in simple terms:
+
+Which gains and loses electrons can be easily memorised by the abbreviation OIL RIG, which stands for, "Oxidation Is Loss," or losing electrons, and "Reduction Is Gain," or gaining electrons.
+
+But there are exceptions.
+
+Redox is a chemical process. It can be described within chemical formulas. This example describes the process that occurs in a blast furnace, where iron (Fe) reacts with carbon (C):
+
+
+
+

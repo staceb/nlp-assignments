@@ -1,0 +1,9 @@
+Pebibyte
+
+A pebibyte (Peta Binary Byte, abbreviated PiB) is a large unit of measurement of bytes (computer memory). 
+1 pebibyte = 2 bytes = 1,125,899,906,842,624 bytes = 1,024 tebibytes.
+It is related to the petabyte which is 10 bytes.
+
+1024 pebibytes make one exbibyte.
+
+

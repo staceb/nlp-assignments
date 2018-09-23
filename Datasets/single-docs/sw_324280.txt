@@ -1,0 +1,114 @@
+Interlingua grammar
+
+Interlingua is a planned language. It uses words that are found in most West-European languages. It was made by IALA. They are a group of people (the most known was Alexander Gode) that worked on it for more than 20 years. The first dictionary for the language was finished and published in 1951. Interlingua was created on the base of languages: English, French, Spanish, Portuguese, and Italian.
+
+The vowels in Interlingua are pronounced like in Spanish or LFN (another planned language). The consonants are pronounced, for the most part, like in English or LFN.
+
+Interlingua keeps much of the spelling of Latin words, more near to the forms in English and French than to them in the other Romance languages. For example, it keeps q ([k]), y ([i]), ch ([k]), ph ([f]), rh ([r]), and th ([t]). It keeps also the common use of double consonants. More, it allows versions like ch for [ʃ], s between vowels like [z], c before e/i like [ts], g before e/i like [ʒ], qu before e/i like [k], etc.
+
+Accent is not indicated, even in exceptions, but it follows, for the most part, a system of rules similar to that of LFN.
+
+Interlingua has also a "collateral" spelling, that simplifies the complications above to a system more like this of Spanish or LFN. This collateral spelling has the same status, but in reality it is not much used by adherents. The details:
+
+
+
+The plural is "-s" after a vowel, "-es" after a consonant, but "-hes" after final "c":
+
+Interlingua has no grammatical gender. Some words distinguish female from male by changing "-o" into "-a", or by adding "-essa". Other ones have two different forms. But the most of words do not distinguish:
+
+Adjectives do not change for agreement with nouns. They can precede or follow the noun, except numbers, that always precede the noun. In general, short adjectives precede and long adjectives follow. 
+
+To compare, use "plus" or "minus" and "le plus" or "le minus":
+
+One can use the suffix "-issime" for the absolute superlative:
+
+The adjectives "bon", "mal", "magne" (big), and "parve" (little) have alternative irregular forms :
+
+There are two kinds of adverbs: first form and second form. Adverbs of first form are a closed class of grammatical words, like "quasi" (almost), "jam" (already), and "totevia" (nevertheless). Adverbs of second form are an open class derived from adjectives by adding the suffix "-mente" (or "-amente" after final "c"):
+
+Some common adverbs have short alternative forms that end with "-o":
+
+Like adjectives, adverbs use "plus", "minus", "le plus", and "le minus":
+
+The adverbs of "bon" and "mal" have alternative irregular forms:
+
+One can use the objective form for the direct object and the indirect object. Or, one can use the preposition "a" before the pronoun for the indirect object:
+
+The reflective pronouns are used when the subject of the verb is the same as the object (direct or indirect). Like in the Romance languages, the reflective is used much more than in English:
+
+Regarding the forms of possession, the longer forms are used in constructions like "le auto es le mie" - the car is mine. But one can use them also like more strong adjectives than the short forms:
+
+Much speakers use "vos" instead of "tu" for courtesy in formal situations:
+
+Use "illes" for groups of persons with both men and women. "Illas" can be used for groups of only women.
+
+"Il" is an impersonal pronoun for using in constructions like "il pluve" (it rains). "Il" can also be used when the real subject is a clause that occurs later in the sentence.
+
+"On" is the pronoun used when the identity of the subject is not clear. The form for objects is "uno":
+
+The major forms are the adjective "iste" or "aqueste" and the pronoun "iste", "ista", and "isto", that can be plural. When the subject of a sentence has two possible predecessors, "iste" refers to the second predecessor.
+
+The adjective of distance is "ille" o "aquelle". The pronouns are the same as the personal pronouns.
+
+The relative pronouns for persons and animals are "qui" (subject and after prepositions) and "que" (object):
+
+The relative pronoun for things is "que" for all uses:
+
+"Il ha duo sortas de inventiones: illos que on discoperi e illos que discoperi uno" - There are two kinds of inventions: they which you discover and they which discover you
+
+"Cuje" - "whose" or "of which" - is used for persons and things:
+
+All they above can be replaced by "le qual" or "le quales":
+
+The relative pronouns are also used as interrogative pronouns.
+
+These are the most common forms of verbs (note exceptions in underlined letters):
+
+The verbs do not vary for persons and plural, except for alternative versions for "esser". The tenses normal are used for the subjunctive and the command. "Esse", "habe", and "vade" have forms short for the present: "es", "ha", and "va".
+
+Infinitives are used for both the infinitive and the gerund, and can be pluralized if needed:
+
+There are three simple tenses - past, present, and future. They are used for both the perfect (completed) and the imperfect, and for both the perfective and the non-perfective (continuing).
+
+The participles in Interlingua are incoherent: verbs in "-ir" use "-iente" for the active participle, and verbs in "-er" use "-ite" for the passive participle. Other verbs use "-nte" and "-te:"
+
+Instead of the simple tenses, one can use composed forms. For the past, one can use "ha" and other forms of "habe", with the past participle:
+
+For the future, use "va" and other forms of "vade", with the infinitive:
+
+Used rarely, "velle" with the infinitive is the hypothetical composed:
+
+The passive is formed by using "es" or other forms of "esser" with the passive participle:
+
+The passive to the Past Perfect is created by using habeva essite with the passive participle:
+
+Here are examples of various forms of commands:
+
+"Sia" is the interrogative form and the subjunctive of "esser":
+
+Because the verb "esser" is irregular in many European languages, Interlingua allows the use of versions:
+
+Some persons use also these forms of "esser" in the present tense:
+
+Because Interlingua is a "neo-Latin" language, it keeps any of the double roots of Latin that survive in the Romance languages and English. For example:
+
+Much speakers of Interlingua prefer the use of the more recognizable form in international vocabularies, and drop the other ones.
+
+The normal order of words in Interlingua is subject-verb-object, but one can use other orders if the meaning is clear:
+
+But pronouns tend to follow the order of the Romance languages - subject-object-verb - except for infinitives and commands, that has the object after the verb:
+
+If two pronouns - first the object direct and second the indirect object - occurs with the same verb, the indirect object goes first:
+
+One can form questions in much ways:
+
+1. By putting the verb before the subject:
+
+2. By using a word of question instead of the subject:
+
+3. By adding the particle "esque" (or, more rarely, "an") to the beginning of the sentence:
+
+4. By change the tone of the sentence, or by adding a question mark, without change the normal order:
+
+
+

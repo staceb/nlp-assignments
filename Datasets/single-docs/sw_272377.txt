@@ -1,0 +1,8 @@
+Power line
+
+Power lines are wires that conduct electricity through to another place. Some have step-up transformers and step-down transformers. The voltage of the power at the end is usually 120V, but is much higher while going through the lines. The power at the end is then safe enough to be used when "stepped-down" by a transformer.
+
+The original power is made at a power plant. As the power is sent through the power lines, sometimes it encounters spots that it cannot go through. Then it will need to raise its voltage with a step-up transformer. The act is called "stepping up". But when it reaches buildings, it is too dangerous to be used (about 750,000V) so it goes through a step-down transformer. The act is called "stepping down". Then the elctricity can be distributed to buildings.
+
+
+

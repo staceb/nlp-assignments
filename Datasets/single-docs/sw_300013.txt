@@ -1,0 +1,30 @@
+Common descent
+
+In evolutionary biology, a group of organisms have common descent if they have a common ancestor. "There is strong quantitative support, by a formal test" for the theory that all living organisms on Earth are descended from a common ancestor.
+
+Charles Darwin proposed the theory of universal common descent through an evolutionary process in "On the Origin of Species", saying, "There is a grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one".
+
+The last universal ancestor (LUA) (or last universal common ancestor, LUCA), that is viewed by evolutionary theory to be most recent common ancestor of all currently living organisms, is believed to have appeared about 3.9 billion years ago.
+
+In the 1740s, Pierre-Louis Maupertuis made the first known suggestion that all organisms may have had a common ancestor, and that they had diverged through random variation and struggle for existence. In "Essai de Cosmologie", Maupertuis noted:
+
+Could one not say that, in the fortuitous combinations of the productions of nature, as there must be some characterized by a certain relation of fitness which are able to subsist, it is not to be wondered at that this fitness is present in all the species that are currently in existence? Chance, one would say, produced an innumerable multitude of individuals; a small number found themselves constructed in such a manner that the parts of the animal were able to satisfy its needs; in another infinitely greater number, there was neither fitness nor order: all of these latter have perished... The species we see today are but the smallest part of what blind destiny has produced...
+
+All known forms of life are based on the same fundamental biochemical organisation.
+
+Genetic information is encoded in DNA, and transcribed into RNA, then translated into proteins by (highly similar) ribosomes, with ATP, NADH and others as energy sources, etc. 
+
+The similarities include the energy carrier adenosine triphosphate (ATP), and the fact that all amino acids found in proteins are left-handed (chirality). 
+
+Furthermore, the genetic code (the "translation table" according to which DNA information is translated into proteins) is nearly identical for all known lifeforms, from bacteria to humans. 
+
+The universality of this code is generally regarded by biologists as definitive evidence in favor of the theory of universal common descent. Analysis of the small differences in the genetic code has also provided support for universal common descent. A statistical comparison of various alternative hypotheses has shown that universal common ancestry is significantly more probable than models involving multiple origins.
+
+Another important piece of evidence is that it is possible to construct detailed phylogenetic trees (that is, "genealogic trees" of species) mapping out the proposed divisions and common ancestors of all living species. In 2010 an analysis of available genetic data, mapping them to phylogenetic trees, gave "firm quantitative support for the unity of life. ...there is now strong quantitative support, by a formal test, for the unity of life.
+
+Traditionally, these trees have been built using morphological methods, such as appearance, embryology, etc. Recently, it has been possible to construct these trees using molecular data, based on similarities and differences between genetic and protein sequences. All these methods produce essentially similar results. That phylogenetic trees based on different types of information agree with each other is strong evidence of a real underlying common descent.
+Some things are deduced about LUA. It was not the very first cell, but one whose descendents survived beyond the very early stages of microbial evolution. On the basis of their presence in eubacteria, archaea, and eukaryotes, about 325 proteins were present in the LUA.
+
+These amino acids were probably the first to be built into proteins: alanine, asparagine, aspartic acid, glycine, histidine, isoleucine, serine, threonine, and valine. These amino acids were also found in spark tube simulations, and analysis of the Murchison meteorite. The other amino acids, later additions to the genetic code, include several of the most complex amino acids.
+
+

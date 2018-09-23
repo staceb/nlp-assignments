@@ -1,0 +1,14 @@
+Smartphone
+
+A smartphone is a mobile phone that can do more than other phones. They work as a computer but are mobile devices small enough to fit in a user's hand.
+
+Uses include:
+
+Because smartphones are small computers, they run an operating system that is often common between devices to ensure compatibility. The majority of smartphones run on Apple iOS or Google Android but others use Windows Phone or BlackBerry OS. Most can do multitasking, running more than one program which helps the user do things quicker and easier. Users can get more programs, called mobile apps, from the manufacturer's app store, such as the Apple App Store and Google Play which can help them complete special tasks. 
+
+Data communication has become faster. Smart phones can send and receive data much faster than older phones. The industry uses different standards to label the data transmission rates. 2G was introduced in 1991. 2G means "2nd Generation". 2G phones transmit data at about the same speed as a 56kbit/s (kilobits per second) dial-up modem would get.
+
+3G was introduced in 2002. Depending on where they are, 3G phones vary in speed between about 200kbit/s to 14Mbit/s (megabits per second). This is comparable to a DSL or low end cable modem speed. Most smart phones use 3G technology to make them fast enough to practically use internet and other data features. Faster 4G networks operate in many places, with speeds estimated as fast as 100Mbit/s to 1Gbit/s (gigabit per second). This would be as fast as some computer networks that use ethernet. Many smart phones introduced after 2010 use 4G technology. The newest phones today are even faster, using a version of 4G known as .
+
+
+

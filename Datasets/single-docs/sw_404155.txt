@@ -1,0 +1,6 @@
+Inference
+
+Inference is a process of deriving new knowledge, given existing knowledge, and a number of rules. In logic, there are three different forms:
+
+
+

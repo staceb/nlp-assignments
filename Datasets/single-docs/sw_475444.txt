@@ -1,0 +1,9 @@
+Infrared telescope
+
+An infrared telescope is a telescope that detects infrared radiation (heat energy). All objects in the universe that have a temperature above absolute zero give off some form of electromagnetic radiation. Infrared light is one of several types of radiation present in the electromagnetic spectrum.
+
+Astronomers use several different types of telescopes to detect different types of emitted radiation in the electromagnetic spectrum. Some of these are gamma ray, x-ray, ultra-violet, regular visible light (optical), as well as infrared telescopes. 
+
+Ground-based infrared telescopes are affected by Earth's atmosphere. They work best in the shorter part of the infrared, a micrometer or two. Putting an infrared telescope in outer space or above the clouds (water vapor) is big help, especially for longer wavelengths (several micrometers) which cooler objects emit. Examples would be asteroids and interstellar clouds. 
+
+

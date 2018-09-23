@@ -1,0 +1,28 @@
+ISO 3166-1 alpha-3
+
+ISO 3166-1 alpha-3 codes are three-letter country codes in the ISO 3166-1 standard to represent countries and dependent territories. They are published by the International Organization for Standardization (ISO) as part of its ISO 3166 standard. They were first included as part of the ISO 3166 standard in its first edition in 1974.
+
+They are used in ISO/IEC 7501-1 for machine-readable passports.
+
+Below is a complete list of the current officially assigned ISO 3166-1 alpha-3 codes, with country names being English short country names officially used by the ISO 3166 Maintenance Agency (ISO 3166/MA):
+The following alpha-3 codes can be user-assigned: from AAA to AAZ, from QMA to QZZ, from XAA to XZZ, and from ZZA to ZZZ. These code elements are at the disposal of users who need to add further names of countries, territories or other geographical entities to their in-house application of ISO 3166-1, and the ISO 3166/MA will never use them in the updating process of the standard.
+
+Reserved code elements are codes which, while not ISO 3166-1 codes, are in use for some applications in conjunction with the ISO 3166 codes. The ISO 3166/MA therefore reserves them, so that they are not used for new official ISO 3166 codes, thereby creating conflicts between the standard and those applications.
+
+The following alpha-3 codes are subject to an exceptional reservation:
+
+The following three codes were also under exceptional reservation, until the update from 2006-03-29 included them in the standard:
+
+The following alpha-3 codes are subject to a transitional reservation:
+
+The following alpha-3 codes are subject to an indeterminate reservation, having been notified to the United Nations Secretary-General under the 1949 and/or 1968 Road Traffic Conventions:
+
+The following code has been reassigned:
+
+For the time being, ISO 3166/MA has agreed not to use the following codes, taken from ISO/IEC 7501-1 (machine readable travel documents), as alpha-3 country codes:
+
+Besides the codes currently transitionally reserved and FXX (now exceptionally reserved), these alpha-3 codes have also been withdrawn since the first edition of ISO 3166 in 1974:
+
+
+
+

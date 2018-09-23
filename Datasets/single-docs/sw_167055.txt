@@ -1,0 +1,15 @@
+Field (mathematics)
+
+In mathematics a field is a certain kind of algebraic structure. In a field you can add (formula_1), subtract (formula_2), multiply (formula_3) and divide (formula_4) two numbers (with division only allowed if formula_5 is not equal to zero). A field is a special ring, in which you can divide.
+
+As the field is always a ring, it consists of a set (represented here with the letter R) with two operations: addition (+) and multiplication (•). The properties of a ring are:
+
+
+
+A field is a ring with these rules:
+Another way of describing a field is this:
+
+Examples for fields are 
+The integers formula_9 are not a field, because you cannot always divide without a remainder.
+
+

@@ -1,0 +1,14 @@
+Lagrange point
+
+A Lagrange point is a special type of place where the gravity is stable. This is used with two objects in space where the smaller object orbits around the bigger one, like the Earth and the Sun, or the Moon and the Earth. 
+
+There are five places where a small object (like a man-made satellite) can orbit, and the effects of gravity from the larger objects and the centripetal forces balance out. (Centripetal force is the push outward that comes from spinning around). So a small satellite can stay in the Lagrange point without ever needing fuel to stay in orbit. 
+
+It is named after the mathematician Joseph-Louis Lagrange, who wrote a paper on this in 1772 (long before we put satellites into orbit). Dust clouds and asteroids can also stay in these points.
+
+The five places are called L1, L2, L3, L4 and L5. The first three (L1, L2, L3) are called unstable because if a satellite gets a bit out of place, it will fall away from that point, and not come back without using fuel. L4 and L5 are considered stable - if a satellite gets a bit out of place, it will be pulled back into place by the gravity and centripetal forces.
+
+NASA has used the Lagrange points of the Sun-Earth system to put satellites in orbit. The L1 point (between the Earth and the sun) is used for satellites that watch the sun, to look for solar flares. The L2 point (beyond the Earth) is used for space telescopes. That is where the James Webb Space Telescope will go when it is launched in 2018. It is a million miles (1.6 million kilometers) from Earth. 
+Because L4 and L5 are stable, they have attracted dust clouds, and at least one asteroid (for the Earth-Sun system - the bigger planets have more asteroids in their L4 and L5 points). These asteroids are called "Trojan asteroids". 
+
+

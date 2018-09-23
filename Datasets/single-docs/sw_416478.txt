@@ -1,0 +1,8 @@
+Crystallinity
+
+Crystallinity is a physical property of a solid that acts like a crystal. The degree of crystallinity of a crystal has a big influence on hardness, density, transparency and diffusion. 
+
+Crystallinity can be measured using x-ray diffraction, but calorimetric techniques are also commonly used.
+Examples would include: sodium chloride (table salt)
+
+

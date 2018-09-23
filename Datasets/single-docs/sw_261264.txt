@@ -1,0 +1,22 @@
+Millennium Bridge
+
+The Millennium Bridge is a footbridge across the River Thames in London. It is a steel suspension bridge which links Bankside with the City. Its position is between Southwark Bridge (downstream) and Blackfriars Railway Bridge (upstream). The bridge opened on 10 June 2000. It is the newest bridge across the Thames. 
+
+Londoners nicknamed the bridge the Wobbly Bridge after people on a charity walk felt an uncomfortable swaying motion. The bridge was closed later that day. After two days of limited access the bridge was closed for almost two years. Expensive and complicated changes were made to eliminate the wobble. It was reopened in 2002.
+
+The southern end of the bridge is near Globe Theatre, the Bankside Gallery and Tate Modern, the north end next to the City of London School below St Paul's Cathedral. The bridge alignment is such that a clear view of St Paul's south facade is presented from across the river, framed by the bridge supports.
+
+The design of the bridge was the subject of a competition organized in 1996 by Southwark council. The winning entry was by Arup, Foster and Partners and Sir Anthony Caro. The eight suspension cables are tensioned to pull with a force of 2,000 tons against the piers set into each bank — enough to support a working load of up to 5,000 people on the bridge at one time.
+
+The closure of the bridge only three days after opening attracted consideerable public criticism, as another high-profile British millennium project suffered an embarrassing setback, akin to how many saw the Millennium Dome. There was some astonishment that engineers had not foreseen the problem, as computer modelling is such a standard technique today. However, modifications to the bridge did eliminate the wobble, which has not recurred since the bridge reopened in February 2002.
+
+The bridge's movements were caused by a 'positive feedback' phenomenon. The natural sway motion of people walking caused small sideways oscillations in the bridge. In turn, this caused people on the bridge to sway in step, increasing the amplitude of the bridge oscillations and reinforced the effect.
+
+The bridge opened on an exceptionally fine day, and it was included on the route of a major charity walk. On the day of opening the bridge was crossed by 90,000 people, with up to 2,000 on the bridge at any one time.
+
+The lateral vibration problems of the Millennium Bridge are very unusual, but not entirely unique. Other bridges which have seen similar problems are:
+
+After extensive analysis by the engineers, the problem was fixed by fitting 37 dampers (energy dissipating) to control horizontal movement and 52 (inertial) dampers to control vertical movement. This took from May 2001 to January 2002 and cost £5M. After a period of testing, the bridge was successfully re-opened on 22 February 2002. The bridge has not been subject to significant vibration since. In spite of the successful fix of the problem, the affectionate 'wobbly bridge' epithet remains in common usage amongst Londoners.
+
+
+

@@ -1,0 +1,10 @@
+Computational chemistry
+
+Computational chemistry is a branch of chemistry that uses computer science to help solve chemical problems. These programs calculate the structures and properties of molecules and solids. Computational chemistry normally complements the information obtained by chemical experiments. It can predict chemical phenomena that have not yet been observed. It is widely used in the design of new drugs and materials.
+
+Computational chemistry can predict structure (that is, the expected positions of the molecule's atoms), absolute and relative (interaction) energies, electronic charge distributions, dipoles and higher multipole moments, vibrational frequencies, reactivity or other spectroscopic quantities, and cross sections for collision with other particles.
+
+Computational chemistry looks at both static and dynamic systems. In all cases, as the size of the system being studied grows, the computer time and other resources (such as memory and disk space) used also grows. That system can be a single molecule, a group of molecules, or a solid. Computational chemistry methods range from highly accurate to very approximate. Highly accurate methods are typically feasible only for small systems. 
+
+
+

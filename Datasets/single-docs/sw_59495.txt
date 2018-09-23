@@ -1,0 +1,21 @@
+Logarithmic scale
+
+A logarithmic scale is a scale of measurement that uses the logarithm of a physical quantity instead of the quantity itself. On a logarithmic scale, each tick mark on the scale is the previous tick mark "multiplied" by some number. 
+
+The logarithmic scale can be helpful when the data covers a large range of values – the logarithm reduces this to a more manageable range. 
+
+Some of our senses operate in a logarithmic fashion (multiplying the actual input strength adds a constant to the perceived signal strength, see: Stevens' power law). That makes logarithmic scales for these input quantities especially appropriate. In particular, our sense of hearing perceives equal "multiples" of frequencies as equal "differences" in pitch.
+
+On most logarithmic scales, "small" multiples (or ratios) of the underlying quantity correspond to "small" (possibly negative) values of the logarithmic measure. 
+
+Well-known examples of such scales are:
+
+
+Some logarithmic scales were designed such that "large" values (or ratios) of the underlying quantity correspond to "small" values of the logarithmic measure. Examples of such scales are:
+
+
+A logarithmic scale is also a graphical scale on one or both sides of a graph where a number "x" is printed at a distance "c"·log("x") from the point marked with the number 1. A slide rule has logarithmic scales, and nomograms often employ logarithmic scales. On a logarithmic scale an equal difference in order of magnitude is represented by an equal distance. The geometric mean of two numbers is midway between the numbers. 
+
+Logarithmic graph paper, before the advent of computer graphics, was a basic scientific tool. Plots on paper with one log scale can show up exponential laws, and on log-log paper power laws, as straight lines (see semilog graph, log-log graph).
+
+

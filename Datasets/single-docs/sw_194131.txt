@@ -1,0 +1,9 @@
+Gambit
+
+A gambit is a chess opening involving a sacrifice. In these openings a player, usually White, sacrifices (gives away) a pawn or more. The usual reason is to develop faster, and get an attack against the black king. An example:
+
+In modern times gambits are usually not for direct attacks on the king. They aim at 'positional' advantages, such as freer play for the pieces. A well-known example is the Benko Gambit: 
+
+In return for his pawn, Black gets open lines for his bishops and his rook on a8.
+
+

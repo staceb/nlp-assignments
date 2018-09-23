@@ -1,0 +1,17 @@
+Commutative property
+
+The commutative property of addition and multiplication tells us that it does not matter which number we add first, or multiply first. We will still get the same answer if we add them backwards. The same thing goes for multiplying backwards.
+
+The definition of commutative property of addition is, when we substitute any number for "a" and "b", formula_1.
+
+For example, formula_2, because formula_3 and formula_4 are both formula_5. It doesn't matter whether the formula_6 or the formula_7 comes first. 2+3=3+2 is the same as formula_1, when formula_9 and formula_10.
+
+We can substitute fractions too. formula_11. Either way, it adds to formula_12.
+
+And for good mathematicians, we can substitute irrational numbers as well: formula_13.
+
+Some operations like dividing are not commutative. For instance, 6 divided by 3 is 2, but 3 divided by 6 is 1/2. Do not divide backwards. Dividing is not commutative. Subtracting is not commutative either: 6−2 is 4, but 2−6 is minus 4. Exponentiation is not commutative, either: For example, 2³ is 8, but 3² is 9.
+
+In higher mathematics, there are other commutative operations besides adding and multiplying.
+
+

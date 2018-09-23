@@ -1,0 +1,8 @@
+Transitivity (mathematics)
+
+Transitivity is a term in logic and mathematics.
+
+In general, in a set, if a is related to b and b is related to c, then a is related to c.
+
+
+

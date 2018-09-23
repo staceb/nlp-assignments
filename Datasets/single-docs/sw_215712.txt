@@ -1,0 +1,9 @@
+Percentile
+
+In statistics a large set of numerical data is sometimes, divided into 100 groups, each consisting of 1% of the data. Beforehand the data are arranged in ascending order. Each of the 99 dividing points is called a percentile of the data set. 
+
+The 35th percentile, for instance, has a bigger value than 35% of the datapool.
+
+Some of the percentiles have special names. The 25th, 50th and 75th percentiles are called quartiles. The 50th percentile is also called the median.
+
+

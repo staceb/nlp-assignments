@@ -1,0 +1,13 @@
+Inductive reasoning
+
+Induction is one of the main forms of logical reasoning. The other is deduction. In induction, we find a general rule by using a large number of particular cases. For example, watching water in many different situations, we can conclude that water always flows downhill.
+
+Induction is not the method of science, but it can be the starting-point for science. Everyone can see that the sun, moon and stars appear to move across the sky. Early civilisations thought this meant they revolved around the Earth, because that is what they always seem to do. We now know this is quite wrong, but discovering the real explanation was the start of modern science (see Copernicus, Galileo and heliocentrism). What they did was to work out an alternative theory or hypothesis, which eventually was shown to be a much better explanation of all the observations. That is real science, but the observations of the heavens, which started with the Babylonians, showed the regularity which needed to be explained. What science did was to prove the obvious explanation was not the right one. 
+
+Another example is the work of Darwin, who spent half his life collecting interesting facts about animals and plants. If he had stopped there, his name might not be known today. What he did was suggest a way in which all these facts could be explained. It was an hypothesis which could be, and was, tested in every way possible. It is well known now that the theory of evolution by natural selection best explains the way the living world has come to be as we see it. Again, real science was built on a collection of facts which needed an explanation. The philosophy of science is about testing hypotheses, rather than collecting facts, though facts are the basis of all science.
+
+Induction, the collecting of facts, is not by itself science. The philosopher Hume said it meant “instances of which we have had no experience resemble those of which we have had experience”. Later, John Stuart Mill raised the question “Why is a single instance, in some cases, sufficient for a complete induction, while in others [many examples] go such a little way towards establishing a universal proposition?” Philosophers usually think the real issue is: what distinguishes good from bad inductions? A way to say it is: "If all known "As" are "B", then "probably" all "As" whatever are "B"". 
+
+Discussions suitable for students of philosophy can be found in the usual places, especially:
+
+

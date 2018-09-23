@@ -1,0 +1,15 @@
+Consonant
+
+All the letters in the alphabet are either consonants or vowels. A consonant is a speech sound in which the air is at least partly blocked, and any letter which represents this. Consonants may come singly (by themselves) or in clusters (two or more together), but must be connected to a vowel to form a syllable.
+
+Notice that the consonant (C) and vowel (V) notation does NOT match the letters of English spelling in a one-to-one relationship (e.g. 'th' is one sound), but rather individual sounds.
+
+Words with single consonants include:
+
+Words with consonant clusters include:
+
+Consonants have friction when they are spoken, mostly using the position of the tongue against the lips, teeth and roof of the mouth. "b" and "p" are "plosives", using the lips to produce a tiny sharp sound. Phonetics texts give more details, with diagrams. Consonants may be voiced or unvoiced. The th in "the" is voiced, but in "breath" is not.
+
+
+
+

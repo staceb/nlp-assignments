@@ -1,0 +1,27 @@
+Boyle's law
+
+Boyle's law (also called Mariotte's law and the Boyle-Mariotte law) is a law about ideal gases.
+
+The law can be stated as follows:
+In other words, the volume of a constant mass of ideal gas at a constant temperature is inversely proportional to its pressure.
+
+In symbols, the law is:
+or
+
+where "P" is the pressure of the gas, "V" is the volume of the gas, and "k" is a constant.
+
+For a given mass of gas at a constant temperature, the product of the pressure and the volume is a constant. As the volume decreases, the pressure increases in proprotion, and vice versa. For example, when the pressure halves, the volume doubles.
+
+Suppose you have a tank that contains a certain volume of gas at a certain pressure. When you decrease the volume of the tank, the same number of gas particles is now contained in a smaller space. Therefore, the number of collisions increases. Therefore, the pressure is greater.
+
+Imagine you have a gas at a certain pressure (P) and volume (V). If you change the pressure to a new value (P), the volume changes to a new value (V). We can use Boyle's law to describe both sets of conditions:
+
+The constant, k, is the same in both cases, so we can say the following:
+
+Example: The pressure of a gas is 3 atm and the volume is 5 litres. If the pressure is reduced to 2 atm, what is the volume?
+
+∴ The volume will be 7.5 litres.
+
+The law was found by Robert Boyle in 1662, and afterwards independently by Edme Mariotte in 1679.
+
+

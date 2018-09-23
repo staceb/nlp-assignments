@@ -1,0 +1,41 @@
+Atmel AVR
+
+The AVR microcontroller architecture was developed by Atmel in 1996. It is based on the Harvard microcontroller architecture. The AVR was one of the first microcontroller families to use on-chip flash memory for program storage, as opposed to one-time programmable ROM, EPROM, or EEPROM used by other microcontrollers at the time.
+
+Many people think that AVR stands for Alf (Egil Bogen) and Vegard (Wollan)'s Risc processor".
+
+This architecture replaces older MCS-51 architecture. One machine cycle of MCS-51 takes 12 clock cycles and most of instructions are executed in one machine cycle.
+
+AVR microcontrollers (MCUs) can execute most of instructions in single machine cycle too, but one machine cycle takes only one clock cycle. Performance per clock cycle is 12 times higher with AVR.
+
+The core has 32 general purpose registers directly connected to ALU. It allowing two independent
+registers to be accessed and instruction with them executed in one machine cycle.
+tinyAVR
+
+megaAVR
+
+XMEGA
+
+Every AVR has some input/output ports. The port has up to 8 physical pins on its package. Every pin can be configured as input or output. If a pin is used for input, it can turn on built-in pull-up resistors through register PORTx. If a pin is configured as output, it can handleup to 40mA of load per pin and max 100mA for all pins on the port.
+
+A/D converter
+
+Timers/counters (8-bit or 16-bit)
+
+TWI – Two Wire Interface
+This uses the same protocol as IC and can be used as IC interface
+
+UART/USART
+The UART can be used for RS232/RS485 communication.
+
+SPI - Serial Peripheral Interface
+
+USI - Universal Serial Interface
+
+JTAG
+
+D/A converter
+
+
+
+

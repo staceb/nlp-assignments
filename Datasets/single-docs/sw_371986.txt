@@ -1,0 +1,16 @@
+List of Wikipedias
+
+This is a list of many of the different language editions of Wikipedia; as of August 2012, there are 285 Wikipedias. For their number of articles, see the .
+
+Each Wikipedia has a code, which is used as a subdomain below wikipedia.org. Interlanguage links are sorted by that code.
+
+The codes represent the language codes defined by ISO 639-1 and ISO 639-3, and the decision of which language code to use is usually determined by the IETF language tag policy.
+
+One code is not a language code ('be-x-old') but refers to a specific orthography.
+
+Some deviations include:
+
+Size is given in decadic logarithm of number of articles. '6' means more than 1 000 000, '5' more than 100 000, '4' more than 10 000.
+
+
+

@@ -1,0 +1,11 @@
+Normal distribution
+
+\; \exp\left(-\frac{\left(x-\mu\right)^2}{2\sigma^2} \right) \!</math>|
+The normal distribution is a probability distribution. It is also called Gaussian distribution because it was discovered by Carl Friedrich Gauss. The normal distribution is a continuous probability distribution. It is very important in many fields of science. Normal distributions are a family of distributions of the same general form. These distributions differ in their "location" and "scale" parameters: the mean ("average") of the distribution defines its location, and the standard deviation ("variability") defines the scale.
+
+The standard normal distribution (also known as the Z distribution) is the normal distribution with a mean of zero and a variance of one (the green curves in the plots to the right). It is often called the bell curve because the graph of its probability density looks like a bell.
+
+Many values follow a normal distribution. This is because of the central limit theorem, which says that if an event is the sum of other random events, it will be normally distributed. Some examples include:
+
+
+

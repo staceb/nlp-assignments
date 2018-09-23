@@ -1,0 +1,19 @@
+2 (number)
+
+2 (Two; ) is a number, numeral, and glyph. It is the number after 1 and the number before 3. In Roman numerals, it is II.
+
+Two has many meanings in math. For example: formula_1. An integer is "even" if half of it equals an integer. If the last digit of a number is even, then the number is even. This means that if you multiply 2 times anything, it will end in 0, 2, 4, 6, or 8.
+
+Two is the smallest, first, and only even prime number. The next prime number is three. Two and three are the only prime numbers next to each other. The even numbers above two are not prime because they are divisible by 2.
+
+Fractions with 2 in the bottom do not yield infinite.
+
+Two is the framework of the binary system used in computers. The binary way is the simplest system of numbers in which natural numbers (0-9) can be written.
+
+Two also has the unique property that 2+2 = 2·2 = 2 and 2! + 2 = 2.
+
+Powers of two are important to computer science.
+
+The square root of two was the first known irrational number.
+
+

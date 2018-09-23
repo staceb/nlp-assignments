@@ -1,0 +1,44 @@
+Molecular symmetry
+
+Molecular symmetry is a basic idea in chemistry. It is about the symmetry of molecules. It puts molecules into groups according to their symmetry. It can predict or explain many of a molecule's chemical properties. 
+
+Chemists study symmetry to explain how crystals are made up and how chemicals react. The molecular symmetry of the reactants help predict how the product of the reaction is made up and the energy needed for the reaction.
+
+Molecular symmetry can be studied several different ways. Group theory is the most popular idea. Group theory is also useful in studying the symmetry of molecular orbitals. This is used in the Hückel method, ligand field theory, and the Woodward–Hoffmann rules. Another idea on a larger scale is the use of crystal systems to describe crystallographic symmetry in bulk materials.
+Scientists find molecular symmetry by using X-ray crystallography and other forms of spectroscopy. Spectroscopic notation is based on facts taken from molecular symmetry.
+
+Physicist Hans Bethe used characters of point group operations in his study of ligand field theory in 1929. Eugene Wigner used group theory to explain the selection rules of atomic spectroscopy. The first character tables were compiled by László Tisza (1933), in connection to vibrational spectra. Robert Mulliken was the first to publish character tables in English (1933). E. Bright Wilson used them in 1934 to predict the symmetry of vibrational normal modes. The complete set of 32 crystallographic point groups was published in 1936 by Rosenthal and Murphy.
+Mathematical group theory has been adapted to study of symmetry in molecules. 
+The symmetry of a molecule can be described by 5 types of symmetry elements. 
+
+
+
+Each of the five symmetry elements has a symmetry operation. People use a caret symbol (^) to talk about the operation rather than the symmetry element. So, Ĉ is the rotation of a molecule around an axis and Ê is the identity operation. A symmetry element can have more than one symmetry operation associated with it. Since C is equivalent to E, S to σ and S to "i", all symmetry operations can be classified as either proper or improper rotations.
+
+A point group is a set of symmetry operations forming a mathematical "group", for which at least one "point" remains fixed under all operations of the group. A crystallographic point group is a point group which will work with translational symmetry in three dimensions. There are a total of 32 crystallographic point groups, 30 of which are relevant to chemistry. Scientists use Schoenflies notation to classify point groups. 
+
+Mathematics define a "group". A set of symmetry operations form a group when:
+The order of a group is the number of symmetry operations for that group.
+For example, the point group for the water molecule is C, with symmetry operations E, C, σ and σ'. Its order is thus 4. Each operation is its own inverse. As an example of closure, a C rotation followed by a σ reflection is seen to be a σ' symmetry operation: σ*C = σ'. (Note that "Operation A followed by B to form C" is written BA = C).
+
+Another example is the ammonia molecule, which is pyramidal and contains a three-fold rotation axis as well as three mirror planes at an angle of 120° to each other. Each mirror plane contains an N-H bond and bisects the H-N-H bond angle opposite to that bond. Thus ammonia molecule belongs to the C point group which has order 6: an identity element E, two rotation operations C and C, and three mirror reflections σ, σ' and σ".
+
+The following table contains a list of point groups with representative molecules. The description of structure includes common shapes of molecules based on VSEPR theory.
+
+Symmetry operations can be written in many ways. A good way to write them is by using matrices. For any vector representing a point in Cartesian coordinates, left-multiplying it gives the new place of the point transformed by the symmetry operation. Composition of operations is done by matrix multiplication. In the C example this is:
+Although an infinite (going on forever) number of such representations (ways of showing things) exist, the irreducible representations (or "irreps") of the group are commonly used, as all other representations of the group can be described as a linear combination of the irreducible representations. (The irreps span the vector space of the symmetry operations.) Chemists use the irreps to sort the symmetry groups and to talk about their properties.
+
+For each point group, a character table summarizes information on its symmetry operations and on its irreducible representations. The tables are square because there are always equal numbers of irreducible representations and groups of symmetry operations.
+
+The table itself is made of characters which show how a particular irreducible representation changes when a particular symmetry operation is applied (put to it). Any symmetry operation in a molecule's point group acting on the molecule itself will leave it unchanged. But for acting on a general entity (thing), such as a vector or an orbital, this does not have to be what happens. The vector could change sign or direction, and the orbital could change type. For simple point groups, the values are either 1 or -1: 1 means that the sign or phase (of the vector or orbital) is unchanged by the symmetry operation ("symmetric") and -1 denotes a sign change ("asymmetric"). 
+
+The representations are labeled according to a set of conventions:
+
+
+The tables also tell the Cartesian basis vectors, rotations about them, and quadratic functions of them transformed by the symmetry operations of the group. The table also shows which irreducible representation transforms in the same way (on the right hand side of the tables). Chemists use this because chemically important orbitals (in particular "p" and "d" orbitals) have the same symmetries as these entities. 
+
+The character table for the C symmetry point group is given below:
+For example, water (HO) which has the C symmetry described above. The 2"p" orbital of oxygen is oriented perpendicular to the plane of the molecule and switches sign with a C and a σ'(yz) operation, but remains unchanged with the other two operations (obviously, the character for the identity operation is always +1). This orbital's character set is thus {1, -1, 1, -1}, corresponding to the B irreducible representation. Similarly, the 2"p" orbital is seen to have the symmetry of the A irreducible representation, 2"p" B, and the 3"d" orbital A. These assignments and others are in the rightmost two columns of the table.
+
+
+

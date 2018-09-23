@@ -1,0 +1,12 @@
+Hohmann transfer orbit
+
+In orbital mechanics, a Hohmann transfer orbit moves a spacecraft between orbiting heights. It is the most fuel-efficient method to do so, because the spacecraft is not trying to escape the planet's gravity, using an elliptical orbit for the transfer. 
+
+A ship using this would have to apply two velocities, one to enter the elliptical orbit, and one to enter the second orbit. 
+
+Assuming the mass of the spacecraft is much lower than that of the orbiting planet, the two velocities, formula_1 and formula_2, can be solved for as:formula_3formula_4where 
+
+
+
+
+

@@ -1,0 +1,20 @@
+Enthalpy
+
+Enthalpy is a concept used in science and engineering when heat and work need to be calculated.
+
+When a substance changes at constant pressure, enthalpy tells how much heat and work were added to (or removed from) the substance.
+
+Enthalpy is similar to energy, but not the same. When a substance grows or shrinks, energy is used up or released. Enthalpy accounts for this energy. Because of this, scientists often calculate the change in enthalpy, rather than the change in energy.
+
+The name comes from the Greek word "enthalpos" (ενθαλπος), meaning "to put heat into". The idea and the word was made up by the Dutch scientist Heike Kamerlingh Onnes in 1909.
+
+When a chemical reaction happens, a substance can become warmer or colder. As a result, heat will flow to things around it, or from things around it, until its temperature is the same again. If the pressure stays the same, this amount of heat tells how much the enthalpy changed.
+
+For example, if gasoline is burned in the open air, heat is released by the gasoline. If we suppose 100 kilojoules of heat were released, then the enthalpy of the gasoline was reduced by 100 kilojoules. Therefore the change in enthalpy for this reaction was ∆"H" = –100 kJ.
+
+If a chemical reaction gives off heat (warming its surroundings), then the enthalpy of the reaction is said to have decreased. The value of ∆"H" is negative. This kind of reaction, like the example above, is called exothermic.
+
+If a chemical reaction absorbs heat (cooling its surroundings), then the reaction's enthalpy has increased. The value of ∆"H" is positive. This is called an endothermic reaction.
+
+
+

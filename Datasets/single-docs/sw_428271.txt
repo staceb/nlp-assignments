@@ -1,0 +1,7 @@
+Heat exchanger
+
+A heat exchanger is a device used to efficiently transfer heat from one fluid to another. The fluids may be separated to avoid direct contact or mixing.
+
+
+
+

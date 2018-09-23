@@ -1,0 +1,13 @@
+Textual criticism
+
+Textual criticism is the study of different copies of books or manuscripts. The purpose is to find the original, and see what changes were made to the later versions.
+
+Textual criticism started with the study of the Bible, but now these techniques are used to study many texts.
+
+The basic problem, as described by Paul Maas, is as follows:
+
+The lack of autograph manuscripts applies to many cultures other than Greek and Roman. In such a situation, a key objective becomes the identification of the first "exemplar" before any split in the tradition. That exemplar is known as the "archetype". "If we succeed in establishing the text of [the archetype], the reconstruction of the original is considerably advanced".
+
+The textual critic's ultimate objective is the production of a "critical edition". This contains a text most closely approximating the original, which is accompanied by a critical apparatus that presents:
+
+

@@ -1,0 +1,5 @@
+Function space
+
+In mathematics, a function space is a set of functions of a given kind from a set X to a set Y. For example:
+
+

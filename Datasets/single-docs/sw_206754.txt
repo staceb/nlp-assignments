@@ -1,0 +1,10 @@
+Monster group
+
+In math, there are many subjects. One of these is group theory. In group theory, the Monster group (shortened to "M" or "F") is important. It is also called the Fischer-Griess Monster, or the Friendly Giant. It is a group of finite order, which is equal to:
+
+It is a "simple group". Simple groups have only two normal subgroups: the identity element, and "M".
+
+The finite simple groups have been completely classified (the classification of finite simple groups). There are two kinds of finite simple groups in the list of finite simple groups. The first kind has 18 countably infinite families. The second kind has 26 sporadic groups. They are not as systematic. The Monster group is the largest of these sporadic groups. It contains all but six of the other sporadic groups inside of it. Robert Griess has called these six exceptions pariahs. The rest make up the happy family.
+
+
+

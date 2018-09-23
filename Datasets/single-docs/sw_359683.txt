@@ -1,0 +1,32 @@
+Acceleration due to gravity
+
+The acceleration which is gained by an object because of gravitational force is called its acceleration due to gravity. Its SI unit is m/s. Acceleration due to gravity is a vector, which means it has both a magnitude and a direction. The acceleration due to gravity at the surface of Earth is represented as "g". It has a standard value defined as 9.80665 m/s.
+
+Isaac Newton worked out that resultant force equals mass times acceleration, or in symbols, formula_1. This can be re-arranged to give formula_2.
+The bigger the mass of the falling object, the greater the force of gravitational attraction pulling it towards Earth. In the equation above, this is formula_3. However, the bigger mass formula_4 (on the bottom of the formula) cancels out the greater force of attraction, so the acceleration is the same. In every situation, the formula_5 cancels down to the uniform acceleration of around 9.8 m/s. This means that, regardless of their mass, all freely falling objects accelerate at the same rate.
+
+Consider the following examples:
+
+formula_6
+
+formula_7
+
+Depending on the location, an object at the surface of Earth falls with an acceleration between 9.76 and 9.83 m/s.
+
+Earth is not exactly spherical. It is like a "squashed" sphere, with the radius at the equator slightly larger than the radius at the poles. This has the effect of slightly increasing gravitational acceleration at the poles (since you are close to the centre of Earth and the gravitational force depends on distance) and slightly decreasing it at the equator. Also, because of centripetal acceleration, the acceleration due to gravity is slightly less at the equator than at the poles. Changes in the density of rock under the ground or the presence of mountains nearby can affect gravitational acceleration slightly.
+
+The acceleration of an object changes with altitude. The change in gravitational acceleration with distance from the centre of Earth follows an inverse-square law. This means that gravitational acceleration is inversely proportional to the square of the distance from the centre of Earth. As the distance is doubled, the gravitational acceleration decreases by a factor of 4. As the distance is tripled, the gravitational acceleration decreases by a factor of 9, and so on.
+
+At the surface of the Earth, the acceleration due to gravity is roughly 9.8 m/s. The average distance to the centre of the Earth is 6371 km.
+
+Using the constant k, we can work out gravitational acceleration at a certain altitude.
+
+Example: Find the acceleration due to gravity 1000 km above Earth's surface.
+
+∴ Distance from centre of Earth is 7371 km.
+
+∴ Acceleration due to gravity 1000 km above Earth's surface is 7.3 m/s (2 s.f.).
+
+Gravitational acceleration at the Kármán line, the boundary between Earth's atmosphere and outer space which lies at an altitude of 100 km, is only about 3% lower than at sea level.
+
+

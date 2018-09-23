@@ -1,0 +1,5 @@
+Earned run average
+
+In baseball, earned run average (abbreviated to ERA) is the mean of earned runs given up by a pitcher. It is measured per nine innings pitched in Major League Baseball. ERA is found by dividing the number of earned runs allowed by the number of innings pitched and multiplying by nine. For example, if a pitcher pitches 95 innings and allows 25 earned runs, his ERA is 2.37.
+
+

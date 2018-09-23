@@ -1,0 +1,5 @@
+Whitespace (computer science)
+
+Whitespace are "blanks", characters that represent space between other characters. The space, tab, carriage return and line feed characters are all whitespace.
+
+

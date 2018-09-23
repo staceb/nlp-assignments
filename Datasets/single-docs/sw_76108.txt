@@ -1,0 +1,9 @@
+Wireless LAN
+
+In computing, Wireless LAN or Wireless Local Area Network is a term to refer to a Local Area Network that does not need cables to connect the different devices. Instead, radio waves and IEEE 802.11 are used to communicate.
+
+
+
+Today, most technologies used for WLANs use Orthogonal Frequency Division Multiplexing. This means that several frequencies are used at the same time. Signals that are close to each other, but that belong to different channels do not disturb each other, as they use different coding schemes. Depending on the material used, it is possible to cover between 30 metres and 100 metres indoors; outdoors, the range is about 100-300m, if there are no obstacles.
+
+

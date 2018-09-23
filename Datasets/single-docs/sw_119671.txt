@@ -1,0 +1,9 @@
+Ancestor table
+
+An ancestor table (from German language "ahnentafel") is a family tree where people are shown in a numbered list instead of a tree.
+
+In the table, a person is listed as number 1, the father is 2, the mother is 3. Then, the grandparents can be added:
+
+This can continue even farther, including the great-grandparents:
+
+

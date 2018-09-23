@@ -1,0 +1,21 @@
+Tone language
+
+A tone language or tonal language is a language in which saying words with different "tones" (which are like pitches in music but with a smaller number) changes the meaning of a word even if the pronunciation of the word is otherwise the same.
+
+Many Asian languages are tone languages, such as Chinese, Vietnamese, Thai, and Punjabi. Most languages, including those that come from Europe like English, are not tone languages.
+
+In some languages, it is pitch accent that is important instead. That means that a word's meaning can be different if a different syllable is stressed. Examples include Swedish, Norwegian, Serbo-Croatian, Lithuanian, and some Asian languages like Japanese. However, pitch accent is not the same as tones.
+
+Some tones may sound alike to people who do not speak a tone language. They are the most difficult part of learning a tone language for those people.
+
+In Mandarin, the sentence "ma ma ma ma" () includes four different words. If numbers identify the tones, they can be written "ma2 ma1 ma4 ma3", which means "the hemp's mother scolds the horse." Some ways of romanization write each tone with a different spelling; "ma2 ma1 ma4 ma3" in Pinyin would be written "ma mha mah maa" in Gwoyeu Romatzyh romanization. Most use numbers or accent marks ("mā má mǎ mà" in Pinyin). There is a poem called (). It has 92 characters; all read the same way in Mandarin ("shi") but with different tones.
+
+Mandarin does not have many syllables: the words for "mother," "hemp," "horse," "scold," and a word put at the end of sentences to make it a question are all pronounced "ma:"
+
+Mandarin has "first tone," "second tone," "third tone," "fourth tone," and "neutral tone." Other Chinese dialects have more tones, some as many as 12.
+
+Vietnamese and Pinyin use accents as the tone marks for the Latin alphabet. Each accent shows an altered sound for the syllable. Most syllables have only one tone marking, but the letters in the syllable can be altered by other markings. Syllables usually form one word in un-hyphenated compound words.
+
+Pinyin may have style differences that break from actual use because its use is to help Westerners. Vietnamese, on the other hand, has a national script that always follows the uses the sAme style.
+
+

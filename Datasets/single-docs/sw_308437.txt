@@ -1,0 +1,81 @@
+Metric system
+
+The metric system is a system of measurement with length based on the meter, mass or weight on the gram, and capacity (volume) based on the liter. This system is used around the world. It was developed in France and first introduced there in 1791, 2 years after the beheading of King Louis XVI. The metric units are based on decimal groups (multiples of ten). At first the metric system was based on two quantities: length and weight. The basic units were called the "metre" and the "gramme".
+
+In 1866 the United States started to use the metric system, but it still is not the main US system of measurement. By 1875 many countries in Europe and in Latin America had changed to using the metric system. In 1875 seventeen countries signed the Metre Convention agreeing to share responsibility for defining and managing the metre and kilogram standards. The prototype copies of the metre and of the kilogram were called the "international prototype metre" and "international prototype kilogram". A new organization called the International Bureau of Weights and Measures (BIPM) was set up. The international prototype metre and kilogram was kept at the BIPM headquarters. In 1960 the rules for the metric system was revised. The revised system was called the "International System of Units" (which is often written "SI" for short). The definition of SI also included rules for writing SI quantities. These rules are the same for all languages. In the 1970s many people in the United Kingdom and the rest of the Commonwealth started using the metric system at their places of work.
+
+The metric system is a decimal-based system of measurement. The system has units of measure for each quantity. The names of most units of measure in the metric system have two parts. One part is the unit name and the other part is the prefix. For example, in the name "centimetre", the word "centi" is the prefix and the word "metre" is the unit name. Sometimes, as with metre, litre and gram, there is no prefix.
+
+In the metric system, all units have a "symbol". Symbols are a shorthand way of writing the names of units. All the countries in the world use the same symbol for a unit, even though they might have different ways of writing out the unit name in full. For example
+
+The metric system was first developed in France during the French Revolution. A French law passed in 1795 defined five units of measure. Three of these names are still in use today. They are the metre which is the unit of length, the gram which is the unit of mass and the litre which is the unit of volume. Since then many other units of measure have been developed and many definitions changed. The metric system now has units of measurement for energy, power, force, electric current, radioactivity and many others. The most commonly used units of measure in the metric system are listed below.
+
+
+
+
+
+
+The definitions of the units are often being changed. In 1960 the definition of the metre was changed. Since then it has been defined in terms of the speed of light. At the current time (2014) it is proposed that the kilogram be redefined in terms of the Planck constant.
+
+If the numbers are too big or too small, the metric system uses prefixes to make it easier to understand the numbers. 
+
+milli
+
+centi
+
+kilo
+
+There are a lot of other prefixes. Some of them are:
+
+These tables will help you to estimate the size of different lengths or masses in the metric system. In these tables:
+Some names in the metric system are spelt differently in British English and in American English.
+
+In 1875 representatives from the governments of twenty different countries met in Paris to discuss weights and measures. Seventeen of the countries signed a treaty about weights and measures. The treaty was called ""The Convention of the Metre"". The countries that signed were: Argentine Confederation, Austria-Hungary, Belgium, Brazil, Denmark, France, Germany, Italy, Peru, Portugal, Russia, Spain, Sweden and Norway, Switzerland, Turkey, United States and Venezuela. They agreed: 
+
+The United Kingdom and the Netherlands went to the conference but did not sign the treaty at that time. After further consideration, the United Kingdom did sign the treaty in 1884 and the Netherlands became a member in 1929.
+
+In 1889 the copies of the kilogram and the metre were ready to be given to the different countries that signed the treaty.
+
+The United States Congress ratified the treaty in 1878. The United Kingdom signed the treaty 1884. Neither country passed laws making it compulsory to use the metric system.
+
+In 1921 the Metre Convention was extended to include all physical measurements including time, electricity and temperature.
+
+In 1960 the BIPM published the ""International System of Units"" (or SI). SI clarified a number of areas of the metric system, particularly in science and in engineering. The BIPM also standardized the way in which SI was written making it the same for all languages.
+
+There are 16 US fluid ounces in a US pint but there are 20 imperial [UK] fluid ounces in an imperial pint. The US fluid ounce is larger than the imperial fluid ounce, but the imperial pint is larger than the US pint. In the 1700's this type situation was common across Europe. Each country measured length, weight/mass and volume in its own way. Sometimes different countries or cities used the same name for different measurements. Sometimes different cities in the same country had different ways of measuring things. In 1789 there were a quarter of a million different units of weight and measure in France.
+
+During the French Revolution the French scientists decided that it would be better to have a new system of weights and measure. The system would be the same in all French provinces and cities. They also decided that it would easier if the new system used 10's instead of 12's, 16's or 20's. This is because people normally count in 10's. The new system became the official system of measurement in France in 1799. One of the French leaders, the Marquis de Condorcet declared that "[the metric system] is for all people for all time".
+
+They decided that the new system would be for everybody on earth and that the new unit of length would be called a "metre". They decided to there would be 10,000,000 metres between the North Pole and the equator. Between 1791 and 1798 two surveyors, Pierre Méchain and Jean-Baptiste Delambre, measured the distance from Dunkirk to Barcelona using old French units. They used the stars to measure the latitude of these cities. They used this information to work out that the length of the metre should 443.296 "lignes". In 1798 the French scientists made a bar of platinum that was exactly one metre long. They stored this bar in the French archives. It was called the "metre des archives". People who made one metre rulers were able to check that their rulers were the same length as the "metre des archives". Other scientists made a kilogram weight from platinum which was also put in the archives. This weight was called the "kilogram des archives".
+
+In 1799 the metric system was made compulsory, meaning people were made to use it by law, in the region around Paris. This caused a lot of confusion because the police enforced the new measures but customers preferred the old ones. So shopkeepers had to have both. People became worried the new measures were used to cheat them. Politicians tried to educate and convince people to use metric, but the people rejected the metric system. In 1800 the government tried to make the system acceptable by changing the names of the units back to the simpler names used before metrication. For example, the decimetre, centimetre, and millimetre were renamed to "palme" (hand), "doigt" (finger) and "trait" (trace).
+
+In 1799 Napoleon became the leader of France. By 1812 he had conquered most of Europe. He introduced the metric system to the countries that he conquered. In 1815 he was defeated at the Battle of Waterloo. After Napoleon was defeated, most of the countries started using their old systems of measurement again.
+
+During this time, the metric system was still the official system of measurement in France. And it still had simplified unit names. But the French people continued to use the measures they were used to. The French government tried to persuade the people to convert. They mass-produced metric rulers, they tried to teach the people to use metric measures, and commanded the police to punish people who would not cooperate. Eventually the government stopped trying and withdrew the metric system.
+
+On 12 February 1812, France stopped using the metric system and started using a new system called "mesures usuelles". The new system was based on many of the old pre-metric units. The old units were redefined to be round numbers or fractions of the withdrawn metric units. For example the "livre" (pound) was reintroduced and changed from 489 grams to 500 grams. The "toise" was redefined as 2 metres. The "toise" contained 6 "pied" (feet), changed from 324.8 mm to of a metre (333.33 mm). The "pied" had 12 "pouces" (inches) and the "pouce" had 12 "lignes".
+
+In 1837 the metrication laws were revived in France. And in 1840, the system did become compulsory throughout France, almost 50 years after it was first introduced.
+
+During the nineteenth century many small countries started cooperating with each other. In 1815 the Kingdom of the Netherlands was formed from seventeen small states. Each state had its own system of measurement. In 1820 they decided that it would be better if everybody used the metric system.
+
+In 1815 the German Confederation was formed. It was an association of 39 different states. Each state had its own system of measurements. In 1834 the German Confederation formed a customs union called the "Zollverein". In 1851 the "Zollverein" decided to use metric units for trade between the various states. In 1871, most of the states in the German Confederation were joined together to form the German Empire. The German Empire continued to use the metric system. 
+
+In the same year, Italy was also formed from a large number of small states. Italy also decided to use the metric system rather than choosing one of the old systems of measurement.
+
+By 1875 many European and Latin American counties were already using the metric system. These countries included France, Germany, Italy, Spain, Portugal, Brazil, Mexico, Argentina, Peru and Columbia. Between 1875 and 1914 many more countries including Norway, Sweden, Denmark, Finland, Paraguay, Philippines and Vietnam started to use the metric system. In 1917, during the Bolshevik Revolution, the USSR (now Russia) adopted the metric system. By the start of the Second World War most non-English speaking countries had adopted the metric system.
+
+In 1866, after most of the South American countries started to use the metric system, the United States passed a law that allowed people to use either the metric system or United States customary units for trade. Before 1893 the yard was defined as the length of the "standard yard" which was kept by the United States Treasury. The pound was defined as being the mass of the "standard pound". In 1893 the United States Congress passed the Mendenhall Order. This order defined the yard as being exactly metres and the pound as being exactly 0.4535924277 kilogram. The order only changed the definitions of the pound and the yard. It had no other effect on people's lives.
+
+In 1975 the Metric Conversion Act started a formal metrication process. Metrication was to be voluntary. It was to be coordinated by the U.S. Metric Board. In 1988 the Omnibus Trade and Competitiveness Act said that metric units had to be used for all federal projects. The Act did not apply to state projects. Some states demanded that metric units be used but other states did not. Some industries changed to using metric units but others did not. Soft drinks are sold in metric quantities. Milk is sold in customary units. Metric units are widely used in the design of motor cars. Aircraft such as the Boeing 787 Dreamliner were designed using mainly customary units.
+
+Some people in the United States want to complete the change-over to the metric system. They say that it will make things easier for everybody. Other people say that it will cost too much money.
+Some people want to use the metric system because it will make it easier to export goods. Other people say that metrication can only work if all fifty states metricate at the same time. This will not happen unless the Federal Government takes the lead.
+
+In 1897 the United Kingdom passed a law allowing people to use either the metric system or Imperial units for trade. By the late 1960s three quarters of British exports were to countries that used the metric system. However people in the United Kingdom still used imperial units. The Metrication Board was set up in 1969 to help Britain change to the metric system. Each company had to pay their own expenses. Some companies saved a lot of money by changing to the metric system because they could make the same goods for export as they made for sales in the United Kingdom. For example, almost all motor cars use metric-sized nuts and bolts. Other companies lost money because they had to make many changes but did not have any benefit from the changes. 
+
+When the Metrication Board was closed down in 1981 most of government and industry had changed to the metric system but a lot of everyday things like road signs had not been changed. A survey taken in 2013 showed that metric units and imperial units were both widely used by British people in their private lives.
+
+
+

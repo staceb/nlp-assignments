@@ -1,0 +1,5 @@
+Scatter graph
+
+A scatter graph (also known as a scatter-plot) is a type of graph used with 2 sets of data. It is a seeing between the data sets. 
+
+

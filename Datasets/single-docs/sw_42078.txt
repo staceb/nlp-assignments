@@ -1,0 +1,25 @@
+Biogeography
+
+Biogeography is the study of how species are distributed. It aims to show where organisms live, and why they are (or are not) found in a certain geographical area.
+
+The basic issue is that animals and plants are adapted to the places they live in, but similar places often have quite different animals and plants. One might expect to find, for example, that the animals in a tropical rain forest would be almost the same in Amazonia, equatorial Africa and Southeast Asia. But that is not the case.
+
+There must be reasons for this situation. Those reasons are the subject of research in biogeography. At first, from about 1800–1855, natural historians made lists of species in various regions of the world. These lists were published as tables in their books. A revolution started with Charles Darwin and Alfred Russel Wallace, who published the idea of evolution by natural selection. They had travelled in tropical countries, and wrote about the life in those countries. They said that evolution was the key to understanding geographical distribution.
+
+New species usually come about by an earlier species splitting in two: speciation. This takes place at a certain time and place. From that place, the new species may travel. It will be blocked by geographical features (seas, mountains...) and by climate. Thus, a species may never get to other places where it might be a great success. That, in general, is the reason why lands with similar climate often have quite different animals and plants. Classic examples are Australian marsupials and the Great American Interchange.
+
+Of course, different types of animals and plants have different mobility. It is easier for birds and insects to travel by flight and, in the sea, fish can easily travel. All the same, there are limits. Fish on either side of the Americas are usually different species; and fresh-water fish do not disperse much. So it comes about that:
+
+The scientific theory of biogeography grows out of the work of Alexander von Humboldt (1769–1859), Hewett Cottrell Watson (1804–1881), Alphonse de Candolle (1806–1893), Alfred Russel Wallace (1823–1913), Philip Lutley Sclater (1829–1913), and other biologists and explorers. 
+
+Wallace studied the distribution of flora and fauna in the Amazon Basin and the Malay Archipelago in the mid-19th century. Wallace and Sclater saw biogeography as a source of support for the theory of evolution. Key findings, such as the sharp difference in fauna either side of the Wallace Line, can only be understood in this light. Otherwise, the field of biogeography would be a purely descriptive one.
+
+Both Darwin (Galapagos Islands) and Wallace gave a great deal of attention to oceanic islands as offering examples of evolution, especially speciation. This interest was revived by "The theory of island biogeography" by Robert MacArthur and E.O. Wilson in 1967. They showed that the species richness of an area could be predicted if one knew the habitat area, immigration rate and extinction rate. 
+
+Also, it was realised that habitat fragments are rather like islands. They can be investigated by the same methods. This spurred the development of conservation biology.
+
+Genome analysis allows scientists to test theories about the origin and dispersal of populations, such as island species. It allows biologists to test theories about where the species come from.
+
+
+
+

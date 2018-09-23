@@ -1,0 +1,13 @@
+Non-coding DNA
+
+Non-coding DNA sequences are those parts of an organism's DNA that do not code for protein sequences. 
+
+Some non-coding DNA is transcribed into functional non-coding RNA molecules (e.g. transfer RNA, ribosomal RNA, and regulatory RNAs), while others are not transcribed or give rise to RNA transcripts of unknown function. The amount of non-coding DNA varies greatly among species. For example, over 98% of the human genome is noncoding DNA, while only about 2% of a typical bacterial genome is non-coding DNA.
+
+Initially, a large proportion of non-coding DNA had no known biological function. It was known as "junk DNA", particularly in the press. However, it has been known for years that many non-coding sequences are functional. These include genes for functional RNA molecules and DNA sequences such as "start replication" signals, centromeres, and telomeres.
+
+Other noncoding sequences have likely, but not yet discovered, functions. This is inferred from the high levels of sequence similarity seen in different species of DNA.
+
+The Encyclopedia of DNA Elements (ENCODE) project suggested in September 2012 that over 80% of DNA in the human genome "serves some purpose, biochemically speaking". This conclusion was strongly criticized by some other scientists.
+
+

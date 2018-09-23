@@ -1,0 +1,13 @@
+Reverse transcriptase
+
+A reverse transcriptase is an enzyme which works 'backwards' from RNA to DNA. Normal transcription involves the synthesis of RNA from DNA; reverse transcription is the "reverse" of this. It is a DNA polymerase enzyme that transcribes single-stranded RNA into single-stranded DNA. It also synthesizes a second strand of DNA complementary to the reverse-transcribed single-stranded cDNA. 
+
+Well studied reverse transcriptases include:
+
+Reverse transcriptase was discovered by Howard Temin at the University of Wisconsin–Madison in a cancer virus. It was independently isolated by David Baltimore in 1970 at MIT from two RNA tumour viruses. For their achievements, they shared the 1975 Nobel Prize in Physiology or Medicine (with Renato Dulbecco).
+
+The idea of reverse transcription was very unpopular at first because it contradicted the central dogma of molecular biology. This states that DNA is transcribed into RNA which is then translated into proteins. However, in 1970 when Howard Temin and David Baltimore both independently discovered the enzyme responsible for reverse transcription, the possibility that genetic information could be passed on in this manner was finally accepted.
+
+Out of this work has come the idea that the first genomes were made of RNA genes. The RNA genes surviving today might be all that remain of this early condition. Reverse transcriptase might be the remnant of a stage when DNA genes were made by copying RNA genes. This theory is relevant to the earliest stages of evolution. Reverse transcription is also used by various semi-independent elements called transposons.
+
+

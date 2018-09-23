@@ -1,0 +1,9 @@
+Interactive fiction
+
+Interactive Fiction, usually abbreviated as IF, is a kind of computer game. In interactive fiction, the player types words with their keyboard, as an instruction to the main character of a story. One instruction might be:
+
+"take lamp"
+
+Which would make the main character pick up a lamp.
+
+

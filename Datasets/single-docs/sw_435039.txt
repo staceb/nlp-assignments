@@ -1,0 +1,10 @@
+Movable Ink
+
+Movable Ink is a technology company that allows marketers change emails after they have been sent out. The technology can change emails based on time of open, user's current location, social cues, fast-moving inventory, and works across all email clients. Movable Ink has been called "The Harry Potter of Email" because it includes parts of code into an email's HTML that makes the content come to life and update in real-time. 
+
+Movable Ink's technology allows email marketers to pull real-time content from their websites and embed that information into emails. When recipients open the emails, they contain the most up-to-date information as well as contextual data based on a person’s location, time of day, or the device they’re viewing the email on. The company also offers advanced email tracking reports and real-time metrics. Companies using Movable Ink include Nordstrom, Bloomingdale's, American Eagle Outfitters and Verizon,
+Movable Ink was founded by Vivek Sharma and Michael Nutt in New York City in November 2010.
+
+In October 2011, Movable Ink received $1.3 million dollars in funding, led by Contour Ventures, Metamorphic Ventures, ff Ventures, and Kima Ventures, as well as angels Joshua Baer, Bob Pittman, Andy Russell, and Alan Laifer. In May 2013, Movable Ink received $11 million in funding led by Intel Capital, with participation from its previous investors. 
+
+

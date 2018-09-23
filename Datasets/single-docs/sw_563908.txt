@@ -1,0 +1,5 @@
+Multiplication table
+
+A multiplication table is a tool used to learn how to multiply two numbers (usually in the range of 1 to 10, or 1 to 20). The oldest such tables were written by the Babylonians about 4000 BC. Many people believe it is necessary to know how to multiply two numbers by heart, usually up to 10x10, 12x12, or 20x20.
+
+

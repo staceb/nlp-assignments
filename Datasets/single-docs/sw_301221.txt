@@ -1,0 +1,21 @@
+Ecological genetics
+
+Ecological genetics is the study of genetics and evolution in natural populations. 
+
+This contrasts with classical genetics, which works mostly on crosses between laboratory strains, and DNA sequence analysis, which studies genes at the molecular level. 
+
+Research in ecological genetics is on traits related to fitness, which affect an organism's survival and reproduction. Examples might be: flowering time, drought tolerance, polymorphism, mimicry, defence against predators. 
+
+Research usually involve a mixture of field and laboratory studies. Samples of natural populations may be taken back to the laboratory for their genetic variation to be analysed. Changes in the populations at different times and places will be noted, and the pattern of mortality in these populations will be studied. Research is often done on insects and other organisms that have short generation times.
+
+Although work on natural populations had been done previously, it is acknowledged that the field was founded by the English biologist E.B. Ford (1901–1988) in the early 20th century. Ford was taught genetics at Oxford University by Julian Huxley, and started research on the genetics of natural populations in 1924. Ford also had a long working relationship with R.A. Fisher. By the time Ford had developed his formal definition of genetic polymorphism, Fisher had got accustomed to high natural selection values in nature. This was one of the main outcomes of research on natural populations. Ford's magnum opus was "Ecological genetics", which ran to four editions and was widely influential. 
+
+Other notable ecological geneticists would include Theodosius Dobzhansky who worked on chromosome polymorphism in fruit flies. As a young researcher in Russia, Dobzhansky had been influenced by Sergei Chetverikov, who also deserves to be remembered as a founder of genetics in the field, though his significance was not appreciated until much later. Dobzhansky and colleagues carried out studies on natural populations of "Drosophila" species in western USA and Mexico over many years.
+
+Many were influenced by Ford in the post WWII era. Collectively, their work on lepidoptera, and on human blood groups, established the field, and threw light on selection in natural populations, where its role had been once doubted.
+
+Work of this kind needs long-term funding, as well as grounding in both ecology and genetics. These are both difficult requirements. Research projects can last longer than a researcher's career; for instance, research into mimicry started 150 years ago, and is still going strongly. Funding of this type of research is still rather erratic, but at least the value of working with natural populations in the field cannot now be doubted.
+
+
+
+

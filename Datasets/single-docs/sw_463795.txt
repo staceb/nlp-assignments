@@ -1,0 +1,20 @@
+Geochronology
+
+Geochronology is the science of finding the ages of rocks, fossils and sediments. It uses a number of methods. Geochronology is the main tool used to get absolute age dates for all fossil assemblages, and for the history of the Earth and other bodies.
+
+By measuring the amount of radioactive decay of a radioactive isotope with a known half-life, geologists can establish the absolute age of the parent material. A number of radioactive isotopes are used for this purpose, and depending on the rate of decay, are used for dating different geological periods. More slowly decaying isotopes are useful for longer periods of time, but less accurate in absolute years. With the exception of the radiocarbon method, most of these techniques are actually based on measuring an increase in the abundance of a radiogenic isotope, which is the decay-product of the radioactive parent isotope. Two or more radiometric methods can be used in concert to achieve more robust results. Most radiometric methods are suitable for geological time only, but some such as the radiocarbon method and the Ar/Ar dating method can be extended into the time of early human life and into recorded history.
+
+Some of the commonly used techniques are:
+
+A series of techniques to find the age when a surface was created or exposed. Exposure dating uses the concentration of nuclides like Be, Al, Cl. They are produced by cosmic rays interacting with Earth materials. The data show when a surface, such as an alluvial fan, was created. Burial dating uses the radioactive decay of two elements to find the age when a sediment was buried away from cosmic rays.
+
+Luminescence dating techniques use 'light' emitted from materials such as quartz, diamond, feldspar, and calcite. Many types of luminescence techniques are used in geology and in archaeology.
+
+Incremental dating techniques let us build year-by-year annual chronologies. 
+
+The pattern of magnetisation in a rock formation can be used to help find its date. 
+
+Marker horizons are stratigraphic units of the same age, with distinctive composition and appearance. So, though they are in different geographic sites, there is certainty about their age-equivalence. Fossil faunal and floral assemblages, marine and terrestrial, make for distinctive marker horizons. Volcanic ash (tephra) has a geochemical fingerprint. Tephra is often used as a dating tool in archaeology, because the dates of some volcanic eruptions are well-established.
+
+
+

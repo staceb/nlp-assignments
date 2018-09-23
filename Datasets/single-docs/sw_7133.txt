@@ -1,0 +1,7 @@
+Calabi-Yau manifold
+
+A Calabi–Yau manifold, or 'Calabi–Yau space', is a special type of manifold. It is described in certain branches of mathematics such as algebraic geometry. 
+
+The Calabi–Yau manifold's properties, such as Ricci flatness, have applications in theoretical physics. Particularly in superstring theory, the extra dimensions of spacetime might take the form of a 6-dimensional Calabi–Yau manifold. This led to the idea of string theory mirror symmetry.
+
+

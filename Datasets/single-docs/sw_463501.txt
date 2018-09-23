@@ -1,0 +1,7 @@
+Rootkit
+
+A rootkit is a computer virus which allow someone to take control on your computer. It is very dangrous. 
+
+It is a stealthy type of software, typically malicious, designed to hide the existence of certain processes or programs from normal methods of detection. It allows continued secret access to a computer.
+
+

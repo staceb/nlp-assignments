@@ -1,0 +1,5 @@
+Nozzle
+
+A nozzle is a device that takes incoming fluid (such as gas or liquid) and increases the speed. This is done by changing the size of the pipe (or tube) that the fluid is flowing through.
+
+

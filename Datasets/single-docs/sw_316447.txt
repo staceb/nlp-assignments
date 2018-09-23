@@ -1,0 +1,14 @@
+Electronic gear shifting
+
+In 1861, Pirren Michaux invented the first bicycle with pedals. Since that time, bicycles changed a lot. The first gear-shiftable bicycle was constructed at the beginning of 20th century. You could choose from 2 speeds. It's not big deal nowadays, but then it was huge progress.
+
+Standard system gearing up or down is provided all its way by bowdens. A bowden is special kind of wound-steel cable, which connects levers with the shifter, derailleur or brakes. As we pull or tap a lever, the bowden reacts at the same time. That causes the bicycle to change gear.
+
+Electronic shifting works a little like that, but there are no bowdens. The system is digital. That means no wound-steel cable, but multiple combinations of 0 and 1 provides shifting. A battery placed under the frame powers the whole system. A battery should last for 1000km (depending on the manufacturer), then it needs to be recharged. Wires for data and powering are hidden inside the frame. Parts of the shifting systems are connected together and are powered by the battery. Shifting is done by servomotors. The shifter and derailleur have a pair of servomotors built inside. A microchip in the derailleur gives us freedom. It is self-adjustable. It has its own logic, which keeps the chain from dropping. There is no need of maintenance, because the derailleur adjusts itself, thanks to a microchip. 
+
+Pros:
+
+Cons:
+
+
+

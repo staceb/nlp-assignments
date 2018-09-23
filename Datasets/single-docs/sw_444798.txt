@@ -1,0 +1,14 @@
+Unit vector
+
+A unit vector is any vector that is one unit in length.
+
+Unit vectors are often notated the same way as normal vectors, but with a mark over the letter (e.g. formula_1 is the unit vector of a.)
+
+To make a vector into a unit vector, divide it by its length: formula_2
+
+Three common unit vectors used in component form are formula_3, formula_4 and formula_5, referring to the unit vectors for the x-, y- and z-axes respectively. They are commonly just notated as i, j and k.
+
+They can be written as the following:
+formula_6
+
+

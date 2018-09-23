@@ -1,0 +1,7 @@
+Venturi effect
+
+The Venturi effect is a case where fluid flows through a tube that is narrow. The velocity of the fluid increases as it flows through the narrower tube while the pressure decreases, due to conservation of energy. The effect is an example of Bernoulli's principle.
+
+With the B.E. a simple flow of either A. Fluids, or B. Air, will cause pressure. Within an amount of time, this will cause a decrease in pressure and have the potential of creating energy.
+
+

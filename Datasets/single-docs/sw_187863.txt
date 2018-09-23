@@ -1,0 +1,5 @@
+Pentium
+
+Pentium (made in 1992) is an x86 microprocessor. It is a brand name by Intel who developed the Pentium I (1992-1999), Pentium II (1997-1999), Pentium III (1999-2003), Pentium 4 (2001-2008), Pentium M (2003-2008), Pentium D (2005-2008) and Pentium Extreme Edition (2005-2008) processors. Today, it is the medium range microprocessor in the Intel microprocessor lineup, above the Celeron and Atom and below the Core family of microprocessors.
+
+

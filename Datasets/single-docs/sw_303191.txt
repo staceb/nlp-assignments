@@ -1,0 +1,8 @@
+Mass spectrometry
+
+Mass spectrometry (MS) is a process that measures the mass-to-charge ratio of charged particles. 
+You can use it to find out the mass of particles, and to find the basic chemicals in a sample or molecule. It can also make clear the chemical structures of molecules, such as peptides and other chemical compounds. It works by giving the particles in the sample an electric charge, which means an electron is removed from each particle, producing positively charged ions. This is done by using an electron gun - a high energy beam of electrons is passed through the sample to make electrically charged particles or ions. The ions are accelerated through a short tunnel, by use of negatively charged plates to which the positively charged ions are attracted. On passing through the tunnel, the ions are exposed to a magnetic field which causes their path to curve, depending on how heavy they are. Heavier ions are bent less than lighter ions (assuming they have the same "+1" charge), when experiencing the same 'pull' from the magnetic field, because they are more massive than lighter ions. This results in heavier ions hitting a detection plate, at the end of the tunnel, at a different position to lighter ions. From this information, the "mass-to-charge ratio" of the particles, and the "relative abundance" (how much was in the sample) of each type of particle can be worked out.
+
+The first mass spectroscope was invented by the British physicist J. J. Thomson in 1912. His student Francis Aston developed the mass spectroscope for practical use. They are now widely used for agriculture, brewing, food processing, geology, petroleum exploration, medical drugs measurements and space exploration.
+
+

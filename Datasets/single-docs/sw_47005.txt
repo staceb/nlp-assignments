@@ -1,0 +1,31 @@
+Quadratic equation
+
+A quadratic equation is an equation in the form of , where "a" is not equal to 0. It makes a parabola (a "U" shape) when graphed on a coordinate plane.
+
+The quadratic formula is a formula used to find the points where the graphed equation crosses the x-axis, or the horizontal axis. These points are called the "zeroes" of a function. The formula is:
+Where the letters are the corresponding numbers of the original equation, . Also, "a" cannot be 0 for the formula to work properly.
+
+The factored form of this equation is , where "s" and "t" are the zeros, "a" is a constant, and "y" and the two "x"s are ordered pairs which satisfy the equation.
+
+The quadratic formula is proved by "completing the square", 
+
+Divide the quadratic equation by "a" :
+
+Move :
+
+Use the method of "completing the square"
+
+Add formula_8 to both sides of the equation:
+
+Which gives:
+
+The left side is now a perfect square; it is the square of
+
+The right side can be a single fraction, with a common denominator .
+
+Find the square root of both sides.
+
+Move :
+
+
+

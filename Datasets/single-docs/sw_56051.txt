@@ -1,0 +1,17 @@
+MySQL
+
+MySQL is a database system used by many websites on the Internet. It is based off of SQL. Many ways of doing things in SQL are similar in MySQL.
+
+MySQL was first released in May 1995 and a Windows version was released in January 1998. The latest version (5.6.11) was released in April 2013.
+
+MySQL is compatible with many major programming languages. The most common one is PHP. An ODBC interface (called MyODBC) has been made so that users of Microsoft's ASP language can use MySQL.
+
+Some of the largest MySQL users on the internet include:
+
+
+Many PHP scripts also use MySQL. These include:
+
+
+
+
+

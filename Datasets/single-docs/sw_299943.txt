@@ -1,0 +1,11 @@
+Margins
+
+In typesetting, the page margins (with header and footer) are the borders of the page outside of the regular text to be shown.
+
+There are 4 main margins:
+Other special margins can be used, beyond the typical 4, to provide additional margin settings on a page.
+
+For webpages (such as on the Internet), the margins can be set by using CSS style sheet directives, such as:
+Each page, and each image or formatted table on a page, can have the 4 margins set, separately.
+
+

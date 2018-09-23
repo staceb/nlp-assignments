@@ -1,0 +1,19 @@
+Eratosthenes
+
+Eratosthenes of Cyrene (276 –194 ) was a third century BC Greek mathematician, geographer and astronomer. He was head of the Library of Alexandria from 240 until his death: this was the most important library of the ancient world. 
+
+According to the Suda, his contemporaries nicknamed him "Beta", (the second letter of the Greek alphabet), because he was the second best in the world in almost any field. Eratosthenes was a friend of Archimedes, who also lived and worked in Alexandria. Archimedes was the greatest mathematician and inventor of the age, so perhaps the Beta nickname was not unjust.
+
+The works Eratosthenes wrote are known to us only indirectly: the great Library was destroyed, and no copies survived. Strabo (~63–24) wrote about geography in antiquity. He tells us that the works of Eratosthenes were "On the measurement of the Earth" and "Geographica".
+
+Eratosthenes made several remarkable discoveries and inventions. He was the first person to calculate the circumference of the Earth (with remarkable accuracy), and he invented a system of latitude and longitude. He calculated the tilt of the earth's axis (again with remarkable accuracy); he may also have accurately calculated the distance from the earth to the sun and invented the leap day. He created a map of the world based on the available geographical knowledge of the era. Eratosthenes was also the founder of scientific chronology; he wanted to fix the dates of the chief literary and political events from the conquest of Troy.
+
+Eratosthenes measured the circumference of the Earth without leaving Egypt. He knew that on the summer solstice at local noon at the city now called Aswan on the Tropic of Cancer, the sun would appear at the zenith, directly overhead. He also knew, from measurement, that in Alexandria, the angle of elevation of the sun would be 1/50 of a full circle (7°12') south of the zenith at the same time. 
+
+Assuming that Alexandria was due north of Syene he concluded that the distance from Alexandria to Syene must be 1/50 of the total circumference of the Earth (360 degrees). His estimated distance between the cities was 5000 stadia (about 500 geographical miles or 800 km) by estimating the time that he had taken to travel from Syene to Alexandria by camel. He rounded the result to a final value of 700 stadia per degree, which implies a circumference of 252,000 stadia. The exact size of the stadion he used is frequently argued. The common Attic stadium was about 185 m, which would imply a circumference of 46,620 km, which is 16.3% too large. However, if we assume that Eratosthenes used the "Egyptian stadium" of about 157.5 m, his measurement turns out to be 39,375 km, an error of less than 1%. The method is an early application of trigonometry in the measurement science of geodesy. 
+
+In mathematics, the sieve of Eratosthenes (Greek: κόσκινον Ἐρατοσθένους) is a simple, ancient algorithm for finding all prime numbers up to a specified integer. It works efficiently for the smaller primes (below 10 million).
+The sieve was described and attributed to Eratosthenes in the "Introduction to Arithmetic" by Nicomachus.
+Eratosthenes went further and computed the tilt of the Earth's axis to within a degree. This is the tilt which is the main cause of the annual climate cycle of spring, summer, autumn, winter. He also deduced the length of the year as 365¼ days. He suggested that calendars should have a leap day every fourth year, an idea taken up two centuries later by Julius Caesar.
+
+

@@ -1,0 +1,5 @@
+Rotary switch
+
+A rotary switch is an electric switch. It may have several positions. Its position can be changed by rotating.
+
+

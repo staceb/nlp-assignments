@@ -1,0 +1,17 @@
+Binary
+
+Binary is a way to show any type of data (such as numbers and text) using only 1 and 0. Computers work in binary.
+
+Binary is a number system and is known as a base 2 system because it uses two characters – 0 and 1. Decimal, the system most of the world uses for daily life, is a base 10 system – it uses 10 characters (0–9). When binary numbers are written, a subscript "(2)" is added to distinguish them from the same number in base 10.
+
+When being introduced to binary numbers, it helps to go back and think about how base 10 or decimal numbers work. Consider the number 1101 (base 10). We identify this number as one-thousand, one-hundred, one because it has a 1 in the thousands place, a 1 in the hundreds place, and a 1 in the ones place. These "places" represent increasing powers of 10. In binary, the places represent "increasing powers of two".
+
+Because 1101 only has the digits 0 and 1, it could also be a binary number. This would be written as 1101. But since the places represent 8, 4, 2, and 1 instead of 1000, 100, 10, and 1, the value in base 10 would be 8 + 4 + 1 = 13.
+
+For another example, the binary number 101 is 5 in decimal. The bit on the right is 1 and has a value of 1 (2^0). The middle bit has a value of 2 (2^1 or just 2), but it is a 0, so it is not added. The bit on the left is 1 and has a value of 4 (2^2 or 2 * 2). The bits that are 1s have values of 1 and 4. 1 + 4 = 5.
+
+All computers use binary at the lowest level. Most computer storage, like compact discs and DVDs, use binary to represent large files. 
+
+With computers, eight binary bits together is called a "byte". The size of files is commonly measured in "kilobytes" or "megabytes" (sometimes in "gigabytes"). A kilobyte is 1,024 bytes. A megabyte is 1,024 kilobytes, a gigabyte is 1,024 megabytes and a terabyte is 1024 gigabytes. (The number 1024 is used because it is 2^10 or 1000000000). If you want a really huge number, the total number of bits the internet took up in 2014 is approximately equal to 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.
+
+

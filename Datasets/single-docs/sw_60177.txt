@@ -1,0 +1,5 @@
+Pentagon
+
+A pentagon is a polygon with five edges. It is defined by five points, which are all on a plane. If all the edges have the same length and the angles at the corners are all 108°, the pentagon is called "regular". Pentagons also occur in nature: Fruits of the Okra are pentangular. The flowers of Ipomoea are pentagular. In chemistry, many Cyclic compounds are pentangles: Cyclopentane and Furan are examples for this. In architecture, many bastions are pentangular: Bourtange, in the Netherlands has been completely restored, and is a pentangle. The Citadel of Lille, Nyenschantz, near St. Petersburg, or the Citadel of Pamplona are . The Villa Farnese is a palace in the form of a pentagon, so is the castle of Nowy Wiśnicz. The Pilgrimage Church of Saint John of Nepomuk near Žďár nad Sázavou also uses a pentangular design.
+
+

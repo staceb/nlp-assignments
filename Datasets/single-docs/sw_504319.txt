@@ -1,0 +1,12 @@
+Arch bridge
+
+An arch bridge is a bridge with abutments at each end shaped as a curved arch. Arch bridges work by transferring the weight of the bridge and its loads partially into a horizontal thrust held by the abutments at either side. A viaduct (a long bridge) may be made from a series of arches. However other less expensive structures are typically used today.
+
+Both the Etruscans and ancient Greeks knew about arches. But the Romans were the first to use arches for bridge construction. 
+Roman arch bridges were usually semicircular. A number were also segmental arch bridges (such as Alconétar Bridge), a bridge which has a curved arch that is less than a semicircle. The advantages of the segmental arch bridge were that it allowed great amounts of flood water to pass under it. This would prevent the bridge from being swept away during floods. Also the bridge itself could be more lightweight. Generally, Roman bridges had wedge-shaped primary arch stones (called voussoirs) of the same in size and shape. The Romans built both single spans and lengthy multiple arch aqueducts. Their bridges featured flood openings in the piers.
+In medieval Europe, bridge builders improved on the Roman structures by using narrower piers. They used thinner arch barrels and lower span-rise ratios on bridges. Gothic pointed arches were also introduced reducing lateral thrust. In particular the 14th century saw bridge construction reaching new heights. Spans of up to were previously unheard of in masonry arch construction.
+
+Stone, brick and other similar materials are strong in compression. They are fairly strong in shear. But they cannot resist much force in tension. As a result, masonry arch bridges are designed to be constantly under compression. Each arch is constructed over a temporary falsework frame, known as a centring. In the first compression arch bridges, a keystone in the middle of the bridge bore the weight of the rest of the bridge. The more weight that was put onto the bridge, the stronger its structure became. Masonry arch bridges use fill material (typically compacted rubble) above the arch in order to increase this dead-weight on the bridge. This also prevents tension from occurring in the arch ring as loads move across the bridge. Unreinforced concrete was also used. When masonry (cut stone) is used, the angles of the faces are cut to minimize shear forces. Where random masonry (uncut and unprepared stones) is used they are mortared together. The mortar is allowed to set before the falsework is removed.
+
+
+

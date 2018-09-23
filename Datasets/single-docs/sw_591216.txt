@@ -1,0 +1,13 @@
+Plug-organization
+
+A plug-organization is a social organization.
+
+The members always have to transport a plug.
+Whenever one members sees another member, he checks that the other member has a plug.
+
+If the other member does not have a plug, he has to give some money to the plug-organization.
+The plug-organization uses this money to purchase beer for the next meeting.
+
+More than 100 plug-organizations are in Bavaria.
+
+

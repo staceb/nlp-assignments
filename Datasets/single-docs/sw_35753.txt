@@ -1,0 +1,55 @@
+Euler's identity
+
+Euler's identity, sometimes called Euler's equation, is this equation:
+
+formula_1
+
+formula_7
+
+Euler's identity is named after the Swiss mathematician Leonard Euler. It is not clear that he invented it himself. 
+
+Respondents to a "Physics World" poll called the identity "the most profound mathematical statement ever written", "uncanny and sublime", "filled with cosmic beauty" and "mind-blowing".
+
+Many equations can be written as a series of terms added together. This is called a Taylor series
+
+The Exponential function formula_8 can be written as the Taylor series 
+
+formula_9
+
+As well, Sine can be written as
+
+formula_10
+
+and Cosine as
+
+formula_11
+
+Here, we see a pattern take form. formula_12 seems to be a sum of sine and cosine's Taylor Series, except with all of the signs changed to positive. The identity we are actually proving is formula_13.
+
+So, on the left side is formula_14, whose Taylor series is formula_15
+
+We can see a pattern here, that every second term is i times sine's terms, and that the other terms are cosine's terms.
+
+On the right side is formula_16, whose Taylor series is the Taylor series of cosine, plus i times the Taylor series of sine, which can be shown as:
+
+formula_17
+
+if we add these together, we have 
+
+formula_15
+
+Therefore:
+
+formula_13
+
+Now if we replace x with formula_2, we have..
+
+
+Then we know that
+
+and
+Therefore:
+
+QED
+
+

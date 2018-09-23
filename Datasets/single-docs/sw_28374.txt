@@ -1,0 +1,7 @@
+Flip-flop (electronics)
+
+A flip-flop is a special kind of electronic switch. It's a logic element, and can hold one bit of binary memory (either on or off, 1 or 0..). More of these allow the storage of large amounts of information. There are many types of flip-flop Electrical circuits such as D-flip flop, Latch, etc.
+
+The first electronic flip-flop was invented by William Eccles and F. W. Jordan in 1918. Early flip-flops were called trigger circuits.
+
+

@@ -1,0 +1,23 @@
+Stall (flight)
+
+A stall is what happens when an aerofoil can not make enough lift to keep the aircraft in level flight. Stalling is risky and can be dangerous during low-level flying.
+
+The stall is most likely to happen because of low air speed. To compensate for a decrease in air speed, for example, a pilot may raise the nose of the aircraft subsequently increasing angle of attack, which may increase Lift Coefficient and keep the same lift. However, after a critical angle of attack is passed (often around 16 degrees) the lift stops increasing and actually collapses, causing a stall. 
+
+The critical angle of attack will always stall the aircraft. It does not matter whether the aircraft is going fast or slowly.
+
+The signs of the developing stall are:
+
+
+The signs of a full stall are:
+
+
+There is the chance of entering a spin if the aircraft controls are not coordinated.
+
+To recover from a stall, the pilot must push the nose down. Then the pilot must increase the engine power using the throttle. When air speed increases again, the pilot can level the wings and pull up to return the aircraft to the assigned flight level.
+
+An aircraft with a T tail is at risk from deep stall, because the turbulent air coming back off the stalled wings covers the elevators and makes it very difficult to push the nose down and recover.
+
+A stall turn is an aerobatic manoeuvre also known as a hammerhead. The pilot lowers the aircraft's nose to increase speed, then pulls up sharply to the vertical. The aircraft slows to a low airspeed, then the pilot applies rudder to yaw to the left or right through 180 degrees. The pilot then recovers from the subsequent dive once the aircraft has sufficient airspeed. If executed correctly the wing is not stalled at any point, hence the preferred name of "hammerhead" for this manoeuvre.
+
+

@@ -1,0 +1,16 @@
+Pig Latin
+
+Pig Latin is a language code or game and is most often used by children who speak English. 
+
+The usual rules are:
+
+Pig Latin that you write is sometimes written with dashes, between the first part and the "c-ay" letters, and sometimes it is not. A sentence can be "Is-thay is-ay an-ay example-ay of-ay Ig-pay Atin-lay ith-way ashes-day", or "Isthay isay anay exampleay ofay Igpay Atinlay ithoutway ashesday."
+
+In Pig Latin, this sentence :
+
+comes to mean:
+
+The British name for Pig Latin is "backslang".
+
+
+

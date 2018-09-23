@@ -1,0 +1,13 @@
+Kinetic energy
+
+Kinetic energy is the energy that an object has because of its motion. This energy can be converted into other kinds, such as gravitational or electric potential energy, which is the energy that an object has because of its position in a gravitational or electric field.
+
+The translational kinetic energy of an object is:
+
+where
+
+The rotational kinetic energy of an object is:
+
+where
+
+

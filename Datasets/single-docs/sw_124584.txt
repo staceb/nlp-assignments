@@ -1,0 +1,5 @@
+Cyclic redundancy check
+
+A Cyclic redundancy check (often shortened to CRC) is a way to calculate a checksum, based on a polynomial. In computer science, CRCs are used to check that no errors occurred transmitting the data. The transmitted messages are divided into predetermined lengths which, used as dividends, are divided by a fixed divisor. The remainder of the calculation is appended onto and sent with the computer recalculates the remainder. If it does not match the transmitted remainder, an error is detected. At this point, the data is re-sent. Ethernet packets have a (CRC) code. 
+
+

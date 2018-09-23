@@ -1,0 +1,5 @@
+Uninterruptible power supply
+
+An uninterruptible power supply (or uninterruptible power source; UPS) is an apparatus that provides emergency power supply to a load when there is a problem with the normal electricity supply. It provides an almost instantaneous supply of electricity during any power failure. It is used normally to protect any sensitive hardware (computer, data center, telecommunication) in which if there is any disruption of power supply, it might easily damage that equipment.
+
+

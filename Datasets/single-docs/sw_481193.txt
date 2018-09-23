@@ -1,0 +1,5 @@
+Strahler number
+
+In mathematics, the Strahler number or Horton–Strahler number of any tree shape measures its complexity. It can be applied to any tree shape including real trees, lungs, human relationships and blood flow systems. These numbers allow these shapes to be handled in computer programming languages. These numbers were created to study the flow of liquids by Robert E. Horton and Arthur Newell Strahler.
+
+

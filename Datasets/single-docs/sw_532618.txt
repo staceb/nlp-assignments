@@ -1,0 +1,7 @@
+Tensor
+
+A tensor is a mathematical object. Tensors provide a mathematical framework for solving physics problems in areas such as elasticity, fluid mechanics and general relativity. The word "tensor" comes from the Latin word "tendere" meaning "to stretch".
+
+A tensor of order zero (zeroth-order tensor) is a scalar. A tensor of order one (first-order tensor) is a linear map that maps every vector into a scalar. A vector is a tensor of order one. A tensor of order two (second-order tensor) is a linear map that maps every vector into a vector.
+
+

@@ -1,0 +1,93 @@
+Origin of life
+
+The origin of life is a scientific problem which is not yet solved. There are plenty of ideas, but few clear facts. 
+
+It is generally agreed that all life today evolved by common descent from a single primitive lifeform. We do not know how this early form came about, but scientists think it was a natural process which took place perhaps 3,900 million years ago. This is in accord with a philosophy called naturalism: only natural causes are admitted.
+
+We do not know whether metabolism or genetics came first. The main hypothesis which supports genetics first is RNA world hypothesis, and the one which supports metabolism first is Protein world hypothesis.
+
+Another big problem is how cells develop. All existing forms of life are built out of cells.
+
+The Nobel Prize in Chemistry winner Melvin Calvin wrote a book on the subject, and so did Alexander Oparin. What links most of the early work on the origin of life was the idea that before biological evolution began there must have been a process of chemical evolution. Another question which has been discussed by J.D. Bernal and others is the origin of the cell membrane. By concentrating the chemicals in one place, the cell membrane performs a vital function.
+
+Many religions teach that life did not evolve spontaneously, but was deliberately created by a god. Such theories are a part of creationism. If they claim this happened within the last few thousand years, this is much more recent than the fossil record suggests. The lack of evidence for such views means that most scientists do not believe them. 
+
+The earliest claimed lifeforms are fossilized microorganisms (or microfossils). They were found in iron and silica-rich rocks which were once hydrothermal vents in the Nuvvuagittuq greenstone belt of Quebec, Canada. 
+
+These rocks are as old as 4.28 billion years. The tubular forms they contain are shown in a report. If this is the oldest record of life on Earth, it suggests "an almost instantaneous emergence of life" after oceans formed 4.4 billion years ago. According to Stephen Blair Hedges, "If life arose relatively quickly on Earth… then it could be common in the universe".
+
+A scientific study from 2002 showed that geological formations of stromatolites 3.45 billion years old contain fossilized cyanobacteria. At the time it was widely agreed that stromatolites were oldest known lifeform on Earth which had left a record of its existence. Therefore, if life originated on Earth, this happened sometime between 4.4 billion years ago, when water vapor first liquefied, and 3.5 billion years ago. This is the background to the latest discovery discussed above.
+
+Earliest evidence of life comes from the Isua supercrustal belt in Western Greenland and from similar formations in the nearby Akilia Islands. This is because a high level of the lighter isotope of carbon is found there. Living things uptake lighter isotopes because this takes less energy. Carbon entering into rock formations has a concentration of elemental δC of about −5.5. of C, biomass has a δC of between −20 and −30. These isotopic fingerprints are preserved in the rocks. With this evidence, Mojzis suggested that life existed on the planet already by 3.85 billion years ago. 
+
+A few scientists think life might have been carried from planet to planet by the transport of spores. This idea, now known as panspermia, was first put forward by Arrhenius.
+
+Until the early 19th century many people believed in the regular spontaneous generation of life from non-living matter. This was called spontaneous generation, and was disproved by Louis Pasteur. He showed that without spores no bacteria or viruses grew on sterile material.
+
+In a letter to Joseph Dalton Hooker on 11 February 1871, Charles Darwin proposed a "natural process" for the origin of life. 
+
+He suggested that the original spark of life may have begun in a "warm little pond, with all sorts of ammonia and phosphoric salts, lights, heat, electricity, etc. A protein compound was then chemically formed ready to undergo still more complex changes". He went on to explain that "at the present day such matter would be instantly devoured or absorbed, which would not have been the case before living creatures were formed". 
+
+No real progress was made until 1924 when Alexander Oparin reasoned that atmospheric oxygen prevented the synthesis of the organic molecules. Organic molecules are the necessary building blocks for the evolution of life. In his "The Origin of Life", Oparin argued that a "primeval soup" of organic molecules could be created in an oxygen-less atmosphere through the action of sunlight. These would combine in ever-more complex fashions until they formed droplets. These droplets would "grow" by fusion with other droplets, and "reproduce" through fission into daughter droplets, and so have a primitive metabolism in which those factors which promote "cell integrity" survive, those that do not become extinct. Many modern theories of the origin of life still take Oparin's ideas as a starting point.
+
+Around the same time J.B.S. Haldane also suggested that the Earth's pre-biotic oceans, which were very different from what oceans are now, would have formed a "hot dilute soup". In this soup, organic compounds, the building blocks of life, could have formed. This idea was called "biopoiesis", the process of living matter evolving from self-replicating but nonliving molecules.
+
+There is almost no geological record from before 3.8 billion years ago. The environment that existed in the Hadean era was hostile to life, but how much so is not known. There was a time, between 3.8 and 4.1 billion years ago, which is known as the Late Heavy Bombardment. It is so named because many lunar craters are thought to have formed then. The situation on other planets, such as Earth, Venus, Mercury and Mars must have been similar. These impacts would likely sterilize the Earth (kill all life), if it existed at that time.
+
+Several people have suggested that the chemicals in the cell give clues as to what the early seas must have been like. In 1926, Macallum noted that the inorganic composition of the cell cytosol dramatically differs from that of modern sea water: "the cell… has endowments transmitted from a past almost as remote as the origin of life on earth". For example: "All cells contain much more potassium, phosphate, and transition metals than modern ... oceans, lakes, or rivers". "Under the anoxic, CO-dominated primordial atmosphere, the chemistry of inland basins at geothermal fields would [be like the chemistry inside] modern cells". 
+
+If life evolved in the deep ocean, near a hydrothermal vent, it could have originated as early as 4 to 4.2 billion years ago. If, on the other hand, life originated at the surface of the planet, a common opinion is it could only have done so between 3.5 and 4 billion years ago.
+
+Lazcano and Miller (1994) suggest that the pace of molecular evolution was dictated by the rate of recirculating water through mid-ocean submarine vents. Complete recirculation takes 10 million years, so any organic compounds produced by then would be altered or destroyed by temperatures exceeding 300 °C. They estimate that the development of a 100 kilobase genome of a DNA/protein primitive heterotroph into a 7000 gene filamentous cyanobacterium would have required only 7 million years.
+
+Originally, the Earth's atmosphere had almost no free oxygen. It gradually changed to what it is today, over a very long time (see Great Oxygenation Event). The process began with cyanobacteria. They were the first organisms to make free oxygen by photosynthesis. Most organisms today need oxygen for their metabolism; only a few can use other sources for respiration.
+
+So it is expected that the first proto-organisms were chemoautotrophs, and did not use aerobic respiration. They were anaerobic.
+
+There is no "standard model" on how life started. Most accepted models are built on molecular biology and cell biology:
+
+The origin of the basic biomolecules, while not settled, is less controversial than the significance and order of steps 2 and 3. The basic chemicals from which life is thought to have formed are:
+Molecular oxygen (O) and ozone (O) were either rare or absent.
+
+
+Bernal suggested that evolution may have commenced early, some time between Stage 1 and 2.
+
+There are three sources of organic molecules on the early Earth: 
+
+Estimates of these sources suggest that the heavy bombardment before 3.5 billion years ago made available quantities of organics comparable to those produced by other energy sources.
+
+In 1953 a graduate student, Stanley Miller, and his professor, Harold Urey, performed an experiment that showed how organic molecules could have formed on early Earth from inorganic precursors. 
+
+The now-famous Miller–Urey experiment used a highly reduced mixture of gases – methane, ammonia and hydrogen – to form basic organic monomers, such as amino acids. We do know now that for more than the first half of the Earth's history its atmosphere had almost no oxygen. 
+
+In the 1950s and 1960s, Sidney W. Fox studied the spontaneous formation of peptide structures under conditions that might have existed early in Earth's history. He demonstrated that amino acids could by itself form small peptides. These amino acids and small peptides could be encouraged to form closed spherical membranes, called microspheres.
+
+Some scientists have suggested special conditions which could make cell synthesis easier. 
+
+A clay model for the origin of life was suggested by A. Graham Cairns-Smith. Clay theory suggests complex organic molecules arose gradually on a pre-existing non-organic platform, namely, silicate crystals in solution.
+
+In the 1970s, Thomas Gold proposed the theory that life first developed not on the surface of the Earth, but several kilometers below the surface. The discovery in the late 1990s of nanobes (filamental structures that are smaller than bacteria, but that may contain DNA in deep rocks) might support Gold's theory.
+
+It is now reasonably well established that microbial life is plentiful at shallow depths in the Earth (up to five kilometers below the surface) in the form of extremophile archaea, rather than the better-known eubacteria (which live in more accessible conditions). 
+
+Gold asserted that a trickle of food from a deep, unreachable, source is needed for survival because life arising in a puddle of organic material is likely to consume all of its food and become extinct. Gold's theory was that the flow of food is due to out-gassing of primordial methane from the Earth's mantle. 
+
+Self-organization and self-replication are the hallmark of living systems. Non-living molecules sometimes show those features under proper conditions. For example, Martin and Russel showed that cell membranes separating contents from the environment and self-organization of self-contained redox reactions are the most conserved attributes of living things. They argue that inorganic matter like that would be life's most likely last common ancestor.
+
+In this hypothesis, RNA is said to work both as an enzyme and as a container of genes. Later, DNA took over its genetic role.
+
+The RNA world hypothesis proposes that life based on ribonucleic acid (RNA) pre-dates the current world of life based on deoxyribonucleic acid (DNA), RNA and proteins. RNA is able both to store genetic information, like DNA, and to catalyze chemical reactions, like an enzyme. It may have supported pre-cellular life and been a major step towards cellular life.
+
+There are some pieces of evidence which support this idea:
+
+This idea suggests that proteins worked as enzymes first, producing metabolism. After that DNA and RNA began to work as containers of genes.
+
+This idea also has some evidences which supports this.
+
+In this scheme membranes made of lipid bilayers occur early on. Once organic chemicals are enclosed, more complex biochemistry is then possible.
+
+This is the idea suggested by Arrhenius, and developed by Fred Hoyle, that life developed elsewhere in the universe and arrived on Earth in the form of spores. This is not a theory of how life began, but a theory of how it might have spread. It may have spread, for example, by meteorites.
+
+Some propose that early Mars was a better place to start life than was the early Earth. The molecules which combined to form genetic material are more complex than the "primordial soup" of organic (carbon-based) chemicals that existed on Earth four billion years ago. If RNA was the first genetic material, then minerals containing boron and molybdenum could assist its formation. These minerals were much more common on Mars than on Earth.
+
+

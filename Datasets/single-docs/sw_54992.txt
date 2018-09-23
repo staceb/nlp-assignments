@@ -1,0 +1,14 @@
+Field (physics)
+
+In physics, a field means that a physical quantity is assigned to every point in space (or, more generally, spacetime). A field is seen as extending throughout a large region of space so that it influences everything. The strength of a field usually varies over a region. Michael Faraday became the first to coin the term "field", in 1849.
+
+For some fields, there is a number for each point in space. They are called "scalar fields". For more complicated fields, there are more than one number for each point in space. They are called "vector fields" or "tensor fields". For example, one can model a gravitational field by a vector field where a vector indicates the acceleration a mass would experience at each point in space. Other examples are temperature fields or air pressure fields, which are often illustrated on weather reports by isotherms and isobars by joining up the points of equal temperature or pressure respectively.
+
+
+It is now believed that quantum mechanics should underlie all physical phenomena.
+
+A field theory is a physical theory that describes how one or more physical fields interact with matter.
+
+
+
+

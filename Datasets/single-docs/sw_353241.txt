@@ -1,0 +1,8 @@
+Gauss's law
+
+Gauss's law (or Gauss's flux theorem) is a law of physics. The law is about the relationship between electric charge and the resulting electric field. In words, Gauss's law states that:
+
+The law was created by Carl Friedrich Gauss in 1835. However, it was not published until 1867. It is one of the four Maxwell's equations on classical electrodynamics. The other three are Gauss's law for magnetism, Faraday's law of induction, and Ampère's circuital law.
+
+
+

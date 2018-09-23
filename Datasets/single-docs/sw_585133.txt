@@ -1,0 +1,10 @@
+Gerrit Blaauw
+
+Gerrit Anne "Gerry" Blaauw (born 17 July 1924) is a Dutch computer scientist. He is known as one of the principal designers of the IBM System/360 line of computers, together with Fred Brooks, Gene Amdahl, and others.
+
+In 1982 he was elected member of the Royal Netherlands Academy of Arts and Sciences. In 1997 he co-authored "Computer Architecture: Concepts and Evolution" with Brooks.
+
+Blaauw was born in The Hague. He graduated from Delft University of Technology in 1946.
+
+
+

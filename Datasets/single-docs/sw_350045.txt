@@ -1,0 +1,5 @@
+Farad
+
+A farad is a unit of measurement used in electronics. It is used for capacitance. The unit is named after the English physicist Michael Faraday. The different sizes of farad are: farads (F), millifarads (mF), microfarads (μF), nanofarads (nF) or picofarads (pF). The farad is a large unit of capacitance. Typical devices have capacitances ranging from microfarads to picofarads.
+
+

@@ -1,0 +1,5 @@
+Meta-Wiki
+
+Meta Wiki (or Wikimedia Meta or simply Meta) is a wiki which holds information for all Wikimedia projects. Wikipedia has an interwiki link to Meta using m:.
+
+

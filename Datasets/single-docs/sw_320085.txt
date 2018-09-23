@@ -1,0 +1,15 @@
+Magnetic flux
+
+Magnetic flux 
+
+It is the number of magnetic field lines passing through a surface (such as a loop of wire). The magnetic flux through a closed surface (such as a ball) is always zero. This implies that there cannot be magnetic charges in classical electromagnetism. 
+
+The SI unit of magnetic flux is the Weber (Wb) (in derived units: volt-seconds). 
+
+The CGS unit is the Maxwell. 
+
+Magnetic flux is sometimes used by electrical engineers designing systems with electromagnets or designing dynamos. Physicists designing particle accelerators also calculate magnetic flux.
+
+
+
+

@@ -1,0 +1,8 @@
+GameRankings
+
+GameRankings is a gaming website. The website receives reviews from other publications and gives an average rating. It has over 315,000 articles relating to more than 14,500 video games.
+
+GameRankings is owned by CBS Interactive. Similar websites include GameStats, Metacritic, MobyGames, and TopTenReviews.
+
+
+

@@ -1,0 +1,8 @@
+Paparazzi Project
+
+Paparazzi is a do it yourself and open-source micro Unmanned aerial vehicle. Created in 2003, paparazzi is developed in the laboratories of the "École nationale de l'aviation civile" (French civil aviation university). Paparazzi system allows to fly one or more micro-UAVs independently, with a GPS or controlled by a Linux ground station.
+
+Paparazzi has acquired a world-renowned in the field of micro-UAVs, for its technical qualities and its the cost, relatively low concerning the components needed to manufacture the system.
+
+
+

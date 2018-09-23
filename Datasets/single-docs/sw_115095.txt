@@ -1,0 +1,9 @@
+Palindrome
+
+A palindrome is a word, sentence, or number that reads the same from left to right as from right to left. Punctuation does not matter, but letters and digits do. All alphabetic languages have palindromes.
+
+
+
+
+
+

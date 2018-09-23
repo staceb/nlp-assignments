@@ -1,0 +1,6 @@
+Very High Bitrate Digital Subscriber Line
+
+VDSL or VHDSL (Very High Bitrate DSL) is a DSL technology providing faster data movement. This works over a single flat untwisted or twisted pair of copper wires. These fast speeds mean that VDSL is can of move data for digital television, as well as telephone services (Voice over IP) and Internet. This can work over a single connection. VDSL is used over existing wiring used for POTS (Plain Old Telephone Service).
+
+
+

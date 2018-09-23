@@ -1,0 +1,10 @@
+Carbon–hydrogen bond activation
+
+Carbon–hydrogen bond activation or C-H activation is a reaction that breaks a carbon–hydrogen bond. Most times, the reaction involves organometallic complexes. The reaction path has coordination of a hydrocarbon to the inner-sphere of the metal atom (“M”). The reaction path includes either an intermediate “alkane or arene complex” or as a transition state leading to a "M-C" intermediate. The reaction path makes C-H activation different from other reactions. During the C-H breaking event the hydrocarbyl group remains linked in the inner-sphere and under the influence of the metal atom.
+
+Chemists study C-H activation because for many years chemists believed that C-H bonds were unreactive. Both theoretical studies as well as experiments now show that C-H bonds can be broken. This is done by a nearby metal atom changing the electron distribution of the C-H bond (coordination). Much chemical research looks at the design and synthesis of new reagents and catalysts that can affect C-H activation. The goal of this research is the conversion of cheap and abundant alkanes into valuable functionalized organic compounds.
+
+Historians say that Otto Dimroth discovered the first C-H activation reaction. In 1902, he reported that benzene reacted with mercury(II) acetate (See: organomercury), but some scholars do not view this reaction as being a C-H activation. Goldman & Goldberg later wrote, C-H activation looks like H-H activation: both can be achieved by electrophilic or oxidative addition. The first true C-H activation reaction was reported by Joseph Chatt in 1965 with insertion of a ruthenium atom ligated to dmpe in the C-H bond of naphthalene. 
+
+
+

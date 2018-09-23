@@ -1,0 +1,14 @@
+Imaginary unit
+
+In math, imaginary units, or formula_1, are numbers that can be represented by equations but refer to values that could not physically exist in real life. The mathematical definition of an imaginary unit is formula_2, which has the property formula_3.
+
+The reason formula_1 was created was to answer a polynomial equation, formula_5, which normally has no solution as the value of x^2 would have to equal -1. Though the problem is solvable, the square root of -1 could not be represented by a physical quantity of any objects in real life.
+
+It is sometimes assumed that one must create another number to show the square root of formula_1, but that is not needed. The square root of formula_1 can be written as: formula_8. This can be shown as:
+
+The powers of formula_1 follow a predictable pattern:
+
+This can be shown with the following pattern where "n" is any integer:
+
+
+

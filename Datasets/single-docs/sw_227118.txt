@@ -1,0 +1,35 @@
+Graham's number
+
+Graham's number is a very, very big natural number that was defined by a man named Ronald Graham. Graham was solving a problem in an area of mathematics called Ramsey theory. He proved that the answer to his problem was smaller than Graham's number.
+
+Graham's number is one of the biggest numbers ever used in a mathematical proof. Even if every digit in Graham's number were written in the tiniest writing possible, it would still be too big to fit in the observable universe.
+
+Ramsey theory is an area of mathematics that asks questions like the following:
+
+It turns out that for this simple problem, the answer is "yes" when we have 6 or more points, no matter how the lines are colored. But when we have 5 points or fewer, we can color the lines so that the answer is "no".
+
+Graham's number comes from a variation on this question.
+
+By asking that the 4 points lie on a plane, we have made the problem much harder. We would like to know: for what values of "n" is the answer "no" (for some way of coloring the lines), and for what values of "n" is it "yes" (for all ways of coloring the lines)? But this problem has not been completely solved yet.
+
+In 1971, Ronald Graham and B. L. Rothschild found a partial answer to this problem. They showed that for "n"=6, the answer is "no". But when "n" is very large, as large as Graham's number or larger, the answer is "yes".
+
+One of the reasons this partial answer is important is that it means that the answer is eventually "yes" for at least some large "n". Before 1971, we didn't know even that much.
+
+Graham's number is not only too big to write down all of its digits, it is too big even to write in scientific notation. In order to be able to write it down, we have to use Knuth's up-arrow notation.
+
+We will write down a sequence of numbers that we will call g1, g2, g3, and so on. Each one will be used in an equation to find the next. g64 is Graham's number.
+
+First, here are some examples of up-arrows:
+
+
+After that, g2 is equal to formula_16; the number of arrows in this number is g1.
+
+g3 is equal to formula_17, where the number of arrows is g2.
+
+We keep going in this way. We stop when we define g64 to be formula_17, where the number of arrows is g63.
+
+This is Graham's number.
+
+
+

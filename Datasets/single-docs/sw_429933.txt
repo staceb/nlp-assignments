@@ -1,0 +1,7 @@
+Production line
+
+A production line is a sequence of tasks (or operations) done in a factory. The tasks process materials to make a useful product. An example is an assembly line, used in manufacturing.
+
+Production lines were introduced with the development of the steam engine. It depended less on the power source.
+
+

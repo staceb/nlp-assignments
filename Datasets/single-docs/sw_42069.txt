@@ -1,0 +1,7 @@
+Shelf
+
+A shelf is a piece of furniture that is used for storing items.
+
+It could also mean:
+
+

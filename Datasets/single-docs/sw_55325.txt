@@ -1,0 +1,10 @@
+Binary fission
+
+Binary fission ("division in half") is a kind of asexual reproduction. It is the most common form of reproduction in prokaryotes and occurs in some single-celled eukaryotes like Amoeba and Paramecium.
+
+In binary fission, the fully grown parent cell splits into two halves , producing two new cells.
+After replicating its genetic material, the cell divides into two nearly equal sized daughter cells. The genetic material is also equally split. The daughter cells are genetically identical (unless a mutation occurs during replication). 
+
+During binary fission, the DNA molecule divides and forms two DNA molecules. Each molecule moves towards the opposite side of the bacterium. At the same time, the cell membrane divides to form 2 daughter cells. In the process of cell division (in eukaryotes), first the division of nucleus takes place after which the division of cytoplasm (cytokinesis) takes place. After division, the new cells will grow and the process repeats itself again and again.
+
+

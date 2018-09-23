@@ -1,0 +1,7 @@
+Impedance matching
+
+In electronics, impedance matching is about connecting two electrical systems of which the impedances differ. Some audio devices use transformers for impedance matching.
+
+The concept of impedance matching is also used in optics.
+
+

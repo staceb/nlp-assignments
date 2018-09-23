@@ -1,0 +1,9 @@
+Vector subspace
+
+A vector subspace is a subset of a vector space that also is a vector space. This means that all the properties of the vector space are satisfied.
+Let W be a non empty subset of a vector space V, then, W is a vector subspace if and only if the next 3 conditions are satisfied:
+1. The element 0 is an element of W.
+2. If x and y are elements of W, then x+y are also in W.
+3. If c is an element of a field K and x is in W, then cx is on W.
+
+

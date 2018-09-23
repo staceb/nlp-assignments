@@ -1,0 +1,20 @@
+Term (mathematics)
+
+A term is a mathematical expression which may form a separable part of an equation, a series, or another expression.
+
+In elementary mathematics, a "term" is either a single number or variable, or the product of several numbers or variables. Terms are separated by a + or - sign in an overall expression. For example, in
+
+3, 4"x", and 5"yzw" are three separate terms.
+
+In the context of polynomials, "term" can mean a monomial with a coefficient. To 'collect like terms' in a polynomial is the basic operation of making it a linear combination of distinct monomials. For example,
+
+A series is often represented as the sum of a sequence of terms. 
+
+In general mathematical use, however, "term" is not limited to additive expressions.
+Individual factors in an expression representing a product are multiplicative terms. Indeed, individual elements of any mathematical expression may be referred to as "terms".
+
+Terms also appear in logic.
+
+
+
+

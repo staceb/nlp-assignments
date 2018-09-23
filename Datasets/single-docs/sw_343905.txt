@@ -1,0 +1,23 @@
+Reactivity series
+
+In introductory chemistry, the reactivity series or activity series is an empirical series of metals, in order of "reactivity" from highest to lowest. It is used to summarize information about the chemical reactions of metals with acids and water, single displacement reactions and the extraction of metals from their ores.
+The elements at a higher level are more reactive, whereas the elements at a lower level are less reactive.
+
+Reactivity series of common metals
+K
+Na
+Ca
+Mg
+Al
+Zn
+Fe
+Ni
+Sn
+Pb
+Cu
+Hg
+Ag
+Au
+Pt
+
+

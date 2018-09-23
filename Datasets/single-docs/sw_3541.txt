@@ -1,0 +1,23 @@
+Sphere
+
+A sphere is a shape in space that is like the surface of a ball. Most of the time, the terms ball and sphere are used as the same. But in mathematics, the precise (exact) definition only allows points in the 3 dimensional space which are uniformly and symmetrically located at a fixed length called radius of the sphere.
+
+Examples of these are basketballs, superballs, and playground balls.
+
+A sphere is the 3 dimensional analogue of a circle.
+
+The volume (V) of a sphere is given by the following formula
+
+where "r" is the radius of the sphere.
+
+The surface area (A) of a sphere is given by the following formula
+
+where "r" is the radius of the sphere.
+
+In Cartesian co-ordinates, the equation for a sphere with a center at (x, y, z) is as follows:
+
+formula_3
+
+where r is the radius of the sphere.
+
+

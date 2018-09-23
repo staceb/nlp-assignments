@@ -1,0 +1,15 @@
+Drake equation
+
+In 1961, Frank Drake wrote down an equation for the chance of a contactable alien civilization from another planet in the Milky Way Galaxy. This is known as the Drake Equation (sometimes called the Green Bank equation or the Green Bank Formula). Carl Sagan mentioned the Drake equation often so it that has been mistaken for the 'Sagan equation'. 
+
+The Drake equation states that:
+
+where:
+
+and
+
+We don't know the solution to the equation. 
+Although written as an equation, Drake's formulation is not particularly useful for getting a value of formula_2. The last four parameters, formula_3 and formula_4 are not known. They are very hard to guess, with values ranging over many orders of magnitude. Therefore, the SETI League says the importance of the Drake equation is not in solving it, but in thinking about it. It may be more useful to think of it as a series of questions framed as a numbers game. 
+
+
+

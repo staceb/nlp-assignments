@@ -1,0 +1,27 @@
+Mean
+
+In mathematics and statistics, the mean is another name for the average.
+
+The mean is calculated by adding all of the values together, then dividing by the number of values.
+
+Example: 1, 2, 2, 100, 100 is a set of numbers or scores. If we add all the numbers, the answer is 205. By dividing this number by the number of numbers, we discover that the mean is 41. The difficulty with this particular set of numbers is that no one in this group scored anything like a 41, and the mean does not tell us much about what kind of scores these numbers represent. 
+
+To find the average of formula_1 numbers, the formula_1 numbers are added and the total is divided by formula_1.
+
+In symbols, if the numbers are formula_4, formula_5, formula_6, ... formula_7, the total is:
+The total is divided by formula_1 to make the average:
+
+
+The idea behind the mean is to represent a number of measurements, or values, by one value only. But there are different ways to calculate such a representing value. 
+
+
+
+
+
+
+
+If people do many different measurements, they will get many different results. Those results have a certain distribution, and they can also be centered around an "average" value. This average value is what mathematicians call arithmetic mean.
+
+Mean can also stand for expected value.
+
+

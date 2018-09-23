@@ -1,0 +1,7 @@
+Profit
+
+Profit is how much money somebody (normally a company) makes. This is found by subtracting how much money they have spent ("expenditure") from how much money they have brought in (revenue).
+
+If John spends $15 on some ice cream cones, and then sells them for $20, he has made a profit of $5. This is because 20 minus 15 is 5.
+
+

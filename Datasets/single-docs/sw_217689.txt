@@ -1,0 +1,7 @@
+Ubuntu Studio
+
+Ubuntu Studio is an officially recognized derivative of the 
+
+Ubuntu Linux distribution that focuses on audio, video and graphics production. The original version, based on Ubuntu 7.04, was released on May 10, 2007.
+
+

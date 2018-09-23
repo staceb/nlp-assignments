@@ -1,0 +1,11 @@
+Myosin
+
+Myosins are a group of specialized proteins used for muscle contraction and motion in eukaryotic cells. Myosins need ATP for energy to do these functions. A large number of different myosin genes have been discovered in eukaryotes. 
+
+The structure and function of myosin is strongly conserved across species. For example, Rabbit muscle myosin II will bind to actin from an amoeba.
+
+Most myosin molecules are composed of a head part, a neck part, and a tail part.
+
+Many myosin molecules can make muscles get shorter using the energy released from breaking apart ATP molecules into ADP and a phosphate group. The power stroke happens when a phosphate that n broken off gets released from the myosin. This makes the myosin change shape so that it pulls against the actin. When the ADP molecule is released and a new ATP molecule joins onto the myosin head, the head releases from the actin. The myosin breaks the new ATP and the cycle keeps going. The combined effect of all the power strokes from all the different myosin molecules makes the muscle get shorter.
+
+

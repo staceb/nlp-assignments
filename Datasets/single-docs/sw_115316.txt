@@ -1,0 +1,36 @@
+Co-evolution
+
+Co-evolution is where the existence of one species is tightly bound up with the life of one or more other species. Species whose lives connect, evolve together. What happens is that survival rates in each species changes as a result of changes in the other species.
+
+Examples of co-evolution are:
+Co-evolution is extremely common, and may involve more than two species. Mimicry rings, with dozens of species, are known.
+
+New or 'improved' adaptations which occur in one species are often followed by the appearance and spread of related features in the other species.
+
+The study of co-evolution dates back to Darwin's "On the Origin of Species". There he discussed how cats increased heather by reducing mice. The point being that mice raid bumblebee nests and bumblebees pollinate red heather. So more cats cause more heather. In the last paragraph of the Origin Darwin remarks:
+
+Hermann Müller was an important worker on co-evolution. His studies on bees and the evolution of flowers were quoted by Darwin in "The Descent of Man". His papers in the journal "Nature" had heading "On the fertilisation of flowers by insects and on the reciprocal adaptations of both". This shows Müller fully understood the concept of co-evolution.
+
+The life and death of living things is intimately connected, not just with the physical environment, but with the life of other species. These relationships are dynamic, and may continue for millions of years, as has the relationship between flowering plants and insects (pollination).<br>The gut contents, wing structures, and mouthparts of fossilized beetles and flies suggest that they acted as early pollinators. The association between beetles and angiosperms during the Lower Cretaceous period led to parallel radiations of angiosperms and insects into the late Cretaceous. The evolution of nectaries in Upper Cretaceous flowers signals the beginning of the mutualism between hymenopterans and angiosperms.
+
+Another good example is malaria, in which there are three 'partners': the mosquito, the parasite "Plasmodium", and a land vertebrate, such as a mammal or bird. The actual species of malaria differs according to the vertebrate, so there are actually thousands of different relationships which follow the same pattern.
+
+Adaptive radiation and speciation rates can be high in parasites. Sibling species are very common in the bug "Erythroneura", in which about 150 transfers from one host to another has resulted in about 500 species in the genus.
+
+The clearest evidence comes from the large size of many parasitic families. 
+
+A huge number of species are parasitic. A survey of the feeding habits of British insects showed that about 35% were parasites on plants, and slightly more were parasites on animals. That means that nearly 71% of insects in Britain are parasitic. Since British insects are better known than those elsewhere (because of the length of time they have been studied), this means that by far the majority of insect species throughout the world are parasitic. Another estimate went:
+
+There are several other invertebrate phyla which are wholly or largely parasitic. Flatworms and roundworms are found in virtually every wild species of vertebrate. Protozoan parasites are also ubiquitous. Hence parasitism is almost certainly the most common feeding method on Earth.
+
+Recent publications have given an overview of the 150 years of research into co-evolution after the "Origin of species".
+Many species are parasites or are specialised to live in one or a few hosts. A single species of tropical tree is, on average, a host to 162 host-specific beetle species. Since there are 50,000 tropical tree species, and beetles amount to 40% of total insect species, and there are also tree-specific species below the canopy, it is possible to estimate the total number of arthropod species living in tropical forests. The number is 30 million. This contrasts rather strongly with the total of 1.4 to 1.8 million species which have already been described. It seems textbooks have underestimated the number of species in existence by a factor of about 20. 
+
+The single factor which most causes this high number of species is phytophagy: the huge number of insect species, each eating one or a few plant species. And what insects do, so do fungi, nematodes, mites and other invertebrates. 
+
+A species is often a collection of more or less separate populations. These populations may live in somewhat different habitats. They will interact with other species which vary from one habitat to another. The relative fitness of various traits will therefore vary between populations. These facts are the basis of the "geographic mosaic theory of coevolution" developed by John N. Thomson. The theory makes three main predictions: 
+
+Although Thomson calls it a theory, these are really explanations of what is already known to be the case. Co-evolutionary relationships are forever dynamic. They change as climate and habitats change, and as new species invade areas while others become at least locally extinct. These changes change the pattern of survival (natural selection), and that is what changes the traits (adaptations). What biologists see today is a time-slice of a natural world which is always changing on a longer time-scale. Despite this, many of the best-known types of co-evolution have lasted for many millions of years, even though the species themselves have constantly changed. This paradox, of two or more species changing yet staying in the same co-evolutionary relationship, is what gave rise to the Red Queen hypothesis. 
+
+
+

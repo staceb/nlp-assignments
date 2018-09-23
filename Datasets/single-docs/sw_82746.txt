@@ -1,0 +1,10 @@
+Safari (web browser)
+
+Safari is a web browser developed by Apple Inc. which can be downloaded free of charge. It also comes with a OS X computer. It is based on the WebKit engine, which is a fork of KDE's KHTML engine.
+
+Apple Inc. replaced the previous default web browser, Internet Explorer, with their Safari many years ago. Steve Jobs, the founder of Apple, said that it would be released in January of 2003. Since then, 6 types of Safari have been made. The newest one was made in June of 2012.
+
+Safari has a number of features. Some are specific to certain operating systems or platforms.
+Here is a list of some of Safari's features:
+
+

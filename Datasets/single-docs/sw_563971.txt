@@ -1,0 +1,4 @@
+Maxwell (unit)
+
+Maxwell is a Gauss unit of cgs(centimetre-gram-second), introduced by Carl Friedrich Gauss.
+

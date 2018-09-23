@@ -1,0 +1,33 @@
+Mozilla Firefox
+
+Mozilla Firefox (or simply Firefox) is a free and open source web browser for the computer. It is made by the Mozilla Foundation. It works on all common operating systems, such as Windows, macOS and Linux operating systems, and with its Firefox for Android available for Android.
+
+The makers did not put in all possible features by design, instead extra features can be added. This was done to make Firefox simple to use and safe.
+The name for Firefox 3.0 while it was being made was "Gran Paradiso". "Gran Paradiso", like other Firefox development names, is an actual place; in this case the second-highest mountain group in the Graian Alps.
+
+In 2006, the development team asked people who use Firefox to submit feature ideas that they wanted to be in Firefox 3.
+
+NetApplications says that the use of Firefox 3 has been going up very fast to a usage share of 23.75% in September 2009. They think that this increase means that Firefox 3 is stable and that users are using it as their main browser.
+
+The date for the launch of Firefox 3 was June 17, 2008, named "Download Day 2008." Firefox was aiming to set the record for most Firefox downloads in 24 hours. As of June 18, 2008, more than 6.88 million people have downloaded Firefox 3.
+
+Many people tried going to the Mozilla website on June 17, making it unavailable for at least a few hours. The site was not updated for the download of Firefox 3 until 12:00 PDT. "Download Day" ended at 11:16 AM PDT June 18. Firefox 3 has been downloaded 28,340,281 different times.
+
+Features include tabbed browsing, spell checking, incremental find, live bookmarking, Smart Bookmarks, a download manager, private browsing, location-aware browsing (also known as "geolocation") based on a Google service, and an integrated search system.
+
+Extensions let a user add new things to the browser or change how it does something. They are created by other users. Because extensions are able to access all parts of the computer that Firefox can, extensions that can harm a computer could be made. However,the extension can only change system settings if you have administrator privileges.
+
+Firefox also has themes or skinning which change the way the browser looks to the user. Some themes that can make Firefox look like other browsers, such as Internet Explorer and Netscape.
+
+Tabbed browsing is a feature used in the browser where many webpages can be opened in one window, with labeled tabs on top to select the webpage. To make a new empty tab, type control-T.
+
+There is a search box in Firefox that can be seen in the top right corner of the window. When someone using Mozilla Firefox types something in the search box and presses enter, the browser will search the Internet using a search engine like Google or Yahoo!.
+There are ""search suggestions"" in Firefox 2. When words are typed in the search box, suggested words will appear. For example, if ""wiki"" is typed, the browser will suggest ""Wikipedia"".
+
+Firefox can use spell checking, if a word is typed badly into a text box, like the one where someone changes a Wikipedia page, the program will underline the word that is spelled wrong with a red line. If you scroll over that word and right click, Mozilla Firefox will list words which use the right spelling. For example: the wrong word "chekc" will have "check" as a suggestion.
+Mozilla Firefox has been given a number of awards by many organizations. These awards include:
+
+
+
+
+

@@ -1,0 +1,9 @@
+Petabyte
+
+A petabyte (PB) is a unit of measurement in computers and similar electronic devices. One petabyte holds 1000 terabytes (TB) or a thousand trillion (1,000,000,000,000,000) bytes. 
+
+Large organisations use petabytes of storage to hold massive amounts of data. To store this amount of data at home would require about 1000 large home computers. People at home probably do not use petabytes, they would use terabytes (primarily for very large backups), gigabytes, megabytes and occasionally kilobytes.
+
+One thousand petabytes make one exabyte. 
+
+

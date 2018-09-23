@@ -1,0 +1,8 @@
+PubMed
+
+PubMed is a free online database of references on life sciences. It was established in January 1996. The United States National Library of Medicine (NLM) at the National Institutes of Health (NIH) maintains the database.
+
+Each record in the PubMed database is assigned a special number to identify it. This is the PMID, an acronym for "PubMed IDentifier" number. PMIDs do not change over time and they are never reused. Any PMID is only a number. The PMID tells the reader nothing about the type or quality of the content of any publication.
+
+
+

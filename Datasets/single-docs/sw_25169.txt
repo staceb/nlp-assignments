@@ -1,0 +1,16 @@
+Radar
+
+Radar is a machine that uses radio waves for echolocation to find objects such as aircraft, ships, and rain. 
+
+The basic parts of a radar are:
+
+By doing this, the radar can locate the object. Radar is used in many different ways. It can measure the speed and number of cars on a road, the amount of water in the air, and many other things. 
+
+Radar was first used in 1904 by Christian Hülsmeyer. He was given a patent for radar (Reichspatent Nr. 165546). It became commonplace during World War II.
+
+The word "RADAR" was created in 1942 as an acronym for Radio Detection and Ranging. This acronym replaced the British initialism "RDF" ("Radio Direction Finding"). The word is now thought of by many people as a regular word, no longer as an acronym. 
+
+The FAA (Federal Aviation Administration) use several kinds of radar:
+
+
+

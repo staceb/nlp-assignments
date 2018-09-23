@@ -1,0 +1,11 @@
+Molecular clock
+
+The molecular clock is a technique which estimates when two taxa diverged in evolution. It is based on comparing the detailed structure of key molecules. The method may be done for species, or any high data used for such calculations is often nucleotide sequences in genome analysis, or amino acid sequences for proteins such as haemoglobin. It is sometimes called a "gene clock" or "evolutionary clock".
+
+The key assumption behind the technique is that, in the long run, changes in molecular structure happen at a steady rate.
+Researchers such as Ayala have challenged this assumption. According to Ayala, these factors combine to limit the application of molecular clock models:
+
+
+Nevertheless, the method is now used widely in taxonomy and phylogeny.
+
+

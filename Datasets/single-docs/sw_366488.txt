@@ -1,0 +1,13 @@
+Protein folding
+
+Protein folding is the process by which a protein gets its functional shape or 'conformation'. It is mainly a self-organising process. Starting from a random coil, polypeptides fold into their characteristic working shape. The structure is held together by hydrogen bonds.
+
+The stages are:
+
+Without its correct three-dimensional structure a protein does not work. However, some parts of proteins may not fold: this is normal. 
+
+If proteins do not fold into their native shape, they are inactive and are usually toxic. Several diseases are believed to result from misfolded proteins. Many allergies are caused by the folding of the proteins, for the immune system does not produce antibodies for all possible protein structures.
+
+Chaperonins are large proteins which help the folding of some proteins after synthesis. Chaperones in general were first discovered helping histones and DNA join up to form nucleosomes. Nucleosomes are the builing blocks for chromosomes. It is now clear that this is the way many cell organelles are built up.
+
+

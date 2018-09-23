@@ -1,0 +1,9 @@
+Third law of thermodynamics
+
+The Third law of thermodynamics says:
+The definition is: at absolute zero , the entropy of a perfectly crystalline substance is zero.
+
+Experimentally, it is not possible to obtain −273.15°C, as of now. It is found that most of the gases either liquify or solidify before reaching such a temperature, gaseous molecules no longer remaining. So far, scientists have been able to get close to, but not exactly, absolute zero. This may change in the future.
+
+
+

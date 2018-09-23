@@ -1,0 +1,5 @@
+Junio Hamano
+
+Junio Hamano () is a software engineer and hacker from Japan. He is best known for leading a large team of Software developers who maintain Git. Linus Torvalds has said that a big success of his was realising how good of a developer Hamano was. Torvalds turned the entire project over to Hamano in July 2005. Hamano lives in California. He works for Google.
+
+

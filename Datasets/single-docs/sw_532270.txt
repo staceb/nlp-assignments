@@ -1,0 +1,13 @@
+The Selfish Gene
+
+The Selfish Gene is a book on evolution by Richard Dawkins, published in 1976. It builds upon the work of George C. Williams's book: "Adaptation and Natural Selection", and helped popularize W.D. Hamilton's work. 
+
+Dawkins used the term "selfish gene" as a way of expressing the "gene-centred view of evolution". From the gene-centred view, it follows that the more two individuals are genetically related, the more sense (at the level of the genes) it makes for them to behave selflessly with each other. 
+
+An organism evolves to maximise its inclusive fitness—the number of copies of its genes passed on globally (rather than by a particular individual). 
+
+Dawkins proposes the idea of the "replicator":
+
+The book also coins the term "meme" for a unit of human cultural evolution analogous to the gene. 
+
+

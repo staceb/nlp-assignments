@@ -1,0 +1,7 @@
+Global Hunger Index
+
+The Global Hunger Index is a measurement to measure the hunger situation in a country. It is a Statistical tool. There are three numbers which are used to calculate the GHI. Each number has the same importance:
+To get the World Hunger index, the weighted average of the three numbers is taken. This number will be between 0 and 100. Higher numbers are worse. The numbers can be interpreted as follows:
+Today, the highest values can be found in Africa south of the Sahara, and in South Asia, with values of 22.1, and 23.0. Even though the numbers may be similar, the source of the problem is different. In Sub-saharan Africa the main problem is high child mortality rates, and a large number of people who cannot meet their energy requirements. In South Asia, the main problem is the high number of malnurished children under the age of five. This may also be a consequence of the fact that women have a poorer education, and baby girls are not fed as well as baby boys.
+
+

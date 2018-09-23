@@ -1,0 +1,11 @@
+Names for large numbers
+
+There have been a few ways to name numbers above a million. In this article we look at the American scale which is used nearly everywhere now, and the older European scale.
+
+The American way or "Short form" for naming large numbers is different from the European way or "Long form" of naming large numbers. This is mainly because of American finance. Short form numbering is based on thousands and Long form is based on millions. Because of this, in Short form a billion is one thousand millions (10) while in Long form it is one million millions (10). The change in the United Kingdom to Short form numbering happened in 1974. Today, Short form is most commonly used in most English speaking countries.
+
+There is also the number googol, which is a 1 with 100 zeros behind it, and the number googolplex, which is a 1 with a "googol" of zeros behind it.
+
+
+
+

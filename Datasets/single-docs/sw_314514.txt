@@ -1,0 +1,12 @@
+Non-Newtonian fluid
+
+A non-Newtonian fluid is a thixotropic fluid which changes its viscosity when the forces on it change.
+
+Other flow properties may also be affected. Most commonly viscosity of such fluids is not independent of the shear rate or the shear rate history. Examples of such fluids are blood, quicksand and certain components of cement. Many lubricants, ketchup, certain forms of dough and pudding also have this property. 
+
+The other kind of fluids that do not show this behavior are called Newtonian fluids.
+
+It is very simple to make your own non-Newtonian fluid at home. All you need is water and cornstarch. Mix these two ingredients together at a rate of one part cornstarch and one and a half parts water,and then you will have your own non-Newtonian fluid.
+
+
+

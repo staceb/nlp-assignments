@@ -1,0 +1,11 @@
+Oscilloscope
+
+An oscilloscope (sometimes abbreviated CRO, for cathode ray oscilloscope, or commonly just scope or O-scope) is a piece of electronic equipment that lets you see a changes in signal voltage. For example, if you want to see the signal a small electronic timer was producing, you could connect it to an oscilloscope and see. 
+
+Usually, it shows a two-dimensional graph of one or more electrical potential differences (vertical axis). These graphs are plotted with time or of some other voltage along horizontal axis.
+
+A typical oscilloscope is usually box shaped with a display screen, numerous input connectors, control knobs and buttons on the front panel. 
+To aid measurement, a grid called the "graticule" is drawn on the face of the screen. Each square in the graticule is known as a "division".
+
+
+

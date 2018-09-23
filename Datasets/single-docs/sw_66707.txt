@@ -1,0 +1,6 @@
+Software development
+
+Software development is the process of creating a computer software. It includes the software release life cycle of preparing a design, coding the program, and fixing the bugs. The final goal is software release of a product that serves the wishes of users.
+
+
+

@@ -1,0 +1,6 @@
+MariaDB
+
+MariaDB is a free, open source database management system forked from Sun Microsystems' MySQL. It was created by MySQL's software developers, inluding Monty Widenius. They were concerned about Oracle Corporation's acquisition of Sun Microsystems.
+
+
+

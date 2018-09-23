@@ -1,0 +1,10 @@
+Litmus paper
+
+Litmus paper is a way to test whether or not a solution is alkaline or an acidic. 
+
+Litmus is a solution of different dyes made from lichen. This is then put onto filter paper. The paper can then be used to give a rough indication of the pH value of a solution. Blue litmus paper will turn red, when acid is present; red litmus paper will turn blue when alkalines are present. At room temperature, this usually happens for PH values between 4.5 and 8.3. 
+
+Alternatively, a solution can be prepared which works the same way, but does not need the paper.
+
+
+

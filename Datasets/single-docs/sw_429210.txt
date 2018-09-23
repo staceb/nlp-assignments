@@ -1,0 +1,20 @@
+Apollo Lunar Module
+
+The Apollo Lunar Module (LM) is the spidery-looking landing vehicle on the moon. It was built for the US Apollo program to carry a crew of two from lunar orbit to the surface and back.
+
+The LM was the last of the Apollo “hardware” to be developed. Its start had been delayed while NASA made up its mind to take the lunar-orbit meeting approach and thus require a vehicle like the LM for a landing. A contract with the prime builder was signed on January, 1963, almost two years after the Apollo project began. The LM was tested several times in space. Finally, on July 20, 1969 the Apollo 11 LM Eagle made the first manned lunar landing. 
+
+As Apollo missions progressed, Apollo 12, 14, 15, 16, 17 had lunar landings using their LMs. Apollo 13 had a terribly dangerous accident when an oxygen tank exploded. The Apollo 13 Lunar module, called "aquarius", played an unexpected role in saving the lives of the three astronauts after the explosion.
+
+The LM was consisted of an ascent stage and decent stage.
+This was the unmanned lower part of the LM. it looked like octagonal-shaped and Made of aluminum compound metal with four legs for landing contained the batteries and oxygen tank and scientific equipment to be used for the descent to the moon and astronauts’ stay on the moon.
+
+On the lunar-landing mission, the descent engine would be fired to begin the LM’s drop from 70 miles out in lunar orbit down toward the moon and LM could descend vertically and hover above the surface of moon. After the two men finished their stay on the surface, the descent stage would serve as the launching base for the ascent engine’s firing to boost the upper half of the LM off the moon.
+
+This was the roundish upper half of the LM, the command center and crew cabin as well as the launching rocket for leaving the moon. 
+
+To save weight, there were no seats for the men. They would stand, loosely held in place by straps. In front and on either side of them were control panels for the LM’s guidance, communication, environment and propulsion systems. On the left side, there was a window by which commander could look out to steer the LM. Overhead in the middle section was the 33-inch-diameter (95 cm) hatch where the astronauts transferred to and from the Command Module when two vehicles were linked. LM’s ascent rocket to meet Command Module was below the deck of the midsection. Although ascent rocket was small, it was sufficient because the moon’s weak gravity – one-sixth that of earth’s – meant that the LM would not require a strong push to rise from the lunar surface.
+
+On Monday, January 22, 1968, a 16-ton unmanned LM surrounded by a protective shield stood on top of a two-stage Saturn 1-B rocket which called Apollo 5. It had two big missions for this flight. One is to check separating stage from main rocket. Another was to check test firing of the descent engine. But second mission didn’t success fully. The Apollo 5 test ended after eight hours, and the LM remained in earth orbit. It eventually dropped into the atmosphere and burn up.
+
+

@@ -1,0 +1,9 @@
+2D
+
+2D or two-dimensional objects have two measurements: width and length, like a square. Two-dimensional objects do not have depth, like a cube. It's a mathematics tool, but it's also used in video games, and computer science. 
+
+Throughout maths, it is used in geometry and other categories.
+
+In video games, it is used as a perspective, like in Grand Theft Auto 1 and 2.
+
+

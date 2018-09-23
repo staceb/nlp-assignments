@@ -1,0 +1,6 @@
+Multiplexing
+
+Multiplexing is the name for an operation or method which combines several signals into one, before that signal is sent over a telecommunications line. At the other end of the line, the combined signals are "demultiplexed", that is, the combination of the signals is undone. There are different ways how this multiplexing can be done:
+Multiplexing was first done for telegraphy in the 1870s, and for telephone lines in 1910. Today, it is widely used. 
+
+

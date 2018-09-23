@@ -1,0 +1,9 @@
+Ultralight material
+
+Ultralight materials are very light substances. They include silica aerogels, carbon nanotube aerogels, metallic foams, polymeric foams, and metallic microlattices. The density of air is about 1.275 mg/cm, which means that the air in the pores greatly lowers the density of the material.
+
+The lightest material ever made was invented in 2011. It is made out of a microscopic micro-lattice of hollow tubes – a criss-cross diagonal pattern with open spaces between the tubes. The researchers say the material is 100 times lighter than Styrofoam and is very strong. The material is low density: it has a density of 0.9 milligrams per cubic centimetre. Silica aerogels, the world's lightest "solid" materials, are only as low as 1.0 mg per cubic cm. The metallic micro-lattices are 99.99% air and only 0.01% solid. The metal used is nickel.
+
+The material is not just light: it has some elastic properties. When it is squashed, the little tubes are also squashed, but when the pressure is removed, they rebound. A sample squashed to half its height rebounds 98% when the pressure is lifted. That makes the material similar in some ways to elastomers: they are materials used to cushion against shock.
+
+

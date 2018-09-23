@@ -1,0 +1,9 @@
+Cauchy distribution
+
+The Cauchy-Lorentz distribution (after Augustin-Louis Cauchy and Hendrik Lorentz) is a continuous probability distribution. As a probability distribution it is usually called a "Cauchy distribution". Physicists know it as a "Lorentz distribution". 
+
+It is used in spectroscopy to describe the spectral lines found there, and to describe resonance.
+
+The Cauchy distribution is often used in statistics as the canonical example of a "pathological" distribution. Both its mean and its variance are undefined.
+
+

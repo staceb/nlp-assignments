@@ -1,0 +1,16 @@
+Fermat number
+
+A Fermat number is a special positive number. Fermat numbers are named after Pierre de Fermat. The formula that generates them is
+
+where "n" is a nonnegative integer. The first nine Fermat numbers are :
+
+As of 2007, only the first 12 Fermat numbers have been completely factored. (written as a product of prime numbers) These factorizations can be found at Prime Factors of Fermat Numbers.
+
+If 2 + 1 is prime, and "n" > 0, it can be shown that "n" must be a power of two. Every prime of the form 2 + 1 is a Fermat number, and such primes are called Fermat primes. The only known Fermat primes are "F"...,"F".
+
+
+Today, Fermat numbers can be used to generate random numbers, between 0 and some value N, which is a power of 2. 
+
+Fermat, when he was studying these numbers, conjectured that all Fermat numbers were prime. This was proven to be wrong by Leonhard Euler, who factorised formula_2 in 1732.
+
+

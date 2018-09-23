@@ -1,0 +1,6 @@
+Pharmacist
+
+A pharmacist is a person who works in a pharmacy. Pharmacists have to be trained to work there, and have knowledge about the drugs package. Pharmacists interact with customers, give the prescribed medication and telling them about the drugs. 
+
+
+

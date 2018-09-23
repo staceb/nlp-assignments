@@ -1,0 +1,18 @@
+Natural number
+
+Natural numbers, also called counting numbers, are the numbers used for counting things. Sometimes the special number zero is called a natural number. Sometimes one is called the smallest natural number. Natural numbers are always whole numbers (integers) and never less than zero.
+
+There is no largest natural number. The next natural number can be found by adding 1 to the current natural number, producing numbers that go on "for ever". There is no infinite natural number. Any natural number can be reached by adding 1 enough times to the smallest natural number. 
+
+The following types of number are not natural numbers:
+
+
+
+
+
+
+
+formula_18 or formula_19 is the way to write the set of all natural numbers. Because some people say 0 is a natural number, and some people say it is not, people use the following symbols to talk about the natural numbers:
+
+
+

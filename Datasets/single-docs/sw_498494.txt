@@ -1,0 +1,7 @@
+Ransomware
+
+Ransomware is a type of malware. It restricts access to the computer system that it infects, and demands a ransom be paid to the creator(s) of the malware. This is in order for the restriction to be removed. Some forms of ransomware encrypt files on the system's hard disk. Others may simply lock the system and display messages intended to persuade the user to pay.
+
+Ransomware first became popular in Russia. Now the use of ransomware scams has grown internationally. In June 2013 McAfee said it had collected over 250,000 unique samples of ransomware in the first three months of 2013. This is more than double the number of the previous year. CryptoLocker, a ransomware worm that surfaced in late-2013, had collected an estimated $3 million USD before it was taken down by authorities.
+
+

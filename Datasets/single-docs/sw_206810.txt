@@ -1,0 +1,14 @@
+Check and checkmate
+
+Check is a term in chess when a player's king is attacked. If the king is in check, the player "must" find a way to stop the threat; he can not just ignore it. The player must do one of these things:
+
+
+If none of these works, then it is not a check but "checkmate". 
+
+Checkmate (often called mate) is when a player's king is attacked (in check) and there is no way to meet that attack. Or, simply put, the king is under attack and cannot get out of being captured. Giving checkmate is the main goal in chess: a player who is mated loses the game.
+
+These rules have been part of chess since its beginning. Until the early 20th century is was customary to announce "Check!" verbally when making the move. It would be regarded as strange today; players do not address each other in competitive chess except where necessary.
+
+Until the 19th century it was customary to warn one's opponent when attacking his queen: "Check to the queen!" Most players today do not know this was ever done.
+
+

@@ -1,0 +1,22 @@
+Proportions
+
+In mathematics, the word "proportions" means 2 ratios put into an equation. Some examples of proportions are:
+In algebra, proportions can be used to solve many common problems about changing numbers. As an example, for the increase in a $40 purchase of gasoline (petrol), if the price rose 35 cents, from $3.50 to $3.85, the proportion would be:
+The solution is simply:
+Many other common calculations can be solved by using proportions to show the relationships between the numbers.
+
+A Proportionality constant is a number that is used to convert a measurement in one system to the equivalent measurement in another system. For instance, people who are familiar with the traditional system of units used in the United States, pounds, feet, inches, etc., may need to find out the metric equivalent for these measures in grams and meters. To make these calculations they would need some proportionality constants.
+
+One way to write a formula showing how to use a proportionality constant (let us call it "K") is:
+
+X*K = Y
+
+For instance, people may know that they have 100 eggs and want to know how many dozen eggs they have. The proportionality constant K is then 1 dozen/ 12 eggs.
+
+100 eggs * 1 dozen / 12 eggs = 8 dozen eggs + 4 eggs.
+
+Examples of proportionality constants:
+
+Planck constant -- puts the energy of a photon of a given frequency into a commonly used unit of energy, the Joule.
+
+

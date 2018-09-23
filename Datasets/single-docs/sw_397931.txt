@@ -1,0 +1,11 @@
+James Webb Space Telescope
+
+James Webb Space Telescope (JWST) is a telescope that will be put into space. It is planned to be launched in 2018. It is a replacement for the Hubble Space Telescope which was launched in 1990. 
+
+The telescope is named after , who was a director at NASA and created the Apollo program that put astronauts on the moon.
+
+It will have a main mirror that is 6.5 meter (21.3 feet) wide. This is 7 times larger than Hubble. It is so large it is made in 18 pieces that fold together after the launch, so that it can fit into a rocket. It will be looking mostly in the infrared but also some in the red part of the visible light (the pictures will be color coded so we can see them). It will be able to see things that the Hubble Space Telescope cannot. Infrared vision can be used to see heat (like some kinds of night vision goggles). So the telescope itself must be kept as cool as possible. It is protected by a large sunshield, the size of a tennis court, to keep it cool and dark. It will also be in orbit far from Earth, to avoid heat from the Earth and moon.
+
+The JWST will be in orbit 1 million miles (1.5 million kilometers) from Earth, about 4 times farther away from us than the moon is. It is also in a special orbit, beyond the moon, at the second Lagrange point (L2), a place of stable gravity. This keeps it in the Earth's shadow most of the time, it doesn't actually go around the Earth, but goes around the sun at the same speed as the Earth.
+
+

@@ -1,0 +1,15 @@
+Segmentation
+
+Segmentation in biology means the division of some animal and plant bodies into a series of repeat sections or parts. It is common in some of the most successful groups of animals, such as arthropods, vertebrates and annelid worms. 
+
+Segmentation of the body allows different regions of the body to develop for different uses.
+
+We now know a good deal about how the development of segmented animals is controlled. In a series of experiments with the fruit-fly "Drosophila", E.B. Lewis was able to identify a complex of genes whose proteins bind to the regulatory regions of target genes. The latter then activate or repress cell processes which direct the final development of the organism. 
+
+Furthermore, the sequence of these control genes show "co-linearity": the order of the loci in the chromosome parallels the order in which the loci are expressed along the anterior-posterior axis of the body. Not only that, but this cluster of master control genes programs the development of all higher organisms. 
+
+Each of the genes contains a homeobox, a remarkably conserved DNA sequence. This suggests the complex itself arose by gene duplication. 
+
+In his Nobel lecture, Lewis said "Ultimately, comparisons of the [control complexes] throughout the animal kingdom should provide a picture of how the organisms, as well as the [control genes] have evolved".
+
+

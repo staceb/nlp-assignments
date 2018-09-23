@@ -1,0 +1,4 @@
+Memory address register
+
+The Memory Address register (MAR) is the CPU register the either stores the memory address and then be broght back from the CPU or the address data will be sent and stored.
+

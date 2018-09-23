@@ -1,0 +1,31 @@
+Mole (unit)
+
+Mole is the SI unit of measurement used to measure the number of things, usually atoms or molecules. One mole of something is equal to Avogadro's number. 
+
+The measurement of Avogadro's number was refined in 2011 to ± .
+
+We use this number because it is the number of carbon atoms in 12 grams of carbon-12, which is the most common kind of carbon. We can measure anything in moles, but it is not very useful for most things because the numbers are so big. For example, one mole of grapefruits would be as big as the earth. 
+
+The number does not lend itself to easy expression in words. The nearest "casual" number is one million-million-million-million, which is 10. 
+
+Because different molecules and atoms do not have the same mass, one mole of one thing does not weigh the same as one mole of something else. Atoms and molecule mass is measured in u. One u is equal to one gram per mole. This means that if an atom has a mass of one u, one mole of this atom weighs one gram.
+
+Moles = mass (g) / Relative mass (grams per mole)
+Example: How many moles are there in 20 grams of hydrogen?
+A value of 1 can be used for hydrogen's relative mass, although the correct value is slightly larger. So: moles = mass/relative mass = 20/1 = 20 moles.
+
+Moles = concentration (mol/dm) x volume (dm)
+Example: How many moles are there in 100cm of 0.1M HSO?
+1 dm is the same as 1000 cm, so the value in cubic centimetres needs to be divided by 1000. 100/1000 x 0.1 = 0.01 moles.
+
+A methane molecule is made from one carbon atom and four hydrogen atoms. Carbon has a mass of 12.011 u and hydrogen has a mass of 1.008 u. This means that the mass of one methane molecule is 12.011 u + (4*1.008u), or 16.043 u. This means that one mole of methane has a mass of 16.043 grams.
+
+A mole can be thought of as two bags of different sized balls. One bag contains 3 tennis balls and the other 3 footballs. There is the same number of balls in both bags but the mass of the footballs is much larger. It is a different way to measure things. Moles measure the number of particles, not the mass. So both bags contain three moles.
+
+A mole is simply a unit of the number of things. Units are invented when existing units can not describe something well enough. Chemical reactions often take place at levels where using grams wouldn't make sense, yet using absolute numbers of atoms/molecules/ions would be confusing, too.
+
+The SI units for molar concentration are mol/m. However, most chemical writing uses mol/dm, or mol dm, which is the same as mol/L. These units are often written with a capital letter M (pronounced "molar"), sometimes preceded by an SI prefix, for example, millimoles per litre (mmol/L) or millimolar (mM), micromoles/litre (µmol/L) or micromolar (µM), or nanomoles/L (nmol/L) or nanomolar (nM).
+
+The absolute yield of a chemical reaction mostly stated in moles (called the "molar yield").
+
+

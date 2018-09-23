@@ -1,0 +1,5 @@
+555 timer IC
+
+The NE555 is an IC chip. It is used in very basic timers. It is popular among hobbyists and can be found in any electronics store that sells bare components, such as RadioShack.
+
+

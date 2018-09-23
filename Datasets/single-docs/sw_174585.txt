@@ -1,0 +1,5 @@
+Polychoron
+
+In geometry, a polychoron (plural: polychora) is a figure in four dimensions. The word comes from Greek "poly", which means "many" and "choros" which means "room", or "space". Sometimes the figure is called 4-polytope or polyhedroid. The analogue figure in two dimensions is a polygon, and the one in three dimensions is a polyhedron. 
+
+

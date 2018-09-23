@@ -1,0 +1,14 @@
+Fractional distillation
+
+Fractional distillation is a process of separating a mixture of chemical compounds. This means that each part (called a "fraction") of the mixture can be kept apart from the other chemicals. Different chemicals have different boiling points. Fractional distillation is done by heating the mixture so that each fraction evaporates and then condenses in its own compartment.
+
+It is a special type of distillation. Generally the component parts boil at less than 25°C from each other under a pressure of one atmosphere (atm). If the difference in boiling points is greater than 25°C, a simple distillation is used. 
+
+This is carried out by boiling a mixture in a fractionating column. The mixture will evaporate at different times, and is then caught in a container as a pure compound. 
+
+Fractional distillation is how petroleum is refined.
+
+Industrially, crude oil is heated and sent up along the fractionating column that has decreasing temperatures with height and several platforms at different levels to collect the condensate. Different components of crude oil have different boiling points. High molecular weight components have higher boiling points and condense at lower portions of the column while fractions with lower boiling points rise to the top of the column to condense.
+
+
+

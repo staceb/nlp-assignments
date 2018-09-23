@@ -1,0 +1,22 @@
+Esperanto alphabet
+
+Esperanto alphabet is the alphabet, which they use to write the Esperanto language. It has 28 (twenty-eight) letters.
+
+Esperanto alphabet is based on Roman alphabet (as well as English alphabet is). Contrary to English it has not got the letters "q", "w" and "y" but it has got 6 (six) letters with diacritic (special mark above the letter) "ĉ", "ĝ", "ĥ", "ĵ", "ŝ" and "ŭ".
+
+Because Esperanto uses letters with diacritic, there was (and sometimes still is) need to write text in Esperanto even if the special letters are not available.
+
+Ludovic Lazarus Zamenhof, the creator of Esperanto, proposed so called "h-system" (in Esperanto: "h-sistemo"). They write instead of diacritic letter an letter without diacritic after witch they put the letter "h", only with exception of "ŭ", which does not follow this rule. For example "ĝ" becomes "gh", "ĥ" becomes "hh" and "ŭ" becomes "u". In cases when they write an word which contains letters appearing to be a diacritic letter, but it does not stand for a diacritic letter, they can "break" it by an apostrophe. For example "flughaveno" (an airport) becomes "flug'haveno".
+
+As of the letter "x" is not in Esperanto alphabet they use it to write diacritic letters. This is called "x-system" (in Esperanto: "x-sistemo"). They write instead of diacritic letter an letter without diacritic after witch they put the letter "x". For example "ĝ" becomes "gx", "ĥ" becomes "hx" and "ŭ" becomes "ux".
+
+The whole Esperanto alphabet is part of the Latin-3 and Unicode character sets, and it is included in WGL4. 
+The code points and HTML entities for the special Esperanto characters in Unicode are:
+
+Some people say that use of the diacritics (the letters ĉ, ĝ, ĥ, ĵ, ŝ, ŭ) make the language less neutral than it would be using only the basic letters of Latin alphabet. They don't use the letters ĉ, ĥ and ĵ in any other language in the world.
+
+According to some people the phonetic system of Esperanto is too similar to polish dialect of Białystok, home town of Zamenhof.
+
+Several people consider using of the Latin alphabet to be not neutral. In fact many native languages use Latin alphabet for writing in each continent (with exception of the Antarctica): German (Europe), Swahili (Africa), Vietnamese (Asia), Tahitian (Oceania), Cree (North America), Apalaí (South America).
+
+

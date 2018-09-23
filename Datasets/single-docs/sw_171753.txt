@@ -1,0 +1,15 @@
+Antivirus software
+
+Antivirus software, if properly installed on a computer system, can prevent access to computer systems by unwanted computer programs. Viruses, worms or Trojan Horses can be used by criminals or mischievous people (called 'crackers'). They can be used to steal information or damage computer systems. If no antivirus software is installed, hackers may be able to access the information in the computer.
+
+Most tests and experts claim that antivirus software is unable to prevent some attacks. There are many different types of antivirus software. Many Antivirus programs can be downloaded for free. These versions usually have some features missing. The missing features are only available to those who buy the "full" version.
+
+Antivirus software uses many ways to protect the computer. They often search for signs of viruses in every website that is visited. Most also do a regular scan of all the data and files on the computer's hard disk.
+
+Installing more than one antivirus is not a good idea. The 2 different antivirus software can interfere with each other.
+
+Antivirus software can not always detect all viruses on a computer.
+
+Sometimes antivirus software sees viruses in files that do not really have viruses. This is called a false positive. The antivirus software will sometimes remove files from the computer that should not be removed. This may cause other programs to not work properly.
+
+

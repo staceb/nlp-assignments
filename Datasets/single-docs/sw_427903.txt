@@ -1,0 +1,7 @@
+Faraday's laws of electrolysis
+
+Faraday's laws of electrolysis are a set of scientific laws used in chemistry. They are used to express magnitudes of electrolytic effects. They were first described by Michael Faraday in 1834.
+
+The first law states that the mass of a substance produced by electrolysis is directly proportional to the quantity of electricity that passes through the cell.
+
+

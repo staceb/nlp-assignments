@@ -1,0 +1,7 @@
+Route availability
+
+Route Availability (RA) is the system by which the permanent way and supporting works (bridges, embankments, etc.) of the National Rail network of Great Britain are graded. All routes are given an RA number between 1 and 10.
+
+Rolling stock is also given an RA (again between 1 and 10) and the RA of a train is the highest RA of any of the supporting elements. The RA is mainly about the axle load of the vehicle, although axle spacing is also taken into thought. In practice it is the locomotive which decides where trains may operate, although many high capacity four axle wagons have high RAs when fully loaded. (When considering the operation of trains the loading gauge must also be considered.)
+
+

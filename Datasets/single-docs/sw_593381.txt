@@ -1,0 +1,4 @@
+Cryptology
+
+The  branch of  mathematics encompassing both cryptography and cryptanalysis is cryptology.
+

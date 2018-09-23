@@ -1,0 +1,17 @@
+Space Exploration Technologies Corporation
+
+Space Exploration Technologies Corporation, or more commonly SpaceX is a space transport company based in Hawthorne, California. It was founded in 2002 by Elon Musk, who also founded PayPal. It has developed rockets that can lift cargo into space, fly it to the International Space Station (ISS), and safely return cargo back to Earth. In December of 2010, it became the first private company to successfully launch, orbit and recover a spacecraft. In May of 2012 
+
+it was the first private company to send a cargo to the ISS, and it returned. It is planning to take astronauts to the ISS in 2015. This is important, as the United States has had to use Soyuz spacecraft from Russia ever since NASA retired the Space Shuttle program.
+
+Besides working for NASA, SpaceX will launch satellites for the military, private companies, and other countries. In 2009 it already launched a low earth orbiting satellite. The company plans to launch its first commercial satellite for geostationary orbit in 2013.
+
+Falcon 1 and Falcon 9 rockets were built to eventually become reusable. Rockets being reusable is good, because usually other rockets when they go to space burn up when coming back to earth too fast. If rockets can be reusable, that means that they spend less money making new rockets to replace the burned up ones, so rockets get cheaper. SpaceX also built the Dragon spacecraft. This is filled with equipment and supplies for the astronauts on the ISS. It is put on one of the Falcon rockets (because the Dragon does not have big enough rockets to fly to space on its own) and flown into orbit. From orbit it then uses its own smaller rockets to get to the ISS. Then it is filled back up with old equipment, the results of science experiments, and garbage, and parachutes back to Earth, landing in the ocean.
+
+In order to control how much they have to pay for new rockets and how good their rockets will be, SpaceX designs, builds and tests and fabricates the most of its components inside SpaceX itself, not other companies. Usually, companies that build big machines like rockets buy parts from other companies who make and test things for them. Some things SpaceX has made by itself includes the Merlin, Kestrel, and Draco rocket engines used on the Falcon launch vehicles and the Dragon spacecraft. 
+
+Future projects include the Falcon Heavy launch system, and a NASA robotic mission to Mars in 2018. The Falcon Heavy is a bigger rocket that is based on the Falcon 9, and if it goes as planned, it will be the most powerful rocket in America since the Apollo-era Saturn V. Falcon Heavy can be used to send a manned Dragon spacecraft on lunar orbiting missions – like the Apollo 8 mission; or be used to send a modified unmanned Dragon on a Mars landing mission. The Falcon Heavy is going to be made from three of the Falcon 9 rockets that have been changed a bit. This is so SpaceX can build rockets easier, because if they made the Falcon Heavy made of different types of rockets that would mean SpaceX would have to get different things to make the different rockets. Making it with the same kind of rocket means they can just use the same things to make the rocket, making rockets even cheaper.
+
+Musk has stated that his intention for the company is to help in the creation of a permanent human presence on Mars.
+
+

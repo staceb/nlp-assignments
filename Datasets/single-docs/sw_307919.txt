@@ -1,0 +1,11 @@
+Central limit theorem
+
+The central limit theorems are theorems for probability theory. They say that given a large number of independent random variables, their sum will follow a stable distribution. If the variance of the random variables is finite, a Gaussian distribution will result. This is one of the reasons why this distribution is also known as "normal" distribution. 
+
+The best known and most important of these is known as "the central limit theorem". It is about large numbers of random variables with the same distribution, and with a finite variance and expected value. 
+
+There are different generalisations of this theorem. Some of these generalisations no longer require an identical distribution of all random variables. In these generalisations, another precondition makes sure that no single random variable has a bigger influence on the outcome than the others. Examples are the Lindeberg and Lyapunov conditions. 
+
+The name of the theorem is based on a paper George Pólya wrote in 1920, "About the Central Limit Theorem in Probability Theory and the Moment problem". 
+
+

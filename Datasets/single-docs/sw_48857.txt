@@ -1,0 +1,12 @@
+Ductility
+
+Ductility is when a solid material stretches under tensile stress. If ductile, a material may be stretched into a wire. Malleability, a similar property, is a material's ability to deform under pressure (compressive stress). If malleable, a material may be flattened by hammering or rolling. 
+
+Both of these properties are aspects of plasticity. Plasticity is how far a solid material can be deformed without fracture. These properties are are commonplace in metals, and are dependent on temperature and pressure. This was investigated by Percy Williams Bridgman as part of his 1946 Nobel Prize–winning work on high pressures.
+
+Ductility and malleability do not always go together. Gold has high ductility and malleability, but lead has low ductility and high malleability. The word "ductility" is sometimes used to embrace both types of plasticity.
+
+Gold, copper, aluminium, and steel have high ductility. 
+
+
+

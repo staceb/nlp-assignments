@@ -1,0 +1,8 @@
+Octagon
+
+An Octagon is a polygon with 8 sides and 8 vertices (corners).
+
+A regular octagon has all eight sides the same length and each side is 135° and all the angles added together equals 1080°.
+
+
+

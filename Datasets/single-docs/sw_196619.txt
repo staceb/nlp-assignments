@@ -1,0 +1,15 @@
+Oblate spheroid
+
+An oblate spheroid is a famous shape. It is the shape of the Earth and some other planets. It is like a sphere squashed from the top so the diameter from pole to pole is less than the diameter from equator to equator. Shapes of this type are called ellipsoids.
+
+Oblate spheroids have rotational symmetry around an axis from pole to pole.
+
+Many planets, including the Earth and Saturn, are oblate spheroids. The difference between a sphere and the Earth's shape is small, only about one part in 300. 
+
+Stars spin, and some spin very fast. The faster the spin, the flatter the oblate spheroid. The Sun rotates at 2 km per second, neutron stars have speeds of thousands of km/sec.
+
+In 1687 Isaac Newton published the "Principia". He included a proof that a rotating self-gravitating fluid body in equilibrium takes the form of an oblate ellipsoid of revolution (a spheroid). The amount of flattening depends on the density and the balance of gravitational force and centrifugal force.
+
+In other words, the Earth is a spheroid because it rotates. Gas giants like Jupiter and Saturn are flattened by rotation more than the Earth.
+
+

@@ -1,0 +1,14 @@
+Flickr
+
+Flickr is a photo sharing website and web services suite. It is also an online community platform, which is considered an early example of a Web 2.0 application.
+
+Users can upload any photo to their website. The user will then be asked to release the photo under many licenses available. Some licenses allow other people to reuse it, which makes it possible for Wikimedia Commons to transfer free files from Flickr to their website.
+
+Any person that has a Yahoo! ID can register their Flickr account in a few seconds.
+
+Flickr provides a free service for users to share their photos online with other people. However, free users have a limit of 300 MB of uploads per month, 15 MB per photo and 150 MB per video. However, users can upgrade to the pro account where they can get unlimited uploads at $24.95 per month.
+
+Flickr also has a set of tools for users to upload their photos from their desktops. However, they can only be used on Windows and Mac computers.
+
+
+

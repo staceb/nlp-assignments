@@ -1,0 +1,29 @@
+Odd abundant number
+
+An odd abundant number is an odd number formula_1 that its sum-of divisors greater than the twice of itself. 
+1575, 2205, 2835, 3465, 4095, 4725, 5355, 5775, 5985, 6435, 6615. 
+
+The following formula
+
+formula_2
+presents 62 abundant numbers, but it fails if
+
+formula_3.
+
+The second formula
+
+formula_4
+presents 192 abundant numbers, but fails if
+
+formula_5
+
+The third formula
+
+formula_6 
+
+fails if formula_7.
+
+
+ 
+
+

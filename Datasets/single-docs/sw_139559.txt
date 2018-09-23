@@ -1,0 +1,15 @@
+British Royal Family
+
+The British Royal Family is the group of close relatives (family) of the monarch, currently Elizabeth II, of the United Kingdom.
+
+HM The Queen <br>
+HRH The Duke of Edinburgh
+HRH The Duke of Gloucester<br>
+HRH The Duchess of Gloucester<br>
+HRH The Duke of Kent<br>
+HRH The Duchess of Kent<br>
+HRH Prince Michael of Kent<br>
+HRH Princess Michael of Kent<br>
+HRH Princess Alexandra, The Honourable Lady Ogilvy
+
+

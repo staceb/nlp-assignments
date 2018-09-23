@@ -1,0 +1,6 @@
+Git (software)
+
+Git () is a distributed revision control system that was made to be fast. Git was created by Linus Torvalds for use in developing the Linux kernel. Git's current development is looked after by Junio Hamano. Git is free and open source software released under the GNU General Public License version 2 software license.
+
+
+

@@ -1,0 +1,15 @@
+Plastid
+
+A plastid is a self-reproducing organelle of plants and algae. A plastome is the DNA genome of a plastid. They are like tiny machines inside cells: each makes or stores important chemicals used by the plant. 
+
+Examples of plastids are: 
+
+Plastids in algae and hornworts may differ from plant plastids. In algae, the term "leucoplast" is used for all unpigmented plastids and their function differs from the leucoplasts of plants. 
+
+Glaucocystophytic algae contain muroplasts, which are similar to chloroplasts except that they have a cell wall, similar to that of prokaryotes. Rhodophytic algae contain rhodoplasts, which are red chloroplasts which allow the algae to photosynthesise to a depth of up to 268 metres.
+
+Plastids are one of the many different types of organelles in the cell. In endosymbiont theory, plastids originated as cyanobacteria. This was first suggested by Mereschkowsky in 1905. Schimper in 1883 had said chloroplasts closely resembled cyanobacteria. 
+
+Almost all chloroplasts are thought to derive directly or indirectly from a single endosymbiotic event. Mitochondria also derive from symbiosis, but chloroplasts are found only in plants and protista. The chloroplast is surrounded by a double-layered composite membrane with an intermembrane space; further, it has reticulations, or many infoldings, filling the inner spaces. The chloroplast has its own DNA, which codes for redox proteins involved in electron transport in photosynthesis.
+
+

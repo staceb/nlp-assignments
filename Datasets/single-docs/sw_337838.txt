@@ -1,0 +1,12 @@
+The Battle for Wesnoth
+
+The Battle for Wesnoth (or just Wesnoth) is a strategy video game. It is designed by David White and the first released was made in June 2003.
+The game is available under the GPL license. The 1.10.2 version is the last release and was made the April 8, 2012.
+
+The game is programmed in C++. It is cross-platform and runs on AmigaOS 4, BeOS, FreeBSD, Linux, Mac OS X, Microsoft Windows, MorphOS, NetBSD, OpenBSD, RISC OS, iOS, Solaris and Android.
+
+The project has a very big community and counts many contributors too. Some developers are well-known authors of other free and open-source projects. For example, there are Eric S. Raymond or Rusty Russell.
+
+The game is translated in more than 50 languages. In 10 of them, the game is very well translated (These languages have more than 95% of messages translated).
+
+

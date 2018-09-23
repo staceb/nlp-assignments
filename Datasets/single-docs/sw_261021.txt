@@ -1,0 +1,6 @@
+Wheel theory
+
+Wheel theory is the theory of wheels. A wheel is an algebraic structure where division by 0 has meaning.
+
+
+

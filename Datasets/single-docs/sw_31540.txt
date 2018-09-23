@@ -1,0 +1,19 @@
+BASIC
+
+BASIC is one of the first programming languages ever to be created. It was first used as a programming language on console computers. The name is an acronym (a word made from other words) that spells Beginner's All-purpose Symbolic Instruction Code. 
+
+A specialized version of Basic is Bliz basic. It is specially for coding games.
+
+It was designed by John Kemeny and Thomas Kurtz in 1963. It was made to follow these eight principles:
+
+
+The creators made the free of charge to make programmers interested in using the language. Since the creation, a large number of have been made so users can make their programs.
+
+"for x=9/3*9+9"
+
+"print x"
+
+"next x"
+code prints number 36 to screen.
+
+

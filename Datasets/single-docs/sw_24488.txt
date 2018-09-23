@@ -1,0 +1,13 @@
+Alexa
+
+Alexa is an Internet service that measures how many Internet users visit a website. At Alexa.com, people can enter a website address and Alexa will show them how well-visited the website is. It can also tell them how its popularity has changed over time.
+Alexa has 6 million unique visits monthly.
+
+Alexa was created in 1996 by American businessman Brewster Kahle and Bruce Gilliat.
+In 1999, Alexa was bought by Amazon.com for about US$250 million in Amazon stock.
+Alexa provides a free API that is used by services and toolbars all around the world to easily display Alexa Rating.
+
+Some virus companies mark Alexa toolbar as adware (McAfee), trackware (Symantec) and potentially unwanted Program.
+
+
+

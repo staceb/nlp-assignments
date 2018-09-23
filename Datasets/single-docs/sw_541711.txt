@@ -1,0 +1,5 @@
+Automatic Identification System
+
+Automatic Identification System (AIS) is a way for a ship to use a radio to tell other ships about it's position. It sends messages every few seconds. These are received other ships and by stations on land and on some satellites. A ship knows its position by using Global Positioning System (GPS). Since 2004, all ships above 300 tons and all passenger ships have to use AIS. AIS was made to avoid ships colliding.
+
+

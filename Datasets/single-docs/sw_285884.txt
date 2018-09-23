@@ -1,0 +1,9 @@
+MAC address
+
+The Media access layer is one of the layers of the OSI reference model. It is concerned with the access to the physical network medium. Devices that access this medium need to be identified. For this reason, many network technologies, amongst them Ethernet, use unique addresses to identify the network card, which is used to access the medium. These addresses are usually called the Media Access Control address or MAC address.
+
+Each device is assigned a MAC address by its manufacturer. The original Xerox Ethernet addressing scheme is still used to assign MAC addresses. It allows MAC addresses to be 48-bits long. So, there are 2 or 281,474,976,710,656 possible MAC addresses.
+
+A MAC address is mainly used by a switch to direct the data to the right place almost like an address. The IP is the road name and the MAC address is the door number
+
+

@@ -1,0 +1,7 @@
+Resultant force
+
+A resultant force, also called a net force, is a force equal to the sum of all forces applied to an object.
+
+If 10N and 10N are applied to the right, then the resultant force is 20N. If 40N is applied to the left and 30N applied to the right, the resultant force is 10N to the left. Note that "N" is an abbreviation of "Newton", which is a unit of force. 
+
+

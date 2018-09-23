@@ -1,0 +1,29 @@
+First derivative test
+
+In calculus, the first derivative test is used to determine local of a function. Furthermore, the first derivative test can be used to determine of increase and intervals of decrease.
+
+Critical points are values in the of a function where its is 0 or (formula_1 or formula_2 doesn't exist).
+
+To find the critical points of a function, compute the first derivative of the function and set it equal to zero. Solve for the of this . Similarly, if you have a (formula_3, where formula_4) find what values will cause the to be equal to 0 because this will make the function undefined, and therefore not at this point. These are all of your critical numbers.
+
+Plug these numbers into your original function to find the exact of these critical points.
+
+formula_6
+
+formula_7
+
+formula_8
+
+formula_9 and formula_10
+
+formula_11
+
+formula_12
+
+So the two critical points are formula_13 and formula_14.
+
+To determine whether these points are local maximas, minimas, or neither, we need to consider the intervals between each of the points. Plug in a value from each interval into the first derivative of the function. If the value is positive, then that is an interval of increase. If the value is negative, then that is an interval of decrease. Finally, if two neighboring intervals change sign then that point is either a local maxima or minima. If the first interval is positive and the second interval negative, then the critical point is a local maxima. If the first interval is negative and the second interval positive, then the critical point is a local minima. If both intervals are positive or both intervals are negative, then the critical point is neither a local maxima or minima.
+
+The first derivative test is used in calculus optimization problems.
+
+

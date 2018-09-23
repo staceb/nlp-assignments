@@ -1,0 +1,9 @@
+Adobe Dreamweaver
+
+Dreamweaver is a computer program that is used to make web pages. It was created by Macromedia. Macromedia is now owned by Adobe Systems. It can be used on either Windows computers or Macintosh computers. It can be used to make CSS, JavaScript, and other web technologies.
+
+Version 6 of Dreamweaver allows syntax highlighting for the following languages out of the box:
+
+
+
+

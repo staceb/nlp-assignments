@@ -1,0 +1,7 @@
+Lagrange's theorem (group theory)
+
+Lagrange's theorem in group theory states if G is a finite group and H is a subgroup of G, then |H| (how many elements are in H, called the order of H) divides |G|. Moreover, the number of distinct left (right) cosets of H in G is |G|/|H|. 
+
+Applications 
+
+

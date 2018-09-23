@@ -1,0 +1,13 @@
+Erik Nevland
+
+Erik Nevland is a football player. He plays for Fulham and Norway national team.
+
+135||62
+8||2
+4||0
+88||43
+235||107
+
+!Total||4||0
+
+

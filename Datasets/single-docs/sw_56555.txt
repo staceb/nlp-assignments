@@ -1,0 +1,38 @@
+Colon (punctuation)
+
+פ
+
+The colon (":") is a punctuation mark, visually consisting of two equally sized dots centered on the same vertical (up/down) line.
+
+A colon is a more significant pause than a semi-colon. It is often used to contrast two parts of a sentence:
+
+These two examples were lists within a sentence. 
+A colon may also be used for the following:
+
+
+
+
+The colon's first appearance in English text is marked by the "Shorter Oxford English Dictionary" as 1589.
+
+A special double-triangle colon symbol is used in IPA to indicate that the preceding sound is long. Its form is that of two triangles, each a bit larger than a point of a standard colon, pointing toward each other. It is available in Unicode as modifier letter triangular colon, Unicode U+02D0 (). A regular colon is often used as a fallback when this character is not available, or in the practical orthography of some languages (particularly in Mexico) which have a phonemic long/short distinction in vowels.
+
+The colon is also used in mathematics, cartography, model building and other fields to denote a ratio or a scale, as in 3:1 (pronounced "three to one").
+Unicode provides a distinct ratio character, Unicode U+2236 () for mathematical usage.
+
+In many non-Anglophone countries, the colon is used as a division sign: ""a divided by b"" is written as a : b.
+
+The combination with an equal sign, formula_1, is used for definitions.
+
+In computing, the colon character is represented by ASCII code 58, and is located at Unicode code-point U+003A. The full-width (double-byte) equivalent, ：, is located at Unicode code point U+FF1A.
+
+The colon is quite often used as a special control character in many operating systems commands, URLs, computer programming languages, and in the path representation of several file systems. It is often used as a single post-fix delimiter, signifying a token keyword had immediately preceded it or the transition from one mode of character string interpretation to another related mode. Some applications, such as the widely used MediaWiki, utilize the colon as both a pre-fix and post-fix delimiter.
+
+For a double-colon, "::" the meaning has included the use of ellipsis, as spanning over omitted text; however, there have been other meanings as well.
+
+On the Internet (online chats, email, message boards, etc.) a colon, or multiple colons, is sometimes used to denote an action or emote. In this use, it has the inverse function of quotation marks; denoting actions where unmarked text is assumed to be dialog. For example:
+
+Colons may also be used for sounds (as with ":Click:"). Compare to the use of outer asterisks (*word*).
+
+It also has the widespread usage of representing two vertically aligned eyes in a emoticon, such as :-), :( :P, :D, :3, etc.
+
+

@@ -1,0 +1,5 @@
+Weak entity
+
+A weak entity is part of an Entity-relationship model (ER model) diagram that relies on other entities ("Strong Entities"). Without the strong entity, the weak entity wouldn't exist.
+
+

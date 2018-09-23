@@ -1,0 +1,19 @@
+Touchscreen
+
+A touchscreen or touch screen is a computer screen that can be used by touching it with a finger or a stylus pen, instead of using a mouse and keyboard. Touchscreens are used in personal digital assistants (PDAs), tablet computers, smartphones and other devices.
+
+Some touchscreens are capable of pressure-sensitive input, in which thicker lines are made on the screen when the user pushes harder down on the .
+
+Interactive whiteboards, which can be found in many schools, use a simple form of touch technology.
+
+In 1965, E.A Johnson of England’s Royal Radar Establishment, invented the first touchscreen that was used in the U.K for air traffic control up until around 1995. The first resistive touch screen was invented by G. Samuel Hurst in 1975, and produced in 1982. Back in 1970, Hurst and nine friends discovered that a touchscreen on a computer monitor made for an excellent method of interaction. Pressure on the cover sheet allowed voltage to flow between the X wires and the Y wires, which could be measured to indicate coordinates. This discovery helped found what we today refer to as resistive touch technology (because it responds purely to pressure rather than electrical conductivity, working with both a stylus and a finger). 
+
+Much later in 2005, three friends from France created a multi touch screen capable of tracking any numbers of fingers. By 2005, their company named JazzMutant released the Lemur, a music controller with a multi touch screen interface. This new technology helped influenced the TactaPad also made in 2005. Two years later, the iPhone, which is the first successful smartphone, was released. 
+
+Touch screen is widely used on Automatic Teller Machines, retail point-of-sale terminals, car navigation systems, medical monitors and industrial control panels, the touch screen became wildly popular on handhelds after Apple introduced the iPhone in 2007. The touchscreen is built into kiosks that are used for informations systems in cities and museums. Kiosks use simple point and click interaction. Phones, computers, tablets, smart boards, computer printers, television and most recently, watches, also include touch screen systems.
+
+Different kinds of touchscreens work in different ways. There are two main technologies used for touchscreens:
+
+Capacitive screens don’t work if you touch them with a plastic stylus because the plastic acts as an insulator. Resistive screens work with both kinds of stylus. Some stylus pens work well with capacitive screens. Some are pressure sensitive and let you to do different things by pushing harder or more gently. For example, you can draw a wider or narrower line.
+
+

@@ -1,0 +1,7 @@
+Chinese poker
+
+Chinese Poker is a poker variant that came from Asia. It is also called Russian Poker. It is usually played with two to four players; each player is dealt 13 cards, and then needs to create 3 poker hands from his cards.
+The third hand must be the best hand (by the standard poker rankings). The third had must be better than the second hand. The second hand must be better than the first hand (the one with the 3 cards in it).
+
+
+

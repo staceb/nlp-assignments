@@ -1,0 +1,34 @@
+Programmed learning
+
+Programmed learning (or 'programmed instruction') is a research-based system which helps learners work successfully. The method is guided by research done by a variety of applied psychologists and educators.
+
+The learning material is in a kind of textbook or teaching machine or computer. The medium presents the material in a logical and tested sequence. The text is in small steps or larger chunks. After each step, learners are given a question to test their comprehension. Then immediately the correct answer is shown. This means the learner at all stages makes responses, and is given immediate knowledge of results.
+
+It is rather interesting that Edward L. Thorndike wrote in 1912:
+"If, by a miracle of mechanical ingenuity, a book could be so arranged that only to him who had done what was directed on page one would page two become visible, and so on, much that now requires personal instruction could be managed by print". 
+
+Thorndike, however, did nothing with his idea. The first such system was devised by Sidney L. Pressey in 1926. "The first.. [teaching machine] was developed by Sidney L. Pressey... While originally developed as a self-scoring machine... [it] demonstrated its ability to actually teach".
+
+In World War II, with largely conscript armies, there was great emphasis on training. What was learnt influenced education and training after the war. One of the main methods was the use of film as a group training method. Research on the effectiveness of training films was done extensively. In one account, Lumsdaine comments that research on films went on "from about 1918 to the present" (meaning 1962). 
+
+A few conclusions stood out from the research. One was that films were great at giving overviews of a situation or an operation. However, they were less successful at getting over the details. Some general features of film (and, later, television) stand out. One is that a film goes at its own pace. Another is that no specific responses or activities are required from the viewer. A third is that the audience is varied, sometimes hugely varied. This gives clues to ways of improving instructional films.
+
+In a 1946 experiment at Yale University, questions for students were put between segments of a film on the heart and circulation, with correct answers given after students had responded (knowledge of results). This added significantly to the amount learnt from the film. Lumsdaine commented that even showing the basic film twice was not so effective as showing the version with questions and answers. 
+
+The connections between this experiment and those of Pressey were obvious. Active responses by learners and helpful feedback on the activities were now seen as critical elements in any successful system of learning. Pressey's work had been half forgotten, but it was now recognised as significant.
+
+If so much research had already been done on learning from films, what exactly did programmed learning add? The short answer is "stimulus control", by which is broadly meant the teaching material itself. Also, in programmed learning, a complete system was proposed which included these stages: 
+
+A helpful discussion of the different programming techniques was given by Klaus.
+
+Although there were three or four other systems proposed, we discuss here the two best-known methods.
+
+One was by Norman Crowder, a psychologist with the U.S. Air Force. He had been asked to investigate the training of aircraft maintenance men. Crowder's system was to set multiple choice questions in the text, and provide feedback for each of the alternatives. Examples of this method show that the alternatives offered in questions were chosen to cover mistakes which students were likely to make.
+
+Much better known was the other style of programmed learning, as proposed by the behaviourist B.F. Skinner. Skinner made some very effective criticisms of traditional teaching methods. His scheme of programmed instruction was to present the material as part of a "schedule of reinforcement" in typical behaviourist manner. The programmed text of Skinner's theory of behaviorism is the most complete example of his ideas in action. Skinner was a wonderful publicist for his own ideas, as can be seen from this passage:
+
+Both methods were originally presented in machines, and both were later presented in book form. Both systems were to an extent student centered. They were ways of teaching individual learners who worked at their own pace. Both systems (in different ways) used knowledge of results to promote learning. In both systems the content was pre-tested to identify problems and iron them out. Both systems emphasised clear learning objectives. Progress in learning was measured by pre- and post-tests of equivalent difficulty. Many practical tests showed the effectiveness of these methods. 
+
+Many of these ideas were picked up and used in other educational fields, such as open learning (see the Open University) and computer-assisted learning.
+
+

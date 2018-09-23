@@ -1,0 +1,15 @@
+List of Japanese eras
+
+The List of Japanese eras is a traditional calendar system which began during the reign of Emperor Kōtoku in the 7th century. This calendar has been in use in Japan since the beginning of the 8th century.
+The historical Japanese calendar system defines and parses time in terms of ordinal numbers.
+
+Each new was usually started soon after the beginning of the reign of a new emperor. Era names were also changed due to other events. Staring in the reign of Emperor Yōzei, the tradition of naming eras because of good omens changed. Instead, the name of an era might be chosen to ward off something bad.
+
+The first day of the started whenever the emperor decided. This first year continued until the next lunar new year, which is understood to be the start of the "nengō's" second year.
+
+To change a Japanese year to a Western or Gregorian calendar year, find the first year of the "nengō" (see list below). When found, subtract 1, and add the number of the Japanese year. For example, the 23rd year of the Shōwa period ("Shōwa 23") was 1948:
+
+
+
+
+

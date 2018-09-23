@@ -1,0 +1,11 @@
+Electrolysis of water
+
+Electrolysis of water is the decomposition of water into oxygen and hydrogen gas. This happens when an electric current being passed through the water. This technique can be used to produce breathable oxygen or hydrogen fuel. However, that method is more expensive than the industrial way to produce hydrogen fuel from natural gas.
+
+In pure water, a redox reaction can be watched. At the cathode a reduction happens and on the anode an oxidation. Normally, the reaction is balanced with either an acid or a base as shown in the equations below.
+
+That two reactions are half reactions. They are balanced with an acid. Commonly hydrochloric acid or sulfuric acid is used. However, the half reactions can also be balanced with a base, for example with sodium hydroxide.
+
+Combining one pair of half reactions leads to an overall reaction, which is then the decomposition of water into oxygen and hydrogen.
+
+

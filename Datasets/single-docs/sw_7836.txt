@@ -1,0 +1,12 @@
+Local area network
+
+A local area network (LAN) is a computer network in a small area like a home, office, or school. Many computers can be connected to share information and Internet connections. Most LANs use Ethernet to connect together.
+
+LAN topologies tell you how network devices are organised. Five common LAN topologies exist: bus, ring, star, tree, and mesh. These topologies are logical architectures. This means that they tell you the directions that signals go between devices, but that the actual cables that connect the devices might not be connected the same way. For example, logical bus and ring topologies are commonly organized physically as a star. 
+
+
+
+
+
+
+

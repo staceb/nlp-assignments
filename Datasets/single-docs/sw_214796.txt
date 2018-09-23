@@ -1,0 +1,24 @@
+Fitness
+
+Fitness in biology is the relative ability of an organism to survive and pass on its genes to the next generation. It is a central idea in evolutionary theory. Fitness is usually equal to the proportion of the individual's genes in all the genes of the next generation. 
+
+Like all terms in evolutionary biology, fitness is defined in terms of an interbreeding population, which might or might not be a whole species. If differences in individual genotypes affect fitness, then the frequencies of the genotypes will change over generations; the genotypes with higher fitness become more common. This is the process called natural selection.
+
+An individual's fitness is caused by its phenotype, and passed on by its genotype. The fitnesses of different individuals with the same genotype are not necessarily equal. It depends on the environment in which the individuals live, and on accidental events. However, since the fitness of the genotype is an averaged quantity, it reflects the reproductive outcomes of "all" individuals with that genotype.
+
+Fitness measures the number of the "copies" of the genes of an individual in the next generation. It doesn't really matter how the genes arrive in the next generation. For an individual, it is equally "beneficial" to reproduce itself, or to help relatives with similar genes to reproduce, "as long as similar number of copies of individual's genes get passed on to the next generation". Selection which promotes this kind of helper behaviour is called kin selection.
+
+Our closest relatives (parents, siblings, and our own children) share on average 50% (half) of our genes. One step further removed are grandparents. With each of them we share on average 25% (a quarter) of our genes. That is a measure of our relatedness to them. Next come first cousins (children of our parents' siblings). We share 12.5% (1/8) of their genes.
+
+William Hamilton added various ideas to the notion of fitness. His rule suggests that a costly action should be performed if:
+Fitness costs and benefits are measured in fecundity.
+
+Inclusive fitness is a term which is essentially the same as fitness, but emphasises the group of genes rather than individuals. 
+
+Biological fitness says how well an organism can reproduce, and spread its genes to its offspring. The theory of inclusive fitness says that the fitness of an organism is also increased to the extent that its close relatives also reproduce. This is because relatives share genes in proportion to their relationship.
+
+Another way of saying it: "the inclusive fitness of an organism is not a property of itself, but a property of its set of genes". It is calculated from from the reproductive success of the individual, plus the reproductive success of its relatives, each one weighed by an appropriate coefficient of relatedness.
+
+The British social philosopher Herbert Spencer coined the phrase "survival of the fittest" in his 1864 work "Principles of biology" to mean what Charles Darwin called natural selection. The original phrase was "survival of the best fitted". 
+
+

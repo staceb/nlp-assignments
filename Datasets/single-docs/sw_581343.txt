@@ -1,0 +1,5 @@
+Stringer (slag)
+
+Stringers are thin strands of slag in wrought iron. If there's not much of it, it makes the iron stronger. But if there's too much, it makes the iron weaker.
+
+

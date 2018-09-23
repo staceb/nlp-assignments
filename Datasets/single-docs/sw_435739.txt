@@ -1,0 +1,15 @@
+Nuclease
+
+A nuclease is an enzyme which cuts the bonds between the nucleotide subunits of nucleic acids. Well known nucleases are deoxyribonuclease and ribonuclease.
+
+Nucleases may have the prefix "endo" or "exo" added to the name. Endonucleases break nucleic acid chains somewhere in the middle of the molecule. Exonucleases remove nucleotides from the ends of DNA molecules.
+
+A restriction endonuclease does a specific job. It scans the length of a DNA molecule. Once it finds a particular sequence, it binds to the DNA molecule and makes a cut in each of the two sugar-phosphate backbones. 
+
+Different endonucleases cut in different places, but one endonuclease will always cut a particular base sequence the same way, no matter what DNA molecule it is acting on. Once the cuts have been made, the DNA molecule breaks into fragments. In fact, more than 900 restriction enzymes, some sequence specific and some not, have been isolated from over 230 strains of bacteria since their discovery.
+
+These enzymatic tools were important to scientists who were gathering the tools needed to "cut and paste" DNA molecules. They needed a tool to cut DNA at specific sites, rather than at random sites along the length of the molecule. This way they could cut DNA molecules in a predictable way.
+
+This whole field of research started many years ago with the Avery–MacLeod–McCarty experiment.
+
+

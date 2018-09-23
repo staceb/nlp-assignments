@@ -1,0 +1,12 @@
+Hertz
+
+The hertz (symbol: Hz) is a unit derived from time which measures frequency. Frequency is how often something happens. A frequency of 1 hertz means that something happens once a second. The note Middle C (the C in the middle of the piano) is 262 Hz. This means there are 262 vibrations every second, which is heard as the note Middle C, when that piano key is played. Humans are able to hear sounds between 20-20 000 Hz. Owls are able to hear sounds between 200-12000 Hz.
+
+The basic units is 1/seconds
+
+The unit is named after Heinrich Rudolf Hertz.
+
+1000 hertz is 1 kilohertz. 1000 kilohertz is 1 megahertz, 1000 megahertz is 1 gigahertz: (see table)
+
+
+

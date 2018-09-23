@@ -1,0 +1,6 @@
+Game (game theory)
+
+A game in game theory is a mathematical model, which is used to describe a process, as follows:
+This definition excludes all "games" where there is only one actor. Game theory developed from describing very specific games into a model that is used for strategic decision-making. John von Neumann and Oskar Morgenstern first described game theory. Other people known for their work in game theory include Émile Borel.
+
+

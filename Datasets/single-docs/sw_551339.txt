@@ -1,0 +1,35 @@
+Cantor's diagonal argument
+
+Cantor's diagonal argument is a mathematical method to prove that two infinite sets have the same cardinality. Cantor published articles on it in 1877, 1891 and 1899. His first proof of the diagonal argument was published in 1890 in the journal of the German Mathematical Society (Deutsche Mathematiker-Vereinigung). According to Cantor, two sets have the same cardinality, "if it is possible to associate an element from the second set to each element of the first set, and to associate an element of the first set to each element of the second set". This statement works well for sets with a finite number of elements. It is less intuitive for sets with an infinite number of elements. 
+
+The example below uses two of the simplest infinite sets, that of natural numbers, and that of positive fractions. The idea is to show that both of these sets, formula_1 and formula_2 have the same cardinality. 
+
+First, the fractions are aligned in an array, as follows:
+
+Next, the numbers are counted, as shown. Fractions which can be simplified are left out:
+
+That way, the fractions are counted:
+
+By omitting fractions that can still be simplified, there is a bijection which associates each element of the natural numbers, to one element of the fractions: 
+
+To show that all natural numbers and the fractions have the same cardinality, the element 0 needs to be added; after each fraction its negative is added;
+
+That way, there is a complete bijection, which associates a fraction to each natural number. In other words: both sets have the same cardinality. Today, sets that have the same number of elements than the set of natural numbers are called countable. Sets which have fewer elements than the natural numbers are called at most countable. With that definition, the set of rational numbers / fractions is countable. 
+
+Infinite sets often have properties which go against intuition: David Hilbert showed this in an experiment which is called Hilbert's paradox of the Grand Hotel.
+
+The set of real numbers does not have the same cardinality than those of the natural numbers; there are more real numbers than natural numbers. The idea outlined above influenced his proof. In his 1891 article, Cantor considered the set "T" of all infinite sequences of binary digits (i.e. each digit is zero or one).
+
+He begins with a constructive proof of the following theorem:
+To prove this, given an enumeration of elements from "T", like e.g.
+The sequence "s" is constructed by choosing the 1st digit as complementary to the 1st digit of "s" (swapping 0s for 1s and vice versa), the 2nd digit as complementary to the 2nd digit of "s", the 3rd digit as complementary to the 3rd digit of "s", and generally for every "n", the "n" digit as complementary to the "n" digit of "s". In the example, this yields:
+By construction, "s" differs from each "s", since their "n" digits differ (highlighted in the example).
+Hence, "s" cannot occur in the enumeration.
+
+Based on this theorem, Cantor then uses a proof by contradiction to show that:
+He assumes for contradiction that "T" was countable. In that case, all its elements could be written as an enumeration "s", "s", … , "s", … .
+Applying the previous theorem to this enumeration would produce a sequence "s" not belonging to the enumeration.
+However, "s" was an element of "T" and should therefore be in the enumeration. 
+This contradicts the original assumption, so "T" must be uncountable.
+
+

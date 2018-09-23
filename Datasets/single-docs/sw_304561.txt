@@ -1,0 +1,11 @@
+Communications satellite
+
+Communications satellites are satellites stationed in space for the purpose of telecommunications. They relay radio waves between different places. Most are in synchronous orbit.
+
+Satellite based communication systems can be used for voice and data transmission in remote and underserved locations such as ships at sea. Satellite internet access is internet access provided through satellites. Satellite based systems can be used for providing high quality broadband internet connection to businesses.
+
+Herman Potočnik (writing as 'Herman Noordung') was the first to propose that space stations use radio to communicate with Earth. In October 1945 Arthur C. Clarke published an article titled "Extraterrestrial relays" in the British magazine "Wireless World". The article described artificial satellites in geostationary orbits to relay radio signals. So, Clarke is often quoted as being the inventor of the communications satellite.
+
+Primitive communication satellites were tested in the early 1960s. Geosynchronous satellites became inpotant in the 1970s.
+
+

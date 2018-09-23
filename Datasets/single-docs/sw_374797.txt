@@ -1,0 +1,5 @@
+Power line communication
+
+Power line communication (or Powerline communication) uses existing electric power lines to send and receive data. The data signal is modulated and multiplexed over several carrier frequencies. There are different technologies that can be used:
+
+

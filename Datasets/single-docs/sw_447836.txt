@@ -1,0 +1,7 @@
+Dune 2000
+
+Dune 2000 is a real-time strategy game released by Westwood Studios. It based on Frank Habert's Dune. It uses a similar game engine to "".
+
+Like in "Dune II", the three main playable housess are House Atreides, House Harkonnen and House Ordos.
+
+

@@ -1,0 +1,20 @@
+Train
+
+A train is a set of vehicles on a railway. The vehicles in a set are called "cars" (in the United States) or "wagons" (in the United Kingdom). Often, people refer to the ones that carry passengers as Coaches or Carriages. A place where a train stops to let people get on and off is called a railway station. Early trains used horse power and ran on wooden or iron tracks. These were used in the Middle Ages. The first steam trains were built in England in the early 19th century. 
+
+Trains contain the prime mover (either locomotive or motor unit) and one or more cars. The locomotive or railway engine (the first car of the train) pulls the cars along the track. Some trains look like a special bus that can only drive on rails. Trains are used to carry people, as well as cargo, such as fuel, imported/exported goods, and so on.
+
+Freight trains have freight cars (US) or goods wagons (UK) to carry goods from one place to another. Some are boxcars (closed and roofed cars for cargo); others are special so they can carry special cargo. There are hopper cars for sand, coal, ore and other granulous (sand-like) materials, flatbed cars for vehicles and machinery, tank cars for liquids, container cars for containers and even bottle cars for molten iron. Almost anything which is not too large to fit under tunnels and bridges can be transported on special freight cars.
+
+Passenger trains have passenger cars (US) or coaches (UK) made so people can ride them from one train station to another. There are few long-distance passenger trains in the United States, but more in Europe and Asia. Most passenger cars are single-deckers: there are also double-decker passenger cars, such as the Finnish Inter-City cars.
+
+Passenger trains are usually a very comfortable way of traveling. Many trains have electrical outlets and Wi-Fi hotspots for computers, and a special restaurant car for dining and refreshments. There are also sleeping cars (passenger cars with beds) for long overnight voyages.
+
+Some unusually fast passenger trains on special tracks are called "bullet trains". A few even faster ones are maglev trains using magnets to hover slightly off the tracks to have less friction.
+
+
+Most trains are pulled by locomotives. Before 1900, almost all were steam locomotives. As this kind of steam engine uses very much fuel for the work it does, steam began to give way to diesel locomotives and electric locomotives during the 1930s. Today, most locomotives are diesel-electric locomotives.
+
+Sometimes a train has no separate locomotive, but the prime mover (diesel engine or electric motor) is located on the first car of the train itself, and the car has engineer's cabin. The car is called a "motor unit". Some trains have motors in many or all of the cars. This is called a diesel multiple unit or electric multiple unit. Usually, both ends of the train have engineer's cabins. These trains are especially popular in commuter traffic in large towns and cities.
+
+

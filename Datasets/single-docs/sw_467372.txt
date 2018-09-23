@@ -1,0 +1,11 @@
+Diastase
+
+Diastases are a group of enzymes which break down starch into the sugar maltose. Diastase was the first enzyme discovered. It was got from malt solution in 1833 by Anselme Payen and Jean-François Persoz, chemists at a French sugar factory. 
+
+The name "diastase" comes from the Greek word διάστασις (diastasis). It means a parting or separation. The enzymes simply split the starch molecule. Today, diastase means any α-, β-, or γ-amylase that can break down carbohydrates.
+
+The commonly used -ase suffix for naming enzymes was derived from the name diastase. The breakdown of starches follows a general diastase-catalysed reaction:
+
+A–B + HO → A–OH + B–H
+
+

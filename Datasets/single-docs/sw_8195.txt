@@ -1,0 +1,10 @@
+Series
+
+A series is a group of several things that are all about the same thing, or are intentionally similar.
+
+In mathematics, a series is the sum of a never ending mathematical sequence (a list of numbers). For example:
+
+The dots mean that the sum does not have a last term, but goes on to infinity. 
+
+
+

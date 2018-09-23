@@ -1,0 +1,12 @@
+Dinornis
+
+Dinornis is an extinct genus of ratite birds. They are ostrich-like birds of gigantic size, known as Moa. They were unique to New Zealand. The genus has five species:
+
+"D. novaezealandiae" 
+"D. giganteus" <br>
+"D. struthoides"<br>
+"Dinornis" new lineage A 
+"Dinornis" new lineage B <br>
+
+
+

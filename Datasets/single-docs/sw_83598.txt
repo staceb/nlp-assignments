@@ -1,0 +1,6 @@
+Orthographic projection
+
+Orthographic projection is a way of showing a 3D object in 2D. It is a form of parallel projection, where the view direction is orthogonal to the projection plane. 
+
+
+

@@ -1,0 +1,7 @@
+Gerrymandering
+
+Gerrymandering is when a political group tries to change a voting district to create a result that helps them or hurts the group who is against them. It is named after Elbridge Gerry (1744-1814). Gerrymandering works by wasting votes. It puts more votes of winners into the district they will win so the losers win in another district. 
+
+If we have Group A and Group B both trying to win in a district. Group A has 40 votes and Group B has 50. In another district Group A knows Group B will win for sure. Group A changes the voting district so that 11 votes are moved to the other district. Now they will win 40 votes to 39.
+
+

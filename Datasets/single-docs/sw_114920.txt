@@ -1,0 +1,7 @@
+Predicate logic
+
+Predicate logic is a system of mathematical logic. It uses predicates to express the state of certain things. It is different from propositional logic because it has the concept of "quantifiers". This means, that it can also express things about quantity.
+
+The best-known quantifiers are the "existence quantifier" (∃) and the "universal quantifier" (∀) . The existence quantifier says that there is at least one (thing) that matches the predicate or formula. The universal quantifier says that all the things match a certain predicate or formula.
+
+

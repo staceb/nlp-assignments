@@ -1,0 +1,10 @@
+Castling
+
+Castling is a special move in chess that uses both a rook and the king. In castling, the king is moved two squares toward the rook, and the rook moves past the king to the square right next to where the king has moved. Castling takes one move, and is the only way for a player to move two of his own pieces on the same move. Castling can be done on either side of the board. Castling can either be done on the king-side (also known as castling short) or on the queen-side (also known as castling long).
+
+Castling is only possible if each of the following things are true:
+
+
+Good players castle in most of their games. It is normally a good idea because it often moves the king into a safer place. The middle of the board is normally not a very safe place for the king to be early in the game. It also makes it easier to get the rook into the game. Castling king-side is generally viewed as being safer, while castling queen-side is viewed as being more aggressive. 
+
+

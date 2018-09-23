@@ -1,0 +1,7 @@
+Boltzmann constant
+
+The Boltzmann constant ("k" or "k") is a physical constant. It relates the average kinetic energy of a particle in a gas with the temperature of the gas. It is the gas constant "R" divided by the Avogadro constant "N":
+
+The Boltzmann constant has SI units of J⋅K, the same as entropy. It is named after the Austrian physicist Ludwig Boltzmann.
+
+

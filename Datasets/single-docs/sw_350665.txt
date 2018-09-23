@@ -1,0 +1,19 @@
+Chemical database
+
+A chemical database is a database specifically designed to store chemical information. This information is about chemical and crystal structures, spectra, reactions and syntheses, and thermophysical data.
+
+Chemical structures are usually shown using lines (that indicate chemical bonds between atoms) and drawn on paper. Computer search algorithm and storage cannot use this method. Small molecules or ligands, are usually represented using lists of atoms and their connections. Large molecules like protein are shown using their building blocks, amino acids and the order of these.
+
+Large chemical databases for structures allow users to store and search for millions of molecules. Therefore, they take up terabytes of memory.
+
+Chemical literature connect structures or properties of chemicals to academic papers or patents related to them. Examples of this type are STN, Scifinder, and Reaxys.
+
+Crystallographic databases store x-ray crystal structure data. Common examples include Protein Data Bank and Cambridge Structural Database.
+
+NMR spectra databases provide information to relate structure and NMR data. They have information on FTIR and mass spectrometry which help in characterization.
+
+Most chemical databases store information on stable molecules. In some databases, information about reaction intermediates and temporarily created products are also stored. Reaction databases contain information about products, educts, and reaction mechanisms. 
+
+Thermophysical data are information about
+
+

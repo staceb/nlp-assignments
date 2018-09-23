@@ -1,0 +1,9 @@
+Aerodynamics
+
+Aerodynamics means studying how air (or gas) travels around something moving through it. Streamlining to reduce drag in vehicles is a major field in aerodynamics. Aircraft design is another.
+
+The study of gases that are not in motion is called aerostatics.
+
+Aerodynamics comes from Aero (Air), and Dynamic (Moving).
+
+

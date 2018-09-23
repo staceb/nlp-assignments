@@ -1,0 +1,7 @@
+Theria
+
+Theria is a subclass of mammals. It includes all mammals that give birth to live young without using a shelled egg.
+
+The theria are divided into two smaller groups (infraclasses): metatheria and eutheria. The sole surviving metatheria are the marsupials, and the eutheria are the placental mammals. 
+
+

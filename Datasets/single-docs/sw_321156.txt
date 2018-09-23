@@ -1,0 +1,25 @@
+Atmospheric chemistry
+
+Atmospheric chemistry is a branch of science in which the chemistry of the Earth's atmosphere and that of other planets is studied. It is a multidisciplinary field of research and draws on environmental chemistry, physics, meteorology, computer modeling, oceanography, geology and volcanology and other disciplines. Research is connected with other areas of study such as climatology.
+
+Studying the atmosphere includes studying the interactions between the atmosphere and living organisms. The composition of the Earth's atmosphere changes as result of natural processes such as volcano emissions, lightning and bombardment by solar particles from the Sun's corona. It has also been changed by human activity. Some of these changes are harmful to human health, crops and ecosystems. Examples of problems include acid rain, ozone depletion, photochemical smog, greenhouse gases and global warming. Atmospheric chemists study the causes of these problems. Atmospheric chemists offer theories about these problems, then test the theories and possible solutions. Atmospheric chemists also note the effects of changes in government policy.
+
+Notes: the concentration of CO and CH vary by season and location. The mean molecular mass of air is 28.97 g/mol.
+
+The ancient Greeks regarded air as one of the four elements. The first scientific studies of atmospheric composition began in the 18th century. Chemists such as Joseph Priestley, Antoine Lavoisier and Henry Cavendish made the first measurements of the composition of the atmosphere. 
+
+In the late 19th and early 20th centuries interest shifted towards trace constituents with very small concentrations. One important discovery for atmospheric chemistry was the discovery of ozone by Christian Friedrich Schönbein in 1840.
+
+The concentrations of trace gases in the atmosphere have changed over time and so have the chemical processes which make and destroy compounds in the air. Two important examples of this were the explanation by Sydney Chapman and Gordon Dobson of how the ozone layer is created and maintained, and the explanation of photochemical smog by Arie Jan Haagen-Smit. Further studies on ozone issues led to the 1995 Nobel Prize in Chemistry award shared between Paul Crutzen, Mario Molina and Frank Sherwood Rowland.
+
+In the 21st century the focus is now shifting again. Atmospheric chemistry is increasingly studied as one part of the Earth system. Before, scientists focused on atmospheric chemistry in isolation. Now, scientists study atmospheric chemistry as one part of a single system with the rest of the atmosphere, biosphere and geosphere. A reason for this is the links between chemistry and climate. For example, changing climate and the recovery of the ozone hole affect each other. Also, the composition of the atmosphere interact with the oceans and terrestrial ecosystems.
+
+Observations, lab measurements and modeling are the three central elements in atmospheric chemistry. All three methods are used together. For example, observations may tell that more of a chemical compound exists than previously thought possible. This will stimulate new modelling and laboratory studies which will increase scientific understanding to a point where the observations can be explained. 
+
+Observations of atmospheric chemistry are important. Scientist record data about the chemical composition of air over time to watch for any changes. One example of this is the Keeling Curve - a series of measurements from 1958 to today which show a steady rise in of the concentration of carbon dioxide. Observations of atmospheric chemistry are made in observatories such as that on Mauna Loa and on mobile platforms such as aircraft, ships and balloons. Observations of atmospheric composition are increasingly made by satellites giving a global picture of air pollution and chemistry. Surface observations have the advantage that they provide long term records at high time resolution but provide data from a limited vertical and horizontal space. Some surface based instruments such as LIDAR can provide concentration profiles of chemical compounds and aerosol but are still restricted in the horizontal region they cover. Many observations are shared on-line.
+
+Measurements made in the laboratory are essential to our understanding of the sources and sinks of pollutants and compounds found in nature. Lab studies tell which gases react with each other and how fast they react. Scientists measure reactions in the gas phase, on surfaces and in water. Scientists also study photochemistry which quantifies how quickly molecules are split apart by sunlight and what the products are. Scientists also study thermodynamic data such as Henry's law coefficients.
+
+
+
+

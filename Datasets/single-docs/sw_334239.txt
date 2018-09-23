@@ -1,0 +1,7 @@
+List of counties in New Jersey
+
+There are 21 counties in the U.S. state of New Jersey. These counties together have 566 municipalities, or administrative entities composed of clearly defined territory; 250 boroughs, 52 cities, 15 towns, 245 townships, and 4 villages. In New Jersey, a county is a local level of government between the state and municipalities. County government in New Jersey includes a Board of Chosen Freeholders, sheriff, clerk, and surrogate (responsible for uncontested and routine probate). All of these jobs are elected officials. Counties are responsible for the maintenance of jails, parks, and certain roads. The site of a county's administration and courts is called the county seat.
+
+The Federal Information Processing Standard (FIPS) code, used by the United States government to uniquely identify counties, is provided with each entry. FIPS codes are five digit numbers. For New Jersey the codes start with 34 and are completed with the three digit county code. The FIPS code for each county in the table links to census data for that county.
+
+

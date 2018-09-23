@@ -1,0 +1,29 @@
+Homology
+
+A homologous trait is any characteristic which is derived by evolution from a common ancestor. This is contrasted to analogous traits: similarities between organisms that were evolved separately. 
+
+The term existed before 1859, but got its modern meaning after Darwin established the idea of common descent.
+The pre-Darwinian naturalists Cuvier, Geoffroy and Richard Owen, also used the idea.
+
+A homologous trait is often called a homolog (also spelled homologue). In genetics, the term "homolog" is used both to refer to a homologous protein, and to the gene (DNA sequence) encoding it.
+
+According to Russell, we owe to Richard Owen the first clear distinction between homologous and analogous organs. Owen's definitions were:
+
+The distinction is made clear by examples such as the ear ossicles of mammals. These little bones have, in the course of several hundred million years of evolution, made their way from the gill covers of fish to the rear jaw bones of Synapsids to their present position in the ear of mammals. In the fossil record is evidence of this, and also in embryology. As the embryo develops, the cartilage hardens to form bone. Later in development, tiny bone structures break loose from the jaw and migrate to the inner ear area. The ear ossicles are homologous with the jaw bones and the gill covers, but not analogous.
+
+This rather extraordinary story was first proposed nearly two hundred years ago by Geoffroy, who looked at fish and tried to discover the homologies of their bones with that of land vertebrates.
+
+"A trait may be both homologous and analogous", depending on the level at which the trait is examined. For example, the wings of birds and bats are homologous as "forearms" in tetrapods. However, they are not homologous as "wings", because the organ served as a forearm (not a wing) in the last common ancestor of tetrapods. 
+
+By definition, any homologous trait defines a clade–a monophyletic taxon in which all the members have the trait (or have lost it secondarily); and all non-members lack it.
+
+
+Conserved sequences of DNA, RNA and proteins can be used to decide homologies between organisms.
+
+
+
+In evolutionary developmental biology, the concept of deep homology is used to describe cases where growth and differentiation are controlled by genetic mechanisms that are homologous and deeply conserved across a wide range of species. Textbook examples common to metazoa include the homeotic genes that control differentiation along the body, and pax genes (especially PAX6) involved in the development of the eye and other sensory organs.
+
+An algorithm identifies deeply homologous genetic modules in unicellular organisms, plants, and non-human animals based on phenotypes (such as traits and developmental defects). The technique aligns phenotypes across organisms based on the homology of genes involved in the phenotypes.
+
+

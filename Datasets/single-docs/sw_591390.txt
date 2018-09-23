@@ -1,0 +1,56 @@
+English alphabet
+
+The modern English alphabet is a Latin alphabet of 26 letters (each having an uppercase and a lowercase form) – exactly the same letters that are found in the ISO basic Latin alphabet:
+
+The exact shape of printed letters changes depending on the typeface (and font). The shape of handwritten letters can be very different from the standard printed form (and between individuals), especially when written in cursive style. See the individual letter articles for information about letter shapes and origins (follow the links on any of the uppercase letters above).
+
+Written English uses 18 digraphs (strings of two letters to represent just one sound), such as "ch, sh, th, ph, wh," etc., but they are not considered separate letters of the alphabet. Some traditions also call two ligatures, "æ" and "œ", and the ampersand (&) part of the alphabet.
+
+The English language was first written in Anglo-Saxon futhorc runes, used since the 5th century. This alphabet was brought to what is now England, along with Old English itself, the earliest form of the language, by Anglo-Saxon settlers. Very few examples of this form of written Old English have survived, with most of these being short writings or pieces.
+
+The Latin script, introduced by Christian missionaries, began to replace the Anglo-Saxon futhorc from about the 7th century, although the two continued to be used alongside each other for some time. Futhorc influenced the new Latin-based English alphabet by giving it letters "thorn" (Þ þ) and "wynn" (Ƿ ƿ). The letter "eth" (Ð ð) was later devised as a rewriting of the letter "dee" (D d), and finally "yogh" ( ) was created by Norman scribes from the insular "g" in Old English and Irish, and used alongside their Carolingian "g".
+
+The a-e ligature "ash" (Æ æ) was adopted as a letter in its own right, named after a futhorc rune "æsc". In very early Old English the o-e ligature "ethel" (Œ œ) also appeared as its own letter, likewise named after a rune, "œðel". Also, the v-v or u-u ligature "double-u" (W w) was in use.
+
+In the year 1011, a monk named Byrhtferð recorded the traditional order of the Old English alphabet. He listed the 24 letters of the Latin alphabet first (including ampersand), then 5 additional English letters, starting with the Tironian note "ond" (⁊), an insular symbol for "and":
+
+In the alphabet of Modern English, thorn (þ), eth (ð), wynn (ƿ), yogh (), ash (æ), and ethel (œ) do not exist. Latin borrowings reintroduced homographs of ash and ethel into Middle English and Early Modern English, though they are not thought to be the same letters but rather ligatures, and in any case are somewhat old-fashioned. Thorn and eth were both replaced by "th", though thorn continued in existence for some time, its lowercase form becoming more and more difficult to tell  from the minuscule y in most handwriting. "Y" for "th" can still be seen in pseudo-archaisms (modern writings spelled to look like older words or phrases), such as "Ye Olde Booke Shoppe". The letters þ and ð are still used in present-day Icelandic while ð is still used in present-day Faroese. Wynn disappeared from English around the 14th century when it was supplanted by "uu", which ultimately developed into the modern "w". Yogh disappeared around the 15th century and was typically replaced by "gh".
+
+In the 16th century, the letters "u and j" were being written as letters distinct from "v" and "i "respectively, whereas before the former two letters were just different forms of the latter two letters. w also became its own letter, rather than be thought of as 2 different letters. With these changes, the English alphabet now has 26 letters:
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+The alternate lowercase form long s (ſ) lasted into early modern English, and was used in non-final position up to the early 19th century.
+
+Different  have been proposed for written English –
+mostly extending or replacing the basic English alphabet –
+such as the Deseret alphabet, the Shavian alphabet, Gregg shorthand, etc.
+
+Diacritic marks (extra marks to help non-native speakers with pronunciation) mainly appear in loanwords such as "naïve" and "façade". As such words become a normal part of English vocabulary, there is a tendency to remove the diacritics, as has happened with old borrowings such as "hôtel", from French. Informal English writing tends to get rid of diacritics because of their absence from the keyboard, while professional copywriters and typesetters tend to include them, such as Microsoft Word. Words that are still thought to be foreign tend to keep them; for example, the only spelling of "soupçon" found in English dictionaries (the OED and others) uses the diacritic. Diacritics are also more likely to be kept where there would otherwise be confusion with another word (for example, "résumé" (or "resumé") rather than "resume"), and, rarely, even added (as in "maté", from Spanish "yerba mate", but following the pattern of "café", from French).
+
+Sometimes, especially in older writing, diacritics are used to show the syllables of a word: "cursed" (verb) is pronounced with one syllable, while "cursèd" (adjective) is pronounced with two. "È" is used widely in poetry, e.g. in Shakespeare's sonnets. J.R.R. Tolkien uses "ë", as in "O wingëd crown". Similarly, while in "chicken coop" the letters "-oo-" represent a single vowel sound (a digraph), in outdated spellings such as "zoölogist" and "coöperation", they represent two. This use of the diaeresis is rarely seen, but is still used in the 2000s in some publications, such as "MIT Technology Review" and "The New Yorker".
+
+An acute, grave, or diaeresis may also be placed over an "e" at the end of a word to indicate that it is not silent, as in "saké". In general, these markings are often not used even when they could ease some level of confusion.
+
+The & has sometimes appeared at the end of the English alphabet, like in Byrhtferð's list of letters in 1011. Historically, the figure is a ligature for the letters "Et". In English and many other languages it is used to represent the word "and" and occasionally the Latin word "et", as in the abbreviation "&c" (et cetera).
+
+The apostrophe, while not considered part of the English alphabet, is used to contract, or shorten, English phrases. A few pairs of words, such as "its" (belonging to "it") and "it's" ("it is" or "it has"), "were" (plural of "was") and "we're" (we are), and "shed" (to get rid of) and "she'd" ("she would" or "she had") are distinguished in writing only by having or not having an apostrophe. The apostrophe also distinguishes the possessive endings "-'s" and "-s'" from the common plural ending "-s", a practice that began in the 18th century; before, all three endings were written "-s", which could lead to confusion (as in, "the Apostles words").
+
+The names of the letters are rarely spelled out, except when used in compound words (for example "tee-shirt, deejay, emcee, okay, aitchless," etc.), derived forms (for example "exed out, effing, to eff and blind", etc.), and in the names of objects named after letters (for example "em (space)" in printing and "wye (junction)" in railroading). The forms listed below are from the Oxford English Dictionary. Vowels stand for themselves, and consonants usually have the form "consonant + ee" or "e + consonant" (e.g. "bee" and "ef"). The exceptions are the letters "aitch, jay, kay, cue, ar, ess" (but "es-" in compounds ), "wye", and "zed". Plurals of consonants end in "-s" ("bees, efs, ems") or, in the cases of "aitch, ess", and "ex", in "-es" ("aitches, esses, exes"). Plurals of vowels end in "-es" ("aes, ees, ies, oes, ues"); these are rare. Of course, all letters may stand for themselves, generally in capitalized form ("okay" or "OK", "emcee" or "MC"), and plurals may be based on these ("aes" or "As", "cees" or "Cs", etc.")"
+
+Some groups of letters, such as "pee" and "bee", or "em" and "en", are easily confused in speech, especially when heard over the telephone or a radio communications link. Spelling alphabets such as the ICAO spelling alphabet, used by aircraft pilots, police and others, are made to get rid of this confusion by giving each letter a name that sounds quite different from any other.
+
+The names of the letters are for the most part direct descendants of the Latin (and Etruscan) names through French. 
+
+The regular phonological developments (in rough chronological order) are:
+The novel forms are "aitch", a regular development of Medieval Latin "acca"; "jay", a new letter presumably vocalized like neighboring "kay" to avoid confusion with established "gee" (the other name, "jy", was taken from French); "vee", a new letter named by analogy with the majority; "double-u", a new letter, self-explanatory (the name of Latin V was "ū"); "wye", of obscure origin but with an antecedent in Old French "wi"; "zee", an American leveling of "zed" by analogy with the majority; and "izzard", from the Romance phrase "i zed" or "i zeto" "and Z" said when reciting the alphabet.
+
+The letters A, E, I, O, and U are considered vowel letters, since (except when silent) they represent vowels; the remaining letters are considered consonant letters, since when not silent they generally represent consonants. However, Y commonly represents vowels as well as a consonant (e.g., "myth"), as very rarely does W (e.g., "cwm"). Conversely, U and I sometimes represent a consonant (e.g., "quiz" and "onion" respectively).
+
+W and Y are sometimes called semivowels by linguists.
+
+The letter most commonly used in English is E. The least used letter is Z.
+
+The table below shows the frequency of letter usage in written English, although the frequencies change somewhat according to the type of text.
+
+

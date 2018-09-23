@@ -1,0 +1,19 @@
+Humidex
+
+The humidex ("Hyu-mah-deks") is a temperature index used by Canadian meteorologists to describe how hot the weather feels to a person, by adding the effect of heat and humidity. For example, if the temperature is and the calculated humidex is 40, then that means the humid heat feels like a dry temperature of . The index is widely used in Canadian weather reports during summer to give the discomfort level.
+
+According to the Meteorological Service of Canada, a humidex of at least 30 causes "some discomfort", at least 40 causes "great discomfort" and above 45 is "dangerous". When the humidex hits 54, then heat stroke is very near.
+
+The current formula for getting the humidex (see below: Humidex formula) was developed by J.M. Masterton and F.A. Richardson of Canada's Atmospheric Environment Service in 1979. The humidex differs from the heat index used in the United States, in being derived from the dew point rather than the relative humidity.
+
+The record highest humidex in Canada occurred on July 25, 2007, when Carman, Manitoba hit 53.0. That number broke the previous record of 52.1 set during 1953 in Windsor, Ontario (The residents of Windsor would not have known it at the time, since the humidex had yet to be invented).
+
+When the temperature is 30 °C (86 °F) and the dew point is 15 °C (59 °F), the humidex is 34. Note how humidex is a dimensionless number, but it indicates an approximate temperature in °C. If the temperature remains and the dew point rises to , the humidex rises to 42. The humidex tends to be higher than the U.S. heat index at equal temperature and relative humidity.
+
+The humidex formula is as follows:
+
+Complete:
+
+
+
+

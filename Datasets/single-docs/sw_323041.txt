@@ -1,0 +1,7 @@
+Collatz conjecture
+
+The Collatz conjecture is a conjecture (an idea which many people think is likely) in mathematics. It is named after Lothar Collatz. He first proposed it in 1937. It is about what happens when something is done repeatedly (over and over) starting at some integer "n":
+The conjecture states that if "n" is positive, "n" will always reach one.
+Here is an example sequence:
+
+

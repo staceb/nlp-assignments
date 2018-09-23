@@ -1,0 +1,10 @@
+Software engineering
+
+Software engineering is a field of engineering, for designing and writing programs for computers or other electronic devices. A software engineer, or programmer, writes software (or changes existing software) and compiles software using methods that improve it. Better quality software is easier to use. Better documentation helps other people understand and maintain it and add new features. Becoming a software engineer requires experience and practice writing code. Software engineering may be very difficult work. It may be repeated during the software release life cycle.
+
+Software engineering can broadly be split into the following steps:
+Software engineers use many tools and practices in making software. Some of the most common are:
+
+
+
+

@@ -1,0 +1,10 @@
+Classical physics
+
+Classical physics is physics that was worked out before our more modern and complete theories. Sir Isaac Newton made major contributions to our understanding of classical mechanics, mathematics, optics and other areas. Many other scientists improved upon his work. Newton observed that things in nature such as the falling of an apple occur the same way each time. For instance, a cannonball dropped from a tall building will strike the ground after the same length of time no matter how many times you drop it. It will be going the same speed each time that it hits the ground. Newton made equations that let him such events. He called these equations the laws of physics. 
+
+Newton's laws of physics have been tested both by s and by using them in doing jobs. Sometimes other things with an and make the results come out a little wrong. For instance, in the example above, a powerful wind coming from directly below the cannonball could slow it down a little bit. But when people make efforts to get rid of these extra factors, the results of the experiments always get closer to what Newton's laws predict. Or at least that was always the case for ordinary things and events.
+
+Classical physics turned out not to work when the things being studied were very, very small (around the size of atoms or smaller), or were moving very, very fast (at some fairly large of the speed of light). So, around the beginning of the twentieth century, Albert Einstein worked out his Theory of Relativity and people like Neils Bohr, Werner Heisenberg. and Erwin Schrödinger created quantum mechanics.
+
+
+

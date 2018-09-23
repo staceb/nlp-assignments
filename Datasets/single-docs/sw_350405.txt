@@ -1,0 +1,16 @@
+Telephone numbers in Belgium
+
+Country code: +32
+International call prefix: 00
+Trunk prefix: 0
+
+A telephone number in Belgium is nine or ten digits dialed on a telephone to make a call. Belgium is under a closed telephone numbering plan. It keeps the trunk code, '0', for all national dialling. 
+
+Area codes in Belgium are one or two digits long. All Belgian telephone numbers dialed in Belgium must use the leading '0' trunk code. 
+
+From outside Belgium, a caller would dial their international call prefix (typically 00 in Europe and 011 in North America), followed by 32 (the country code for Belgium), then the area code minus the trunk code '0', and finally the local number.
+
+Mobile/GSM area codes always begin with 04xx and the subscriber number is six digits long. 
+
+
+

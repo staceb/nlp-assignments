@@ -1,0 +1,9 @@
+LD50
+
+The name LD is an abbreviation for "Lethal Dose, 50%" or median lethal dose. It is the amount of the substance required (usually per body weight) to kill 50% of the test population.
+
+The test was created by J.W. Trevan in 1927 but has been phased out. The U.S. Food and Drug Administration has begun to approve non-animal alternatives to LD50, in response to research cruelty concerns and the lack of validity/sensitivity of animal tests as they relate to humans.
+
+
+
+

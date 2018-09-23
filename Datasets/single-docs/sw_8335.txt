@@ -1,0 +1,14 @@
+Equation
+
+A mathematical equation is an expression containing at least one variable (=unknown value) and an "equals sign" ( = ) with a mathematical expression on each side of it. The equals sign says that both sides are exactly the same value. An equation can be as simple as x=0, or as hard as 4(3y^99)+76=42÷3x or harder.
+
+There are two kinds of mathematical equations:
+
+The second kind is often used to solve problems in which you have to know the value of some variables. For example,
+
+The second kind of equation is used in algebra. For example, to solve the equation 2x = 8 by finding x you would follow an algebraic rule. Then you can work out that x = 4.
+
+Equations can be classified by the types of operations and quantities involved. Some types of equations are:
+
+
+

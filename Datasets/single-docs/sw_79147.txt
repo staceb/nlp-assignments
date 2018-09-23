@@ -1,0 +1,30 @@
+Blood type
+
+Blood type or blood group is a medical term. It describes the type of blood a person has. It is a classification of blood based on the presence or absence of inherited antigenic substances on the surface of red blood cells (RBCs).
+
+Blood types predict whether a serious reaction will occur in a blood transfusion. This reaction is called a "haemolytic reaction". It may destroy red blood cells, and cause renal failure. Shock is likely to occur, and death is a possibility.
+
+When a blood transfusion or an organ transplant takes place, it is vital to know the blood types of the donor (who gives blood) and the receiver (who needs blood).
+
+There are a number of human blood group systems. Of these systems, the ABO blood group system and the Rhesus blood group system are the most important. In this system the presence or absence of the A-antigen, the B-antigen and the RhD-antigen are determined.
+
+The principle of the ABO system is that antigens – in this instance, sugars exposed on the surface of red blood cells – differ between individuals. People have immunological tolerance only for what occurs in their own bodies. As a result, humans may produce antibodies against natural components in the bodies of "other" people, but not themselves. So, people may produce antibodies against A and/or B antigens if they are not in their blood.
+
+These antibodies clump red blood cells together if they carry the foreign antigens. This harsh response can cause death when large amounts of such cells are encountered after a blood transfusion. Because A and B antigens are chemically modified from a precursor form that is also present in type O individuals, people with type A and B antigens can accept blood from type O individuals.
+
+Anti-A and anti-B antibodies are not present in the newborn. They appear in the first years of life. Anti-A and anti-B antibodies are usually too big to pass through the placenta to the foetal blood circulation.
+
+In a laboratory, blood is tested for antigens. When a certain antigen is found, there are also always antibodies found. Antibodies attack (attach to) antigens that they do not recognise.
+
+The blood is thus tagged as being "A positive", "O negative" for instance, where the letter refers to the ABO blood group and "positive" or "negative" refers to whether or not the RhD-antigen of the Rhesus blood group system was found. It can also be written "A+ " and "O-", respectively.
+
+
+People with type O negative blood are often called universal donors because they can give blood to any other blood group. People with type AB positive blood are called universal recipients because they can receive blood from any other blood group.
+
+The Rh factor (Rh meaning Rhesus) is a feature of the second most common blood-group system in human-blood transfusion. it is named after the Rhesus monkey where they were first discovered. Rh is an inherited trait, which refers to a protein on the surface of an individual's red blood cells.
+
+The Rh factor is separate from, and in addition to, ABO groups. The Rh factor is either present on individual's red blood cells or it is not. Rh positive means the factor is present. Rh negative means it is not present. In blood transfusions it is important that the blood donor and recipient have the same Rh factor and same blood group.
+
+Before a transfusion takes place blood is thoroughly tested for anything that might cause problems for the receiver.
+
+

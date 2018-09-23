@@ -1,0 +1,8 @@
+Biomolecule
+
+A biomolecule is any molecule that is produced by a living organism. This includes large macromolecules such as proteins, polysaccharides, lipids, and nucleic acids, as well as many smaller molecule A more general name for this class of molecules is "biogenic substances".
+
+A diverse range of biomolecules exist, including:
+
+
+

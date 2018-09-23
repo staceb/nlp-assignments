@@ -1,0 +1,10 @@
+Orbital eccentricity
+
+In astrodynamics, orbital eccentricity shows how much the shape of an object's orbit is different from a circle.
+Eccentricity (formula_1) is defined for all circular, elliptic, parabolic and hyperbolic orbits. It can take the following values:
+
+Use this formula:
+
+formula_6, where e is the eccentricity, r is the apoapsis (far point) of the object's orbit, and r is the periapsis (near point) of the object's orbit. The near and far points are the apsides.
+
+

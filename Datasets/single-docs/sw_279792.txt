@@ -1,0 +1,25 @@
+Tesla (unit)
+
+The tesla (symbol T) is the SI derived unit used to measure magnetic fields. Tesla can be measured in different ways; for example, one tesla is equal to one weber per square meter.
+
+The tesla was first defined in 1960 by the General Conference on Weights and Measures (CGPM). It was named in honor of the physicist, electrical engineer, and inventor, Nikola Tesla.
+
+Using only the seven base SI units, the definition of a tesla is:
+
+Using other SI derived units, a tesla is also equal to:
+The units used are:
+
+A = ampere
+<br>C = coulomb
+<br>kg = kilogram
+<br>m = meter
+<br>N = newton
+<br>s = second
+<br>T = tesla
+<br>V = volt
+<br>Wb = weber
+
+A tesla is also equal to 10,000 (10) gauss in the CGS system of units.
+
+
+

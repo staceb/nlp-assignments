@@ -1,0 +1,8 @@
+Steam turbine
+
+A steam turbine is a machine that gets thermal energy from pressurised steam. It uses the energy to do mechanical work by rotation. It is usually connected to a generator to produce electricity.
+
+There are many sizes of steam turbines, from small ones (less than 0.75 kW) for pumps and other devices, to larger ones (1,500,000 kW) for producing electricity.
+
+
+

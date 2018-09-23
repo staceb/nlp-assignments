@@ -1,0 +1,7 @@
+Commodore VIC-20
+
+Commodore VIC-20 was a home computer released in 1980. It was made by Commodore Business Machines. It was the first computer that sold over million sets.
+
+The Commodore VIC-20 was powered by a 6502 CPU, running at 1 MHz. Though the system reportedly had 5KB of RAM, users only had access to about 3.5KB for BASIC programs. It had no internal, permanent, data storage, but could save programs on standard audio tapes and later, on 5.25 inch floppy disks. In early 1985,this computer was discontinued.
+
+

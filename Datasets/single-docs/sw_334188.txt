@@ -1,0 +1,7 @@
+List of counties in Pennsylvania
+
+There are sixty-seven counties of the Commonwealth of Pennsylvania in the United States of America. The city of Philadelphia shares boundaries with Philadelphia County, and governmental functions have been shared since 1854.
+
+The Federal Information Processing Standard (FIPS) code, used by the United States government to uniquely identify counties, is provided with each entry. FIPS codes are five digit numbers, for Pennsylvania the codes start with 42 and are completed with the three digit county code. The FIPS code for each county in the table links to census data for that county.
+
+

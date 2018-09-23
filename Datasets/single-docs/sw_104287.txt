@@ -1,0 +1,25 @@
+Cybernetics
+
+Cybernetics is the study of control and communication in the animal and the machine. Norbert Wiener added: "Information is information, not matter or energy".
+
+Ross Ashby defined it as: "the art of steermanship... co-ordination, regulation and control will be its
+themes, for these are of the greatest biological and practical interest... it treats, not things but ways of
+behaving. It does not ask “what is this thing?” but “what does it
+do?” Ashby continued: 
+
+Louis Couffignal said cybernetics was "the art of ensuring the efficacy of action". 
+
+Cybernetics was from the first an inter-disciplinary field of study. It included people from at least a dozen academic disciplines. There were two events which sparked it off after World War II. The first was that scientists from different backgrounds had, during the war, worked together on various military projects. They learned a good deal about how to cooperate with their various partners. The second event was the invention of computers during the war. 
+
+The countries which started cybernetics were Britain and the United States, but the idea spread quickly to France, Russia and other countries. Another, more famous, example of 'interdisciplinary studies' was molecular and cell biology.
+
+Imagine a simple system such as a central heating system.
+
+A goal-directed or control system has these four parts: 
+
+The device which does this is called a thermostat.
+
+Cybernetics started rapidly, and some of the greatest thinkers of the post-war era were interested in it. When this generation died, and some of the hopes for artificial intelligence and robotics were slow to produce results, cybernetics fell somewhat out of favour.
+
+
+

@@ -1,0 +1,5 @@
+Audio feedback
+
+Audio feedback is typically unwanted noise that occurs when an audio system oscillates. It often happens when microphones are pointed at loudspeakers. There are ways to avoid or reduce feedback, such as with equalization or reducing the room's echo.
+
+

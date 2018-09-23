@@ -1,0 +1,8 @@
+Trapezoid
+
+A trapezoid (in North America) or trapezium (in Britain and elsewhere) is a quadrilateral, which is defined as a shape with four sides, which has one set of parallel sides. In North America, they call a trapezium as an irregular quadrilateral by people outside of North America.
+
+To calculate the area of a trapezoid, you must add the two parallel sides together, divide that by 2, then times that by its height.
+
+
+

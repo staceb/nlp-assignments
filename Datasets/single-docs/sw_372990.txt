@@ -1,0 +1,13 @@
+Australian Plant Name Index
+
+The Australian Plant Name Index (APNI) is an online database of all published names of Australian vascular plants. It covers all names, whether current names, synonyms or invalid names. It includes bibliographic and typification details, links to other resources, and data from the Census of Australian Vascular Plants divided by state. Users can also make notes and comments on other details.
+
+The APNI is recognised by Australian herbaria as the official source for Australian plant descriptions. It is the core component of Australia's Virtual Herbarium, which is a collaborative project with A$10-million funding. The project is aimed at providing integrated online access to the data and specimen collections of Australia's major herbaria.
+
+Two search interfaces are offered:
+
+Originally the idea of Nancy Tyson Burbidge, it began as a four-volume printed work of 3,055 pages. It contains over 60,000 plant names. It was compiled by Arthur Chapman, and was part of the Australian Biological Resources Study (ABRS). In 1991 it was made available as an online database, and handed over to the Australian National Botanic Gardens. Two years later, responsibility for its maintenance has given to the newly formed Centre for Plant Biodiversity Research.
+
+
+
+

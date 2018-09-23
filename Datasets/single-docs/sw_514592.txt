@@ -1,0 +1,11 @@
+DNA methylation
+
+DNA methylation is the main way gene activity is adjusted during life, especially during early development.
+
+It is a process by which methyl groups are added to DNA. This suppresses gene transcription. Two of DNA's four nucleotides, cytosine and adenine, can be methylated. Since adenine methylation is restricted to prokaryotes, all eukaryote transcription is regulated by suppressing cytosine.
+
+Suppressing genes is the basis of epigenetics, the study of changes in gene activity which are "not" caused by changes in the DNA sequence. It is the study of gene expression, the way genes bring about their phenotypic effects.
+
+The changes in gene activity by methylation may last for the rest of the cell's life, and for many generations of cells through cell divisions. However, there is no change in the underlying DNA sequence of the organism. Instead, non-hereditary factors cause the organism's genes to behave (express themselves) differently.
+
+

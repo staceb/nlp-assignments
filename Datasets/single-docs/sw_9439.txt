@@ -1,0 +1,9 @@
+Transaction
+
+A transaction is where something is bought, sold or traded.
+
+A bank transaction is when money is taken out of or put into a bank. There are two mode of transactions as we can bank transact in two ways:
+
+Transaction of money can be done through any means-by forms, cheques, etc.
+
+

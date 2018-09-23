@@ -1,0 +1,10 @@
+XPilot
+
+XPilot is multiplayer 2D space action video game. It is an open source game, and its first version was released in 1991.
+
+"XPilot" was created in 1991 by Bjørn Stabell and Ken Ronny Schouten, students in computer science at the Tromsø university (Norway), as a multiplayer game similar to "Thrust". They received a lot of patches and feedback when they released the first public version. The game has been improved a lot by players from all the world and has many contributors. Originally only available on UNIX, it was ported on the Mac OS and Microsoft Windows. It has been forked and new versions appeared: XPilot 5 and XPilot NG (Next Generation).
+
+In 2009 a version was released for iPhone and iTouch. Several projects are currently in progress: a Java version of XPilot, an optimisate version for the "Blood's Music" map and a project to improve the artificial intelligence.
+
+
+

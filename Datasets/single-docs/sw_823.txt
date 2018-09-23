@@ -1,0 +1,32 @@
+Test
+
+A test is a way of checking something to see if it is true, or false, or if it is edible or not. If something can be tested, or finishes the tests correctly, it is testable. The "Concise Oxford English Dictionary" defines a test as: "a procedure intended to establish the quality, performance, or reliability of something".
+
+A test is different from an experiment: Before a test is done, there is an expected result. The test is performed, to show this result. In an experiment, the outcome is open. Very often, tests are performed as part of an experiment.
+
+Products are usually tested for quality, and so that many customers will get the best products.
+
+People are tested to see what they have learned. This is often called an assessment or examination. In learning, a test item is a question, or set of questions.
+
+Many people think tests are valuable. They believe tests:
+
+However, academic tests are not perfect measures. The educator Salman Khan said this about tests in his 2012 book "The One World Schoolhouse: Education Reimagined":
+
+Tests measure the "approximate" state of a student’s memory and "perhaps" understanding, in regard to a particular subset of subject matter at a given moment in time, it being understood that the measurement can vary considerably and randomly according to the particular questions being asked.
+
+People and animals can also be tested for illnesses. For example, a blood test can be used to check for disease.
+
+Rarely, people use "tests" to check people's hearts. For instance, in a famous rap song, in Korea, the lyrics were about a boyfriend, telling his girlfriend, "I'm sorry, but I must tell you we have to break up. I do not love you, I have to tell you. Forgive me, but I have to tell you. It's all a test." - Many people accuse this theory as an "excuse to be offensive" or an "excuse to break up with his girlfriend", so it does not count very "logically" in the "test" page.
+
+In science, tests are called experiments. These are done to check for a presence of a substance, or to check the quality of the thing being tested.
+
+In software engineering, a test is used to determine a characteristic of a software system. Software is tested before it is released. "Alpha" testing is where software developers check the software for bugs. Software can also be checked for quality and usability. "Beta" testing is done by groups of users.
+
+Cars and other vehicles are tested using a crash test. The car is put under severe conditions to see what will make it fail. Other machines can also be crash tested. Crash test dummies stand in for humans. They 'sit' in the car seat to see if a human in the crash would have been injured or killed.
+
+The River Test is a chalk stream in the south of England. The river is used a lot for trout fishing. The river starts near Overton, in Hampshire and ends at the sea at the head of Southampton Water.
+
+Sometimes, though perhaps not often, police officers use "tests" to find out criminals, by measuring their pulse or heartbeat when asking questions. 
+
+
+

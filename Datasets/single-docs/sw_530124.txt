@@ -1,0 +1,7 @@
+Pressurized heavy-water reactor
+
+A pressurized heavy-water reactor (PHWR) is a nuclear reactor developed by Canada. It commonly uses uranium as its fuel. It uses heavy water (deuterium oxide DO) as its coolant and neutron moderator. The heavy water coolant is kept under pressure. This allows it to be heated to higher temperatures without boiling. While heavy water is a lot more expensive than ordinary water, it creates greatly enhanced neutron economy. This allows the reactor to operate without fuel-enrichment facilities (offsetting the additional expense of the heavy water).
+
+<br>
+
+

@@ -1,0 +1,5 @@
+Analog computer
+
+An analog computer is a device that uses continuous processes, lengths or signals to perform a computation. The main difference from digital computers is that there is no count or measurement of distinct events. Examples of analog computers are the abacus, and the slide rule,
+
+

@@ -1,0 +1,8 @@
+Gristmill
+
+A grist mill grinds grain into flour. Most old ones are watermills.
+They have a waterwheel and 2 stones for grinding. Water pushes the wheel causing it to spin. This movement causes an axle inside to turn. The axle is connected to a gear which causes the grinding stones to spin. At the top, there is a chute filled with grain. The grain slowly falls through into the grinding stones.
+
+Some old grist mills are windmills.
+
+

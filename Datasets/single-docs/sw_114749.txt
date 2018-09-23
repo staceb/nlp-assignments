@@ -1,0 +1,5 @@
+Virtualization
+
+Virtualization (or Virtualisation) is a word used in computing. Virtualization means that the users (programs, or real people) only see an abstraction of a computer resource. Virtualization can be done in software, or with hardware.
+
+

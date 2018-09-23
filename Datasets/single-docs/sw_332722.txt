@@ -1,0 +1,5 @@
+Bridge router
+
+A Bridge router or Brouter is a type of telecommunication processor used in networking. It is a combination of both bridge and router.
+
+

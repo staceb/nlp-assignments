@@ -1,0 +1,15 @@
+Speed
+
+Speed is the distance that an object moves in a given amount of time. Speed is a measure of how fast something is moving. The average speed of an object in a certain time is the distance the object travelled divided by the time. 
+
+To find speed formula_1,
+
+formula_2formula_3
+
+where formula_4 is the distance and formula_5 is the time that has gone by.
+
+There are many units of measurement for speed. For example, an object's speed can be measured in 
+
+When an object changes speed, it gets faster or slower. If the speed of the object increases, it is called acceleration. If the object gets slower, and the speed decreases, it is called deceleration, or negative acceleration.
+
+

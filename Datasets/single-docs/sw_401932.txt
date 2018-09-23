@@ -1,0 +1,7 @@
+Bottle opener
+
+Bottle opener is a tool which is used to open bottles. 
+
+It is also a second class lever.
+
+

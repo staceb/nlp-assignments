@@ -1,0 +1,10 @@
+Sicilian defence
+
+The Sicilian defence, usually called just "the Sicilian", is a chess opening, which starts with these moves: 
+In competitive chess, it is by far the most frequently played reply to the King's Pawn opening (1.e4).
+Now Black decides where to put his KB: on e7 or g7; his QN will probably go to c6.
+
+Instead of 3.f4, a slower game with 3.g3 followed by Bg2 and d3 could be chosen by White.
+
+
+

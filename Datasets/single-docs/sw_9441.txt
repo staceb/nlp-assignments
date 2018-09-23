@@ -1,0 +1,11 @@
+Pipeline
+
+A pipeline is a long tube, that is used to transport liquids or gases over long distances. Pipelines are made of metal. While the transport of liquids and gases is common, some pipelines are used to transport coal or iron ore, which are mixed with mud. Such pipelines are sometimes called slurry pipelines. Even though a pipeline is very expensive to build, the low operating cost often makes it the cheapest transport. 
+
+Many stadiums use a central tank for beer. Each bar is served by a pipeline from the central tank.
+
+Even though mail and other goods can also be delivered that way, the system is generally not referred to as "pipeline". In this case, capsules are used. These are propelled by air.
+
+Pipeline networks are made of different components. These are:
+
+

@@ -1,0 +1,10 @@
+Digg
+
+Digg.com is a social news, sharing, discovering, bookmarking and rating information website. Digg started out as a popular technology news sharing destination.
+
+Digg allows users to submit 3 types of topic:
+
+The Digg website works by allowing users to vote topic up (Digging);then displays popular stories on the front page of Digg. 
+
+
+

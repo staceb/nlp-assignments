@@ -1,0 +1,44 @@
+Cosmic distance ladder
+
+The cosmic distance ladder (also known as the extragalactic distance scale) is the way astronomers measure the distance of objects in space. No one method works for all objects and distances, so astronomers use a number of methods.
+
+A real "direct" distance measurement of an astronomical object is possible only for those objects that are close enough to Earth (within about a thousand parsecs). It is the larger distances which are the problem. Several methods rely on a standard candle, which is an astronomical object that has a known standard luminosity.
+
+The ladder analogy arises because no one technique can measure distances at all ranges encountered in astronomy. Instead, one method can be used to measure nearby distances, a second can be used to measure nearby to intermediate distances, and so on. Each rung of the ladder provides information that can be used to determine the distances at the next higher rung.
+
+The astronomical unit is the mean (average) distance of the Earth from the Sun. This we know quite accurately. Radar bounce off artificial satellites and inner planets provide the data, then the result is worked out by computer. 
+
+Parallax is the use of trigonometry to discover the distances of objects near to the solar system.
+
+As the Earth orbits around the Sun, the position of nearby stars will appear to shift slightly against the more distant background. These shifts are angles in a right triangle, with 2 AU making the short leg of the triangle and the distance to the star being the long leg. The amount of shift is quite small, measuring 1 arcsecond for an object at a distance of 1 parsec (3.26 light-years)
+
+This method works for distances up to a few hundred parsecs.
+
+Objects of known brightness are called "standard candles". Most physical distance indicators are standard candles. These are objects which belong to a class that has a known brightness. By comparing the known luminosity of the latter to its observed brightness, the distance to the object can be computed using the inverse-square law. 
+
+In astronomy, the brightness of an object is given in terms of its absolute magnitude. This quantity is derived from the logarithm of its luminosity as seen from a distance of 10 parsecs. The apparent magnitude is the magnitude as seen by the observer. It can be used to determine the distance "D" to the object in kiloparsecs (kiloparsec = 1,000 parsecs) as follows:
+
+where "m" the apparent magnitude and "M" the absolute magnitude. For this to be accurate, both magnitudes must be in the same frequency band and there can be no relative motion in the radial direction.
+
+Some means of accounting for interstellar extinction, which also makes objects appear fainter and more red, is also needed. The difference between absolute and apparent magnitudes is called the distance modulus, and astronomical distances, especially intergalactic ones, are sometimes tabulated in this way.
+
+Two problems exist for any class of standard candle. The principal one is calibration, finding out exactly what the absolute magnitude of the candle is. 
+
+The second lies in recognizing members of the class. The standard candle calibration does not work unless the object belongs to the class. At extreme distances, which is where one most wishes to use a distance indicator, this recognition problem can be quite serious.
+
+A significant issue with standard candles is the question of how standard they are. For example, all observations seem to indicate that Type Ia supernovae that are of known distance have the same brightness. The possibility that the distant Type Ia supernovae have different properties than nearby Type Ia supernovae exists.
+
+With few exceptions, distances based on direct measurements are available only up to about a thousand parsecs, which is a modest portion of our own Galaxy. For distances beyond that, measures depend upon physical assumptions, that is, the assertion that one recognizes the object in question, and the class of objects is homogeneous enough that its members can be used for meaningful estimation of distance.
+
+Physical distance indicators, used on progressively larger distance scales, include:
+
+
+In a Hertzsprung-Russell diagram the absolute magnitude for a group of stars is plotted against the spectral classification of the stars. Evolutionary patterns are found that relate to the mass, age and composition of the star. In particular, during their hydrogen burning period, stars lie along a curve in the diagram called the main sequence. 
+
+By measuring the properties from a star's spectrum, the position of a main sequence star on the H-R diagram can be found. From this the star's absolute magnitude is estimated. A comparison of this value with the apparent magnitude allows the approximate distance to be determined, after correcting for interstellar extinction of the luminosity because of gas and dust.
+
+In a gravitationally-bound star cluster such as the Hyades, the stars formed at approximately the same age and lie at the same distance. This allows relatively accurate main sequence fitting, providing both age and distance determination.
+
+This is not a complete list of methods, but it does show the ways astronomers go about estimating the distance of astronomical objects.
+
+

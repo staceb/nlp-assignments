@@ -1,0 +1,23 @@
+Hypothesis
+
+A hypothesis is a proposed explanation for some event or problem. 
+
+Cardinal Bellarmine gave a well known example of the older sense of the word in his warning to Galileo in the early 17th century: that he must not treat the motion of the Earth as a reality, but merely as a hypothesis.
+
+Today, a hypothesis refers to an idea that needs to be tested. A hypothesis needs more work by the researcher in order to check it. A tested hypothesis that works, may become part of a theory or become a theory itself. The testing should be an attempt to prove the hypothesis is wrong. That is, there should be a way to falsify the hypothesis, at least in principle.
+
+People often call a hypothesis an "educated guess".
+
+Experimenters may test and reject several hypotheses before solving the problem.
+
+A 'working hypothesis' is just a rough kind of hypothesis that is provisionally accepted as a basis for further research. The hope is that a theory will be produced, even if the hypothesis ultimately fails.
+
+Hypotheses are especially important in science. Several philosophers have said that without hypotheses there could be no science. In recent years, philosophers of science have tried to integrate the various approaches to testing hypotheses, and the scientific method in general, to form a more complete system. The point is that hypotheses are suggested ideas which are then tested by experiments or observations.
+
+In statistics, people talk about correlation: correlation is how closely related two events or phenomena are. A proposition (or hypothesis) that two events are related cannot be tested in the same way as a law of nature is tested. An example would be to see if some drug is effective to treat a given medical condition. Even if there is a strong correlation that indicates that this is the case, some samples would still not fit the hypothesis. 
+
+There are two hypotheses in statistical tests, called the null hypothesis and the alternative hypothesis. The null hypothesis states that there is no link between the phenomena. The alternative hypothesis states that there "is" some kind of link. The alternative hypothesis may take several forms. It can be two-sided (for example: there is "some" effect, in a yet unknown direction) or one-sided (the direction of the supposed relation, positive or negative, is fixed in advance).
+
+
+
+

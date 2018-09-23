@@ -1,0 +1,17 @@
+Propositional logic
+
+Propositional logic is a formal system in mathematics and logic. Other names for the system are "propositional calculus" and "sentential calculus". The system is made of a set of propositions. Each proposition has a truth value, it is either true or false. Propositions can be joined together using logical connectives to make new propositions. Examples for logical connectives that are used often are logical and, logical or, logical if, logical if and only if and logical not.
+
+Propositional logic only looks at the propositions and how they are connected, it does not decompose the propositions. That way, the proposition "All cats are dogs and the earth is a disc" is made of two propositions, "All cats are dogs", "The Earth is a disc". These are joined together with AND. 
+
+There are other logic systems that build on propositional logic. One of these is Predicate logic, which defines logical predicates, and looks at how they can be applied to arguments. Another system is called modal logic. It introduces two new junctors "it is possible, that" and "it is necessary, that".
+
+A simple logic statement is "If P, then Q". For example, "If it rains for an hour, then the ground will be wet". Note that there are two logic errors that people often make from this:
+
+1) "If Q, then P". In our example, this would mean "If the ground is wet, then it has been raining for an hour". However, the ground could be wet for other reasons, like if snow has melted or a water main has broken.
+
+2) "If not P, then not Q". In our example, this would mean "If it has not been raining for an hour, then the ground is not wet". However, the ground could still be wet for the reasons listed above.
+
+The only correct inference that can be made is "If not Q, then not P". This means, in our example, "If the ground is not wet, then it has not been raining for an hour".
+
+

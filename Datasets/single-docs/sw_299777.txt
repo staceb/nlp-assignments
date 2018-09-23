@@ -1,0 +1,5 @@
+Uncountable set
+
+An uncountable set is an infinite set that is impossible to count. If we try to count the elements, we will always skip some. It does not matter what size step we take. The set of real numbers is an uncountable set. There are many others. An uncountable set is bigger than an infinite countable set. We know that because Georg Cantor proved it. He showed that any list of numbers is not complete. This is true even if the list is infinite.
+
+

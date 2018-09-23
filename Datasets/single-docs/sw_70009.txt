@@ -1,0 +1,18 @@
+DNA repair
+
+DNA repair means the processes by which a cell identifies and corrects damage to its DNA molecules.
+
+In cells, normal metabolic activities and environmental factors such as UV light and radiation damage DNA. There are as many as a million molecular lesions per cell per day. Many of these lesions cause structural damage to the DNA molecule and can alter or eliminate the cell's ability to transcribe the affected gene. Other lesions induce potentially harmful mutations in the cell's genome, which affect the survival of its daughter cells after it divides. The DNA repair process must be constantly active so it can respond rapidly to any damage in the DNA structure.
+
+The rate of DNA repair depends on many factors, including the cell type, the age of the cell, and the extracellular environment. A cell that has accumulated a lot of DNA damage, or one that no longer effectively repairs damage, can enter one of three states:
+
+The rate of DNA repair depends on many factors, including the cell type, the age of the cell, and the extracellular environment. Many genes that were initially shown to influence life span have turned out to be involved in DNA damage repair and protection.
+
+DNA damages and mutation are fundamentally different. 
+
+Although different from each other, DNA damages and mutations are related because DNA damages often cause errors of DNA synthesis during replication or repair; these errors are a major source of mutation. DNA damages in frequently dividing cells, because they give rise to mutations, are a prominent cause of cancer. In contrast, DNA damages in infrequently dividing cells are likely a prominent cause of aging.
+
+The 2015 Nobel Prize for Chemistry went to three scientists who each discovered part of the DNA repair story. 
+
+
+

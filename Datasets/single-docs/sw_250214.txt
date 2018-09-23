@@ -1,0 +1,7 @@
+Pair production
+
+In physics, pair production is what happens when a photon interacts with the nucleus of an atom, instead of the electron like in lower level x-ray interactions. The photon gives its energy to the nucleus and then creates a pair of positively and negatively charged electrons. The positive electron (positron) ionizes until it combines with a free electron. The two particles scatter in opposite directions. 
+
+The probability of pair production is proportional to the energy of the incoming photon and is affected by the material's atomic number. Pair production usually happens with energy levels over 25 MeV. Pair production happens sometimes in radiation therapy treatments with high-energy photon beams.
+
+

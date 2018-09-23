@@ -1,0 +1,5 @@
+Annealing
+
+Annealing is the name for a number of processes that change the properties of a piece of work using heat. In general the piece is heated to a certain temperature, and modelled while it cools off. Specifically, annealing can refer to:
+
+

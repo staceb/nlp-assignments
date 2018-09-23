@@ -1,0 +1,11 @@
+Colloid
+
+A colloid may be a mixture of one substance that may spread out evenly inside another substance. They may be in two different phases or states of matter. 
+
+One substance can be the dispersion medium, such as water or gas. The other is kind of dispersed medium, sometimes called the 'internal phase'. This is never tiny solid particles. Otherwise, if the dispersion medium is a gas, then the internal phase may be either tiny particles or tiny droplets of a liquid.
+
+Definition: A colloid is a substance microscopically dispersed evenly throughout another substance. The dispersed-phase particles have a diameter between about 5 and 200 nanometers.
+
+Examples: 
+
+

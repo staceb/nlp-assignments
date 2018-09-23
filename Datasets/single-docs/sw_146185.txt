@@ -1,0 +1,26 @@
+Holography
+
+Holography is a method that uses the wave character of light, which depicts an exact description that goes beyond the options of the classic photography. A "hologram" is a 3-dimensional (3-D) picture made from a laser. When a person looking at it moves, the hologram changes slightly with the movement to make it look as if the picture was 3-D.
+
+Holograms are made with light that is flashed onto the scene, then something to write or draw the hologram on, almost like how photos are made. To make a hologram and not a photo, some of the light (a "reference beam") has to go right onto the thing that the hologram is being written on. The light has to be a laser because lasers are more accurate and have a wavelength that doesn't change, like the wavelength of other light sources like lightbulbs do. To stop other light from messing the hologram up, holograms are usually taken in the darkness.
+
+Holograms might be easier to explain if compared to photos. In contrast to photography, holography not only records the intensity of light, but also its difference of phase. All pieces of information reflected by the object, are recorded.
+
+
+In holography you basically work with two (rather three) waves, the so called reference wave (that goes on to the plate) and the exposure wave (object wave(which comes from the object)). With the reference wave it is possible to save the phase information in the form of a light-dark model on a film. The object wave and reference wave must have the same wave length in order to save the phase information.
+
+The most famous person linked to the history of holography is the physician Dennis Gábor, the inventor of the hologram.
+In fact his discovery in 1947, which demonstrated the highlight of a long development, was not supposed to display three-dimensional objects, but to improve the resolving capacity of microscopes.
+
+
+For a hologram you need a laser beam, that gets enlarged by a dispersing lens and goes through a semi penetrable mirror. Only a piece of this laser beam goes through the mirror. Then this beam becomes the reference wave which is recorded on the film. The other piece of the laser beam will be reflected on the mirror and runs as the so called exposure wave at the object.The object reflects this wave on the film.
+
+The process of creating a hologram is nearly identical to photography through diverse chemicals.
+To look at a hologram just recorded, you have to light the film with the reference wave. These waves are reflected on the film (hologram) and create (within the proper angle of sight) a virtual picture of the recorded object.
+
+Nowadays industries use holograms more often to measure. In the automotive engineering the autobody is measured by holography techniques for bulges and vibration characteristics. An example of this method is the phase-shift-method. 
+First you take a hologram from the ground level state of the object, then overload the object through heat or mechanical pressure. By covering the original hologram and the modified hologram, interference fringes occur. These interference fringes can be evaluated quantitatively and give information about the deformation. So you can measure tiny terminal expansions or vibrations in mechanical systems. Therefore you need two reference waves that are shifted to each other.
+
+There are holographic storages for analog pictures and digital data. Digital information will be affiliated by a two-dimensional bit-pattern.
+
+

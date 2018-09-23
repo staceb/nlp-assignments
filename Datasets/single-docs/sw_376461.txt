@@ -1,0 +1,5 @@
+Barge
+
+A barge is a boat with a flat bottom, mostly built to transport heavy goods along rivers and canals. Some barges cannot move themselves, and must be pushed or pulled by towboats.
+
+

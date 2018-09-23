@@ -1,0 +1,9 @@
+Through-hole technology
+
+Through-hole technology is a way to mount electronic components to printed circuit boards (PCB). 
+
+It involves the use of leads on the components that are inserted into holes drilled in the PCBs and soldered to pads on the opposite side either by manual assembly (handiwork) or by the use of automated insertion mount machines. 
+
+Many parts made for through hole mounting are larger than those for surface-mount technology.
+
+

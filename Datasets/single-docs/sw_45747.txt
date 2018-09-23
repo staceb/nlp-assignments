@@ -1,0 +1,11 @@
+Hotlinking
+
+Hotlinking is a term used on the Internet that means displaying an image on a website by linking to 
+another website to obtain the source data of the picture each time it is needed, 
+rather than saving a copy of it on the website on which the image will be shown. So, instead of loading "picture.jpg" on to their own website, a website owner uses a link to the picture as "<nowiki>http://example.com/picture.jpg</nowiki>". When the hotlinking website is loaded, the image is loaded from the other website, which uses its bandwidth, costing the hotlinked website's owners money. For this reason many website owners use .htaccess files to prevent hotlinking. In some cases website owners use the .htaccess file to replace any hotlinked images with an offensive image to deter any other website owners from hotlinking.
+
+The original image is probably owned by the original website, or maybe they got permission from someone else. It would probably be wrong to just make a copy of the original image file for use on a different web page, without being careful to get proper permission.
+
+Hotlinking can also be used for file types other than images, including documents and videos.
+
+

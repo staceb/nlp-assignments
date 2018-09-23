@@ -1,0 +1,13 @@
+Fibonacci
+
+Fibonacci, also known as Leonardo Bonacci, Leonardo Fibonacci and Leonardo of Pisa, lived c. 11701250. He was an Italian mathematician. He was thought "the most talented Western mathematician of the Middle Ages".
+
+Fibonacci popularized the Hindu–Arabic numeral system to the Western World. He did this in his composition in 1202 of "Liber Abaci" ("Book of Calculation"). He also introduced to Europe the sequence of Fibonacci numbers which he used as an example in "Liber Abaci".
+
+Fibonacci is best known for the list of numbers called the Fibonacci Sequence. The list never stops, but it starts this way:
+
+In this list, a person can find the next number by adding the last two numbers together.
+
+This series is also interesting because the ratio of two adjacent numbers in the series approaches the golden ratio.
+
+

@@ -1,0 +1,29 @@
+Hull (watercraft)
+
+A hull is the body of a ship or boat. It is a central concept in floating vessels as it provides the buoyancy that keeps the vessel from sinking.
+
+Almost all watercraft, from small boats to the largest ships, have a general form that is necessary for stability and efficient propulsion, which includes:
+
+
+Archimedes, a Greek doctor, inventor, and mathematician, made the science of "hydrostatics", the study of liquids and pressure. The Archimedes principle says that the force holding up an object that is inside a liquid in part or totally. So, a ship actually does sink, until it moves an amount of water that is the same weight of the weight of the ship. The weight must be over a wide area to work. This explains why ships and boats (including submarines) float. An object's weight pulls down in the direction of gravity, but the water's buoyant (floating) force pushes it up. Because these forces counteract each other, the object seems to lose weight. NASA uses this principle to prepare their astronauts for the weightlessness of space, so they had the astronauts work on parts of the space ship inside water tanks 25 feet (7.6 m) deep.
+
+Bow is the frontmost part of the hull
+
+Stern is the rear-most part of the hull
+
+Portside is the left side of the boat when facing the Bow
+
+Starboard is the right side of the boat when facing the Bow
+
+Waterline is an imaginary line circumscribing the hull that matches the surface of the water when the hull is not moving.
+
+Midships is the midpoint of the LWL (see below). 
+It is half-way from the forwardmost point on the waterline to the rear-most point on the waterline.
+
+Baseline an imaginary reference line used to measure vertical distances from. It is usually located at the bottom of the hull.
+
+Hull forms are defined as follows: 
+
+
+
+

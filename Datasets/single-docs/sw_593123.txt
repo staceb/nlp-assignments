@@ -1,0 +1,14 @@
+Video Editing
+
+Video Editing is the act of changing video by arranging or changing the order, or content of the video. It is used to show information in things like video essays, films, television and adverts (commercials). Video Editing has been used more in recent years because more people are able to use it than ever, since the wide spread use of personal computers. 
+
+The idea of editing videos at home was ridiculous at first, because of the price of video editing equipment. In fact, the original 2" Quadruplex System was so expensive, television companies usually only had one of them. 
+
+Ever since the year 1999 with the release of Windows ME, and the more successful Windows XP, almost every single home computer has had the capability to edit video. There are also more expensive products for this process, such as the ones created by Adobe, and Sony's Sony Vegas. There has also been an attempt by many companies, to try and make video editing, Automation, Google for instance with Google Photos, their photo storage service.
+
+Nowadays, video editing has many different aspects. Originally, it was only about cutting and resequencing. It has now exploded into many different processes, such as special effects. These types of editing have different jobs attached to them.
+
+
+Open source video editing, is exactly what it says on the tin. This software is usually free and is developed by members of the public, or a nonprofit organisation. 
+! Program !! Source
+

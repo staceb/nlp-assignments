@@ -1,0 +1,9 @@
+Enterprise Java Beans
+
+Enterprise Java Beans is a framework that allows one to develop Enterprise applications more easily using Java Enterprise Edition. It does this by using standard components. These components specify how an application works. This is usually called "business logic".
+
+There are different kinds of Beans:
+
+
+
+

@@ -1,0 +1,6 @@
+Roller Coaster DataBase
+
+The Roller Coaster DataBase is a roller coaster and amusement park database. It was started in 1996 by Duane Marden. It features statistics and pictures of more than 5,000 roller coasters around the world.
+
+
+

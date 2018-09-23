@@ -1,0 +1,41 @@
+Minecraft
+
+Minecraft is a video game made by Markus "Notch" Persson of Sweden. In 2015 Notch retired and sold his company, Mojang, to Microsoft for $2.5 billion. "Minecraft" is an open world survival game where the player can play in a world made of cubes. The player can walk around and break the blocks which make up the interactive landscape. The player can then put the blocks back together to make new constructions.You have to use special equipment for this such as pickaxe.
+
+The first version was released for PC players on May 17, 2009. After going through the Alpha and Beta versions, the full version was released on November 18, 2011. A version for Android was released on October 7, 2011, and an iOS version was released on November 17, 2011.
+
+The game was released on the Xbox 360 as an Xbox Live Arcade game on May 9, 2012. It was released for the PlayStation 3 on December 17, 2013, and for the PlayStation 4 on September 4, 2013. It was available for Xbox One the next day; and for the PlayStation Vita on October 14, 2014. On December 10, 2013, a Windows Phone version was released. Today, there are versions for the game on many platforms, including Windows 10.
+
+"Minecraft" was created as an experiment to test random creation for caves. "Minecraft" was inspired by "Infiniminer", another game created by Zachary Barth. The first version of "Minecraft" was released on May 17, 2009. The beta was released on December 20, 2010. The full game was released on November 18, 2011. At first, "Minecraft" was created only by Notch. Other people started to work on it when Persson started an independent video game company called Mojang. Later in 2011, a version of Minecraft named "Pocket Edition" was released for iOS and Android. In 2012, Persson gave Jens Bergensten the job of being the main "developer" of "Minecraft". In 2012, "Minecraft" came out on the Xbox 360 as a download and was available for 1600 Microsoft Points ($19.99). In 2013, Minecraft came out as a disc for the Xbox 360 and PlayStation 3. Versions for the Xbox One and PlayStation 4 were released in September 2014. And a version for the PlayStation Vita was released in October 2014.
+
+There are two player skins for how one will be seen. They are named Steve and Alex. When a new player signs up, they are given one or the other. They have block shapes, but are designed to look human. Steve has dark brown hair, dark skin, nose and mouth, and blue eyes. He wears a light blue shirt and blue jeans. Alex has long bright orange hair, pale white skin, and dark green eyes. She wears a light-green shirt and brown pants.
+
+A player can change their skin on the minecraft website. There is a template to create skins, and anyone can use the template and create a completely unique, custom skin.
+
+In the game there are 2 major game modes. In Creative, you can create whatever your heart desires. In Survival, your first goal is to survive the night. During the night, several monsters come out to kill you, but you can build a shelter to protect yourself from these monsters. You need to get some wood by punching out enough wood logs to survive the night and make weapons to fight back. There are other dimensions like the Nether and the End. In the End is the Ender Dragon, the final boss monster. After killing it, there's no more set goal, allowing you to make your own goal. There is an option to kill the Wither, another boss monster you can create as many times as you want. Creepers, a popular symbol in the game, were created when Notch tried to change the pig model and made it taller instead of longer. The game allows creativity: you can build anything. Even players have built functioning computers!
+
+The player uses the W, A, S and D keyboard keys to move around by default, but the all of controls can be changed in the menu options. The spacebar is used to jump. The Computer mouse is used to look around, the Left mouse button is used to attack or break blocks. The right mouse button will use an item or place blocks. If you have a middle button on your mouse; simply click it when hovering over a block to "pick" it. You can press E to open up your inventory, an area where you can store objects and create (craft) items. Some of the crafting recipes require a crafting table.
+
+There are 5 game modes in "Minecraft."
+
+In all modes (except Spectator Mode), players can build things such as houses, pixel art and towers. There is also a multiplayer mode, where players can play together through the internet. This requires the player to enter a server address.
+
+Multiplayer mode, as mentioned above, requires a server address. This is more commonly known as an IP address. Once a player has one of these, they can connect to the server and play with their friends. They can also connect to a server that is very popular and has people the player has never met before. and go on any profile they would like.
+
+The other way is to create a LAN (Local Area Network) world, so people connected to the same internet connection can play with you. These are the two ways you can play with other people on Minecraft.
+
+Minecraft Realms are a special version of the original Multiplayer. When buying a "Realm", you can get your own server, but hosted by Mojang. This makes the process of creating a server easier. In Minecraft Realms, there are several "mini-games", which are maps/games created by popular Minecraft users.
+
+The term "Mob" is short for mobile, or any monster, animal, or "Non-Player-Characters (NPC)". The different types of mobs are:
+
+
+Herobrine is a made up character in minecraft. He has never been seen. Said to be Notch's brother who was trapped in the game, Herobrine 'haunts' players. Herobrine is a made-up character to scare players but he doesn't exist.
+
+The player can build a nether portal out of 10 blocks of obsidian blocks in a 5x4 grid (not including corners or inside) and go into a dimension, the Nether. In it, they can fight fire-ball-shooting Ghasts, avoid the Zombie Pigmen, attack Magma Cubes, duel Wither Skeletons, search for brewing ingredients, dodge the fiery Blaze, and try not to fall into the unforgiving oceans of lava. The players can find a Nether Fortress, where Blazes and Wither Skeletons are common. It is mainly constructed of Nether Brick.
+
+The Nether has, besides the oceans of lava, many other things. The ground is mainly Netherrack, which can be lit forever with a flint and steel. Players can also find Quartz Ore. You can also do it through Creative Mode, but this is where it goes from "sort of" cheating to downright cheating. You can build above this layer of bedrock.
+
+The player can make an End Portal which will teleport them to a deadly realm. The only way to find a portal is by using ender pearls (dropped by ender men) and spamming them at the roof, but this is somewhat "cheating" however most people do it anyway. If they can fend off Endermen and kill the Enderdragon, they will be shown the credits screen, which also shows a backstory. They can still play after defeating the dragon. After you kill the Enderdragon it drops a black egg with purple spots which can't be moved easily, but you can move it with a piston or by placing a torch two blocks underneath the egg and breaking the block between. Unlike the Wither boss, the Enderdragon can only be fought once. In the Console Edition two of the Enderdragon's health regenerators, known as Ender Crystals, are in iron bars. (NOTE: as of 1.9 you will be able to respawn the dragon and the main end island will have other islands surrounding it with about a 1000 block wide gap in between, but this can be easily bypass with a portal that teleports you to the surrounding islands)
+
+
+

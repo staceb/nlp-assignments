@@ -1,0 +1,19 @@
+Hox gene
+
+Hox genes are a group of related genes that determine the basic structure and orientation of animals. 'Hox' is short for 'homeobox'. 
+
+Hox genes are critical for the proper placement of segment structures of animals during early embryonic development (e.g. legs, antennae, and wings in fruit flies or the different vertebrate ribs in humans).
+
+Hox genes are a complex of genes whose proteins bind to the regulatory regions of target genes. The target genes then activate or repress cell processes to direct the final development of the organism. 
+
+In some organisms, especially vertebrates, the various Hox genes are very close to one another on the chromosome in groups or clusters.
+
+The order of the genes on the chromosome is the same as the expression of the genes in the developing embryo. The first gene is expressed in the front of the developing organism. The reason for this co-linearity is not yet completely understood. The diagram above shows the relationship between the genes and protein expression in flies.
+
+The homeodomain protein motif is highly similar in most animals, with variations in Jellyfish and other species. In addition, homeodomains of individual Hox proteins are similar in many species.
+
+Because of this, it is thought Hox gene clusters evolved from a single Hox gene via tandem gene duplication. A Hox gene cluster with at least seven different Hox genes was probably present in the common ancestor of all bilateral animals.
+
+Humans have a total of 39 hox genes in clusters on four chromosomes.
+
+

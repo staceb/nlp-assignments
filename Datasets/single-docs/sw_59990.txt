@@ -1,0 +1,10 @@
+Pump
+
+A pump is a machine which moves a liquid from one place to another, often upwards.
+
+Pumps need some kind of power, often kinetic energy, to make them work. Sometimes the power comes from a person. Sometimes the power comes from a motor.
+
+There are many different kinds of pumps. Some types of pumps are:
+
+
+

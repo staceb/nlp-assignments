@@ -1,0 +1,6 @@
+General Weighted Average
+
+The General Weighted Average (GWA) is the average of grades in all subjects taken, whether passed or failed. It is the result of combining the performance rating based on the screening criteria or subject. It serves as the indicator of a student's academic performance in a given semester or school year.
+
+
+

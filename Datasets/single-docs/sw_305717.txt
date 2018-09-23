@@ -1,0 +1,12 @@
+Carsonella ruddii
+
+Candidatus Carsonella ruddii is an endosymbiotic gamma proteobacterium. It has the smallest known genome of any bacterium.
+
+The species is an endosymbiont that is present in all species of phloem sap-feeding insects known as psyllids. The endosymbionts occurs in a specialised structure known as the bacteriome.
+
+In 2006 the genome of one strain of "Ca." C. ruddi was sequenced at RIKEN in Japan and the University of Arizona. The genome is a circular chromosome of 159,662 base pairs and has a high coding density (97%) with many overlapping genes and reduced gene length. The number of predicted genes was 182, also the lowest on record (NCBI-Genome). Numerous genes considered essential for life seem to be missing, suggesting that the species may have achieved organelle-like status.
+
+In comparison, "Mycoplasma genitalium", which has the smallest genome of any free-living organism, has a genome of 521 genes. 
+
+
+

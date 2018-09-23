@@ -1,0 +1,20 @@
+Source engine
+
+The Source engine is a video game engine created by a company called Valve Corporation.
+The engine made its first appearance in 2004 with a game called , and was also included in Half-Life 2. Source has been worked on since that date, and is included in many of Valve's games.
+
+Source is meant to power first person shooter video games, but has also been used to create other types of video games as well.
+
+A full list of features can be found at Valve's Developer Feature List.
+
+The Source SDK has been criticized for being out of date and hard to use.
+
+The Source engine originated from the GoldSrc, which was a changed version of John D. Carmack's Quake engine.
+Caramack said on his blog in 2004 that there's "still bits of Quake code in Half-Life 2".
+
+Valve worker Erik Johnson explains the origins of the GoldSrc engine on the Valve Developer Community:
+The Source engine then continued to replace the GoldSrc engine, until Source was mostly used at Valve.
+
+In 2005, Valve launched a website called the Valve Developer Community, which told users how to use the Source engine.
+
+

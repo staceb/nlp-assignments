@@ -1,0 +1,10 @@
+Cline
+
+In biology, a cline, or 'ecocline', describes a series of connected populations in a species. These populations show a continuous gradient of traits and genetics. The term was coined by the English evolutionary biologist Julian Huxley in 1938. He defined a cline as a species whose members fall into a series of sub-species with continuous change in characters over a geographical area. 
+
+Clines consist of forms of a species that show gradual phenotypic and/or genetic differences over a geographical area. 
+
+The reason for these differences is that the environment is somewhat different in different parts of the range. Populations become adapted to the situation in their areas, but this adaptation is limited by gene flow between neighbouring sub-species.
+Genetically, clines result from the change of allele frequencies within the gene pool of the species in question. 
+
+

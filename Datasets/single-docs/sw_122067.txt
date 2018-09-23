@@ -1,0 +1,18 @@
+Fibonacci number
+
+The Fibonacci numbers are a sequence of numbers in mathematics named after Leonardo of Pisa, known as Fibonacci. Fibonacci wrote a book in 1202, called "Liber Abaci". There he introduced the number pattern to Western European mathematics, although mathematicians in India already knew about it. 
+
+The first number of the pattern is 0, the second number is 1, and each number after that is equal to adding the two numbers right before it together. For example 0+1=1 and 3+5=8. This sequence goes on forever. 
+
+This can be written as a recurrence relation,
+
+For this to make sense, at least two starting points need to be given. Here, formula_2 and formula_3. 
+
+Fibonacci numbers are related to the "golden ratio", which shows up in many places in buildings and in nature. Some examples are the pattern of leaves on a stem, the parts of a pineapple, the flowering of artichoke, the uncurling of a fern and the arrangement of a pine cone. The Fibonacci numbers are also found in the family tree of honeybees.
+
+The nth Fibonacci number can be written in terms of the golden ratio. This avoids having to use recursion to calculate Fibonacci numbers, which can take a computer a long time to do.
+
+Where formula_5, the golden ratio. 
+
+
+

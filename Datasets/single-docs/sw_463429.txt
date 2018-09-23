@@ -1,0 +1,10 @@
+Cooperative binding
+
+Cooperative binding is when the number of small molecules binding to a macromolecule depends on the concentration of those small molecules around the macromolecule.
+
+This is a type of molecular binding, which is where molecules attach to each other in a stable way without decaying or breaking that bond rapidly. 
+
+A popular example of cooperative binding is between haemoglobin and oxygen. In the lungs, there is a very high concentration of oxygen in the alveoli of the lungs. So the oxygen bonds to haemoglobin to form oxyhaemoglobin. When this travels around the body in the blood and reaches areas of low oxygen concentration, the oxygen is released from the haemoglobin.
+
+
+

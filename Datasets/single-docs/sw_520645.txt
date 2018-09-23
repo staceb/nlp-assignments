@@ -1,0 +1,16 @@
+Kepler's Laws
+
+Kepler's laws of planetary motion are three laws that describe the motion of planets around the sun:
+Johannes Kepler found these laws, between 1609 and 1619. 
+
+Kepler's laws improve the model of Copernicus. If the eccentricities of the planetary orbits are taken as zero, then Kepler basically agrees with Copernicus:
+
+The eccentricities of the orbits of those planets known to Copernicus and Kepler are small, so the rules above give good approximations of planetary motion; but Kepler's laws fit the observations better than Copernicus's.
+
+Kepler's corrections are not at all obvious:
+
+The eccentricity of the orbit of the Earth makes the time from the March equinox to the September equinox, around 186 days, unequal to the time from the September equinox to the March equinox, around 179 days. A diameter would cut the orbit into equal parts, but the plane through the sun parallel to the equator of the earth cuts the orbit into two parts with areas in a 186 to 179 ratio, so the eccentricity of the orbit of the Earth is approximately
+which is close to the correct value (0.016710219) (see Earth's orbit).
+The calculation is correct when perihelion, the date the Earth is closest to the Sun, falls on a solstice. The current perihelion, near January 4, is fairly close to the solstice of December 21 or 22.
+
+

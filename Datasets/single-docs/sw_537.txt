@@ -1,0 +1,6 @@
+Network
+
+A communication network is a group of things that are connected together using some form of talking or other communication to transfer information or data. The pattern by which things are connected is called a network topology. A television network, for example, connects television stations. Computer networks are numerous.
+
+
+

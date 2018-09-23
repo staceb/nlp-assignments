@@ -1,0 +1,10 @@
+Combinatorics
+
+Combinatorics is a branch of mathematics. It is concerned with finite or countable infinite sets. Combinatorics is part of discrete mathematics. Combinatorics are about graph theory, or Partitions of sets. According to George Pólya, combinatorics looks at counting the number of possibilities, and about the questions whether certain configurations exist, and how to get to them.
+
+Permutation is concerned with the following problems:
+
+There are variations in the problems as follows:
+
+
+

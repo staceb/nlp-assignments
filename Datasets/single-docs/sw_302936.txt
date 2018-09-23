@@ -1,0 +1,14 @@
+Range (mathematics)
+
+The range of a function is the set of elements that the function outputs. 
+
+Range (statistics)
+
+more ...
+
+Range (statistics)
+The difference between the lowest and highest values.
+
+In {4, 6, 9, 3, 7} the lowest value is 3, and the highest is 9, so the range is 9-3 = 6.
+Range can also mean all the output values of a function.
+

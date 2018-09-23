@@ -1,0 +1,11 @@
+Electron transport chain
+
+Electron transfer chains (ETC) are the cellular mechanisms used for getting energy from sunlight in photosynthesis. They also occur in redox reactions, such as the oxidation of sugars in cellular respiration.
+
+In aerobic respiration, each molecule of glucose leads to about 34 molecules of ATP being produced by the ETC. This is by far the most productive part of respiration.
+
+The electron transport chain consists of a series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule. The underlying force driving these reactions is the free energy (energy available to do work) of the reactants and products. Any reaction that decreases the overall free energy of a system will happen. 
+
+ATP synthase is an enzyme found among all domains of life. It is powered by a transmembrane proton electrochemical gradient. This is the result of the series of redox reactions. What the electron transport chain does is produce this gradient. The free energy is used to drive ATP synthesis.
+
+

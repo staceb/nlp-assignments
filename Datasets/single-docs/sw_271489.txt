@@ -1,0 +1,8 @@
+Apache Subversion
+
+Apache Subversion (also called subversion repository and SVN) is an internet software mainly used by software programmers. Subversion allows other developers to view the code easily.
+
+To download files in a directory of a subversion repository, one can "checkout" using a subversion client.
+
+
+

@@ -1,0 +1,10 @@
+Google Chrome OS
+
+Chrome OS is a project by Google to develop a light computer operating system. It is devoted to using the World Wide Web. The operating system was announced on July 7, 2009, and it is based on Google's Chrome web browser as it visually similar, and the Linux kernel. When first released, it was targeted at netbooks but has also been present on desktop computers (known as "Chromeboxes") and All-In-One PCs (known as "Chromebases"). It was released to technology journalists in December 2010 after being delayed. It runs on systems with either x86 or ARM processors.
+
+Google had stated before release that the Google Chrome OS project will be open source by the end of 2009. Although it is based on the Linux kernel, it will use "a new windowing system" (a way to display applications on a computer screen).
+
+Upon release, some technology journalists were unsure on what it could do that a Microsoft Windows PC with the Google Chrome browser installed could not.
+
+
+

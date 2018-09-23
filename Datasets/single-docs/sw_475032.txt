@@ -1,0 +1,9 @@
+John O'Keefe
+
+John O'Keefe, FRS FMedSci (born November 18, 1939) is an American-British neuroscientist. He is a professor at the Sainsbury Wellcome Centre for Neural Circuits and Behaviour and the Research Department of Cell and Developmental Biology at University College London. 
+
+O'Keefe is known for his discovery of place cells in the hippocampus. He disovered that they show a kind of coding for places. This is a positioning system, an “inner GPS” in the brain that makes it possible to orient ourselves in space. In 2014, he received the Kavli Prize in Neuroscience "for the discovery of specialized brain networks for memory and cognition", together with Brenda Milner and Marcus Raichle. He shared the one-half of the Nobel Prize in Physiology or Medicine in 2014 with May-Britt Moser and Edvard Moser, who shared the other half jointly.
+
+O’Keefe and his student Jonathan Dostrovsky discovered place cells by systematically analyzing the environmental factors influencing the firing properties of individual hippocampal neurons. His many publications on place cells have been highly cited. In addition, he published an influential book with Lynn Nadel, proposing the functional role of the hippocampus as a cognitive map for spatial memory function. In extensions of his work, place cells have been analyzed experimentally or simulated in models in hundreds of papers.
+
+

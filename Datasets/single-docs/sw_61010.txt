@@ -1,0 +1,11 @@
+Differential equation
+
+A differential equation is a mathematical equation that involves variables like x or y, as well as the rate at which those variables change. Differential equations are special because the solution of a differential equation is itself a function instead of a number. 
+
+If a differential equation only involves x and its derivative, the rate at which x changes, then it is called a first order differential equation. A higher-order differential equation has derivatives of other derivatives. If there are more variables than just x and y, then it is said to be a partial differential equation. Sometimes, something in the world will obey several differential equations at the same time. These are said to be modeled by coupled differential equations.
+
+Some differential equations can be solved exactly, and some cannot. Sometimes one can only be estimated, and a computer program can do this very fast. Although they may seem overly-complicated to someone who has not studied differential equations before, the people who use differential equations tell us that they would not be able to figure important things out without them. Most scientists and engineers (as well as mathematicians) take at least one course in differential equations while in college. Some mathematicians devote their career to investigating differential equations that are difficult to solve.
+
+Differential equations are used in many fields of science since they describe real things:
+
+

@@ -1,0 +1,9 @@
+List of BitTorrent clients
+
+A BitTorrent client is a program that downloads files using the BitTorrent protocol.
+
+The first client, known as BitTorrent, was created by Bram Cohen in the summer of 2002. Most of the other clients are based in part on BitTorrent. Programs that use BitTorrent protocol are:
+
+
+
+

@@ -1,0 +1,20 @@
+Line
+
+A line is the path of one point moving. A line has length but no width. A line is a type of geometric figure.
+
+A line is made up of an endless number of points.
+
+A "line segment" is part of a line. Here is an example of a straight line segment:
+
+A line can be straight or curved. The word "line" usually means a "straight line". A straight line is the shortest distance between two points. A straight line is the line traced by a point moving in a direction that does not change.
+
+A "curved line" is sometimes called a curve. The edge of a circle is not straight and is an example of a curve.
+
+Lines can get their names from any two points on the line. For example, if a line has a point named ""A"" on the line and a point named ""B"" on the line, then the line can be called either ""AB"" or ""BA"".
+
+Sometimes, lines are also named with just one letter; for example, line "A".
+
+Two lines can be:
+
+
+

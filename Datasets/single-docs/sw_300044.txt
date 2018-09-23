@@ -1,0 +1,21 @@
+Heat index
+
+The "heat index" (HI, also "humiture") is a measurement which combines air temperature and relative humidity as being the human-perceived equivalent temperature — how hot it feels. The result is also known as the "felt air temperature" or "apparent temperature". For example, when the temperature is with very high humidity, the heat index can be about .
+
+The human body normally cools itself by perspiration, or sweating, which evaporates and carries heat away from the body. However, when the relative humidity is high, then the evaporation rate is reduced, so heat is removed from the body at a lower rate, causing it to retain more heat than it would in dry air. Measurements have been taken based on subjective descriptions of how hot subjects feel for a given temperature and humidity, allowing an index to be made which relates one temperature and humidity combination, to another, at a higher temperature in drier air.
+
+The heat index was developed in 1978 by George Winterling as the "humiture" and was adopted by the National Weather Service a year later. It is derived from work carried out by Robert G. Steadman. Like the wind chill index, the heat index contains assumptions about the human body mass and height, clothing, amount of physical activity, thickness of blood, sunlight and ultraviolet radiation exposure, and the wind speed. Large deviations from the typical values will result in heat-index values which do not accurately reflect the perceived temperature.
+
+In Canada, the similar humidex is used in place of the heat index. The humidex differs from the heat index in using the dew point rather than the relative humidity.
+
+The heat index is defined so as to equal the actual air temperature when the partial pressure of water vapor is equal to a baseline value of 1.6 kPa. At standard atmospheric pressure (101.325 kPa), this baseline corresponds to a dew point of 14 °C (57 °F) and a mixing ratio of 0.01 (10 g of water vapor per kilogram of dry air). This corresponds to an air temperature of 25°C and relative humidity of 50% in the sea-level psychrometric chart.
+
+At high temperatures, the level of "relative" humidity needed to make the heat index higher than the actual temperature is lower than at cooler temperatures. For example, at approximately 27 °C (80 °F), the heat index will agree with the actual temperature if the relative humidity is 45%, but at about 43°C (110°F), any relative-humidity reading above 17% will make the Heat Index higher than 43°C (110 °F).
+
+The heat index is calculated only if the actual temperature is above 27 °C (80 °F), dew point temperatures greater than 12 °C (54 °F), and relative humidities higher than 40%. The heat index and humidex figures are based on temperature measurements taken in the shade and not the sun, so extra care must be taken while in the sun.
+
+Sometimes the heat index and the wind chill are denoted collectively by the single terms "apparent temperature" or "relative outdoor temperature".
+
+
+
+

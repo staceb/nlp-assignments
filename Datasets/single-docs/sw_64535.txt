@@ -1,0 +1,7 @@
+Fundamental theorem of algebra
+
+The fundamental theorem of algebra is a proven fact about polynomials, sums of multiples of integer powers of one variable. It is based on mathematical analysis, the study of real numbers and limits. It was first proven by German mathematician Carl Friedrich Gauss. It says that for any polynomial formula_1 with the degree formula_2, where formula_3, the polynomial equation formula_4 must have at least one root formula_5, and not more than formula_2 roots altogether.
+
+Some remarks: 
+
+

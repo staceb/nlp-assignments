@@ -1,0 +1,6 @@
+Low-pass filter
+
+A low-pass filter is an electronic filter that passes the frequency component of a signal below a certain value (cutoff frequency). The frequency component above that certain value will be suppressed to almost zero.
+
+
+

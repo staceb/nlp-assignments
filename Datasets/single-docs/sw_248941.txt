@@ -1,0 +1,7 @@
+Morpheme
+
+A morpheme is the smallest linguistic part of a word that can have a meaning, such as "un-", "break", and "-able" in the word "unbreakable".
+
+There are 5 types of morpheme:
+
+

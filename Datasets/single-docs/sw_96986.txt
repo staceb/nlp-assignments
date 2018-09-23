@@ -1,0 +1,9 @@
+Database schema
+
+In computer science a "schema" or database schema describes the structure of a database in a formal language that is supported by the database management system. Using the database schema, it is possible to create a blueprint of the database. This blueprint will not contain any data. The database schema uses logical formulas to create integrity constraints. It is not possible to insert data into the database that violates these integrity constraints. All contraints use the same language. 
+
+There are different kinds of database schemas:
+
+Ideally, a database schema should have the following properties:
+
+

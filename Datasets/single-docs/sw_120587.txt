@@ -1,0 +1,7 @@
+VMware ThinApp
+
+VMware ThinApp is a computer program that can make portable applications.
+
+
+
+

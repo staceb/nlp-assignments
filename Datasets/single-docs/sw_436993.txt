@@ -1,0 +1,10 @@
+Linear mapping
+
+In mathematics, a linear mapping (or linear transformation) is a mapping "f" between vector spaces that preserves addition and scalar multiplication.
+
+Let "V" and "W" be vector spaces over the same field "K". A function "f": "V" → "W" is said to be a "linear mapping" if for any two vectors x and y in "V" and any scalar α in "K", the following two conditions are satisfied:
+
+Sometimes a linear mapping is called a linear function. However in basic mathematics, a linear function means a function whose graph is a line.
+
+
+

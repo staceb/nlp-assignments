@@ -1,0 +1,23 @@
+Occam's razor
+
+Occam's razor (or Ockham's razor) is a principle from philosophy. Suppose there exist two explanations for an occurrence. In this case the simpler one is usually better. Another way of saying it is that the more assumptions you have to make, the more unlikely an explanation is. Occam's razor applies especially in the philosophy of science, but also more generally.
+
+William of Ockham, a Franciscan friar who studied logic in the 14th century, first made this principle well known. In Latin it is sometimes called lex parsimoniae, or "the law of briefness". William of Ockham supposedly (see below) wrote it in Latin as:
+
+This translates roughly as:
+
+This means that if there are several possible ways that something might have happened, the way that uses the fewest guesses is probably the right one. However, Occam's razor only applies when the simple explanation and complex explanation both work equally well. If a more complex explanation does a better job than a simpler one, then you should use the complex one.
+
+Occam's razor is a principle, not an actual razor: the word 'razor' is a metaphor. Occam's razor gets rid of unnecessary explanations just like a razor shaves off extra hair. This description is a violation of Occam's razor.
+
+A problem with Occam's razor is that the sentence is not really about things ("entia" = entities), but about explanations or hypotheses. So other thinkers have come up with other versions:
+
+In science, Occam's razor is used as a heuristic (general guiding rule or an observation) to guide scientists.
+
+Example: Two trees have fallen down during a windy night. Think about these two possible explanations:
+Even though both are possible, several other unlikely things would also need to happen for the meteorites to have knocked the trees down (they would have to hit each other and also not leave any marks). In addition, meteorites are fairly rare. Since this second explanation needs several assumptions to all be true, it is probably the wrong answer. Occam's razor tells us that the wind blew the trees down, because that is the simplest answer and therefore probably the right one.
+
+Occam's razor also comes up in medicine. When there are many explanations for symptoms, the simplest diagnosis is the one to test first. If a child has a runny nose, it probably has the common cold rather than a rare birth defect. Medical students are often told, "When you hear hoof beats, think horses, not zebras".
+
+
+

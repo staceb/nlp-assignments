@@ -1,0 +1,17 @@
+Aquifer
+
+An aquifer is an underground layer where the material contains water.
+
+That can be less solid material like sand, gravel, clay or silt, but it can be rock as well as long as the rock allows water to get in (that means that it is water-bearing).
+From such layers or groundwater can be usefully extracted using a well. The study of water flow in aquifers and the characterization of aquifers is called hydrogeology.
+
+Groundwater may exist in underground rivers (e.g., caves where water flows freely underground). This may occur in eroded limestone areas known as karst topography, which make up only a small percentage of Earth's area. More usual is that the pore spaces of rocks in the subsurface are simply saturated with water — like a kitchen sponge — which can be pumped out for agricultural, industrial, or municipal uses.
+
+If a rock unit of low porosity is highly fractured, it can make a good aquifer (via fissure flow), if the water can get though it. Porosity is important, but, "alone", it does make an aquifer. The Deccan Traps (a flood basaltic lava) in west central India are good examples of rock with high porosity but low permeability, so they are poor aquifers. The (Upper Cretaceous) Chalk of south east England has a reasonably high porosity, but low grain-to-grain permeability. Much of its good water-yielding characteristics being due to micro-fracturing and fissuring.
+
+
+Aquifers can occur at various depths. Those closer to the surface are not only more likely to be exploited for water supply and irrigation, but are also more likely to be topped up by the local rainfall. Many desert areas have limestone hills or mountains within them or close to them which can be exploited as groundwater resources. If more water is taken out than get in again one speaks of over-harvesting. Along the coastlines of certain countries, such as Libya and Israel, population growth has led to over-population which has caused the lowering of water table and the subsequent contamination of the groundwater with saltwater from the sea (saline intrusions). In these cases the aquifer contains brackish water.
+
+When water seeps (comes slowly) out of the ground, it is called a seep or "spring (water)". It usually means there is an aquifer under the ground.
+
+

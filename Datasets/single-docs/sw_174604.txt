@@ -1,0 +1,7 @@
+Regular polytope
+
+In mathematics, a regular polytope is the generalisation of the regular polygon. Like other polytopes it may have any natural number of dimensions. For example, a two-dimensional regular polytope is a regular polygon, and a three-dimensional regular polytope is a regular polyhedron. Like with the regular polygon, there are certain kinds of symmetries. Regular polytopes have regular facets (faces to speak from the 3D viewpoint), and their vertex figures are regular.
+
+The simplest of the six convex regular 4-polytopes are the pentachoron and tesseract. 
+
+

@@ -1,0 +1,7 @@
+Ambient occlusion
+
+Ambient occlusion is a technique used in 3D computer graphics. The physics of how photons of light can occupy a space means that inner corners of objects (or seams where 2 objects meet) appear darker to the eye. Because less light can occupy a corner. Even when the corners are the same colour. 
+
+Imagine being inside a matte white cube with even light ; the surface colour is exactly the same so theoretically you shouldn't be able to see any corners or edges; but because of the described effect you can.
+
+

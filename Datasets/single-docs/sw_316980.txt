@@ -1,0 +1,9 @@
+Equilibrium constant
+
+For a general chemical equilibrium
+the equilibrium constant can be defined by
+where {A} is the activity of the chemical species A, etc. (activity is a dimensionless quantity). It is conventional to put the activities of the products in the numerator and those of the reactants in the denominator.
+
+For equilibria in solution, activity is the product of concentration and activity coefficient. Most chemists determine equilibrium constants in a solution with a high ionic strength. In high strength solutions, the quotient of activity coefficients changes very little. So, the equilibrium constant is defined as a concentration quotient:
+
+

@@ -1,0 +1,11 @@
+Gene family
+
+A gene family is a set of several similar genes. They occur by the duplication of a single original gene. Usually they have similar biochemical functions. The idea that genes get duplicated is almost as old as the science of genetics. 
+
+One such family are the genes for human haemoglobin subunits. The ten genes are in two clusters on different chromosomes, called the α-globin and β-globin loci. These two gene clusters are thought to have arisen from a precursor gene being duplicated, about 500 million years ago. 
+
+The biggest gene family is said to be the olfaction genes. The homeobox genes are another important group. 
+
+Genes for the immune system include several gene families. They code for the major histocompatibility complex, and the immunoglobulins. The toll-like receptors are the main sensors of infection in mammals.
+
+

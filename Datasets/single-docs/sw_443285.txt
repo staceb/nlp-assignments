@@ -1,0 +1,7 @@
+Network Functions Virtualization
+
+Network Functions Virtualization (NFV) 
+
+It aims to reduce costs and complexity in communication networks, while facilitating faster creation of new communication services.
+
+

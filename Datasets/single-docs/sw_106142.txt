@@ -1,0 +1,8 @@
+Frame
+
+A frame is a flat container to hold something. It can also be an outer part of the structures.
+
+Frame could also mean:
+
+
+

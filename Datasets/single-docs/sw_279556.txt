@@ -1,0 +1,14 @@
+Systematics
+
+Systematics is one of the main fields in biology. It is closely related to taxonomy.
+
+Systematics is the study of the diversification of life on the planet Earth, both past and present, and the relationships among living things through time. 
+
+Relationships are usually seen as evolutionary trees (cladograms, phylogenetic trees, phylogenies). 
+
+Phylogenies have two components, "branching order" (showing group relationships) and "branch length" (showing amount of evolution). Phylogenetic trees of species and higher taxa are used to study the evolution of traits (anatomical or molecular characteristics), and the distribution of organisms (biogeography). Systematics is used to help us understand the evolutionary history of life on Earth.
+
+"Systematic biology" and "taxonomy" are terms that are often confused and used interchangeably. They were defined as follows:
+Systematics is the field which (a) provides scientific names for organisms, (b) describes them, (c) preserves collections of them, (d) provides classifications for the organisms, keys for their identification, and data on their distributions, (e) investigates their evolutionary histories, and (f) considers their environmental adaptations. Taxonomy is that part of systematics concerned with topics (a) to (d) above.
+
+

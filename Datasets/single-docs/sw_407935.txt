@@ -1,0 +1,7 @@
+Q*bert
+
+Q*bert is an arcade video game released by Gottlieb in 1982. In this game, the player has to change the color of the cubes on a pyramid by having the game's character jump on top of them. On each stage, the player has a color they have to change the cubes to. To complete the stage, the player has to change the cubes to that color. The player has to avoid obstacles and enemies in the way.
+
+"Q*bert" was one the most popular arcade games of the 1980s. It sold around 25,000 arcade cabinets. It has been released on many video game consoles, including the Atari 2600, ColecoVision, and Commodore 64.
+
+

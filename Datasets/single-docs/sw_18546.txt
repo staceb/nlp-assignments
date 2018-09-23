@@ -1,0 +1,6 @@
+Pin
+
+A pin is an object used to attach something to a surface. It is usually metal or plastic. Pins are usually sharp and are cheap to buy.
+
+
+

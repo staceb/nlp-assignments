@@ -1,0 +1,17 @@
+Square metre
+
+The square metre (also spelled square meter, see spelling differences) is the SI derived unit of area, with symbol m²(33A1 in Unicode). It is defined as the area of a square whose sides measure exactly one metre. The square metre is derived from the SI base unit of the metre, which in turn is defined as the length of the path travelled by light in absolute vacuum during a time interval of of a second.
+
+Adding SI prefixes creates multiples and submultiples; however, as the unit is squared, the order of magnitude difference between units doubles from their comparable linear units. For example, a kilometre is one thousand times the length of a metre, but a square kilometre is one million times the area of a square metre.
+
+A square metre is not the same as a metre square, an area 2 metres wide by 5 metres long would be 10 square metres. In contrast, a 10-metre square (10 metres by 10 metres) is actually 100 square metres.
+
+The square metre may be used with all SI prefixes used with the metre.
+
+A square metre is equal to:
+<div style="-moz-column-count:3; column-count:3;">
+</wwwwOn z>www
+
+
+[[Category:Units of area]]
+

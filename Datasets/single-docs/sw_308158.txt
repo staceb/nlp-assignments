@@ -1,0 +1,7 @@
+Mainframe computer
+
+Mainframes (also called "big iron") are powerful computers used for large data processing jobs. They are mainly used by government institutions and large companies for tasks such as census, industry and consumer statistics, enterprise resource planning, and financial transaction processing. The mainframe computers are specially used as servers on the World Wide Web (WWW).
+
+The term originally referred to the large cabinets that housed the central processing unit and main memory of early computers. Later the term was used to distinguish very big computers from less powerful ones ("minicomputers" or "personal computers").
+
+

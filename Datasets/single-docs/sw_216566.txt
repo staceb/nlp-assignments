@@ -1,0 +1,73 @@
+App Store (iOS)
+
+The App Store is an online market used on Apple's iOS, managed by Apple Inc. The App Store lets users view and download applications that were made with the iOS Software Development Kit. Apps can be downloaded onto an iOS device directly, or onto a computer using iTunes (also managed by Apple).
+
+Apps in the App Store are made mainly for iOS devices, such as iPhones and iPads. Some apps can be downloaded for free while others have a cost. Some have "in-app purchases", which are purchases made within the app. These are sometimes done to remove ads or to add features to an app. 30% of all profit made through apps goes to Apple, while 70% goes to whoever made the app.
+
+In July 2008, the App Store opened with a change to iTunes. Apple could now control app quality and add extra pricing to the already set cost of an app. A day later, the iPhone 3G was launched and it came with iOS 2.0.1. This version had App Store support, and was soon made available for older iPhones and the iPod Touch. , there are over one million apps on the App Store.
+
+As of January, 2011, the App Store had nearly 10 billion app downloads, which the company said using the "10 Billion App Countdown". At 10:26 am (GMT) on January 22, 2011, the 10 billionth app was downloaded from Apple App Store. As of July that year, 200 million users downloaded over 15 billion apps from the store.
+
+Average profit per app is about US$8,700, but Apple does not let the public view this data. In May 2011, Apple approved its 500,000th app.
+
+The success of the App Store led other companies to release their own "app stores", and now any similar service for mobiles are sometimes called app stores.
+
+The word "app" is now a popular word; in early 2011, "app" was given 2010's "Word of the Year" by the American Dialect Society. Apple does not have a trademark on the word "app", which has been used as short for "application" since at least the mid-1990s and in products since 2002, for example Google Apps (first introduced in 2006).
+
+In February 2011, Apple announced a new subscription-based service, which will allow developers to set the length and price of subscriptions. Previously, new magazine or news releases were sold as its own release. The new feature allowed publishers to sell content directly through their apps, allowing users to receive new content over specified periods of time.
+
+During Apple's 2012 Worldwide Developer's Conference, Apple CEO Tim Cook said that the App Store has 400 million accounts with registered credit cards, 650,000 available apps to download and "an astounding 30 billion apps" downloaded from the app store.
+
+When the iPhone 5 was launched, Apple changed the look of the App Store, as well as the iTunes Store and iBookstore, as part of iOS 6.
+
+On January 7, 2013, Apple announced that there have been over 40 billion apps downloaded from their iOS App Store, with about half of those coming in 2012.
+
+On February 1, 2013, Apple told developers that they could begin using appstore.com for links to their apps.
+
+In September 2013, Apple announced at its Worldwide Developers Conference the addition of a Kids category to the App Store with the launch of iOS 7. The category is split by age range and apps made for children under 13 must follow the Children’s Online Privacy Protection Act (COPPA).
+
+As of the end of 2013, App Store users spent over US$10 billion in 2013, and users downloaded almost three billion apps in December 2013. This was the most successful month in App Store history, and developers have earned over $15 billion since the making of the App Store.
+
+On July 10, 2008, Apple CEO Steve Jobs told "USA Today" that the App Store contained 500 non-Apple applications for the iPhone and the iPod Touch, and of these 25 percent were free. These applications range from business to game applications, entertainment to educational applications, and many more. On July 11, 2008, the store opened, allowing users to buy applications and put them on an iPhone or iPod Touch with iOS 2.0. Ten million applications were downloaded the first weekend.
+
+On January 16, 2009, Apple said on its website that 500 million applications had been downloaded. The billionth application was downloaded on April 23, 2009. In March 2012, the number of apps downloaded reached 25 billion.
+
+Unlike the apps that come standard on the iPhone, apps downloaded from the App Store can be removed by the user at any time.
+
+The iPad was launched in April 2010 with over 3000 applications made for it. About eight months after the release of the iPad, over 50,000 apps were available for it.
+
+As of July 2011, 16 months after the iPad launched, there were over 100,000 apps available at the App Store made for the device.
+
+By the end of November 2011, Apple advertised in a holiday newsletter of the online Apple Store there are more than 140,000 iPad apps available.
+
+As of January 7, 2013, there were more than 300,000 native iPad apps available for users.
+
+As of October 22, 2013, there were more than 475,000 native iPad apps available for users.
+
+In April 2009, Apple announced the apps which had the most number of downloads since the store was launched.
+With paid apps, Crash Bandicoot Nitro Kart 3D, by Activision Publishing, was ranked first, while Facebook had the same position among free apps, with the next position taken by Google Earth.
+
+The top 25 most popular Paid and Free apps, as of 2012, are listed below:
+
+Apple rates apps worldwide based on their content, and gives the app an age group for which is appropriate. The following are the ratings that Apple has detailed:
+
+Apple must review all applications before they can enter the App Store for users to download.
+
+, Apple used a method of reviewing apps which had flaws, and this meant that some bad apps could get past the review process.
+
+Many times, Apple has removed apps because they did not follow the Apple policies for apps.
+
+In November 2012, Boyfriend Maker, a dating sim game, was removed due to "reports of references to violent sexual acts and paedophilia" which were not appropriate to Boyfriend Maker's age rating of 4+. A modified version named Boyfriend Maker Plus was approved by Apple in April 2013.
+
+On March 11, 2013, HiddenApps was approved and appeared in the App Store. This app allowed access to special developer-only menus, could allow built-in apps to be hidden, and an option to turn off iAds, Apple's ad system.
+
+While Apple wants the App Store to be available worldwide, their market is restricted to country borders. Different countries have slightly different app stores. Some apps may only be available on the app stores of a few countries, while others can be available in many countries. Trying to use an app store of one country while in another may be a problem: Apple warns that "one of the risks of creating a German account while you are in Greece is, our system may able to detect it and it may put restrictions on your account (German) that will prevent you from using the iTunes Store".
+
+Other mobile devices have other app stores available for them. Some of these are made by the company that made the device, but not all are that way. Amazon.com has the Amazon Appstore for all Android users. The Google Play store (was known as Android Market) is the official store for Google's Android devices. In 2010, Microsoft created the Windows Phone Store, an online market for their Windows Phone devices. In October 2012, the Windows Store was made for Windows 8 and Windows RT computers.
+
+Nokia also has the Ovi Store, for Nokia devices. BlackBerry has an app store named BlackBerry World. BlackBerry 10 users do not have to use BlackBerry World, they are allowed to use other app stores as well.
+
+Game consoles, such as the Nintendo DSi, also have their own online stores. The DSi has the "DSi Shop", while the Sony PSP (PlayStation Portable) and the PlayStation Vita have the PlayStation Store.
+
+
+

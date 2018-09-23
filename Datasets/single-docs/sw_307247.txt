@@ -1,0 +1,27 @@
+Eigenvalues and eigenvectors
+
+Linear algebra talks about functions, which are often called transformations. In that context, an eigenvector is a vector—different from the null vector—which does not change direction in the transformation (except if it turns the vector exactly around). The vector may change its length, or become null. The value of the change in length of the vector is known as eigenvalue.
+
+If there exists a square matrix called A, a scalar "λ, and a non-zero vector v, then λ" is the Eigenvalue and v is the Eigenvector if the following equation is satisfied:
+
+In other words, if matrix "A" times the vector v is equal to the scalar "λ" times the vector v, then "λ" is the eigenvalue of v, where v is the eigenvector.
+
+An eigenspace of "A" is the set of all eigenvectors with the same eigenvalue together with the zero vector. However, the zero vector is not an eigenvector.
+
+These ideas often are extended to more general situations, where scalars are elements of any field, vectors are elements of any vector space, and linear transformations may or may not be represented by matrix multiplication. For example, instead of real numbers, scalars may be complex numbers; instead of arrows, vectors may be functions or frequencies; instead of matrix multiplication, linear transformations may be operators such as the derivative from calculus. These are only a few of countless examples where eigenvectors and eigenvalues are important.
+
+In cases like these, the idea of "direction" loses its ordinary meaning, and has a more abstract definition instead. But even in this case, if that abstract "direction" is unchanged by a given linear transformation, the prefix "eigen" is used, as in "eigenfunction", "eigenmode", "eigenface", "eigenstate", and "eigenfrequency".
+
+Eigenvalues and eigenvectors have many applications in both pure and applied mathematics. They are used in matrix factorization, in quantum mechanics, facial recognition systems, and in many other areas.
+
+For the matrix "A"
+the vector 
+is an eigenvector with eigenvalue 1. Indeed,
+On the other hand the vector 
+is "not" an eigenvector, since
+and this vector is not a multiple of the original vector x.
+
+
+
+
+

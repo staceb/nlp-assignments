@@ -1,0 +1,5 @@
+Differential operator
+
+In mathematics, a differential operator is an operator that takes a function as input, and returns a function as a result. Differential operators will differentiate the function in one or more variables. Probably the best known differential operator is differentiation itself. 
+
+

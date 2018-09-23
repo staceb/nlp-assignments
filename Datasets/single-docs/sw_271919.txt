@@ -1,0 +1,14 @@
+Contra
+
+Contra (known as Probotector in Europe) is a 1987 arcade shooting video game. The player tries to balance the terrorist organization Red Falcon from taking over the planet Earth.
+
+Either Bill or Lance is chosen. The player has a rifle with no limit to the number of times it can shoot. However, the player dies after being hit by an enemy once.
+
+The game has ten stages. For each stage, the player must shoot out the sensors before moving on. A player has 3 lives, and when all of them are lost, the game ends. In the arcade version, the player can continue a few times.
+
+There are three types of stages:
+
+
+Most stages are side-scroller stages, though Contra stages follow a basic pattern.
+
+

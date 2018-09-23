@@ -1,0 +1,198 @@
+List of chess terms
+
+List of chess terms: in alphabetical order.
+
+When the game is paused temporarily. Less common today, as most games are played to a finish. If a game is adjourned, a sealed move is necessary so the player to move does not have any advantage.
+
+Method to decide the result of an unfinished game. It is done by an expert who judges the position on the board. The expert is often appointed before the tournament or match starts. The method is only used if games are not played to a finish, and there are no adjournments.
+
+See J'Adoube
+
+System of chess notation in which each square has one name. From White's left, each file is labelled from 1 to 8. From White's bottom, each rank is labelled a to h. Thus the bottom left square is a1, and the top right square is h8.
+
+Commentary on a game using a combination of written comments, and chess notation.
+
+An assault on part of the opponent's position. May be short-term (e.g., after 1.e4 Nf6, Black attacks White's pawn on e4), or long-term. Examples of long-term attacks: a sustained mating attack against the enemy king or a minority attack against the opponent's queenside pawn structure. See also defence, and initiative, below.
+
+Pawn on an otherwise open file, on the 2nd or 3rd rank, which cannot be supported by another pawn, or advanced.
+
+Bishop blocked long-term by pawns on squares of its own colour.
+
+Endgames with few pawns or pieces. Set positions and ideas which can be taught to learners, and which every player should know. 
+
+A bind is a hold on the opponent's position which stops him freeing it. Usually by means of pawns; a severe type of restraint.
+
+The term used to describe the retention of both bishops. This term is usually used after one of both knights has been exchanged for one of both bishops. The player with the 'bishop pair' theoretically has the advantage over an opponent with two knights, or a bishop and a knight.
+
+Chess played by a strong player without being able to see the board. The player is not blind, but sits with his back to the boards, or wears a blindfold. Moves are called out in notation.
+
+Defined by FIDE (Appendix C) as a game where all the moves must be made within a set time of less than 15 minutes for each side. They are always played with clocks. Some special rules are required. Players need not write down the moves; touch & move does not apply. Instead, a move is completed only when the player starts the opponent's clock. There is usually a provision for a player to stop the clock and claim a draw when there is no way for the opponent to win. Wins on time must be claimed by the player; games are drawn if both flags fall.
+
+The obstruction of an enemy pawn by placing a piece in front of it so that it cannot move. 
+
+Also, more generally, the severe restraint of an opponent's position so that it is difficult for him to find active play.
+
+A type of chess played by four players on two boards. Pieces can be moved from one board to another. A checkmate on either board wins the game.
+
+A simultaneous move (the only one in chess) whereby king and rook move past each other. See page for details.
+
+The earliest form of chess. See History of chess.
+
+Any deliberate violation of the Laws of Chess. The most frequent accusations of cheating include violations of the touch and move law (Article 4) and 'no outside help' (Article 12) rules.
+
+A move which attacks the opposing king.
+
+A move which attacks the opposing king, and which the opponent cannot get out of.
+
+Clocks control the timing of chess games. They show separately the time taken by each player. Electronic clocks can also count the moves made, and apply the set time limits for a game.
+
+A forcing sequence of moves, usually a sacrifice, to gain the advantage. In the diagram White wins with 1.Nh6+ Kh8 2.Qg8+ Rxg8 3.Nf7#. This is both a combination and a smothered mate.
+
+Chess with moves sent by mail. Once popular, especially in remote areas, but now not so popular. It has been hurt by the invention of computer chess engines.
+
+Where a player defends by attacking his opponent instead of making defensive moves. Example: when players castle on opposite wings, both attack each other's king, making as few defensive moves as possible.
+
+A bishop which moves on the dark squares.
+
+
+A fundamental concept of opening theory. The number of pieces in active play. Can be assessed comparatively, by counting the number of active pieces developed by each side. To some extent, development is reactive. What one player does is affected by what the opponent does. Therefore, development proceeds differently in different openings.
+
+The squares on which bishops move, at 45 to the ranks and files.
+
+A check given by a line-piece when a shielding piece or pawn is moved out of the way.
+
+The basis of all tactics. It occurs when one move attacks two places at the same time, as might happen with a discovered check, or a fork.
+
+Two pawns of the same colour on the same file which do not have a pawn of the same colour on either of the adjacent files.
+
+Two pawns of the same colour on the same file. Can only happen after a capture by one of the pawns.
+
+A style of play which is "double-edged". Typically, long-term pawn weaknesses may be counterbalanced by piece activity. Dynamism stemmed from the teachings of the 'Hypermodern movement', which challenged the dogma found in more classical teachings, such as those of Wilhelm Steinitz and Siegbert Tarrasch.
+
+The rating system invented by the late Professor Arpad Elo, and used by FIDE since 1970. The system gives a four-figure number which shows how well a player has scored in those games which have been entered into the database. It is an estimate of strength based on results, and is widely used to place players into categories. 2500 and above is grandmaster level.
+
+The stage of the game with few pieces or when queens are exchanged and the middle game is over.
+
+A special method of capturing, only available to a pawn on its fifth rank. See "En passant" rule.
+
+When neither player has an advantage. 
+
+May mean:
+
+Developing the bishop at the squares b2, g2, b7 or g7. Also, moving a pawn one square forward to allow this. It is a hallmark of the hypermodern openings: the bishops there do not occupy the centre, but influence it.
+
+"Fédération Internationale des Échecs": the International Chess Federation. The overall governing body of the game.
+
+The game is drawn if 50 moves are played "with no captures and no pawn moves". This is to prevent a player forcing his opponent to play on in a position where no win is possible, yet where three-fold repetition has not happened. The rule is ancient: the Arabic version of the game, Shatranj, had a 70-move rule.
+
+There is an exception to the 50-move rule. There are some positions which require more than 50 moves to win, yet have no captures or pawn moves. They are rare, and many players never see such an event in their lifetime. The circumstance is as follows. Suppose a computer study has shown that a particular position can be won in 58 moves (without pawn moves or captures), but not fewer. This is proved because a computer can try out every alternative. Then the case is published (so FIDE can list it for arbitrators). The cases listed by FIDE in 1988 were:
+
+What FIDE did for these cases was to extend the 50-move rule to 75 moves. However, still more cases were found, many with far more moves needed. At that, FIDE decided to cancel the extension. Now the 50-move rule applies to all games without exception.
+
+Little images of pieces used in diagrams and printed chess scores (moves). Software is available which permits chess authors to compose text with diagrams and figurines. Together with standard symbols, this makes texts available for international sale. For this to apply, the text should have little or no prose, or use a widely understood language like English.
+
+The eight vertical columns on the board, numbered a to h. The phrase "open file" is used when no pawn blocks a file. The phrase "semi-open file" is used when only one pawn blocks a file. 
+
+A double attack when one piece, such as a knight, attacks two or three pieces at once.
+
+A method for recording positions. The board is read from a8 to h8, and rank by rank from the black side to the white side. Then the result is written down by hand, putting numbers for blank squares. 
+Upper case letters (capitals) are used for white pices; lower case letters for black pieces. rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR is the starting position.
+
+A chess opening in which a player offers a pawn (or more) for fast development and an attack. Examples:
+
+Grading or rating: a number which indicates how likely one player is to beat another. A competitive ranking list based solely on results.
+
+The situation where a player, in error, moves a piece to where it can be captured without an exchange. For instance, player A. just hung his or her bishop.
+
+A group of players in the early 1920s who had new ideas on openings; and any of the openings they promoted.
+
+I 
+
+The situation where one player is making threats, and his opponent must respond to them. The attacking player is said to "have the initiative" and can often dictate the way the game develops. 
+
+Isolated pawns do not have a pawn of the same colour on either of the adjacent files. An Isolated Queens Pawn, or 'IQP' for short, is one of the most common types of Isolated Pawns. Openings with an IQP lead to distinctive <nowiki>middlegame</nowiki> strategies.
+
+Means 'I adjust'; said before adjusting a piece on the board during a game. Usually occurs when a player has made a move, and carelessly left the piece overlapping the square.
+
+Kriegspiel ('War game') is an unorthodox chess game in which the players only know for certain the moves of their own pieces. They have to deduce where the opponent's pieces are by questioning an umpire. It is played on three boards with partitions between them. The umpire sits with the middle board with the true position. Players are permitted to ask two kinds of question. "Can I move here?" and "Are there any?" (meaning pawn captures). The umpire replies accordingly. Checks and captures are announced by the umpire, and provide more clues. The game was invented by Henry Michael Temple (1862–1928).
+
+Chess played with human beings as pieces on a giant board. A spectacle which has been performed since the 15th century. Usually, masters or other celebrities decide the moves, and a steward with a stick instructs the 'pieces' where to move.
+
+Luft, the German word for "air" (sometimes also "space" or "breath"), is sometimes used for a space made by a pawn move. Especially it means a space made for the king to avoid a back rank checkmate. 
+
+Queen or rook.
+
+Not a game, but a series of games. Used of team events or a series of games between two players.
+
+The part of the game which follows the opening. Plans are formed, based on the position, and put into action.
+
+Bishop or knight.
+
+The method of writing down chess moves. See also Forsyth notation.
+
+The start of the game, about a dozen moves. Openings have names, and extensive theory has been worked out by masters. Traditionally, the opening ends when minor pieces (knights and bishops) have been developed, and players have castled. However, modern openings go much further, into the early middlegame. See development.
+
+A line in a particular opening. For example, in the Sicilian defence there are many different lines which are called variations.
+
+Overworked, also known as overloaded, is a tactical weakness in chess where a piece is tasked to defend multiple threats at the same time. In many cases, this results in the overworked piece being unable to move and/or being forced to prioritize which task it can preform in order to mitigate loses.
+
+A situation arising from opposite-side castling. One, or both players, advance their pawns towards their opponent's king. This is usually not done on same-side castling, as advancing the pawns in front of one's own king is generally unsafe.
+
+When a piece does not move because to do so would expose a more valuable piece to capture. Pins against the king are absolute because it is illegal to move the pinned piece.
+
+Play dominated by long-term manoeuvring, not short-term attacks and threats. It needs judgement more than calculation. The term is contrasted with tactics.
+
+A chess problem is an artificial construction, not part of the game, but using a board and pieces. It is a separate intellectual activity. Chess problems have a history as long as the game itself, and their own terminology. The Arabs (9th/10th centuries) used specially composed positions ("mansurbat") as teaching devices; the idea of specifying a set number of moves to mate is European. Problem solving tournaments are held, and there is a World Championship for problem solvers. There are also international prizes for problem composers.
+
+Promotion is what happens when a pawn reaches the 8th rank. Then it must be changed for a piece: a queen, rook, bishop, or knight of the same colour (player's choice). Normally, the pawn is "queened", but in some cases another piece is chosen, called 'under-promotion'.
+
+A key concept of positional chess. It is a move, or sequence of moves, to deal with an opponent's plan before it starts. Sometimes one can completely stop the threat; sometimes one just makes the plan relatively harmless. The idea was spelled out in detail in Nimzovich's books "My system" and "Chess praxis". Prophylactic moves are often seen in games by Capablanca, Petrosian and Karpov.
+
+The idea of choosing the layout of the pieces on the back row at random. The point is to avoid opening knowledge. White picks the pieces out of a bag and places them left to right; Black places his pieces on the corresponding squares. Alternatively, each player places his own pieces at random, producing two different arrays. The idea has been tried several times in the last 200 years, but has never caught on. There are problems. Usually special rules are needed for the king (castling?) and the bishops (no two bishops on the same colour squares). More serious is the great difficulty players experience in getting the pieces to work together. 
+
+The horizontal eight lines on the board, labelled 1 to 8.
+
+Rapidplay (FIDE Laws, Appendix B) is a game where each player has a set time for all the moves. That time can be from 15 to 60 minutes. Players need not record the moves. The touch & move rule is usually put aside by the organiser; if so starting the opponent's clock is the official end of a move. In other words, a player can change his mind so long as his own clock is running.
+
+Removing the Defender, also known as removing the guard is a chess tactic where a chess piece is either captured or forced to move in order to eliminate the protection of an opponent's piece.
+
+To concede loss of the game. A resignation is usually done by stopping the clock, and sometimes by offering a handshake or saying "I resign".
+
+Also known as a family fork, results when a knight simultaneously attacks the opponent's king, queen, and rook.
+
+The intentional loss of material to get a more important result. Often the start of a combination.
+
+The intentional exchange of piece of greater value for a piece of smaller value in order to get a more important result. For instance, the exchange of a rook for a minor piece (bishop or knight), or the exchange of a queen for a rook.
+
+The sheet of paper used to write down the moves of a game in progress. During formal games both players must record the game using a score sheet.
+
+Made when a game is adjourned. Score sheet with move and position are placed in an envelope, and played on the board when the game is resumed.
+
+When a master plays a number of opponents at the same time. Usually arranged as a ring of tables, with the master moving round inside, and the opponents outside. Players move when the master arrives at their board, master replies and moves on.
+
+Like a pin, but the valuable piece is in front. So black B, white K and white R on a diagonal in that order wins the rook.
+Unlike the fork, a skewer only works with a line piece (B, R, Q).
+
+Where a player is not in check, but has no legal moves. It is a draw in modern chess.
+
+A chess or endgame study is a position which is made to show an interesting point. It is usual for studies to be endgame positions. Unlike chess problems, studies are connected to the game.
+
+A term in positional chess, where a player loses ground because he/she has to make a move. See Zugzwang.
+
+A series of symbols are in wide use. They help annotate games of chess.
+
+Short-term attacks requiring exact calculation, sometimes called 'forcing sequences'. It is contrasted with positional play, which is long-term strategy.
+
+In chess, a single move. A loss of a tempo would be taking two moves where one would do. This may, or may not, be critical in the early stages of a game.
+
+Article 4 of the Laws of Chess. If the player to play touches a piece, it must be moved if possible. If there is no legal move, then the player may make any legal move. See also J'adoube, which permits adjustment of pieces without penalty.
+
+To arrive at the same position from different move orders. Common in certain openings, such as the Modern defence.
+
+A trebuchet is a type of reciprocal zugzwang occurring in pawn endgames, where each King is attacking the others pawn and whoever it is to move loses.
+
+A position, usually in an ending, where the player to move loses because he/she must move. A more complex definition is given by Hooper:
+
+An "in between move", where a player, instead of playing the expected move, first inserts a move which the opponent must answer, before making the expected move.
+
+

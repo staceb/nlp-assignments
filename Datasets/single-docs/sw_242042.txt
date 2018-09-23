@@ -1,0 +1,9 @@
+Substrate (biochemistry)
+
+In biochemistry, a substrate is the molecule acted on by an enzyme to produce a product.
+
+The general equation for an enzyme reaction is:
+
+An example: Sucrase, 400 times the size of its substrate sucrose, splits the sucrose into its constituent sugars, which are glucose and fructose. The sucrase bends the sucrose, and strains the bond between the glucose and fructose. Water molecules join in and make the cleavage in a fraction of a second.
+
+

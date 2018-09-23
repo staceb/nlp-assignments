@@ -1,0 +1,11 @@
+.htaccess
+
+.htaccess is a type of computer file for the configuring of some web servers. .htaccess files can be used to create custom error pages, or to prevent visitors from directly linking pictures, also known as hot-linking to their own sites, costing the website owner money.
+
+A .htaccess file is put onto the website, so that people will not be able to go onto the URL of the image (picture) (example: <nowiki>www.website.com/image.filetype</nowiki>). Owners can replace this picture, after they upload the file, with a message, or it can be made to redirect to an error page.
+
+By default, MediaWiki uses <nowiki>http://www.example.org/index.php/Main_Page</nowiki> type of URL to display the main page. But by changing the .htaccess and LocalSettings.php, it can display URLs like <nowiki>http://www.example.org/wiki/Main_Page</nowiki> so that it will look nicer (like Wikipedia).
+
+By default, all posts made in Wordpress uses <nowiki>http://www.example.org/?p=123</nowiki> to display posts. But it can be changed into URLs like <nowiki>http://www.example.org/2010/06/postname</nowiki> in .htaccess and the permalink setting in the site admin of that blog.
+
+

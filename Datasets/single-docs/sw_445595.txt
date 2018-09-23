@@ -1,0 +1,5 @@
+Autonomous underwater vehicle
+
+An Autonomous underwater vehicle (AUV) is a robot like a submarine that can be used for underwater searches.
+
+

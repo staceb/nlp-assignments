@@ -1,0 +1,50 @@
+League of Legends
+
+League of Legends is a free to play online computer game created by Riot Games. It was inspired by a user-created "Warcraft 3" mod called Defense of the Ancients. As of 2013, it is the most played computer game in the world with over 32 million active users per month.
+
+In "League of Legends, players" control 1 of 136 'champions' and are placed on a team with one to four other players. The player and their team fight against another team of the same size in an arena called a map. The goal of the game is to destroy a building in the opposing teams base, called a Nexus. The most popular map, Summoner's Rift, is split into three lanes that each have three turrets and an inhibitor. Players must destroy each turret and the inhibitor in any particular lane before they can attack the Nexus. The Nexus also spawns AI controlled minions for each team, that move forward and attack the first enemy champion, minion or turret they see. Players can kill minions, or other enemy players to gain gold which can be spent on items to make their champion stronger.
+
+Between each lane are paths where neutral monsters spawn, called the "jungle". Either side can kill these monsters to gain gold, experience and buffs.
+
+Each champion has three normal abilities and an ultimate ability. Killing minions, jungle monsters and enemy champions gives experience and when a certain amount is reached the champion 'levels up' and the player can spend a point to improve one of their abilities. There are 18 levels and points can be spent in any order. However, these points cannot be used to buy ultimate abilities which are only unlocked for improvement at levels 6, 11 and 16.
+
+Player experience and intelligence points are earned by playing matches over time. Player accounts begin at level one. The maximum level of an account is 30. On leveling up, players unlock new maps. They also unlock abilities called summoner spells that can be used in game, as well as Runes and Masteries. These provide small bonuses during the game.
+
+Ultra Rapid Fire (U.R.F.) is a limited time game mode in League Of Legends (LoL). The game mode usually comes in each year for only around 1 or 2 weeks, however, as of 2016, Riot has released a system called the Featured Game Mode Queue, which brings back a limited game mode queue every Friday through Monday. The game mode contains a buff called Awesome Buff of Awesomely Awesome Buffing. It gives 80% cool down on all abilities, "summoner spells" (spells chosen before the game starts which allow the player to do other things besides things their champion can do), and some passive effects and active abilities on champions and certain items. All the mana (in game resource that most champions use to cast abilities that regenerates over time) that you'll use from the abilities will not be affected at all. All champion abilities will be free, also same as energy (another resources used by the champions Shen, Kennen, Akali, and Zed.)
+Blood Well, Fury and Flow (resources used by Aatrox, Renekton, and Yasuo respectively) generation is doubled from all sources; and Health costs (as some champions use their own health as resources) are reduced by 50%.
+Abilities with static cooldowns (cooldowns that depend on something else), such as Sweeping Blade (Yasuo), Missile Barrage (Corki), Dragon's Descent (used by Shyvana) and the global cooldown on Udyr's abilities will not benefit from the 80% cooldown reduction bonus.
+The only exceptions to this are the revive passives of Aatrox, Anivia and Zac, which are set to a 60 second cooldown.
+Benefits of the Awesome Buff of Awesomely Awesome Buffing:
+Attack speed : Bonus attack speed from items, runes, masteries, etc. is doubled for ranged champions and × 1.5 for melee champions.
+Movement speed : +60 for all champions
+Tenacity : +25% for all champions
+Critical strike damage : +25% for all champions.
+Gold Income : × 5 gain for all champions 
+Basically all these AWESOME BUFF OF AWESOMELY AWESOME BUFFING buffs let you have even more fun in the summoner's rift.
+
+New System: ROTATING GAME MODE QUEUE
+Hexakill
+"2014 started with a Featured Game Mode meta changeup. With the original Hexakill, we wanted to try exploring a new space that modes hadn’t really touched yet at that point. The end result was the closest we’d ever brushed up against the ‘regular Summoner’s Rift meta’, but with the twist of an extra player. Our goal was to still preserve the feel of Summoner’s Rift, but change up how you interacted with your champion and played within the map’s meta.
+
+Ultra Rapid Fire (U.R.F.)
+
+Originally planned as an April Fool’s Day joke intended only to last one day, we were blown away by the response Ultra Rapid Fire received. Based on the response from players around the world in multiple regions and languages, we extended the length of the mode (twice). Who doesn’t like making more plays?! URF also taught us a fantastic lesson about the novelty of game modes over time and the cost of ongoing maintenance. Featured Gameplay Modes have been shown to taper off in popularity sharply after a short period of time. People often forget that URF actually broke our golden rule of not touching Featured Gameplay Modes post-launch, but to try and keep it from becoming stale in the face of wildly toxic champion play patterns, we did anyway. And yet, despite our consecutive on the run tweaks to keep URF treading water balance-wise, we still saw the same declining engagement and burnout that we see with other modes. That doesn’t mean players don’t have a blast with each mode like this before they fade away. However, being designed as a can of whoopass in the first place ultimately means that the flame burns twice as bright and half as long. And that’s okay!
+
+One For All Mirror Mode
+
+The original One For All was one of more heavily played modes we made in 2013. Before it was even released though, some enterprising players hacked their clients and were hosting ad-hoc games of One For All on Howling Abyss. After the mode’s first outing on Summoner’s Rift, many players heavily requested that we bring the mode back on Howling Abyss to replicate their ad-hoc games, so we got to work on the resurrection. In the end, One For All: Mirror Mode may have lost a lot of the strategic choice of Summoner’s Rift (naturally absent on Howling Abyss where your only option is to “push”). By homogenising both teams into the same champion, we also lost the nuance in gameplay between two champion’s kits. Engagement with the mode proved out that this maybe wasn’t the best experiment, but that’s what learning is for!
+
+We also learned a lesson about the cost of resurrecting a mode. Each time we bring a mode back, along with any improvements or additions we might want to make, time has to be spent QA'ing it against the latest patch release (one of the costs of having a game that evolves constantly). For example: The original One For All required about 80 champions to be hand edited to work with the mode's mechanics. When we wanted to bring it back as One For All: Mirror Mode, about 35 champions had changed since the last time (yay champ updates and improvements!) which required another whole round of editing, plus entirely new champions had been released. If we ever made a mode permanent, we’d need to weigh the impact this would have on the ability to create new modes VS maintaining existing modes.
+The map change isn’t always necessary though. Sometimes smoothing over the experience and some bug fixes could generate the original experience we were looking for. URF would be nice simply to not have 9 champions disabled. It always depends on the mode.
+
+Hexakill Twisted Treeline
+After the first outing of Hexakill and the warm reception it received, we felt like it was a good candidate to bring back. As with One For All: Mirror Mode though, we don’t want to just resurrect the exact same mode from last time. We wanted to turn up the volume on the design goals of the original Hexakill (being to shake up how you think about and execute on established meta on a given map). That led us to port the mode over to the Twisted Treeline. This is a good example of how we want to improve modes each time before we re-release them.
+
+What do you mean by “improve a mode before re-releasing it”? It depends on the mode, but it’s always heavily informed by player feedback. In the case of Hexakill, we wanted that exaggeration of the original design intention. Hexakill on SR just wasn’t different enough; going from 5 to only 6 players didn’t really make you change the way you played that much. Twisted Treeline felt much higher impact because we were essentially doubling the player count on the map.
+
+Legend of the Poro King was seeking to change the way players thought about combat on the Howling Abyss. That we were able to introduce everyone to the grandest most splendiferous King of all the Poro’s himself was just an added bonus.
+I want to call out the Poro Toss summoner spell here as well, which gave an across-the-board bump in viability to some historically unpopular picks. Even with picking your champs, engage from the Poro Toss summoner spell was able to wing clip the power of some notoriously strong Howling Abyss champs. It was an overall healthier experience, seeing good champion diversity and lots of big plays."
+
+ http://leagueoflegends.wikia.com/wiki/Ultra_Rapid_Fire
+
+

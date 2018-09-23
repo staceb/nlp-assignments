@@ -1,0 +1,9 @@
+.net framework
+
+.Net Framework (pronounced dot net) is a product of Microsoft. It is a programming framework used by Software applications in order to run. It has two major parts: the Common Language Runtime (CLR) and the .Net Framework Class Library. The CLR is an execution engine used to handle running programs. The class library provides a library of reusable code that applications can use. These are designed to greatly simplify the development of larger applications. ,Net Framework supports Object-oriented programming (OOP). Everything in .Net is contained in an object. It also greatly simplifies Windows programming.
+
+Often, a program will ask for a particular version of .Net Framework to be installed (see below). It is usually recommended to install the latest version your operating system (OS) will support. This is because of backward compatibility; the newer version will also support older versions. 
+
+Visual Studio is the major development tool for .net Framework. Visual Studio 2013 Community Edition is the first full-featured edition for personal development. It also has compilers for computer programming languages such as C++ and others. 
+
+

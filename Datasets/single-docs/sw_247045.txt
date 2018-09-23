@@ -1,0 +1,5 @@
+Piecewise
+
+In mathematics, a piecewise function is a function that can give different outputs based on its input. For example, there might be a function which gives when x > 0, and when x ≤ 0.
+
+

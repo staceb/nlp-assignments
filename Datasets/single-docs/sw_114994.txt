@@ -1,0 +1,11 @@
+Bose-Einstein statistics
+
+In statistical mechanics, Bose-Einstein statistics means the statistics of a system where you can not tell the difference between any of the particles, and the particles are bosons. Bosons are fundamental particles like the photon.
+
+The Bose-Einstein distribution tells you how many particles have a certain energy. The formula is
+
+with formula_2 and where:
+
+If formula_3, then the Maxwell–Boltzmann statistics is a good approximation.
+
+

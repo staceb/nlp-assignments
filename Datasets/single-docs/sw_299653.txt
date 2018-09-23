@@ -1,0 +1,17 @@
+Venda language
+
+Venda, also called ' or ', is a Bantu language and an official language of South Africa. Most Venda speakers live in South Africa, but some speakers live in Zimbabwe. The Venda language is very similar to the Kalanga language, which is spoken in Botswana and Zimbabwe. During the Apartheid era of South Africa, Venda speakers lived in the bantustan of Venda.
+
+Venda is a language in the Bantu branch of the Niger-Congo language family.
+
+Venda is spoken by about 666,000 people in the northern part of South Africa's Limpopo Province. Around 84,000 people in Zimbabwe also speak the language.
+
+The Venda language uses the Latin alphabet. It has five (5) extra accented letters. Four consonants have a circumflex below the letter ("ḓ", "ḽ", "ṋ", "ṱ") and one consonant has an overdot ("ṅ"). 
+
+The letters C, J, and Q are used when writing foreign words and names.
+
+The extra letters have these Unicode names 
+
+
+
+

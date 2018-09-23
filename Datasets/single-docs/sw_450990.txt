@@ -1,0 +1,13 @@
+Zong (mobile payments)
+
+Zong is a mobile payment company that allows users to make payments of small amount of money on the internet through postpaid mobile phones. These payments are charged in mobile phone bills by the mobile operator. The company was bought by eBay in 2011.
+
+Zong is a PayPal based service. Online games and social networks generally support its mobile payment system. It can also be used to buy non-physical things.
+
+Zong was the global division of mobile payment company Echovox. It was started in 2008 and eBay bought it in 2011. It is connected with 67 mobile operators in 13 countries.
+
+Zong focuses social networks and online games , so they make available the premium content to young people who do not have a credit card, the ability to make small purchases online. Zong allows them to pay with their mobile terminal and the amount is debited by the mobile operator.
+
+The partnership of Zong with mobile operators allows them to charge customers using short numbers. On March 12, 2009 Zong announced to stop short messaging service and is now targeting on its mobile payment system. Zong publishes an API that allows the developers to sell and publish content to mobile customers worldwide.
+
+

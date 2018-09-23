@@ -1,0 +1,10 @@
+Queen's Gambit
+
+The Queen's Gambit is a chess opening which starts with 1.d4 d5 2.c4. It is not really a gambit, because the pawn taken cannot be held. For example (simplest line):
+
+
+Since the pawn can't be kept, Black (by taking the c-pawn) has given up the centre. The standard strategy then is for Black to mount a counter-attack on the White centre.
+
+Now the white centre is balanced by the black counter-attack.
+
+

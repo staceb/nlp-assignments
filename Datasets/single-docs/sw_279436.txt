@@ -1,0 +1,6 @@
+Control variable
+
+A control variable is something in an experiment that is kept the same. Having control variables means that the experiment will be a fair test.
+The Control Variable is often used with the independent and dependent variables.
+
+

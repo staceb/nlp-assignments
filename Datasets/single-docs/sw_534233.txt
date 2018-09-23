@@ -1,0 +1,11 @@
+Two-body problem
+
+The two-body problem is a problem from classical mechanics: there are two bodies which influence each other. Very often they attract or repel each other. In many cases they rotate. The problem uses bodies which are circles, or spheres. Solving the problem is possible for many situations, but it usually involves higher level mathematics.
+
+When one of the two bodies has a mass that is much smaller, the influence of this smaller body on the larger one is very small, and can be disregarded. In such a case, the problem can be reformulated as a one-centre problem, where there is a stationary big body in the centre, and a small body orbiting around the big one. This setting is very comon. Johannes Kepler was the first person to formulate and solve it. For this reason, it is also known as Kepler problem.
+
+Isaac Newton was the first person to solve to the general two-body problem.
+
+Looking at the generalizations, there are two other problem which are related:
+
+

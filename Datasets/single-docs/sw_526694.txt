@@ -1,0 +1,15 @@
+Clinical Institute Withdrawal Assessment for Alcohol
+
+The Clinical Institute Withdrawal Assessment for Alcohol (often called CIWA or CIWA-Ar (an updated version)), is a scale used to measure alcohol withdrawal symptoms. The scale lists ten common symptoms of alcohol withdrawal. Based on how bad a person's symptoms are, each of these is assigned a number. All ten numbers are added up to make one final score. The highest possible score is 67. Higher scores are a sign of more severe alcohol withdrawal:
+
+The CIWA is used not just to measure how bad withdrawal symptoms are, but also to guide decisions about what treatments to give, like when to give benzodiazepines.
+
+The CIWA measures ten of the most common signs and symptoms of alcohol withdrawal:
+
+The CIWA scale is validated, which means it is proven to measure what it means to measure - alcohol withdrawal symptoms. It also has high inter-rater reliability. This means that if more than one medical professional used the CIWA on the same patient, they would get very similar results. Validation and inter-rater reliability are signs of good, accurate tests. 
+
+Studies have shown that when the CIWA scale is used to guide treatment:
+
+
+
+

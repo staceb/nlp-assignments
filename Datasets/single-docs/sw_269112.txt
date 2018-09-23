@@ -1,0 +1,5 @@
+Flops
+
+FLOPS is an acronym for "Floating point Operations per Second". The FLOPS is a measure of a computer's performance, especially in the fields of calculations that make heavy use of floating point calculations. It is like the older measure of instructions per second.
+
+

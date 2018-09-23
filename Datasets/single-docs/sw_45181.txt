@@ -1,0 +1,15 @@
+Bacteriophage
+
+A bacteriophage is a virus that infects bacteria. The term is commonly shortened to phage.
+
+Bacteriophages are among the most common and diverse entities in the biosphere. Like viruses that infect eukaryotes (plants, animals, and fungi) there are many different phage structures and functions. 
+
+Phages are typically made of an outer protein hull that has genetic material inside it. The genetic material may be single-stranded (ssRNA or ssDNA), or double-stranded (dsRNA or dsDNA). It may be between 5 and 500 kilobase pairs long with either circular or linear arrangement. Bacteriophages are usually between 20 and 200 nanometers in size.
+
+Phage genomes may code for as few as four genes, and as many as hundreds of genes. Phages inject their genome into the bacterium, and replicate inside the bacterium. 
+
+Phages are everywhere there are bacteria, such as soils or the intestines of animals. They are very common in sea water: up to 9×10 virions per milliliter have been found in microbial mats at the surface, and up to 70% of marine bacteria may be infected by phages.
+
+They have been used for over 90 years as an alternative to antibiotics in the former Soviet Union and Central Europe, as well as in France. They are a possible therapy against antibiotic resistant strains of many bacteria. On the other hand, some phages complicate biofilms involved in pneumonia and cystic fibrosis. They shelter the bacteria from drugs and so prolong the infection.
+
+

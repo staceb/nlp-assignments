@@ -1,0 +1,8 @@
+Filter (electronics)
+
+Electronic filters are electrical circuits which perform signal processing functions, specifically to remove unwanted frequency components from the signal, to enhance wanted ones, or both. Electronic filters can be:
+
+
+The most common types of electronic filters are linear filters, regardless of other aspects of their design. Digital filters use a Fourier transform.
+
+

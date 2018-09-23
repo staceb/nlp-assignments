@@ -1,0 +1,11 @@
+Portable application creators
+
+Portable application creators allow the creation of portable applications (also called: portable apps).
+
+No "agent"/"client" is required for these (also called "agentless" solutions):
+
+
+These programs require an agent or "client" (to run the "compiled" app)
+
+
+

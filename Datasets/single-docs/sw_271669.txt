@@ -1,0 +1,11 @@
+Bold (type)
+
+In formatting, bold makes a text become darker and a little bigger. It is used to emphasize a few words as a bolded text can attract attention from the reader.
+
+To make a word bold, there are different ways in doing so. They are listed below
+In HTML, the codice_1 and the codice_1 tags are used to surround the text that needs to be bolded.
+
+In Wikitext, an editor can bold a text using three apostrophes (codice_1) around the text to be bolded to produce the same results.
+
+
+

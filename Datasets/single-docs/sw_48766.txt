@@ -1,0 +1,15 @@
+Statistical survey
+
+Statistical surveys are collections of information about items in a population.
+
+Surveys can be grouped into numerical and categorical types. A numerical survey is to get numbers as replies. For example:
+
+How many minutes, on average, do you spend eating breakfast?
+This survey question is used to generate numbers in minutes. An example of a categorical question is:
+What is your favorite color?
+The categories for this would be yellow, green, purple, etc... which are not numbers.
+
+Surveys of human populations and institutions are common in political polling and government, health, social science and marketing research. A survey may concentrate on opinions or factual information depending on its purpose.
+
+
+

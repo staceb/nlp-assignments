@@ -1,0 +1,7 @@
+Near field communication
+
+Near Field Communication (often shortened to NFC) is the name for a standard that uses radio communication technology to send data over short distances. Usually, the distance covered is in the order of four centimeters. The standard is mostly used for micropayment systems. Another common use is to store tickets, such as those used for trains and buses on a re-usable smartcard. Many universities equip their student ID cards so they can be used to pay small amounts, for example a cup of coffee in a cafeteria.
+
+Each device is either active or passive; some can assume both roles.
+
+

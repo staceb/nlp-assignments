@@ -1,0 +1,6 @@
+Line segment
+
+In geometry, a line segment is a line between two different end points. An example of a line segment is a side of a triangle. If the end points are on a curve, like a circle, then the line segment is called a chord.
+
+
+

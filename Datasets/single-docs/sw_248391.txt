@@ -1,0 +1,47 @@
+Ketosis
+
+Ketosis occurs when ketone bodies are released into the bloodstream due to low glycogen levels in the liver. Ketone bodies are created by the breakdown of fatty acid. Ketosis can be understood as the use of body fat as a source of energy.
+
+The body goes through ketosis when there is not enough carbohydrate to refill glycogen in the liver. An example of this kind of diet is the Atkins diet, where followers start by eating fewer than 20g of carbohydrates per day. It takes 48 hours for the brain to switch from glucose to ketone bodies. Ketosis helps the body prevent using protein, from muscles, for gluconeogenesis to make glucose. 
+
+Ketosis 
+
+In essence, a ketogenic diet mimics "starvation", allowing the body to go into a metabolic state called ketosis (key-tow-sis). Normally, human bodies are sugar-driven machines: ingested carbohydrates are broken down into glucose, which is mainly transported and used as energy or stored as glycogen in liver and muscle tissue. When deprived of dietary carbohydrates (usually below 50g/day), the liver becomes the sole provider of glucose to feed your hungry organs – especially the brain, a particularly greedy entity accounting for ~20% of total energy expenditure. The brain cannot DIRECTLY use fat for energy. Once liver glycogen is depleted, without a backup energy source, humanity would’ve long disappeared in the eons of evolution.
+
+The backup is ketone bodies that the liver derives primarily from fatty acids in your diet or body fat. These ketones – ?-hydroxybutyrate (BHB), acetoacetate and acetone – are released into the bloodstream, taken up by the brain and other organs, shuttled into the “energy factory” mitochondria and used up as fuel. Excess BHB and acetoacetate are excreted from urine, while acetone, due to its volatile nature, is breathed out (hence the characteristically sweet “keto breath”). Meanwhile, blood glucose remains physiologically normal due to glucose derived from certain amino acids and the breakdown of fatty acids – voila, low blood sugar avoided!
+
+"Carbohydrate restriction induces the pancreas to "tell" fat cells to release fatty acids, which get taken up by the liver and converted into ketones and released into blood. Once taken up by the brain, ketones enter the TCA cycle to generate energy. Source: Shelly Fan. (click to see large)"
+
+Brain on ketones: Energetics, Oxidation and Inflammation
+
+So the brain is happily deriving energy from ketones – sure, but why would this be protective against such a variety of brain diseases?
+
+One answer may be energy. Despite their superficial differences, many neurological diseases share one major problem – deficient energy production. During metabolic stress, ketones serve as an alternative energy source to maintain normal brain cell metabolism. In fact, BHB (a major ketone) may be an even more efficient fuel than glucose, providing more energy per unit oxygen used. A ketogenic diet also increases the number of mitochondria, so called “energy factories” in brain cells. A recent study found enhanced expression of genes encoding for mitochondrial enzymes and energy metabolism in the hippocampus, a part of the brain important for learning and memory. Hippocampal cells often degenerate in age-related brain diseases, leading to cognitive dysfunction and memory loss. With increased energy reserve, neurons may be able to ward off disease stressors that would usually exhaust and kill the cell.
+
+A ketogenic diet may also DIRECTLY inhibit a major source of neuronal stress, by -well- acting like a blueberry. Reactive oxygen species are unfortunate byproducts of cellular metabolism. Unlike the gas Oxygen, these “oxidants” have a single electron that makes them highly reactive, bombarding into proteins and membranes and wrecking their structure. Increased oxidants are a hallmark of aging, stroke and neurodegeneration.
+
+Ketones directly inhibit the production of these violent molecules, and enhance their breakdown through increasing the activity of glutathione peroxidase, a part of our innate anti-oxidant system. The low intake of carbohydrates also directly reduces glucose oxidation (something called “glycolysis”). Using a glucose-like non-metabolized analogue, one studyfound that neurons activate stress proteins to lower oxidant levels and stabilize mitochondria.
+
+Due to its high fat nature, keto increases poly-unsaturated fatty acids (PUFAs, such as DHA and EPA, both sold over-the-counter as “brain healthy” supplements), which in turn reduces oxidant production and inflammation. Inflammatory stress is another “root of all evil”, which PUFAs target by inhibiting the expression of genes encoding for pro-inflammatory factors.
+
+Neurons on Ketones: 
+
+Excited neurons transmit signals, process information and form the basis of a functioning brain. OVER-excited neurons tend to die.
+
+The brain teeters on a balance between excitation and inhibition through two main neurotransmitters, the excitatory glutamate and the inhibitory GABA. Tilt the scale towards glutamate, which occurs in stroke, seizures and neurodegeneration, and you get excitotoxicity. In other words, hyper-activity is toxic.
+
+Back in the 1930s, researchers found that direct injection of various ketone bodies into rabbits prevented chemically-induced seizures through inhibiting glutamate release, but the precise mechanism was unclear. A recent study in hippocampal neurons showed that ketones directly inhibited the neuron’s ability to “load up” on glutamate – that is, the transmitter can’t be packaged into vesicles and released – and thus decreased excitatory transmission. In a model of epilepsy that used a chemical similar to glutamate to induce damage, the diet protected miceagainst cell death in the hippocampus by inhibiting pro-death signaling molecules. On the other end of the excitation-inhibition balance, ketones increase GABA in the synapses (where neurotransmitters are released) of rats and in the brains of some (but not all) epileptic humans subjects. This increase in inhibition may confer both anti-seizure effects and neuroprotection, though data is still scant.
+
+Then there are some fringe hypotheses. The acidity of ketones may decrease the pH of certain brain microdomains, which might be the mechanism of keto’s positive effect on Type II Bipolar disorder (lots of mays and mights, I know). As keto affects the whole body, global changes due to calorie restriction and regulation of the satiety hormone Leptin are bound to alter brain function, and play a circumstantial role.
+
+evidence ketosis are neuroprotector .
+
+All these molecular changes suggest that a ketogenic diet is protective against brain injury. But is there any REAL evidence?
+
+A study with 23 elderly with mild cognitive impairment showed that a ketogenic diet improved verbal memory performance after 6 weeks compared to a standard high carbohydrate diet. In a double-blind, placebo-controlled study, 152 patients with mild- to moderate Alzheimer’s disease were given either a ketogenic agent or a placebo, while maintaining a normal diet. 90 days later, those receiving the drug showed marked cognitive improvement compared to placebo, which was correlated with the level of ketones in the blood.
+
+In a pilot study in 7 patients with Parkinson’s disease, 5 were able to stick to the diet for 28 days and showed marked reduction in their physical symptoms. In an animal model of Amytrophic Lateral Sclerosis (ALS), a ketogenic diet also led to delayed motor neuron death and histological and functional improvements, although it did not increase life span; clinical trials are on the way.
+
+Remarkably, a long-term ketogenic diet does not seem to be associated with significant side effects, although constipation, dehydration and electrolyte and micronutrient deficiencies are common complaints. More serious complications include increased chance of kidney stones, gallbladder problems and bone fractures, especially in children. Menstrual irregularities often occur in women, with potential impact on fertlity. Although ketoacidosis – acidification of the blood due to pathological levels of ketones – was historically proposed as a side effect, nutritional ketosis simply cannot achieve the level of ketones required to induce this life-threatening state. Nevertheless, there are no studies directly monitoring the side effects of ketosis yet, hence it’s too early to conclude that the diet is completely safe for everyone.
+
+

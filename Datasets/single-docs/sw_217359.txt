@@ -1,0 +1,7 @@
+Carmichael number
+
+In number theory a Carmichael number is a composite positive integer formula_1, which satisfies the congruence formula_2 for all integers formula_3 which are relatively prime to formula_1. Being relatively prime means that they do not have common divisors, other than 1. Such numbers are named after Robert Carmichael. 
+
+All prime numbers formula_5 satisfy formula_6 for all integers formula_3 which are relatively prime to formula_5. This has been proven by the famous mathematician Pierre de Fermat. In most cases if a number formula_1 is composite, it does not satisfy this congruence equation. So, there exist not so many Carmichael numbers. We can say that Carmichael numbers are composite numbers that behave a little bit like they would be a prime number. 
+
+

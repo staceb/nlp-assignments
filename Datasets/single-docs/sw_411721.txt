@@ -1,0 +1,7 @@
+Surface-mount technology
+
+Surface-mount technology uses electronics that are made to be placed (or stamped) directly onto one side of printed circuit boards (PCBs).
+
+Examples of surface-mount devices are resistors, capacitors, LEDs and integrated circuits. Surface mounted devices are generally smaller than those used in the older through-hole technology, which need longer leads and holes in the circuit board.
+
+

@@ -1,0 +1,13 @@
+SimCity DS
+
+SimCity DS, or SimCity Creator, is a simulation video game made in 2007 by Electronic Arts. The player can build a city, while trying to keep it healthy.
+
+The player will be known as the "Mayor" throughout the game. They will have to look at five sheets to run their city.
+
+Zones are the places where buildings can develop. They are different, and the "heavier" the zone, the more buildings grow. However, land value has a greater effect.
+
+Certain facilities are called "needs". Power and water are considered "needs" in the game, although one is not completely mandatory.
+
+"Advisers" are people you choose to help you build a city.
+
+

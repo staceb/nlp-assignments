@@ -1,0 +1,58 @@
+List of readability tests
+
+This is a list of formulas which predict textual difficulty.
+
+These are ways of predicting how hard a piece of writing will be to understand (its textual difficulty). Research has shown that two main factors affect the ease with which texts are read.
+
+Formulae for predicting how difficult a sample of prose will be for readers are called "readability formulae". Some measure only the difficulty of the vocabulary: they are one-variable measures. Others include a measure of syntax such as sentence length.
+
+Validity of formulae can be judged by comparing them to each other, which is a kind of consistency check. More important is a check for how well they predict an independent ("outside") criterion of readability.
+
+One way to do this is to use a set of graded test passages. There the correlation coefficient of the better formulae "hovers around 70%". There have been many dozens of experimental tests, summarised by Klare. Correlations between readability measures and comprehension scores on passages are usual, as are correlations between readability scores are grade levels as chosen by experienced teachers. Quite an important result was got by Murphy, who increased the readability of a farm journal and found the readership much increased.
+
+The SMOG formula uses one variable to predict the difficulty of a passage of prose. It was developed G. Harry McLaughlin in 1969 to make calculations as simple as possible. Like Gunning-Fog the formula uses words which have 3 or more syllables as an indicator for hardness; these words are said to be polysyllabic.
+
+The original formula was given for samples of 30 sentences. It is:
+
+This can be adjusted to work with any number of sentences:
+
+McLaughlin also created directions for an approximate version which can be done with just mental calculation. 
+
+Edgar Dale, a professor of education at Ohio State University, was one of the first critics of Thorndike's vocabulary-frequency lists. He claimed that they did not distinguish between the different meanings that many words have. He created two new lists of his own. One, his "short list" of 769 easy words, was used by Irving Lorge in his formula. The other was his "long list" of 3,000 easy words, which were understood by 80 percent of fourth-grade students. In 1948, he incorporated this list in a formula which he developed with Jeanne S. Chall, who was to become the founder of the Harvard Reading Laboratory. 
+
+To apply the formula:
+
+Raw Score = 0.1579PDW + 0.0496ASL + 3.6365
+
+Where: 
+
+Finally, to compensate for the "grade-equivalent curve," apply the following chart for the Final Score:
+
+In 1995, Dale and Chall published a new version of their formula with an upgraded word list.
+
+The formula for the Flesch reading-ease score is
+
+Scores can be interpreted as shown in the table below.
+
+The US Department of Defense uses the reading ease test as the standard test of readability for its documents and forms. Florida requires that life insurance policies have a Flesch reading ease score of 45 or greater.
+
+Use of this scale is so ubiquitous that it is bundled with popular word processing programs and services such as KWord, IBM Lotus Symphony, Microsoft Office Word, WordPerfect, and WordPro.
+
+The Gunning Fog, sometimes called the Fog index, is a formula developed by Robert Gunning. It was first published in his book "The Technique of Clear Writing" in 1952. It became popular because the score is easy to calculate. 
+
+The formula has been criticized as it mainly uses sentence length. The critics argue that texts created with the formula will use shorter sentences without using simpler words. However, this criticism confuses "prediction of difficulty" with production of prose (writing). The role of readability tests is to predict difficulty; writing better prose is quite another matter. As discussed in prose difficulty, sentence length is an index of syntactical difficulty.
+
+Where:
+
+The Spache method compares words in a text to a list of words which are familiar in everyday writing. The words that are not on the list are called "unfamiliar". The number of words per sentence are counted. This number and the percentage of unfamiliar words is put into a formula. The result is a reading age. Someone of this age should be able to read the text. It is designed to work on texts for children in primary education or grades from 1 to 7.
+
+In 1974 Spache revised his Formula to: 
+
+The calculations are performed in two steps. The first step finds the Estimated Close Percentage. The second step calculates the actual grade.
+
+A simple version also exists that is not as accurate:
+
+The Automated Readability Index was designed for real-time computing of readability for the electric typewriter.
+
+
+

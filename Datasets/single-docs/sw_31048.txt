@@ -1,0 +1,9 @@
+Pac-Man
+
+Pac-Man is an arcade video game that was made by Namco. It was released in 1980, and became very popular in the history of games.
+
+In "Pac-Man", the player makes a Pac-Man, a yellow disc, move around a maze. The goal is to eat every yellow pellet (circles) while not getting caught by the ghosts/monsters. For extra points, fruits that appear can also be eaten. When Pac-Man eats a white pellet, the ghosts turn blue and can be eaten. Even though the game has 256 stages, the last level can not be finished due to a problem with the creation of the game.
+
+The game is called Puck Man in Japan. The game was named "Pac-Man" in the United States so that nobody could change the "P" to "F". There were many sequels and remakes based on the game. Hanna-Barbera made a animated TV show airing on ABC in the early 1970s. The game was also part of "Namco Museum" games. There is a "Namco Museum Remix" for the Wii.
+
+

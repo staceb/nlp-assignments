@@ -1,0 +1,37 @@
+Cell
+
+In biology, the cell is the basic structure of organisms. All cells are made by the division of other cells.
+
+The environment outside the cell is separated from the inside of the cell by the cell membrane. Inside some cells, parts of the cell stay separate from other parts. These separate parts are called organelles (like small organs). They each do different things in the cell. Examples are the nucleus (where DNA is), and mitochondria (where usable energy is created).
+
+There are two basic kinds of cells: prokaryotic cells and eukaryotic cells. Prokaryotes, bacteria and archaea, are simple cells that have no cell nucleus. They do have bacterial microcompartments.
+
+Eukaryotes are complex cells with many organelles and other structures in the cell. They are larger than prokaryote cells: they can be as much as 1000 times greater in volume. Eukaryotes store their genetic information (DNA) on chromosomes in the cell nucleus. Organisms (living things) which are made up of multiple cells are eukaryotes.
+
+The only kinds of prokaryotic organisms alive at present are bacteria and archaea. Prokaryotic organisms evolved before eukaryotic organisms, so at one point the world consisted of nothing but prokaryotic organisms. There are also viruses, which are hard to classify, but cause some important diseases. Viruses are made of RNA, or DNA, and protein, and they reproduce themselves inside the cells of bacteria or eukaryotes.
+
+Unicellular organisms are made up of one cell. Examples of unicellular organisms are:
+
+Unicellular organisms need to:
+
+All unicellular organisms must:
+
+Some may:
+
+Multicellular organisms are made from many cells. They are complex organisms. This can be a small number of cells, or millions of cells. All plants and animals are multicellular organisms. The cells of a multicellular organism are not all the same. They have different shapes and sizes, and do different work in the organism. The cells are specialized. This means they do only some kinds of work. By themselves, they cannot do everything that the organism needs to live. They need other cells to do other work. They live together, but cannot live alone.
+
+Cells were discovered by Robert Hooke (1635–1703). He used a compound microscope with two lenses to look at the structure of cork, and to look at leaves and some insects. He did this from about 1660, and reported it in his book "Micrographica" in 1665. He named cells after the Latin word "cella", meaning room. He did this because he thought cells looked like small rooms.
+
+Many other naturalists and philosophers tried out the new instrument. The structure of plants was investigated by Nehemiah Grew (1641–1712) and Marcello Malpighi (1628–1694). Grew's major work was "The anatomy of plants" (1682). It is not clear who first saw animal cells, Malpighi, Jan Swammerdam (1637–1680) or Antonie van Leeuwenhoek (1632–1723).
+
+Leeuwenhoek's discoveries and drawings of 'little animalules' opened up a whole new world for naturalists. Protozoa, and microorganisms generally were discovered, and the discoveries about them are still going on today. Christian Gottfried Ehrenberg's book "Die Infusionsthierchen" summarised what was known in 1838. Lorenz Oken (1779–1851) in 1805 wrote that infusoria (microscopic forms) were the basis of all life. 
+
+The idea that cells were the basis of the larger forms of life came in the 18th century. Finding out who did the work has taken some time:
+
+The cell theory includes these important ideas: 
+
+The body cells of metazoans divide by simple mitotic cell division. Sexual reproduction is ancestral in eukaryotes, and in metazoa it is carried out by specialised sex cells. They are produced by a process called meiosis. 
+
+Prokaryotic cells reproduce using binary fission, where the cell simply splits in half. For both mitosis and binary fission the cell must replicate (copy) all its genetic information (DNA) so that each new cell will have a copy.
+
+

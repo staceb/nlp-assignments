@@ -1,0 +1,7 @@
+.sg
+
+.sg is the country top level domain for Singapore(ccTLD) which was introduced in 1988. It is being managed by the Singapore Network Information Centre(SGNIC). It is only for residents of Singapore with a valid postal address. However, there are some second-level domains that has more rules when registering.
+
+
+
+

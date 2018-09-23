@@ -1,0 +1,12 @@
+Length of day
+
+The length of the day is how long a day is. On Earth, it is 24 hours long. There are other planets with different types of day.
+
+This uses Earth time.
+
+The Earth is constantly losing angular velocity and rotational energy through a process called tidal acceleration, which leads to a slow lengthening of the day. Tidal acceleration is an effect of the tidal forces between an orbiting natural satellite (e.g. the Moon), and the primary planet that it orbits (e.g. Earth). 
+
+A century ago, the average day was about 1.7 milliseconds shorter than today. In the late Neoproterozoic about 620 million years ago a day had only about 21.9±0.4 hours.
+
+
+

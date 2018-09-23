@@ -1,0 +1,15 @@
+Visual cortex
+
+The visual cortex is a part of the brain that allows vision. It is relatively thin – between 1.5mm and 2mm in humans. In monkeys and apes the visual cortex take up much of their brain. Physically, the visual cortex is at the back of the brain in the occipital lobe.
+
+David Hubel and Torsten Wiesel did research on the visual cortex for many years. They won the 1981 Nobel Prize in Physiology or Medicine for their discoveries about information processing in the visual system.
+
+Research on the primary visual cortex can involve recording action potentials from electrodes within the brain of cats, ferrets, rats, mice, or monkeys. Alternatively, signals can be recorded outside the animal by EEG, MEG, or fMRI. These techniques gather information without invading the brain.
+
+The primary visual cortex (V1) is the best studied visual area in the brain. This is where the messages arrive from the lateral geniculate nuclei, which are relay stations for information from the retina. Each lateral geniculate nucleus gets signals from the "opposite" visual field.
+
+Each V1 sends information to two primary pathways, called the ventral stream and the dorsal stream.
+
+
+
+

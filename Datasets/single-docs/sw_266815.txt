@@ -1,0 +1,7 @@
+Weak acid
+
+A weak acid is an acid chemical which does not dissociate (split into ions) completely when in a water solution. This means it does not give all its hydrogen ions into the water. Weak acids typically have a pH between 3 and 6. 
+
+Acetic acid (CHCOOH) and oxalic acid (HCO) are examples of weak acids. If an acid is represented by HA, then there is a balance between molecules which are split (ionised), and molecules which are not:
+
+

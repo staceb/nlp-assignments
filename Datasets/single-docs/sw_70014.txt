@@ -1,0 +1,16 @@
+Genome
+
+The genome of an organism is the whole of its hereditary information encoded in its DNA (or, for some viruses, RNA). This includes both the genes and the non-coding sequences of the DNA.
+The term was coined in 1920.
+
+Winkler's definition, in translation, runs:
+
+However, no single haploid chromosome set defines even the DNA of a species, because of the huge variety of alleles carried by a population. Even a diploid individual carries genetic variety. For that reason Dobzhansky preferred "set of chromosomes", and the definition now must be broader than Winklers' definition. The genome of a haploid chromosome set is merely a "sample" of the total genetic variety of a species.
+
+The term 'genome' can be applied specifically to mean the complete set of nuclear DNA (the 'nuclear genome') but can also be used of organelles that contain their own DNA, as with the mitochondrial genome or the chloroplast genome.
+
+"Note:" The DNA from a single human cell has a length of ~1.8 m (but at a width of ~2.4 nanometers).
+
+
+
+

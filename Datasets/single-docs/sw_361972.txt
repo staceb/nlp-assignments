@@ -1,0 +1,10 @@
+Gini coefficient
+
+The Gini coefficient (also known as the Gini index or Gini ratio) is a measure of differences in income. It was developed by the Italian statistician Corrado Gini in 1912.
+
+The Gini coefficient is usually a number between 0 and 1 (or 0 to 100). 0 means a country where the income is equally distributed. On the other hand, 1 means that one person owns everything but the rest owns nothing. In reality, all scores are between 0.25 and 0.6 (between 25 and 60 on the 0 to 100 scale).
+
+The table below is about the "world" Gini coefficient (not by single countries).
+The table below shows the income Gini coefficient of the United States from 1947 to 2009.
+
+

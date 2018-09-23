@@ -1,0 +1,5 @@
+Fork (software development)
+
+In software engineering, a project fork happens when a copy of source code from one software package is made into a different piece of software. Forking is not only creating a new branch from the old software, but also a split in support between the old and new software. Free and open-source software is code that may be forked from the original development team without prior permission. This does not violate copyright law. However, licensed forks of proprietary software ("e.g." Unix) also happen.
+
+

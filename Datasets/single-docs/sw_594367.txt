@@ -1,0 +1,6 @@
+Time in Ukraine
+
+Ukraine observes Eastern European Time (EET) (UTC+02:00) as standard time and Eastern European Summer Time (EEST) (UTC+03:00) as daylight saving time. The eastern parts and Crimea use Moscow Time (MSK) (UTC+03:00) without daylight saving time.
+
+Ukraine has observed daylight saving time since 1981 (then part of the Soviet Union) switching to EEST on the last Sunday in March at 03:00 local time, and switching to EET on the last Sunday in October at 04:00 local time.
+

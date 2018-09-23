@@ -1,0 +1,5 @@
+Expected value
+
+In probability theory and statistics, the expected value of a random variable in an experiment is the value the variable will take, if the experiment is repeated an infinite number of times and the mean (or weighted average) of all the values is calculated. The Law of large numbers describes how this happens.
+
+

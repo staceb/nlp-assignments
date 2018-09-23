@@ -1,0 +1,9 @@
+Van der Waals force
+
+In chemistry, van der Waals' forces are a type of intermolecular force. An intermolecular force is a relatively weak force that holds molecules together. Van der Waals' forces are the weakest type of intermolecular force. They are named after the Dutch scientist Johannes Diderik van der Waals (1837–1923).
+
+Negatively charged electrons orbit molecules or ions. The electrons create slightly different charges from one end of the molecule to the other. These slight differences are called "partial charges", as δor δ. 
+
+The term is sometimes used loosely as a synonym for "all" intermolecular forces. Van der Waals forces are relatively weak compared to covalent bonds, but play a fundamental role in supramolecular chemistry, enzymes, polymer science, nanotechnology, surface science, and condensed matter physics. Van der Waals forces define many properties of organic compounds, including their solubility.
+
+

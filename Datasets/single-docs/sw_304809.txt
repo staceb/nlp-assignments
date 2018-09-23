@@ -1,0 +1,26 @@
+List of Interstate Highways
+
+Primary Interstate Highways are the major interstate highways of the United States and have a one or two-digit route number. "Even" (2, 4, 6, 8, or 0) route numbers are given to east/west routes, with the smaller numbered routes in the south (I-10) and bigger numbered routes in the north (I-90). Similarly, "odd" (1, 3, 5, 7, or 9) route numbers are given to north/south routes, with the smaller numbered routes in the west (I-5) and the bigger numbered routes in the east (I-95).
+
+There are five sets of numbers that are used more than once throughout the system; the highways whose numbers are used more than once are separated by big distances to avoid confusion. Below, these are made separate from each other by West and East.
+
+Three-digit Interstates are spur or loop Interstates that usually are in big cities and areas outside of cities. The last two digits of a three-digit Interstate are always the number of the route it is related to. If the first digit is "odd" (1, 3, 5, 7, or 9), the Interstate is usually a spur route while if the first digit is "even" (2, 4, 6, 8, or 0), the Interstate is usually a loop route. 
+A total of 67 primary Interstates are in the table below, with 43 of them having three-digit routes. The lengths in the table are as of December 31, 2013.
+
+Routes ending in 0 or 5 are marked in green.
+
+Interstate Highways are not only in the 48 states of the United States that border, but there are also Interstates in Hawaii, Alaska, and Puerto Rico.
+
+The Interstate Highways in the island of Oahu, Hawaii are signed with the normal Interstate shield, with the letter "H-" added before the number. They are fully controlled-access routes built to the same standards as the Interstate routes in the main part of the United States.
+
+The Federal Highway Administration gives money to four routes in Alaska and three routes in Puerto Rico under the same program as the rest of the Interstate Highway System. However, these routes do not have to meet the same standards as the Interstate routes in the main part of the United States.
+
+Alaska's Interstates do not have signs to mark them, although they all have state highway numbers that are not the same as the Interstate numbers.
+
+
+Like Alaska, Puerto Rico signs its Interstates as territorial routes, and the numbers are not the same as their official Interstate designations. Many of the territory's routes are freeway-standard toll roads.
+
+
+
+
+

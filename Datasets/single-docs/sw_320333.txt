@@ -1,0 +1,35 @@
+Magnetic reluctance
+
+Magnetic reluctance, or magnetic resistance, is a measurement used in the analysis of magnetic circuits. It is like resistance in an electrical circuit, but rather than dissipating magnetic energy it stores magnetic energy. As an electric field causes an electric current to follow the path of least resistance, a magnetic field causes magnetic flux to follow the path of least magnetic reluctance. It is a scalar, 
+extensive quantity, like electrical resistance.
+
+Reluctance is usually represented by a curly capital R.
+
+The term was coined in May 1888 by Oliver Heaviside. The notion of “magnetic resistance” was first mentioned by James Joule and the term "magnetomotive force” (MMF) was first named by Bosanquet. The idea for a magnetic flux law, similar to Ohm's law for closed electric circuits, is attributed to H. Rowland.
+The total reluctance is equal to the ratio of the "magnetomotive force” (MMF) in a passive magnetic circuit to the magnetic flux in this circuit. In an AC field, the reluctance is the ratio of the amplitude values for a sinusoidal MMF and magnetic flux. (see phasors)
+
+The definition can be expressed as:
+
+where
+
+It is sometimes known as Hopkinson's law and is analogous to Ohm's Law with resistance replaced by reluctance, voltage by MMF and current by magnetic flux.
+
+Magnetic flux always forms a closed loop, as described by Maxwell's equations, but the path of the loop depends on the reluctance of the surrounding materials. It is concentrated around the path of least reluctance. Air and vacuum have high reluctance. Easily magnetized materials such as soft iron have low reluctance. The concentration of flux in low-reluctance materials forms strong temporary poles and causes mechanical forces that tend to move the materials towards regions of higher flux so it is always an attractive force (pull).
+
+The reluctance of a uniform magnetic circuit can be calculated as:
+
+or
+
+where
+
+The inverse of reluctance is called "permeance".
+
+Its SI derived unit is the henry (the same as the unit of inductance, although the two concepts are distinct).
+
+
+
+
+Reluctance can also be applied to:
+
+
+

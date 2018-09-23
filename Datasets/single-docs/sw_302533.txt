@@ -1,0 +1,9 @@
+Woodward–Hoffmann rules
+
+The Woodward–Hoffmann rules are a set of organic chemistry rules to predict the stereochemistry of pericyclic reactions. Pericyclic reactions are usually rearrangement reactions where the molecule is a ring (e.g. benzene ring). They were written by Robert Burns Woodward (a chemistry professor at Harvard University) and Roald Hoffmann (a chemistry professor at Cornell University). Hoffmann was awarded the 1981 Nobel Prize in Chemistry for this work, shared with Kenichi Fukui who developed a similar model. Woodward did not share the prize because he died two years before. Generally, the Nobel Prize is awarded only to living people. Woodward had already won a Nobel Prize in Chemistry for a different discovery.
+
+A recent paper in the journal "Nature" describes how mechanical stress can be used to reshape chemical reaction pathways to lead to products that apparently violate Woodward–Hoffman rules.
+
+
+
+

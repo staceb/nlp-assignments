@@ -1,0 +1,14 @@
+If and only if
+
+Iff (if and only if) is a "biconditional statement". It means both conditions must hold (be true) for the statement to be true. It is often called a "necessary and sufficient condition". Example:
+
+
+This makes it clear that Madison will eat all and only 
+those fruits that are apples. She will not leave any apple uneaten, and 
+she will not eat any other type of fruit. 
+That a given fruit is an apple
+is both a "necessary" and a "sufficient" condition for Madison to eat the fruit.
+
+Please note that the truth table shown is equivalent to the XNOR gate.
+
+

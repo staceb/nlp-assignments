@@ -1,0 +1,15 @@
+Pokémon Glitch
+
+Pokemon Glitches are Glitches in Pokemon. The most famous ones are the Mew glitch and the Old Man glitch in Pokemon Red/Blue, but the only Glitch in this article is the Mew Glitch.
+
+The Mew Glitch is a method for catching a wild Mew in Pokemon Red/Blue, and it is also known as the Trainer Fly(Escape)Glitch, and it can't be performed on other generations or other versions(except Yellow/Green).
+
+It is famous for catching Mew, but you can catch other Pokemon this way, and Glitch Pokemon as well, but it can't catch the following Hexadecimal Codes : 00, 01, 02, 03, 04, as the Special Stats can't be lowered below 5.
+
+The way to perform this glitch is to find a Long-Sight Trainer(Example : The Trainer on the way to the Bill's that says "I saw your feet from the grass!"or similar.), a Pokemon that can use Fly, Teleport, or if you're on a cave, Escape Rope, or an Pokemon that can use Dig, a trainer to fight later, and the Pokemon that needs to be transformed(If you are catching Mew, The special stat should be 21).
+
+Go to the Long-Sight Trainer, and stay at the point where you won't be seen by him. Then step down(if you are using the Trainer in the Example)and press Start immediately so the menu would appear, then use Fly or Teleport.
+
+Go to the trainer you wanted to fight later. The things you shouldn't do is Talk to him, and Walk straight to him. If you do that, then you would just crash. Fight him, and after the battle, go to a route that has a Ditto. Fight him, and let him copy the stats that the Pokemon needs to be transformed. End the battle, and go to the way to the Bill's(If you are following the example). A Start Menu will appear, and exiting the menu will make a wild Mew at Lv.7 appear.
+
+

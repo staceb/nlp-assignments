@@ -1,0 +1,27 @@
+First law of thermodynamics
+
+The first law of thermodynamics states that energy can't be created or destroyed, but it can be changed. The law forms the basis of the principle of conservation of energy. This means that anything that uses energy is changing the energy from one kind of energy to another. For example, exercising changes energy from food into kinetic (motion) energy. Energy cannot be created and never goes away. Energy just changes its form. People can use the changes to do work that is useful. Examples of forms of energy in classical mechanics include heat, light, kinetic (movement) or potential energy. However in modern physics it is considered that there are only two types of energy - mass and kinetic energy, although this may not be helpful to those not familiar with more complex physics.
+
+The law means that the total energy of the universe is a constant. However, energy can be transferred from one part of the universe to another. 
+
+The most common wording of the first law of thermodynamics used by scientists is:
+
+James Prescott Joule was the first person who found out by experiments that heat and work are convertible.
+
+The first explicit statement of the first law of thermodynamics was given by "Rudolf Clausius" in 1850: "There is a state function E, called 'energy', whose differential equals the work exchanged with the surroundings during an adiabatic process."
+
+In thermodynamics and engineering, it is natural to think of the system as a heat engine which does work on the surroundings, and to state that the total energy added by heating is equal to the sum of the increase in internal energy plus the work done by the system. Hence formula_1 is the amount of energy lost by the system due to work done by the system on its surroundings. During the portion of the thermodynamic cycle where the engine is doing work, formula_1 is positive, but there will always be a portion of the cycle where formula_1 is negative, e.g., when the working gas is being compressed. When formula_1 represents the work done by the system, the first law is written:
+
+People disagree whether energy is a positive or a negative number. So that formula_6 is the flow of heat out of the system, and formula_1 is the work into the system:
+
+Because of this ambiguity, it is very important in any discussion involving the first law to explicitly establish the sign convention in use.
+
+dU = the change in internal energy
+
+Q = heat
+
+W = work
+
+
+
+

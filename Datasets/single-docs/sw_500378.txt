@@ -1,0 +1,11 @@
+Screw thread
+
+A screw thread, often shortened to thread, is a helical structure. It is a ridge wrapped around a cylinder or cone in the form of a helix, with the former being called a "straight" thread and the latter called a "tapered" thread. 
+
+The tightening of a screw (hardware) to a bolt is like driving a wedge into a gap until it sticks fast through friction and slight plastic deformation (how the surfaces of the two objects slightly squash together).
+
+A screw thread is one of the six simple machines which give mechanical advantage. In this dynamic (moving) use, screw threads are set up as gears. Most of the steam engines of the 19th century turned steam into motion. By using gears with screw threads, the direction of movement can be changed. A very complicated modern version is the way the movement of pistons in a car engine is turned into movement of the car wheels. The illustration of transmission gears gives an idea of how screw threads are used in the transmission.
+
+The mechanical advantage of a screw thread depends on its "lead", which is the linear distance the screw travels in one revolution. 
+
+

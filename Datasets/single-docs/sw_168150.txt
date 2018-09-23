@@ -1,0 +1,6 @@
+Partial differential equation
+
+Partial Differential equations are a kind of mathematical equation. They are related to partial derivatives, in that obtaining an antiderivative of a partial derivative involves integration of partial differential equations.
+
+
+

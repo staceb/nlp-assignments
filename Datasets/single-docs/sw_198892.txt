@@ -1,0 +1,5 @@
+Stealth ship
+
+A stealth ship is a special kind of ship that can hide from radar.
+
+

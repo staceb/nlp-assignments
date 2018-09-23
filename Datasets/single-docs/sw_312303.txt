@@ -1,0 +1,6 @@
+Fixed point
+
+A value "x" is a fixed point of a function "f" if and only if "f"("x") = "x".
+1 is a fixed point of formula_1 because formula_2. Some functions do not have fixed points. For example formula_3 does not have one because formula_3 is never equal to "x".
+
+

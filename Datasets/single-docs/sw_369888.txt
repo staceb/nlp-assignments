@@ -1,0 +1,5 @@
+First order logic
+
+First order logic is type of logic, which is used in certain branches of mathematics and philosophy. First order logic allows to define a syntax which is independent of the mathematical or logical terms. In first order logic, reasoning can be done from two points of view: either using syntax alone, or including semantic terms. First order logic is different from predicate calculus: In first order logic, there are "quantifiers", called "for all" and "there is at least one". Negation, conjunction inclusive disjunction, exclusive disjunction and implication are the same as those in predicate calculus. Together with Zermelo–Fraenkel set theory, first order logic is the foundation of many branches of mathematics today.
+
+

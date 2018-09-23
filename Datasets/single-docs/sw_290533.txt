@@ -1,0 +1,7 @@
+Paraphyly
+
+Paraphyly is a term in cladistics. It means a group which does not include all its descendents. So Sauropsida without birds is paraphyletic, since birds are definitely descended from archosaurs, probably small theropod dinosaurs (origin of birds).
+
+Paraphyly is corrected to monophyly when the missing group(s) are included. So if birds are included in Sauropsida, the larger group is then monophyletic. Traditional classification is often paraphyletic.
+
+

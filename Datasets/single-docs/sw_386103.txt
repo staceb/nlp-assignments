@@ -1,0 +1,14 @@
+Moore's law
+
+Moore's law is that the number of transistors on integrated circuits doubles about every two years. Intel executive David House said the period was "18 months". He predicted that period for a doubling in chip performance: a combination of the effect of more transistors and their being faster. 
+
+The law is named after Intel co-founder Gordon Moore, who described the trend in his 1965 paper.
+The paper stated that the number of components in integrated circuits had doubled every year from the invention of the integrated circuit in 1958 until 1965 and predicted that the trend would continue "for at least ten years". His prediction has proved very accurate. The law is used in the semiconductor industry to guide long-term planning and to set targets for research and development.
+
+The capabilities of many digital electronic devices are strongly linked to Moore's law: processing speed, memory capacity, sensors and even the number and size of pixels in digital cameras. All of these are improving at (roughly) exponential rates as well.
+
+This exponential improvement has greatly increased the effect of digital electronics in the world economy. Moore's law describes a driving force of technological and social change in the late 20th and early 21st centuries.
+
+This trend has continued for more than half a century. Sources in 2005 expected it to continue until at least 2015 or 2020. The 2010 update has growth slowing at the end of 2013, after which transistor counts and densities are set to double every three years.
+
+

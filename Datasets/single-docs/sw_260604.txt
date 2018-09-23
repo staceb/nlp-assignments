@@ -1,0 +1,41 @@
+Elastic collision
+
+An elastic collision is when two objects collide and bounce back with little or no deformation. For example, two rubber balls bouncing together would be elastic. Two cars hitting each other would be inelastic, as the cars crumple, and do not bounce back. In a perfectly elastic collision (the simplest case), no kinetic energy is lost, and so the kinetic energy of the two objects after the collision is equal to their total kinetic energy before the collision. Elastic collisions occur only if there is no net conversion of kinetic energy into other forms (heat, sound). The other rule to remember when working with elastic collisions is that momentum is conserved.
+
+Consider two particles, indicated by subscripts 1 and 2. Let "m" and "m" be the masses, "u" and "u" be the velocities before the collision and "v" and "v" be the velocities after collision.
+Since it is an elastic collision, the total momentum before the collision is the same as the total momentum after the collision.
+Given that momentum (p) is calculated as
+We can calculate the momentum before the collision to be:
+and the momentum after the collision to be:
+Setting the two equal gives us our first equation:
+
+The second rule we use is that the total kinetic energy remains the same, meaning that the initial kinetic energy is equal to the final kinetic energy.
+
+The formula for kinetic energy is:
+So, using the same variables as before: 
+The initial kinetic energy is:
+The final kinetic energy is:
+Setting the two to be equal ( since the total kinetic energy remains the same):
+
+These equations may be solved directly to find "v" when "u" are known or vice versa.
+Here is a sample problem, which can be solved using either conservation of momentum, or conservation of energy:
+
+For example:
+
+After collision:
+
+Using Conservation of Momentum:
+
+After doing multiplication, and then subtracting formula_11 from both sides, we get:
+
+Summing the left side, then dividing by formula_13 gives us:
+
+We could have also solved this problem using Conservation of Energy:
+
+Multiplying both sides by formula_18, and then do all the required multiplications gives us:
+Adding the numbers on the left, subtracting formula_20 from both sides, and dividing by formula_13 gives us:
+Taking the square root of both sides gives us an answer of formula_23.
+
+Unfortunately, we'd still need to use conservation of momentum to figure out whether formula_24 is positive or negative.
+
+

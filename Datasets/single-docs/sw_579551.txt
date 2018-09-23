@@ -1,0 +1,4 @@
+Laboratory thermometer
+
+laboratory thermometer is a tool used in laboratories to measure temperature with a high level of accuracy. It can be partially or fully immersed in the substance being measured. A laboratory thermometer is recognizable by its long stem with a silver bulb at the end. The silver color on the laboratory thermometer at the bulb normally indicates the presence of mercury. Mercury expands as the temperature increases, thus raising the reading, while decreasing temperatures contract the mercury, lowering the reading. Mercury thermometers are being phased out as of 2014 as preference is shifted to other types of thermometers, such as digital, alcohol-filled and organic-based thermometers.its normal temperature is (-10) degree Celsius to (+110)degree Celsius
+

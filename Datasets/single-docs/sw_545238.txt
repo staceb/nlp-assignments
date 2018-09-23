@@ -1,0 +1,7 @@
+Slither.io
+
+Slither.io is an online Multiplayer video game. It is played on a web browser or through an app. The game was started by Steve Howse in 2016. 
+
+The game is played in the role of a snake eating 2-dimensional dots on a grid. Each snake is another online player. When any snake dies it turns into dots equal to their score before death. It is based on the 2015 game "agar.io" The main difference is that snakes die whether their head or body collides with another snake. Players can also die by falling off the edge, however, their score will not be released into dots. 
+
+

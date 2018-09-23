@@ -1,0 +1,7 @@
+Unary function
+
+A Unary Function is a function that takes just a single argument. In contrast, a function that takes more than one argument is called a polyadic function.
+
+This description of a function's arguments is known as its arity.
+
+

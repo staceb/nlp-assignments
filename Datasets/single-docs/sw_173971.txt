@@ -1,0 +1,28 @@
+Romanization of Bulgarian
+
+The Streamlined System for the Romanization of Bulgarian is a system of transliteration of the Bulgarian alphabet created by Lyubomir Ivanov in the Institute of Mathematics and Informatics at the Bulgarian Academy of Sciences in 1995, which is defined by the following table:
+
+The system was originally developed to serve for the Romanization of Bulgarian geographical names in Antarctica. It was adopted by the Antarctic Place-names Commission of Bulgaria on 2 March 2005. An early explanation of the Streamlined System was made in 1997 to the US and UK Antartcic place-naming authorities. They had noticed the difference from their 1952 BGN/PCGN romanization of Bulgarian. The new system became subject to comparative study at the Department of English and American Studies at Sofia University.
+
+Subsequently, the system was chosen by the Bulgarian Government. It is the official transliteration system to be used in all identity documents, road signs, street names, official information systems, databases, local authorities’ websites etc. Eventually, the Streamlined System became part of Bulgarian law by way of the passed in 2009.
+
+The Streamlined system was adopted also by UN in 2012, and for official US and UK use, by BGN and PCGN in 2013. Ivanov proposes using his Romanization approach in the case of Cyrillic alphabets of other Slavic languages, notably Russian.
+
+The Streamlined System was designed with the aim of striking an optimal balance between the following partly overlapping and partly conflicting priorities:
+
+
+Exceptions: 
+
+It had been proposed to modify the Streamlined System so that Bulgarian letters Ъ and Ц were transliterated as "Ă" and "TZ" respectively. However, those proposals failed to gain wider acceptance, and were not adopted for official usage.
+
+The system is not invertible, for А, Ж, Й, Ц, Ш, Щ, Ю, Я are transliterated in the same way as are Ъ, ЗХ, Ь, ТС, СХ, ШТ, ЙУ, ЙА respectively. An auxiliary, invertible variant of the system without the ИЯ-exception rule is proposed by L. Ivanov, D. Skordev and D. Dobrev to be used in those special cases when the exact retrieval of Bulgarian words from their Romanized forms is a priority, with Cyrillic letters and combinations of letters 
+Ъ, Ь, ЗХ, ЙА, ЙУ, СХ, ТС, ТШ, ТЩ, ШТ, ШЦ transliterated as "`A", "`Y", "Z|H", "Y|A", "Y|U", "S|H", "T|S", "T|SH", "T|SHT", "SH|T", "SH|TS" respectively. In order to ensure full invertibility of the system, including the case of the ИЯ-exception rule, one may transliterate word-final -ИА as "I|A" rather than "IA". The plain streamlined transliteration word form could be retrieved from its invertible variant by simply removing the additional symbols ` and |.
+
+The Streamlined System is based on an English-oriented transliteration, taking advantage of the global "lingua franca" role of English. A similar shift towards English-oriented transliteration is observed in the case of other Cyrillic alphabets such as Russian and Ukrainian, and to some extent Macedonian. 
+
+The Streamlined System is similar to the old 1952 BGN/PCGN System for the Romanization of Bulgarian, which had been official in the USA and the United Kingdom until 2013. The latter however transliterates the Cyrillic letters Х, Ь and Ъ as "KH", "’" (apostrophe) and "Ŭ", while the former uses "H", "Y" and "A" instead.
+
+Another similar system not adopted for official use in Bulgaria is that of A. Danchev, M. Holman, E. Dimova and M. Savova, which transliterates the Cyrillic letters У and Ъ by "OU" and "U" respectively, while the Streamlined System uses "U" and "A" for this purpose. Furthermore, the latter system transliterates the digraphs АЙ•ай, ЕЙ•ей, ОЙ•ой and УЙ•уй by AI•ai, EI•ei, OI•oi and OUI•oui instead of AY•ay, EY•ey, OY•oy and UY•uy respectively.
+
+
+

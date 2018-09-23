@@ -1,0 +1,7 @@
+Exabyte
+
+An exabyte (EB) is a unit of measurement for computers of the future. One exabyte holds 1000 petabytes (PB) or a million trillion (1,000,000,000,000,000,000) bytes. An exabyte is so large that it would take about one million powerful home computers to store this amount of data.
+
+One thousand exabytes make one zettabyte.
+
+

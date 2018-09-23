@@ -1,0 +1,33 @@
+Injective function
+
+In mathematics, a injective function is a function "f" : "A" → "B" with the following property. For every element "b" in the codomain "B" there is maximum one element "a" in the domain "A" such that "f"("a")="b".
+
+The term "injection" and the related terms "surjection" and "bijection" were introduced by Nicholas Bourbaki. In the 1930s, he and a group of other mathematicians published a series of books on modern advanced mathematics.
+
+An injective function is often called a 1-1 function. However, a 1-1 correspondence is a bijective function (both injective and surjective). This is confusing, so be careful.
+Formally:
+The element  formula_5  is called a pre-image of the element  formula_6  if  formula_7 . Injections have one or none pre-images for every element "b" in "B".
+
+Cardinality is the "number" of elements in a set. The cardinality of "A"={X,Y,Z,W} is 4. We write #"A"=4. 
+
+Let "f"("x"):ℝ→ℝ be a real-valued function "y"="f"("x") of a real-valued argument "x". (This means both the input and output are real numbers.)
+
+Example: The linear function of a slanted line is 1-1. That is, "y"="ax"+"b" where "a"≠0 is an injection. (It is also an surjection and thus a bijection.)
+Example: The polynomial function of third degree: "f"("x")="x" is an injection. However, the polynomial function of third degree: "f"("x")="x" –3x is not an injection.
+
+Example: The quadratic function "f"("x") = "x" is not an injection. 
+
+Note: One can make a non-injective function into an injective function by eliminating part of the domain. We call this restricting the domain. For example, restrict the domain of "f"("x")="x"² to non-negative numbers (positive numbers and zero). Define 
+This function is now an injection. (See also restriction of a function.)
+
+Example: The exponential function "f"("x") = 10 is an injection. (However, it is not a surjection.)
+
+Note: The fact that an exponential function is injective can be used in calculations. 
+
+Example: The logarithmic function base 10 "f"("x"):<nowiki>(0,+∞)</nowiki>→ℝ defined by "f"("x")=log("x") or "y"=log("x") is an injection (and a surjection). (This is the inverse function of 10.)
+
+Example: The function "f":ℕ→ℕ that maps every natural number "n" to "2n" is an injection. Every even number has exactly one pre-image. Every odd number has no pre-image.
+
+
+
+

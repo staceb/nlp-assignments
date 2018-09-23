@@ -1,0 +1,9 @@
+Atomic number
+
+The atomic number (symbol: Z) of an atom is the number of protons in the nucleus of the atom. The atomic number of an atom identifies which element it is. In a neutral atom, the atomic number is equal to the number of electrons orbiting the nucleus. The elements of the periodic table are listed in order of increasing atomic number.
+
+Atomic number is not the same as: 
+
+Atomic number is not changed by the number of electrons or neutrons; it is simply the proton number.
+
+

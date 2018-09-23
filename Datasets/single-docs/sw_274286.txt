@@ -1,0 +1,39 @@
+Thermoregulation
+
+Thermoregulation is the ability of an organism to control its body temperature within certain limits, even when the surrounding temperature is different. This is an aspect of homeostasis: the keeping of a constant internal environment.
+
+So-called warm-blooded animals control the temperature of their body at quite a high level. This ability is called endothermy. All mammals and birds are endotherms (homeotherms or homoiotherms). The basic source of the heat is chemical energy from the body's metabolism. they have a number of temperature-control devices:
+
+
+In the colder climates many mammals hibernate or aestivate. This means they have a two-level metabolism. Their temperature is held at a high level when they are active, and at a lower level when they are hibernating. This has the advantage of saving energy during times when they cannot get enough food to keep up the higher temperature.
+
+The human body has automatic responses to help regulate temperature. When the external environment heats up, arterioles leading to the capillary loops in the dermis dilate (widen). This increases blood flow to the surface of the skin where its heat can more easily radiate away. This process is called vasodilation:) Sweat glands also produce greater amounts of sweat. This liquid is secreted onto the surface of the skin. Sweat needs energy to turn from a liquid into a gas and evaporate. This energy is called the latent heat of vaporisation. The body supplies this heat and so it cools down as the sweat evaporates.
+
+If the body is unable to maintain a normal temperature and it increases significantly above normal, a condition known as hyperthermia occurs. This occurs when the body is exposed to temperatures of approximately 55°C; any exposure longer than a few hours at this temperature or up to around 70°C kills. The opposite condition, when body temperature decreases below normal levels, is known as hypothermia.
+
+Palaeontologists are fairly certain that some fossil groups were endotherms. Obvious examples are pterosaurs, whose bodies were covered by hair (or hair-like filaments), and the smaller carnivorous dinosaurs which evolved feathers ("dinobirds"). It is thought that feathers originally functioned to keep body temperature higher. They appear on bird-like dinosaurs before there were any flying birds ("Anchiornis huxlei"), and they appear on dinosaurs which are too heavy to fly at all.
+
+Heterothermy is a term for animals that have features of both ectothermy and endothermy. They can switch between strategies. 
+
+The fundamental idea is that smaller endothermic animals have, relative to their mass, a larger body surface. "Heat loss takes place from the surface, and in order to keep warm, an animal must produce heat at a rate equal to its loss".
+
+Animals 'make' heat by the metabolism inside their bodies, but lose heat through their surface (mostly their skin). Now, their bodies are 3-dimensional, whereas their surface is 2-dimensional. So, if an animal of length X doubles its length, then its surface area increases by about X, but its body mass increases by about X. Example:
+
+Thus larger animals are much more "energy efficient" than smaller animals. Large animals lose heat "relatively" slower than small animals because their surface area is smaller "in proportion".
+
+Small warm-blooded animals have three main tactics for overcoming this problem of heat loss. First, they have a higher metabolic rate than large animals. This is universal in birds and mammals: only the details differ. A higher metabolic rate affects the whole of their lives, and is the main reason why they have shorter lives than large animals. The smallest mammals (shrews) and the smallest hummingbirds are about the same size and weight. They have fast heart-beats, up to 1200 per minute, and they use up more calories per gram than any other endotherms. The rate of oxygen use is similarly high. As a result of the metabolism running at such a high rate, they do produce more heat per gram than any other living things.
+
+Second, many allow their temperature to drop at night. Many hummingbirds go into a trance-like torpor at night. 
+
+In that state, they are less aware and less able to take flight, so there is a greater risk of predators. However, when they are asleep they cannot feed, and at their normal rate of metabolism they need sugar regularly. The torpor is their way of saving energy which they cannot replace until the next day.
+
+Thirdly, almost all endotherms are insulated to reduce heat loss. Obviously that is true of birds (which have feathers) and land mammals (which have fur). Marine mammals have thick layers of fat under their skin, which is better insulation than wet fur. The exceptions are some very large mammals such as elephants, which have almost no fur. Their problem is how to get rid of heat, and that is a problem for all really large land animals. The African elephant's solution is to have large ears, which are well supplied with blood vessels, and to wallow in water if that is available. It is very likely that the same problem affected large dinosaurs. After all, the largest titanosaurs were far larger than any land animal alive today.
+
+Ectotherms are what is often called "cold-blooded". To function properly they need some heat, and usually this is heat from their surroundings. Many need heat in order to digest their food.
+
+Many supposedly cold-blooded animals do things to keep their temperature higher than the surrounding air or water. Fast-moving fish, like tunny, and some sharks, keep their temperature above the level of the surrounding water. Reptiles such as lizards and snakes sit in the sun when they are cold and in the shade when they are hot. Some insects control their temperature, especially colonial insects. Termite mounds have 'air conditioning': their system of openings and galleries allows currents of air to flow through the mound. Honey bees fan their wings to cool their colony. However, many smaller invertebrates do not control their body temperature at all.
+
+The correct scientific word for cold-blooded is poikilotherm (noun), "poikilothermic" (adjective).
+
+
+

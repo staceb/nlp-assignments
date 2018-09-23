@@ -1,0 +1,7 @@
+Big Rigs: Over the Road Racing
+
+Big Rigs: Over the Road Racing is a truck racing video game released in 2003. It was developed by Stellar Stone and published by GameMill Publishing. The game was released in an unfinished form and is missing many features, including collision detection. It is often considered to be the worst video game ever made.
+
+The game has five racetracks, one of which causes the game to crash when selected. Each level starts with an opponent that either doesn't move, or will move but will never complete the race. When the race is finished, the grammatically incorrect message "You're Winner" is displayed, and the race ends. There is no way for the player to lose the race or for the computer opponent to win. It is possible to drive through buildings, up mountains, and even outside the level due to the lack of collision detection.
+
+

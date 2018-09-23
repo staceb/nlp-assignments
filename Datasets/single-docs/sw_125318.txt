@@ -1,0 +1,14 @@
+Hubble Ultra Deep Field
+
+The Hubble Ultra Deep Field, or HUDF, is an image of a small part of space in the constellation Fornax. 
+
+It took more than 3 months to capture this image, from September 24, 2003 through January 16, 2004. It is the furthest image of the universe ever taken by humans. In it we see the universe as it was 13 billion years ago, when it was about 800 million years old.
+
+The HUDF contains an about 10,000 galaxies. The patch of sky where the galaxies are was chosen because it has few bright stars in the near-field. Although most of the targets visible in the Hubble image can also be seen at infrared wavelengths by ground-based telescopes, Hubble is the only instrument which can make observations of these distant targets at visible wavelengths. 
+
+Southwest of Orion in the Southern-Hemisphere constellation Fornax at right ascension 3h 32m 40.0s, declination -27° 47' 29" (J2000), the image covers 36.7 square arcminutes. This is smaller than a 1 mm by 1 mm square of paper held 1 meter away, and equal to roughly one thirteen-millionth of the total area of the sky. The image is such that the upper left corner points toward north (-46.4°) on the celestial sphere. The star near the center of the field is USNO-A2.0 0600-01400432 with apparent magnitude of 18.95.
+
+In total, the image required 800 exposures taken over the course of 400 Hubble orbits around Earth. The total amount of exposure time was 11.3 days for the ACS and 4.5 days for the NICMOS.
+
+
+

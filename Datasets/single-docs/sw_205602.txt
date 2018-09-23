@@ -1,0 +1,8 @@
+MouseHunt
+
+MouseHunt is a popular game on Facebook. The game is about you catching different kinds of mice using different traps and bases and different kinds of cheeses. To move up levels, you must get more points by catching more unique mice.
+
+There is a total of 15 ranks (14 using points and 1 by donating). They are:
+
+
+

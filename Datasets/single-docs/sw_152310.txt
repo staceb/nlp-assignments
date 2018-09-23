@@ -1,0 +1,17 @@
+Rocket engine
+
+A rocket engine is a device that produces a force by pushing gases at high speed out of a nozzle. Rocket engines burn chemicals such as petroleum and liquid oxygen at very high pressures and temperatures to turn the chemical energy into motion. In some cases (such as NASA rockets), the force created can be over .
+
+A garden hose shows how moving fluid can create a force. When a hose is turned up the hose will snake around unless it is held still. The exiting water is creating a force on the hose just like how the rocket engine gases push on the rocket engine.
+
+Some rocket engines burn liquid fuels while some burn solid fuels. Solid fuel rocket engines are sometimes called "rocket motors".
+
+Liquid fuel rocket engines often require complex pumps and valves to properly move (and pressurize) the liquids from the fuel tank to the actual engine. These machines must work in extreme temperatures and pressures. Liquid oxygen is very cold (-223˚C) while the engine is very hot (3000˚C), and the pressure is oftentimes hundreds of times higher than normal air pressure. Because of these conditions, liquid fuel rocket engines are often very complex and require very specialised materials (metals, ceramics, etc.).
+
+Solid fuel rocket motors have the fuel (called propellant) as a solid mixture of an oxidizer and fuel. An oxidiser supports the burning of fuel much like oxygen supports burning. The common oxidiser is powdered Ammonium Perchlorate, while the common fuel is powdered aluminum metal. The two powders are stuck together with a third component known as the binder. The binder is a rubbery solid that also burns as a fuel. The simple idea makes solid rocket engines cheaper, but they cannot be turned off or controlled, and are more likely to explode than liquid rocket engines. Solid rockets also provide a smaller specific impulse, hence must be heavier to launch the same payload.
+
+Military missiles commonly use solid rockets because they can be kept ready for many years. Many satellite launchers use solid rocket boosters when they start, but liquid rockets for the majority of the flight. 
+
+Hybrid rocket engines combine the two ideas. The two propellants are different states of matter, often with liquid oxidisers and solid fuels. They are not used much, but might be safer than solid rocket motors or liquid rocket motors
+
+

@@ -1,0 +1,27 @@
+Second law of thermodynamics
+
+The second law of thermodynamics says that when energy changes from one form to another form, or matter moves freely, entropy (disorder) increases, in a closed system.
+
+Differences in temperature, pressure, and density tend to even out horizontally after a while. Due to the force of gravity, density and pressure do not even out vertically. Density and pressure on the bottom will be more than at the top.
+
+Entropy is a measure of spread of matter and energy to everywhere they have access.
+
+The most common wording for the second law of thermodynamics is essentially due to "Rudolf Clausius":
+
+In other words, everything tries to maintain the same temperature over time.
+
+There are many statements of the second law which use different terms, but are all equal. Another statement by Clausius is:
+
+Heat cannot of itself pass from a colder to a hotter body.
+An equivalent statement by Lord Kelvin is:
+
+A transformation whose only final result is to convert heat, extracted from a source at constant temperature, into work, is impossible. 
+
+The second law only applies to large systems. The second law is about the likely behavior of a system where no energy or matter gets in or out. The bigger the system is, the more likely the second law will be true.
+In a general sense, the second law says that temperature differences between systems in contact with each other tend to even out and that work can be obtained from these non-equilibrium differences, but that loss of thermal energy occurs, when work is done and entropy increases. Pressure, density and temperature differences in an isolated system, all tend to equalize if given the opportunity; density and pressure, but not temperature, are affected by gravity. A heat engine is a mechanical device that provides useful work from the difference in temperature of two bodies.
+
+
+
+
+
+

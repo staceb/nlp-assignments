@@ -1,0 +1,6 @@
+Relative density
+
+Relative density is the ratio of the densities of two materials. The term specific gravity is similar but not the same. In specific gravity, the reference material is water. Mathematically, relative density is found with:
+
+
+

@@ -1,0 +1,6 @@
+Printer
+
+A printer can be:
+
+
+

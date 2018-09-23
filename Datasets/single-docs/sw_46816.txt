@@ -1,0 +1,34 @@
+Laptop
+
+A laptop is a computer which is easy to carry around. Its user can fold the laptop along its hinge for carrying. The laptop was created mainly for this particular reason. Computer parts were scaled to smaller size so this could happen.
+
+The first laptop was invented in 1979 by British Designer Bill Moggridge. GRiD Systems Corporation helped improve his design. GRiD made the product with a fold-down display that covered the keyboard. It was called the "GriD Compass". In 1982, Grid Systems began to make many GriD Compass laptops. They were mostly sold to the US Military and NASA.
+
+GRiD's computer was one fifth the weight of any other computer used at that time. NASA used the laptop in its Space Shuttle program, in the 1980s. The Grid Compass required mains power. 
+
+GRiD owned patents for the "Clamshell" design which is used in almost all modern laptop designs. GRiD Systems was bought by Tandy Corporation in 1988. 
+
+The portable micro computer the "Portal" of the French company R2E Micral CCMC officially appeared in September 1980 at the SICOB show in Paris. The Portal was based on an Intel 8085 processor, 8-bit, clocked at 2 MHz. It was equipped with a central 64K byte Ram, a keyboard with 58 alpha numeric keys and 11 numeric keys (separate blocks), a 32-character LED screen, a floppy disk: capacity = 140 000 characters, a thermal printer: speed = 28 characters / second, an asynchronous channel, a synchronous channel, a 220V power supply. It weighed 12 kg and its dimensions were 45 cm × 45 cm × 15 cm. It had no hinge and its operating system was Prolog. 
+
+Some historians, however, count as the first "true" portable the "Osborne 1". It was created in 1981 by Adam Osborne who was also a former book publisher. He was the founder of Osborne Computer. His portable computer weighed 11 kg (24 pounds).
+
+The computer had a five-inch screen, a serial port and two floppy disk drives. Several programs were included with the Osborne 1. Customers could also buy a 1 hour battery pack. 
+
+Also in 1981, another laptop computer called Epson HX-20 went on sale. It was a portable computer with a liquid crystal display (LCD) monitor. The computer also included a built-in printer. The whole device was could be battery powered. 
+
+One year later, in 1982, two computer designers from Microsoft, Kazuhiko Nishi and Bill Gates, discussed a new portable computer. The main thing about the computer was a new LCD technology. The prototype of the new laptop was presented to Radio Shack. Radio Shack agreed to start making the computer. A year later the company launched its TRS-80 Model 100, which was a computer that looked pretty much like the laptops that we know today. In 1986 the company created its improved version called TRS Model 200. The following two years saw the appearance of a laptop PC from Compaq Computers and the first notebook-style laptop from NEC called NEC UltraLite.
+
+The year 1989 was quite successful for laptop producers. First there was Apple Computer that developed its first portable computer called Macintosh Portable the evolution of which turned it into PowerBook. Then the company named Zenith Data Systems introduced its Zenith MinisPort – a portable computer weighing 6 pounds (2.5 Kg). Finally there was Compaq Computer that designed its first laptop PC called Compaq LTE.
+
+The development of laptops continued with various upgrades and additional functions added. Laptops have advantages such as: 
+
+
+At the same time portable computers have several negative points such as:
+
+
+In 2005, an organisation called One Laptop Per Child started trying to improve education using cheap laptops.
+
+Notebook computers are small laptops. After 2010 people bought fewer laptops because tablet computers are even more portable. 
+
+
+

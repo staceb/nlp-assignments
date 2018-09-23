@@ -1,0 +1,19 @@
+Student's t-distribution
+
+\!</math>|
+
+ mgf = undefined|
+
+Student's t-distribution is a probability distribution which was developed by William Sealy Gosset in 1908. "Student" is the pseudonym he used when he published the paper which describes the distribution. Gosset worked at a brewery and was interested in the problems of small samples, for example the chemical properties of barley. In the problems he analyzed, the sample size might be as low as three. One version of the origin of the pseudonym is that Gosset's employer preferred staff to use pen names when publishing scientific papers instead of their real name, so he used the name "Student" to hide his identity. Another version is that the brewery did not want their competitors to know that they were using the "t"-test to test the quality of raw material. 
+
+Because of the small sample size, estimating the standard deviation is not possible. Also, in many cases Gosset encountered, the probability distribution of the samples was not known. 
+
+A normal distribution describes a full population, "t"-distributions describe samples drawn from a full population; accordingly, the "t"-distribution for each sample size is different, and the larger the sample, the more the distribution resembles a normal distribution.
+
+The "t"-distribution plays a role in many widely used statistical analyses, including the Student's "t"-test for assessing the statistical significance of the difference between two sample means, the construction of confidence intervals for the difference between two population means, and in linear regression analysis. The Student's "t"-distribution also arises in the Bayesian analysis of data from a normal family.
+
+If we take a sample of "n" observations from a normal distribution, then the "t"-distribution with "ν = n−1" degrees of freedom can be defined as the distribution of the location of the true mean, relative to the sample mean and divided by the sample standard deviation, after multiplying by the normalizing term formula_6. In this way, the "t"-distribution can be used to estimate how likely it is that the true mean lies in any given range.
+
+The "t"-distribution is symmetric and bell-shaped, like the normal distribution, but has heavier tails, meaning that it is more prone to producing values that fall far from its mean. This makes it useful for understanding the statistical behavior of certain types of ratios of random quantities, in which variation in the denominator is amplified and may produce outlying values when the denominator of the ratio falls close to zero. The Student's "t"-distribution is a special case of the generalised hyperbolic distribution.
+
+

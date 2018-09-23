@@ -1,0 +1,76 @@
+Vietnamese alphabet
+
+This page describes the alphabet () of the Vietnamese language in use around the world.
+
+Here is the total set of characters for the lowercase letters:
+
+The little ₫ is just the Dong (Dollar) sign - most people just write VND for Vietnamese Dong - the currency of Vietnam.
+
+This makes the useful alphabet 89+ letters.
+I.e.
+This letter is a word: 'ở, it means "at" (or "where", "place").
+
+The main letters from the Latin alphabet:
+
+a, b,c,d,e,g,h,i,k,l,m,n,o,p,q,r,s,t,u,v,x,y
+
+ô, ơ, â, ă, ê, ư, đ
+
+This changed set of characters makes new alphabet letters for use in the Vietnamese language. They are an extension to the set of Latin characters already used. English doesn't extend the alphabet. English just uses the same written characters over again, to denote different (letter) sounds. For example: ape, angry, all, art, aorta, and apple. For the Vietnamese language, sounds are split up with their own letter/character changes.
+
+'đ' is just the same as the English d.
+
+'d' in the Vietnamese alphabet is y (in Southern Vietnam)
+
+and,
+
+'d' is also z (in Northern Vietnam).
+
+'a, â, ă' are just different ah letters.
+
+'u, ư' are different oo letters - never, ever an uh/ah sound.
+
+'e, ê' are just eh and ey - but they may sound different to English e in use.
+
+'o, ô, ơ' are just oh, oe, and ur - but they still all sound like o's from English.
+
+Note: i and y are essentially the same vowel (and may be exchanged in some situations)
+
+The alphabet is taught in Vietnam's schools with these letters
+
+a, b, c, d, e, g, h, i, k, l, m, n, o, p, q, r, s, t, u, v, x, y - ô, ơ, â, ă, ê, ư, đ 
+
+Vietnamese schools teach the alphabet with these 29 letters. The total number of possible letters is much higher if diacritical marks are added.
+
+The F, J, W, Z not used native words, Only English use native words F, J, W, Z.
+
+These are the tone rules for vowels with different sounds. It's like music where only the correct sound can come from the instrument. It doesn't matter which instrument, as long as the sound follows the rules.
+Note: This is a spoken language so musical pitch or lilt is not the most changed sound quality. Different voices have different musical pitches. What the speaker will change is the intensity, and time given to the sound parts for each letter (or word). If a speaker uses strong pitch changes, it will probably be for pronunciation.
+
+Before, the alphabet was arranged from 'a to z' by foreign dictionaries, it included two letter sounds. The letters are like two letter sounds in English. 'Ch' in mechanic, or Christmas are good examples. In Viet characters the 'j'(jeh) sound has an equal (sound) that is written as 'tr'(jeh). Letters like 'Tr' used to be in every dictionary's order right in between the other alphabet letters. Another sound is 'ph'. 'Ph' is very famous - it's used in 'phở' the most famous Vietnamese soup in the world. 'Ph' is an 'f' sound, just like in English - 'phone'. 
+In addition to the normal alphabet consonants, there are nine possible double-letters and one triple-letter.
+
+
+Because of a relationship with East Asian languages (Japanese,Chinese etc.) the Vietnamese words can be moved around in their order. The reversal of the syllable-words moves them to another position in the dictionary. Also, the syllable-words can be held behind different syllable-words - like the articles in English. It's best to use a computer query to find them.
+
+Young Vietnamese learners will spend a lot of time with this alphabet. Correction is very common. The need for correction is used in many comedies about uneducated people. Comedies about foreigners are becoming very common too. 
+The reason for all the attention is how quickly the meaning will change. To say "I have a sore head, somewhere" ("đầu của tôi là đau đâu!" in Vietnamese) is nearly impossible for (foreign) learners on their first day. A learner will only hear 'dow, dow dow' or 'dough, dough, dough' or 'dow, dough, dough' which does not help when listening. The same problem can be stated in English - 'four forks for foreigners' foreheads forthwith!' 
+Each word in Vietnamese can be identical to another word, except for the sounds/tones/letter-changes. The sound is also identical to the ears of English speakers that allow for expression (sound changes) still. 
+
+See: Vietnam Eyes lesson on YouTube
+
+The world includes Vietnam! So, the other letters 'j, f, w and z' are now OK to use in many places - on billboards, posters, T-shirts... But, if you work for any type of Vietnamese authority or association, then limit their use until the authority declares them as acceptable letters. But, the other alphabets that are used in English might not be accepted. For example: the Greek alphabet is very useful for English speakers - but in Vietnam it can lack meaning - it would be a decoration for the general population. Educated people will know more letters from the Greek alphabet.
+
+Vietnamese used to be written in Chinese characters. A variety for Vietnamese is used in traditional culture. Many Chinese speakers find Vietnamese easy to grasp. The combination of two words is very common to Chinese. Example: phat am, Hong Kong/Xiong Gong etc. .
+
+'Diphthongs' are the next most important step to understanding the use of Vietnamese letters. The combination of toned vowels as "dipthongs" and "tripthongs" makes the Vietnamese language very fast. Some phrases can be spoken clearly without a strong clarity from consonants. It's very hard for English speakers to follow the combinations of sounds, especially vowels.
+
+The Vietnamese keyboard is always virtual (in software). Nobody can buy a computer keyboard for Vietnam, in Vietnam. The common QWERTY keyboard is used in Vietnam. Software programs for Vietnamese characters are very common.
+
+The webpage is usually set to include the UTF-8 standard when using the Vietnamese alphabet. If the design of the characters is strange the designer of a web-page will set the font to plain ""Arial"". Some special fonts have been made for Vietnamese alphabets.
+
+Some software is free to use. An open-source software program for the Vietnamese keyboard has already been written.
+
+There are a few virtual keyboard systems to use.
+
+

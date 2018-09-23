@@ -1,0 +1,51 @@
+Twitter
+
+Twitter is a social networking and microblogging service. Users use mobile phones or computers to send and to read messages, called "tweets". Tweets can be up to 140 characters long. They appear on the user's profile page. Tweets can usually be read by anyone, but senders can also keep messages private. Private tweets only go to their list of friends. Users may subscribe to tweets from other people. This is called "following", and subscribers are known as "followers". As of late 2009, users can also follow lists of authors.
+
+All users can send and receive tweets using the Twitter website. They can also use other applications that work with Twitter on smartphones. Twitter by Short Message Service (SMS) is available in certain countries. Using Twitter is free, but sending or getting tweets by SMS may cost money. The website is based in San Francisco, California. Twitter also has servers and offices in San Antonio, Texas and Boston, Massachusetts, and soon in Salt Lake City, Utah.
+
+Twitter has become very popular worldwide since Jack Dorsey created it in 2006. It now has more than 100 million users. It is sometimes described as the "SMS of the Internet."
+
+Twitter started at a podcasting company Odeo. The company board members had a "daylong brainstorming session." During the meeting, Jack Dorsey introduced the idea of one person using an SMS service to communicate with a small group. At first, they called this project "twttr". It fit the five character length of American SMS short codes and sounded like Flickr. At first, the developers planned to use "10958" as a short code. Later they changed it to "40404" because it was easier to remember and type. Dorsey sent the first Twitter message at 9:50 PM Pacific Standard Time (PST) March 21, 2006. The first tweet was, "just setting up my twttr."
+
+The first version of Twitter was only for Odeo employees to use. They opened the full version for anyone to use on July 15, 2006. In October 2006, Biz Stone, Evan Williams, Dorsey, and other members of Odeo started a new company called Obvious Corporation. Obvious Corporation bought Odeo and all of its property–including Odeo.com and Twitter.com–from the investors and shareholders. Twitter became its own separate company in April 2007.
+
+Twitter started becoming very popular after the 2007 South by Southwest (SXSW) festival. During the event, Twitter usage increased from 20,000 tweets per day to 60,000. The Twitter company set up two very large computer screens in the hallways at the conference. These screens only showed Twitter messages. Hundreds of people at the conference checked on what each other were doing by looking at the many tweets. Panelists and speakers talked about Twitter. Bloggers at SXSW described it to others in a very positive way.
+
+Reaction at the festival was very good. Blogger Scott Beale said that Twitter "absolutely rul[ed]" SXSW. Social software researcher Danah Boyd said Twitter "own[ed]" the festival. Twitter staff won the festival's Web Award prize. They said, "we'd like to thank you in 140 characters or less. And we just did!"
+On September 14, 2010, Twitter changed the site design and added a new logo.
+
+On October 4, 2010, Evan Williams announced that he would not be CEO any more. Dick Costolo became the new CEO. He had been COO of Twitter. Williams will stay with the company and work on plans for the future of Twitter.
+
+Technology author Steven Johnson described the basic way Twitter works. He called it "remarkably simple." Following is an important part of Twitter as a social network. Users' Twitter home pages show all of the tweets from people they follow. The tweets appear from newest to oldest. Johnson said:
+
+Twitter is mainly used by older adults who might not have used other social sites before Twitter. Jeremiah Owyang studies social media. He said, "Adults are just catching up to what teens have been doing for years." Only 11% of Twitter's users were 12 to 17 years old in September 2009. This may be because Twitter first gained popularity in businesses and news media that attract more older people. Many famous people such as Shaq, Britney Spears, and Ashton Kutcher are Twitter users.
+
+In June 2009, more women than men used Twitter—53% women; 47% men. Only 5% of users made 75% of all tweets. Also, New York had the most Twitter users. 
+This is a brief summary of Twitter users as of 3 September 2009. 
+
+Twitter is one of the 10 most visited websites in the world.
+
+People can use software from other companies to access Twitter. These programs are called "third-party applications". The Twitter company changed the way this works on 31 August 2010. Now applications must use OAuth to connect to Twitter. This method means that users do not have to give their passwords to the third-party applications. Changing the login system to OAuth did cause some problems. Using OAuth had been optional and programs used to be able to ask for usernames and passwords. However, now third-party applications that try to use a username and password do not work at all. The Twitter company said that using OAuth will give users "increased security and a better experience."
+
+On April 30, 2009, Twitter changed the way it looks on the web. They added a search bar and a space on the right side of the page with "Trending Topics". That space shows the most common phrases appearing in messages. Biz Stone explained that all messages are instantly indexed and explained the results of the change. The Trending Topics has made Twitter something "unexpectedly important — a discovery engine for finding out what is happening right now."
+
+Sometimes Twitter users experience a problem with the service and cannot access the website. They cannot read or write tweets but only see the "Fail Whale" image created by Yiying Lu,
+
+Twitter worked well approximately 98% of the time in 2007. That is about six full days of no service. The problems were particularly noticeable during events popular with the technology industry such as the 2008 Macworld Conference & Expo keynote address.
+
+
+Twitter developed several software projects to improve their own service. The company shared these as open source software. Some of these software projects are related to databases, such as the Gizzard Scala framework and a distributed graph database called FlockDB.
+
+t.co is a service created by Twitter to make URLs shorter. It can only be used for links that people post to Twitter. It is not available for other uses. Eventually all links on Twitter will use t.co. The company hopes that the service will protect users from harmful websites. They will also use it to keep a record of people clicking on links in tweets.
+
+Twitter had used the services from other sites such as TinyURL and bit.ly. They began trying their own way of making URLs shorter for direct messages in March 2010. They used the domain, twt.tl, before they bought the t.co domain.
+
+The company is using these accounts to test the service on the main site: @TwitterAPI, @rsarver, and @raffi.
+
+On 2 September 2010, Twitter sent an email message to users to explain that they were starting to open the service to them.
+
+Twitter can also be used as an amateur and professional news source.
+
+
+

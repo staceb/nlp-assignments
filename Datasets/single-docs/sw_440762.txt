@@ -1,0 +1,15 @@
+Long-term memory
+
+Long-term memory (LTM) is our memory of past events. It follows from short-term memory, and involves the growth of nerve synapses which are very long-lasting.
+
+The brain does not store memories in one unified structure, as might be seen in a computer's hard disk drive. Instead, different types of memory are stored in different regions of the brain. Long term memory is typically divided up into two major headings: explicit memory and implicit memory.
+
+Explicit or 'declarative' memory refers to memories which can be consciously recalled such as facts and knowledge. These are partly encoded by the hippocampus, stored elsewhere. Exactly where is unknown, but the temporal cortex has been proposed as a likely candidate. Research shows that amnesiac patients with damage to the medial temporal lobe performed more poorly on explicit learning tests than did healthy controls. However, the same patients performed at the same rate as healthy controls on "implicit" learning tests. This implies that the medial temporal lobe is heavily involved in explicit learning, but not in implicit learning. 
+
+Implicit or procedural memory refers to the use of objects or movements of the body, such as how exactly to use a pencil, drive a car, or ride a bicycle. This type of memory is encoded and it is presumed stored by the striatum and other parts of the basal ganglia. The basal ganglia is believed to mediate procedural memory and other brain structures and is largely independent of the hippocampus. The parietal and occipital regions are associated with implicit memory.
+
+The memory for events that evoke a particularly strong emotion may involve both declarative and procedural memory processes. Emotional memories are consciously available, but elicit a powerful, unconscious physiological reaction. Research indicates that the amygdala is extremely active during emotional situations, and acts with the hippocampus and prefrontal cortex in the encoding and consolidation of emotional events.
+
+Working memory (STM) is not part of long term memory, but is important for long term memory to work. Working memory holds and works on information for a short period before it is either forgotten or put into long term memory. Then, to remember something from long term memory, it must come back into working memory. If working memory is overloaded it can affect the encoding of long term memory. 
+
+

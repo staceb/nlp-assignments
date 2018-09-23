@@ -1,0 +1,66 @@
+Logarithm
+
+Logarithms or logs are a part of mathematics. They are related to exponential functions, and are useful in multiplying or dividing large numbers.
+
+Logarithms were first used in India in the 2nd century BC. The first to use logarithms in modern times was the German mathematician Michael Stifel (around 1487-1567). In 1544, he wrote down the following equations: formula_1 and formula_2 This is the basis for understanding logarithms. For Stifel, formula_3 and formula_4 had to be whole numbers. John Napier (1550–1617) did not want this restriction, and wanted a range for the exponents.
+
+According to Napier, logarithms express ratios: formula_5 has the same ratio to formula_6 , as formula_7 to formula_8 if the difference of their logarithms matches. Mathematically: formula_9. At first, base e was used (even though the number had not been named yet). Henry Briggs proposed to use 10 as a base for logarithms, such logarithms are very useful in astronomy.
+
+A logarithm tells what exponent (or power) is needed to make a certain number, so logarithms are the inverse (opposite) of exponentiation
+
+Just as an exponential function has three parts, a logarithm has three parts. The three parts of a logarithm are a base, an argument (also called power) and an answer.
+
+This is an exponential function: 
+In this function, the base is 2, the argument is 3 and the answer is 8.
+
+This exponential function has an inverse, its logarithm:
+
+In this logarithm, the base is 2, the argument is 8 and the answer is 3.
+
+Addition has one inverse operation: the subtraction. Also, multiplication has one inverse operation: the division. Therefore, it may be hard to understand why exponentiation has actually "two" inverse operations: Why do we need the logarithm if there already is the root? This is the case because the exponentiation is not commutative.
+
+The following example illustrates this:
+
+Logarithms can make multiplication and division of large numbers easier because adding logarithms is the same as multiplying, and subtracting logarithms is the same as dividing.
+
+Before calculators became popular and common, people used logarithm tables in books to multiply and divide. The same information in a logarithm table was available on a slide rule, a tool with logarithms written on it.
+
+
+
+
+
+
+Logarithms to base 10 are called common logarithms. They are usually written without the base. For example:
+This means:
+
+Logarithms to base "e" are called natural logarithms. The number e is nearly 2.71828, and is also called the Eulerian constant after the mathematician Leonhard Euler.
+
+The natural logarithms can take the symbols formula_17 or formula_18
+
+Some authors prefer the use of natural logarithms as formula_19 but usually mention this on preface pages.
+
+Logarithms have many properties. For example:
+This property is straight from the definition of a logarithm:
+
+The logarithm to base "b" of a number "a" is the same as the logarithm of "a" divided by the logarithm of "b". That is,
+For example, let "a" be 6 and "b" be 2. With calculators we can show that this is true or at least very close:
+Our results had a small error, but this was due to the rounding of numbers.
+
+Since it is hard to picture the natural logarithm, we find that, in terms of a base-ten logarithm:
+
+Logarithms which multiply inside their argument can be changed as follows:
+For example,
+The same works for dividing but subtraction instead of addition, because it is the "inverse operation" of multiplication:
+Before electronic computers, logarithms were used every day by scientists. Logarithms helped scientists and engineers in many fields such as astronomy.
+
+Before computers, the "table of logarithms" was an important tool. In 1617, Henry Briggs printed the first logarithm table. This was soon after Napier's basic invention. Later, people made tables with better scope and precision. These tables listed the values of log("x") and "b" for any number "x" in a certain range, at a certain precision, for a certain base "b" (usually "b" = 10). For example, Briggs' first table contained the common logarithms of all integers in the range 1–1000, with a precision of 8 digits. As the function is the inverse function of log("x"), it has been called the antilogarithm. People used these tables to multiply and divide numbers. For example, a user looked up the logarithm in the table for each of two positive numbers. Adding the numbers from the table would give the logarithm of the product. The antilogarithm feature of the table would then find the product based on its logarithm.
+
+For manual calculations that need precision, performing the lookups of the two logarithms, calculating their sum or difference, and looking up the antilogarithm is much faster than performing the multiplication by earlier ways.
+
+Many logarithm tables give logarithms by separately providing the characteristic and mantissa of "x", that is to say, the integer part and the fractional part of log("x"). The characteristic of is one plus the characteristic of "x", and their significands are the same. This extends the scope of logarithm tables: given a table listing log("x") for all integers "x" ranging from 1 to 1000, the logarithm of 3542 is approximated by
+
+Another critical application was the slide rule, a pair of logarithmically divided scales used for calculation, as illustrated here:
+
+Numbers are marked on sliding scales at distances proportional to the differences between their logarithms. Sliding the upper scale appropriately amounts to mechanically adding logarithms. For example, adding the distance from 1 to 2 on the lower scale to the distance from 1 to 3 on the upper scale yields a product of 6, which is read off at the lower part. Many engineers and scientists used slide rules until the 1970s. Scientists can work faster using a slide rule than using a logarithm table.
+
+

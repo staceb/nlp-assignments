@@ -1,0 +1,8 @@
+Gigablast
+
+Gigablast is a small web search engine based in New Mexico. It was started by Matt Wells in 2000 and was part of Infoseek.
+
+In July 2013, the website's source code was released under the Apache License.
+
+
+

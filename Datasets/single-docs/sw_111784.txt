@@ -1,0 +1,21 @@
+Rubik's Cube
+
+Rubik's Cube is a puzzle cube, and the world's biggest selling toy of all time with over 300,000,000 (300 million) sold. It was invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. In a classic Rubik's Cube, each of the six faces is covered by nine stickers, each of one of six solid colours: white, red, blue, orange, green, and yellow. In currently sold models, white is opposite yellow, blue is opposite green, and orange is opposite red. 
+
+The standard Rubik's Cube is 3x3x3. 3 blocks across, 3 blocks down, and 3 blocks deep. Cubes can be made in 2x2, 4x4, or larger versions. the largest cube is 22 x 22.
+
+Cuboids are cubes with uneven sides. Some options are the 3x2x2 or 3x5 or 4x3. Some cuboids can "shapeshift" or "jumble". That means the cube goes out of its original shape. To solve a shapeshifting cube it must return to the original shape before it is considered solved.
+
+Gear cubes include gears which cause both sides of a cube to turn.
+
+Other versions include the Megaminx, Pyraminx, Rubik's clock, Mirror Cube, and Square 1.
+
+A Rubik's cube is a cube split into a number of smaller cubes with different colored faces attached to a rotating piece of metal in the middle. Total, there are 26 small cubes. The Rubik's cube have six sides with 9 little cubes attached to it and each side has one color: red,yellow,blue,orange,white and green is the most common color. The cubes can be rotated and twisted along rows and faces. The aim of the puzzle is to make each face of the cube have the same color. Solving a Rubik's Cube requires logic and thinking. There are many different ways to learn how to solve a Rubik's cube. 
+
+There are many methods that people use to solve a Rubik's cube. Today the most common one is called CFOP, also called Fridrich Method, named after the popularizer Jessica Fridrich. In this method first the white cross is solved, then F2L(First 2 Layers) followed by OLL(Orientation of Last Layer) and PLL(Permutation Of Last Layer). Other methods include Petrus, ZZ, Roux, Key hole and others. 
+
+The record for solving a Rubik's cube once is 4.74 seconds by Mats Valk of the Netherlands, at the Jawa Timur Open 2016 competition. The world record for the average time of five solves, in 6.45 seconds, was set by Feliks Zemdegs at the WLS Lato 2016 competition.
+
+
+
+

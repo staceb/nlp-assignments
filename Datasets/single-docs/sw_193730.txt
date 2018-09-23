@@ -1,0 +1,7 @@
+I2P
+
+I2P (means Invisible Internet Project, though it is not commonly referred to by this name anymore) is a mixed-license free and open source project building an anonymous network (or, more accurately, a pseudonymous overlay network). 
+
+The network is a simple layer that applications can use to anonymously and securely send messages to each other. Possible uses include anonymous surfing, chatting, blogging and file transfers.
+
+

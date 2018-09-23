@@ -1,0 +1,15 @@
+Domain name
+
+A domain name is a human-readable web address (e.g. "google.com") that points to an IP address and helps users to access websites or other resources in a convenient way.
+
+"See main article: URL" 
+
+Domain names have extensions at the end of the URL. For example ".com", ".net" and ".org" are the most commonly used domain name extensions. The most popular domain extension is .com with more than 100 million domains registered.
+
+.com domain stands for "commercial", .org for organization and .net for network.
+
+There are also country-specific domain name extensions. For example, the United Kingdom has the ".uk" domain extension and Japan has ".jp".
+
+Domains can be a good way to create a business identity. For example "MySpace.com" indicates that it provides personal space for users.
+
+

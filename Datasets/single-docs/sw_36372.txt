@@ -1,0 +1,19 @@
+Radian
+
+A radian is a unit of measuring angles. It is shown by the symbol "rad" or, less often, (for circular measure). The radian was once an SI unit, but was done away with in 1995.
+
+A "milliradian" is 1/1000 of a radian.
+
+Most people who do mathematics or physics use radians, rather than degrees, because some kinds of calculations, mostly in trigonometry and calculus, are simpler when using radians rather than degrees. 
+
+People who look through a telescope or rifle scope often use milliradians to describe distances as seen through it.
+
+This unit of measurement is often used in the universe of the popular video game Mass Effect in relations to physics.
+
+1 radian is equal to about 57.3°. There are 2π radians (about 6.28 radians) in a full circle. The formula for turning radians to degrees and vice versa is:
+
+or:
+
+we can also say:
+
+

@@ -1,0 +1,44 @@
+Hebrew calendar
+
+The Hebrew calendar or Jewish calendar is the calendar used in Judaism. It is used to set the dates of the Jewish holidays and the weekly public reading of the Torah. It is used to set the date for a Bar Mitzvah or Bat Mitzvah, the day a young person is considered an adult in Judaism. It sets the "Yahrzeit," the anniversary of the death of a relative. The daily Jewish prayer service changes depending on the day of the Hebrew calendar.
+
+The Hebrew calendar is a lunisolar calendar which depends on both the moon and the sun. Months of the Hebrew calendar are based on the appearance of the new moon. At the same time, the holiday of Passover must be in the spring. For this reason, years of the Hebrew calendar are based on the sun. 
+
+One solar (sun-based) year lasts about 365 days, but twelve lunar (moon-based) months only last about 354 days. For this reason, the Hebrew calendar adds an extra lunar month seven times in each cycle of 19 years. This rule makes the average Hebrew calendar year about the same length as a solar year, 365 days.
+
+The seven-day week is used to figure out the day for Shabbat, the day of rest. The week does not depend on the solar year or lunar month. Instead, it depends on a count of seven days that is believed to go back to ancient times. The week is also an important part of the Hebrew calendar.
+
+According to the Book of Exodus, Jews have been using a lunisolar calendar since the time they left Egypt. The first commandment the Jewish people received as a nation was the commandment to determine the New Moon. Very soon after that, the Jews received the commandment to make sure that Passover falls in the spring.
+
+In the Tanakh (the Hebrew Bible), the months are usually numbered rather than named. (See table below.) Only four month names appear in the Tanakh from before the Babylonian Exile (see table). The month names of the modern Hebrew calendar were taken from the month names in the Babylonian calendar during the Babylonian Exile (6th century BCE).
+
+At first, a new month began when witnesses came to the Sanhedrin (high rabbinical court) and testified that they saw the new crescent moon in the sky. The Sanhedrin also decided when an extra month should be added to the calendar to keep Passover in the spring. (See Metonic cycle.) After the destruction of the Second Temple in 70 CE, it became harder for the Sanhedrin to meet and hear witnesses. For that reason, the Sanhedrin established a fixed, rule-based form of the calendar. Maimonides fully described the modern Hebrew calendar around the year 1178 CE.
+
+In the modern Hebrew calendar, years are counted as "Anno Mundi" (Latin for "year of the world"). This represents the traditional count of years since the creation of the world as described in Genesis. This year is "anno mundi" .
+
+In the small Karaite Judaism community, the calendar is very similar. However, Karaites use witnesses to set the date of the new crescent moon. They still use the ripening of barley to decide whether to add an extra month to the year. For those reasons, the Karaite calendar can be slightly different from the main Jewish calendar.
+
+In the Hebrew calendar, the meaning of "day" is taken from the Hebrew Bible: "And there was evening and there was morning, one day". Because "evening" comes before "morning", a "day" in the Hebrew calendar starts in the evening. For many purposes, the "day" in the Hebrew calendar begins at sunset. But when it is important to make sure the previous day is completely over, the day begins at nightfall.
+
+People who print calendars, or who write calendar programs for computers, ignore that rule. They treat the Hebrew calendar date and the Gregorian calendar date that has the same midnight as being the same day. They assume that people reading a Hebrew calendar know the sundown rule. Whenever a holiday, birthday or anniversary appears on a printed calendar, it actually begins on the day before, at sundown.
+
+In the Hebrew calendar, every seven days is Shabbat, the day of rest. The "week" is the cycle of counting out each set of seven days ending in Shabbat. The week is not affected by any other calendar calculation. In Hebrew, the only name for the first six days of the week is a counting name: "First day", "Second day", etc. The only day of the week with a special name is the seventh day—Shabbat. (See table above.)
+
+The calculation of the Hebrew calendar year and month start with the "molad". "Molad" is a Hebrew word meaning "birth". The word refers to the "birth" of the new moon each month. The modern Hebrew calendar uses a calculated "molad:" the "average" length of the cycle from new moon to new moon over many years. The length of the molad is 29 days, 12 hours, 44 minutes, seconds.
+
+A year of 12 lunar months would be 354 days long; but a Hebrew calendar year must be a solar year—about 365 days long. Also, a Hebrew calendar year must have either 12 months or 13 months. It is not allowed to have "part" of a month, so a thirteenth month is added seven times in every cycle of nineteen years. This is an adaptation of the Metonic cycle, a calendar cycle that was well-known in ancient times. By convention, the Hebrew calendar adds the extra month during years 3, 6, 8, 11, 14, 17 and 19 of the cycle.
+
+Hebrew calendar months are supposed to be lunar months. For that reason, the calculation of Rosh Hashanah, the Jewish new year, starts with the "molad" for the month of Tishrei. Starting from there, the calendar rules allow two main reasons to delay Rosh Hashanah by one or more days:
+
+Once the dates for this year's and next year's Rosh Hashanahs are known, calculating the calendar in between is easy.
+
+The length of a "molad" is just a little over days. Since a month must have a whole number of days, calculating the calendar starts with alternating months of 30 and 29 days. This gives an average of days and a 12-month total of 354 days. Starting from there, the month lengths are changed as follows:
+(See the table of months above.)
+
+The first day of the Hebrew calendar month, known as "Rosh Hodesh" (), is always close to the astronomical new moon. It often is not exactly on the astronomical new moon. There are two reasons for that:
+
+
+"The English of these sites may not be Simple English."
+
+
+

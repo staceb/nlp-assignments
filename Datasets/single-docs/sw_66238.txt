@@ -1,0 +1,5 @@
+ACID
+
+ACID is a concept used with Databases. It is an abbreviation. It stands for
+
+

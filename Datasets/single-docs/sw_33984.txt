@@ -1,0 +1,33 @@
+Sequence
+
+A sequence is a word meaning "coming after or next, a series".
+
+It is used in mathematics and other disciplines. In ordinary use it means a series of events, one following another. In maths, a sequence is made up of several things put together, one after the other. The order that the things are in matters: (Blue, Red, Yellow) is a sequence, and (Yellow, Blue, Red) is a sequence, but they are not the same. Sequences made up of numbers are also called progressions.
+
+There are two kinds of sequences. One kind is finite sequences, which have an end. For example, (1, 2, 3, 4, 5) is a finite sequence. Sequences can also be infinite, which means they keep going and never end. An example of a sequence that is infinite is the sequence of all even numbers, bigger than 0. This sequence never ends: it starts with 2, 4, 6, and so on, and you can always keep on naming even numbers.
+
+If a sequence is finite, it is easy to say what it is: you can just write down all the things in the sequence. This does not work for an infinite sequence. So another way to write down a sequence is to write a rule for finding the thing in any place you want. The rule should tell us how to get the thing in the "n"-th place, if "n" can be any number. If you know what a function is, this means that a sequence is a kind of function.
+
+For example, the rule could be that the thing in the "n"-th place is the number 2×"n" (2 times n). This tells us what the whole sequence is, even though it never ends. The first number is 2×1, which is 2. The second number is 2×2, or 4. If we want to know the 100-th number, it's 2×100, or 200. No matter which thing in the sequence we want, the rule can tell us what it is.
+
+The difference between a term and the term before it, is always a constant.
+
+Example: formula_1
+
+9 - 4 = 5, 14 - 9 = 5, 19 - 14 = 5, 24 - 19 = 5, and so on 
+
+The ratio between a term and the term before it, is always constant. 
+
+Example: formula_2
+
+6 : 3 = 2, 12 : 6 = 2, 24 : 12 = 2, 48 : 24 = 2, and so on 
+
+The difference between the reciprocal of a term and the reciprocal of the term before it, is a constant.
+
+Example: formula_3 
+
+formula_4 and so on
+
+A series is the sum of all the terms of a sequence.
+
+

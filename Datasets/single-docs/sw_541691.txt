@@ -1,0 +1,15 @@
+Subnautica
+
+Subnautica is an open world survival game made by Unknown Worlds Entertainment. "Subnautica" lets the player explore the sea of an alien planet by scuba diving, or using vehicles. They must collect resources and food to survive.. It came out on Steam Early Access on December 2014, and is currently being made for Xbox One. The full version is planned to come out for August 2016. 
+
+The player in a first-person view controls the lone survivor of a crashed ship. The objective is to explore the planet and collect resources to survive, the player must make sure to not run out of oxygen and keep fed and hydrated. The player can create bases and build vehicles. The game uses a day and night cycle. 
+
+"Subnautica" was announced by Unknown Worlds Entertainment on December 17, 2013.
+
+They used Unity rather then spark which they used for Natural Selection 2.
+
+The development team chose to not include lethal weapons in the game. Charlie Cleveland, the game's director, described Subnautica as "one vote towards a world with less guns,".
+
+Ian Birnbaum of "PC Gamer" said "Subnautica" was an "underwater "Minecraft"", saying that "with an experienced developer at the helm and a limitless variety of the oceans to play with, it’s going to take a lot for "Subnautica" to go badly wrong. As the toolbox gets deeper and the shape of the end-game gets set, "Subnautica" will be a unique example of the ways survival can be tense, rewarding, and fun." Marsh Davies of "Rock, Paper, Shotgun" liked the rewarding nature of exploring the world of "Subnautica", but disliked that some of the in-game recipes were found by chance.
+
+

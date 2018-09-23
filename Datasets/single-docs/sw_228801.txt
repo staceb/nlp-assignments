@@ -1,0 +1,29 @@
+Absolute value
+
+In mathematics, the absolute value or modulus of a real number is the number without the sign. The absolute value of "2" is "2", the absolute value of "-2" is also 2. This notation is to express a number's distance from zero on a number line. The absolute value of 10 would be 10 since the number 10 is 10 numbers away from zero, same follows with negatives.
+
+The modulus of a complex number is given by 
+For any real number  the absolute value of  is denoted by (a vertical bar on each side of the quantity) and is defined as
+
+The absolute value of  is always either positive or zero, but never negative.
+From an analytic geometry point of view, the absolute value of a real number is that number's distance from zero along the real number line. The absolute value of the difference of two real numbers is the distance between them.
+
+In calculus, the absolute value function is differentiable except at 0. It is everywhere continuous.
+
+Compare the norm of a vector.
+
+The square-root notation without sign represents the "positive" square root. So, it follows that
+
+which is sometimes used as a definition of absolute value.
+
+The absolute value has the following four main properties:
+
+Other important properties of the absolute value include:
+
+Two other useful properties concerning inequalities are:
+
+These relations may be used to solve inequalities involving absolute values. For example:
+
+For a complex number formula_6, where x is the real part of z and iy is the imaginary part of z,
+
+

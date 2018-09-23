@@ -1,0 +1,9 @@
+Telegram (software)
+
+Telegram Messenger is a messaging service which lets its users send each other messages, photos, videos and documents (all file types are supported). The client applications are open source and the server is proprietary software (closed source)
+
+Telegram was started in 2013 by the brothers Nikolai and Pavel Durov, the creators of VK, the largest social network of Russia. Telegram Messenger LLP is an independent nonprofit company located in Berlin, Germany, that is not connected to VK.
+
+Telegram lets its users send voice notes, photos, videos and files of all types. Groups can also have a maximum of 200 members. Telegram uses a similar system of message read statuses to WhatsApp, with 1 check=sent, 2 checks=read (opened)
+
+

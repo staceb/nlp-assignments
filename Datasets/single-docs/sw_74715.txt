@@ -1,0 +1,22 @@
+Fuel cell
+
+A fuel cell converts the element hydrogen into electricity by mixing it with oxygen, which then creates water. It is like a battery that is constantly fed with fuel. It is an important part of the hydrogen economy. Note, that, unlike oil, hydrogen is not found in nature and is not an energy source, but an energy carrier. It has to be produced first, and if this is done by burning fossil fuels, it does not help against climate change. But, the hydrogen fuel cell will help against climate change in future, because scientists are trying to find new ways to make hydrogen without using fossil fuels. 
+Water is a molecule that consists of one oxygen atom and two hydrogen atoms. It takes energy to separate water into oxygen and hydrogens. And energy is released when they are put back together. A fuel cell does the latter.
+
+Hydrogen (the energy source) and oxygen (which can come from plain air) are put into the fuel cell. Each is put near a metal plate on two opposite sides of the fuel cell. In the middle of the fuel cell there is a screen that separates hydrogen from the oxygen. This screen will only let one type of hydrogen atoms pass through to the oxygen. These hydrogen atoms lack the electron, and they are called ions. The electrons were split off from the hydrogen fuel by the metal plate at the hydrogen side (the metal plate acts as a catalyst). Because the screen doesn't let electrons pass through, they go through a separate wire, to the other metal plate on the oxygen side. The travel of electrons creates electric energy (electricity). The wire is where electricity can be used. For example, the wire can be cut in half, and a light bulb can be connected in between the two halves.
+
+In the meantime, the hydrogen ions (which are protons) pass through the screen. They combine with the oxygen atoms and with the electrons that traveled through the wire. Water is formed, which them comes out through an exhaust pipe.
+
+Fuel cells make electricity by combining oxygen and hydrogen. Efficiency is very good (about 40%-60%). They have a maximum efficiency of 83% if exhaust heat is used during the reaction. Also, fuel cells can use various fuels, for example, natural gas, methanol, LPG (Liquid Petroleum Gas), naphtha, kerosene etc.
+
+Some types of fuel cells produce only water, which means no pollution. Most types of fuel cell cause much less emissions than classic ("caloric") power generation. They can consume the same fuel types as classic power generators, for example Diesel engines. But they are about two times as efficient. Fuel cells are very quiet. They have no moving parts, which means they very rarely require repairs.
+
+Because of very low polluting emissions, fuel cells are often used in vehicles that move inside buildings, like forklifts. Because they are very quiet, they are used on some military submarines to avoid detection. Fuel is more efficiently used, which means fuel cells can work longer without getting new fuel. This lets them be used in places that are hard to get to, such as weather or research stations, space ships, or military bases.
+
+Fuel cells can be classified by the type of inner screen (electrolyte). For instance, phosphoric acid fuel cells are for low temperatures. It is used in cell phones and automobile power supplies that require high currents because it is much safer. Alkali fuel cells usually consist of K(OH)(potassium hydroxide). Methanol fuel cells are used by reacting methanol electrochemically. This type of fuel cell is a better choice for simpler system. But methanol fuel cells have low output densities as its reacting rate is slow.
+
+Some important types of fuel cells are:
+
+There are many uses for fuel cells — right now, all of the major automakers are working to commercialize a fuel cell car. Fuel cells are powering buses, boats, trains, planes, scooters, forklifts, even bicycles. There are fuel cell-powered vending machines, vacuum cleaners and highway road signs. Miniature fuel cells for cellular phones, laptop computers and portable electronics are on their way to market. Hospitals, credit card centers, police stations, and banks are all using fuel cells to provide power to their facilities. Wastewater treatment plants and landfills are using fuel cells to convert the methane gas they produce into electricity. Telecommunications companies are installing fuel cells at cell phone, radio and 911 towers. The possibilities are endless.
+
+

@@ -1,0 +1,6 @@
+Atomic orbital
+
+Atomic orbitals are the places surrounding the nucleus of an atom where the electrons are most likely to be at any given time. It used to be believed that electrons behaved similarly to the solar system, where the nucleus is like the sun and the electrons orbit like the planets. However, electrons do not go in circles, they move in many different directions. The number of atomic orbitals in an element is defined by the period the element is in. Electrons move between orbitals depending on how fast they are moving and how many other electrons there are.
+
+
+

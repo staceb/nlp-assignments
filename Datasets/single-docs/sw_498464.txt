@@ -1,0 +1,5 @@
+CIH
+
+CIH (also known as Chernobyl or Spacefiller) is a Windows 9x computer virus which first appeared in 1998. It was created by Chen Ing-hau, a Chinese student. The name it was given is based on his initials. After the virus is run on April 26, it will start adding random data to files on the hard drive. This will leave the computer unable to operate. It does not infect Windows NT computers. It resulted in over 1 billion USD worth in damages. In 1999, IBM shipped some of their Aptiva computers with the virus already on the computer. Some games, like Activision's SiN and Electronic Arts' Wing Commander came with the virus.
+
+

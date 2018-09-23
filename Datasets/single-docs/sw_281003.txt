@@ -1,0 +1,8 @@
+Philidor defence
+
+Philidor's defence, usually called "the Philodor", is one of the basic chess openings. It was used often by the 18th century master Philidor, and he published analsis about it in his textbook "L'Analyse du jeu des échecs" (1849).
+
+Black can reach a line called the Hanham variation by transposing from the Pirc defence:
+
+
+

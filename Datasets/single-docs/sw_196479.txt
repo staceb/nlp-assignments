@@ -1,0 +1,5 @@
+Octane rating
+
+The Octane rating is a measurement of how well fuels (gasoline is a kind of fuel) resist detonation. Modern engines use high degrees of compression. They therefore need fuel that does not detonate easily. Such fuel has a higher octane rating. The rating is done by comparing the fuel to the mixture of iso-octane and heptane that would detonate in the same way. Such a mixture of 90 percent iso-octane and 10 percent heptane has an octane rating of 90. Gas is available with lower octane ratings in the US than in Europe.
+
+

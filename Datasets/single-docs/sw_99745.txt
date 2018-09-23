@@ -1,0 +1,12 @@
+Virtual private network
+
+A virtual private network or VPN for short, is a way of connecting a computer to a remote network. Most people using computers connect to the World Wide Web using a normal network - they use dial-up or broadband. A VPN is a little bit different. It's used by some workers to connect to work using a laptop - they can check their work email and see work websites which can not be seen on the normal internet.
+
+VPN often offers anonymity by hiding the user and making it very hard for anyone to track them.
+
+Recently VPN is often used to access websites that are blocked in some countries, like China.
+
+
+4.https://itday.com/vpn/best-vpn-services-of-2017/
+
+

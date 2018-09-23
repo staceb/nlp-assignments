@@ -1,0 +1,40 @@
+Square number
+
+A square number, sometimes also called a perfect square, is the result of an integer multiplied by itself. 1, 4, 9, 16 and 25 are the first five square numbers.
+In a formula, the square of a number "n" is denoted (exponentiation), usually pronounced as ""n" squared". The name square number comes from the name of the shape; see below.
+
+Square numbers are non-negative. Another way of saying that a (non-negative) number is a square number, is that its square root is again an integer. For example,  = 3, so 9 is a square number.
+
+The squares smaller than 60 are:
+
+There are infinitely many square numbers, as there are infinitely many natural numbers.
+
+The number "m" is a square number if and only if one can compose a square of "m" equal (lesser) squares:
+
+A square with side length "n" has area .
+
+The expression for the "n"th square number is "n". This is also equal to the sum of the first "n" odd numbers as can be seen in the above pictures, where a square results from the previous one by adding an odd number of points (shown in magenta). The formula follows:
+So for example, .
+
+A square number can end only with digits 0, 1, 4, 6, 9, or 25 in base 10, as follows:
+
+A square number cannot be a perfect number.
+
+All fourth powers, sixth powers, eighth powers and so on are perfect squares.
+
+
+Squares of even numbers are even (and in fact divisible by 4), since .
+
+Squares of odd numbers are odd, since .
+
+It follows that square roots of even square numbers are even, and square roots of odd square numbers are odd.
+
+As all even square numbers are divisible by 4, the even numbers of the form are not square numbers.
+
+As all odd square numbers are of the form , the odd numbers of the form are not square numbers.
+
+Squares of odd numbers are of the form , since and is an even number.
+
+
+
+

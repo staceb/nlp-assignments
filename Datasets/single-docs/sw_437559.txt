@@ -1,0 +1,6 @@
+TR-069
+
+TR-069 is a protocol that is mainly used for the communication with end-user devices, such as DSL modems. The number of such devices is rising steadily, and they are often are very difficult to configure. For that reason, TR-069 allows to configure these modems remotely. This also poses problems, because it allows to change the configuation the managed device as well as other devices, which may be behind a firewall. Since the users are not aware of the configuration changes, TR-069 can be used to introduce a backdoor. This backdoor might allow a "remote search" by police or legal authorities of a country.
+
+
+

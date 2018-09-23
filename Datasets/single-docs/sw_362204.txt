@@ -1,0 +1,7 @@
+Cartesian product
+
+In mathematics, sets can be used to make new sets. Suppose we have two sets "A" and "B". Then the Cartesian product of "A" with "B" is written as "A × B" and is the set of all ordered pairs whose first element is a member of "A" and whose second element is a member of "B".
+
+For example, let "A" = {1, 2, 3} and "B" = {a, b}. Then:
+
+

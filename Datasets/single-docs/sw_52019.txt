@@ -1,0 +1,21 @@
+XHTML
+
+XHTML stands for eXtensible HyperText Markup Language. It is markup used to design websites and webpages.
+
+XHTML is much more strict than ordinary HTML, and is based on both XML and HTML. Due to the lax nature of HTML, different web browsers can sometimes display websites incorrectly since there is more than one way to interpret poorly written HTML. The strict and formal nature of XHTML, once fully adopted will allow for web browsers to display the same page correctly between them. Proper XHTML is also easier to read for humans.
+
+For example, the below code shows one of the differences between HTML and XHTML:
+
+Incorrect, HTML version:
+
+<br>
+Correct, XHTML version:
+
+<br />
+The line break tag in HTML does not have a closing tag, you just type it once and it creates a line break. In XHTML the rule is that tags that do not have an closing tag must close themselves within the initial tag. These tags are called "empty tags." Another empty tag is <hr /> which inserts a "horizontal rule" or dividing line.
+
+In XHTML, using codice_1 is not "allowed". 
+XHTML also should not be used together with the JavaScript codice_2 command.
+
+
+

@@ -1,0 +1,9 @@
+Equation solving
+
+Equation solving is field of mathematics that is about finding the functions or values that will make an equation true. An equation says that two expressions are equal. These expressions contain one or more unknowns, which are usually called free variables. 
+
+There are a number of changes (transformations) that can be done to make it easier to find the solution. There are many kinds of equation, and some have no solution in the domain (field) where they are studied. Other kinds of equation cannot be solved exactly, and approximation needs to be used. Similarly, a system of equations may have no solutions, or an infinite number of solutions.
+
+Methods for solving equations include:
+
+

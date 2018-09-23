@@ -1,0 +1,6 @@
+GoAnimate
+
+GoAnimate (or Go!Animate) is an American cloud-based web service. It is for creating and distributing animated videos. Founded by Alvin Hung in 2007. GoAnimate allows users to develop narrative videos, in which characters speak with lip synching and move around. Users can also create video presentations with voices which can also move around. The service has multiple prices based on subscription level. There is a basic free version also. In October 2015, GoAnimate announced it was migrating to HTML5 starting on January 4, 2016.
+
+
+

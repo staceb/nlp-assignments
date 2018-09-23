@@ -1,0 +1,10 @@
+Product (chemistry)
+
+A product is the result of a chemical reaction. 
+
+An example:
+H + HO -> HO
+<br>
+where HO is the product
+
+

@@ -1,0 +1,5 @@
+Sound barrier
+
+When an object comes closer to the speed of sound (Mach 1), air pressure changes drastically, and there will be pressure waves around the object. This pressure will rise until the speed of Mach 1 is reached. At this point, it will suddenly decrese, and a sound burst will result. The speed of Mach 1, where this burst happens, is often called sound barrier. Aircraft wings had to be redesigned, so that certain aircraft can fly at speeds faster than Mach 1. 
+
+

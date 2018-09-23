@@ -1,0 +1,16 @@
+Difference quotient
+
+In calculus, an advanced branch of mathematics, the difference quotient is the formula used for finding the derivative. The derivative is the rate at which a function changes, and the derivative is based on the difference quotient. The difference quotient was formulated by Isaac Newton.
+
+Simply put, the difference quotient can be described as the formula for finding the slope of a line that touches a curve (this line is called the tangent line). If we are trying to find the slope of a perfectly straight line, then we use the slope formula which is simple the change in "y" divided by the change in "x". This is very accurate, but only for straight lines. The difference quotient, however, allows you to find the slope of any curve or line at any single point. The difference quotient, as well as the slope formula, is merely the change in "y" divided by the change in "x." The only difference is that in the slope formula, y is used as the y-axis, but in the difference quotient, the change in the y-axis is described by f(x). (For a detailed description, see the following section.)
+
+Before I give the mathematical formula of the difference quotient, I need to give the formal definition of the slope formula. (Where "m" is the slope)
+In other words,
+Where Δy=y - y, and Δx=x - x. As afore mentioned, this formula is accurate only for perfectly straight lines. For instance, the slope of a curve cannot be found using this formula. This is where the difference quotient comes in. 
+The difference quotient can be used to find the slope of a curve, as well as the slope of a straight line. After we find the difference quotient of a function, we have a new function, called the derivative. To find the slope of the curve or line we input the value of "x" and we get the slope. The process of finding the derivative via the difference quotient is called differentiation.
+
+The derivative has many real life applications. One application of the derivative is listed below.
+
+In physics, the instantaneous velocity that an object has (in other words, the velocity of something at a particular instant) is defined as the derivative of the velocity function of time. For example, if an objects position on a line is given by v(t)=-16t+16t+32, then the objects velocity is v(t)=-32t+16. Also, the derivative is used to find instantaneous acceleration, which I will not deal with here (by the way, don't try to use the regular derivative to find instantaneous acceleration. doing that will give you the function for the instantaneous velocity. The way to find instantaneous acceleration is to take the derivative of the instantaneous velocity function. For example, in the above function, the acceleration function is -32 at every point. )
+
+

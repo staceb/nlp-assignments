@@ -1,0 +1,5 @@
+Electron affinity
+
+Electron affinity is a phrase used in chemistry. When an atom that is neutral gets an electron, the energy that is changed in the atom is the electron affinity. Across a period, the electron affinity increases. 
+
+

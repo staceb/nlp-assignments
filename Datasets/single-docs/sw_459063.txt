@@ -1,0 +1,13 @@
+Segunda División B
+
+Segunda División B is a football league which is the third division in Spain.
+
+The league is made of 4 groups of 20 teams, making the amount of total teams 80 in all.
+In each group, the top 6 teams qualify for the Copa Del Rey. The 2nd, 3rd, and 4th placed teams qualify for playoffs to be promoted to Segunda Division. The 1st placed team has to play a playoff with the champions of other groups and the winner is declared champion.
+In each group, the bottom 4 teams are directly sent to the Tercera División. The 16th placed teams in each group compete against each other. The worst of those teams is relegated.
+
+These are all the group winners ever. The promoted group winners are in bold.
+
+"Note: Since the 2008-09 season, the champion has been decided in a playoffs round. The winner of the playoffs final is highlighted in gold. The loser of the playoffs final is highlighted in silver."
+
+

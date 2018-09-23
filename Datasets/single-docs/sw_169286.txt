@@ -1,0 +1,7 @@
+Nachos
+
+Nachos are a snack food made with tortilla chips and cheese. Sometimes they have jalapeños, sauce or meat on them.
+
+Nachos were invented in 1943 by Ignacio "Nacho" Anaya. Anaya worked at a restaurant called the Victory Club in Piedas Negras, Coahuila, Mexico. One night, the wives of several soldiers from nearby Fort Duncan arrived at the restaurant after it had closed for the day. Anaya cut some corn tortillas into slices and topped them with cheese and sliced jalapeño peppers to make a snack for the women. He called the dish "Nacho's special." Eventually it came to be known simply as "nachos." Nachos are most popular in Mexico.
+
+

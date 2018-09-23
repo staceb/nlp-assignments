@@ -1,0 +1,14 @@
+Diffusion
+
+Diffusion is a physical process where molecules of a material move from an area of high concentration (where there are many molecules) to an area of low concentration (where there are fewer molecules). 
+
+Diffusion usually happens in a solution in gas or in a liquid. It is possible to see diffusion happening when two liquids are mixed in a transparent container. 
+It describes the constant movement of particles in all liquids and gases. These particles move in all directions bumping into each other. Diffusion can only work with gases and liquids.
+Here are some examples of diffusion:
+
+Molecules tend to move from places of high concentration to places of low concentration, just by moving randomly. For example, there is more oxygen in a lung than there is oxygen in the blood so oxygen molecules will tend to move into the blood. Similarly, there is more carbon dioxide molecules in the blood than in the lung so carbon dioxide molecules will tend to move into the lung. It happens in cell biology, where small molecules simply diffuse through the cell membrane, but larger molecules only get through by using energy: see active transport.
+
+The random movement of fluid molecules makes them spread out until a boundary stops them.
+
+
+

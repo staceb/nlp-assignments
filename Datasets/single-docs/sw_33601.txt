@@ -1,0 +1,20 @@
+Writing system
+
+A writing system is a system of symbols that are used to represent language.
+
+There are different kinds of writing systems, with symbols that represent different things: logographic, syllabic and alphabetic. Beside natural scripts, there are also constructed scripts.
+
+A logographic system, is a writing system with symbols that mean "whole words", symbols that represent "things" or "ideas". These symbols are called "logogram" or "logograph". Examples of logographic writing systems are those used for the Chinese language and for various hieroglyphs. Both these systems use logographs only partly.
+
+A syllabary is a writing system with symbols that mean a "syllable". Examples of syllabaries are the "hiragana" and "katakana" used for the Japanese language and the Cherokee syllabary used for the Cherokee language.
+
+Alphabets are writing systems that write individual sounds (phonemes).
+
+A true alphabet is a writing system with symbols that mean all sorts of individual sounds, both consonants and vowels. Examples of alphabetic writing systems are the Roman alphabet, which is used in large parts of the world, the Greek alphabet, which is used in Greece and Cyprus, and the Cyrillic alphabet, which is used in many countries in Eastern Europe and Central Asia, where Russia had a major influence during the days of the Soviet Union.
+
+Alphabets that do not show vowels but only consonants are called abjads. Examples of abjads are the Arabic alphabet, which is used in much of the Muslim world, and the Hebrew alphabet used for Jewish languages like Hebrew and Yiddish. Both of these abjads are written in lines that run from right to left.
+
+Abugidas are alphabets where sequences of consonant+vowel are written as a unit based on the consonant letter, and one of the vowels is never written but understood by the consonant letter if no other vowel is written. Examples of abugidas are writing systems of India and Southeast Asia like Devanagari used for Hindi and Sanskrit.
+
+
+

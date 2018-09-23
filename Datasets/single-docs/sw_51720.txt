@@ -1,0 +1,12 @@
+Cartesian coordinate system
+
+In mathematics, the Cartesian coordinate system is a coordinate system used to place points on a plane using two numbers, usually called the "x-coordinate" and the "y-coordinate". To place the coordinates, two perpendicular lines, called axes (Singular: axis), are drawn. Cartesian coordinates can be used in 3D, by adding a third number, the "z-coordinate". Each added coordinate represents a dimension.
+
+Using the Cartesian coordinate system, simple shapes, like parabolas, can be made using algebraic equations. The results of the equations can be plotted (drawn) on the Cartesian grid, and a shape appears. For example, a circle can be made with the equation x² + y² = 4 (see Figure 2).
+
+The name cartesian comes from the French mathematician and philosopher René Descartes (Latin: "Cartesius"), who worked to merge algebra and Euclidean geometry. This work was important in creating calculus and cartography.
+
+The idea of this system was developed in 1637 in two works by Descartes. In part two of his "Discourse on Method", Descartes explains plotting the position of a point or object on a surface, using two perpendicular axes as measuring guides. In "La Géométrie", he further explores these ideas.
+
+
+

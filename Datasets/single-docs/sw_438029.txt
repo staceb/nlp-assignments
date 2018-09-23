@@ -1,0 +1,5 @@
+Boiler feedwater
+
+Boiler feedwater is the water used to "feed" or supply a boiler to produce steam or hot water. At Thermal power stations the feedwater is usually preheated and conditioned. It is kept in a storage tank before being pumped to the boiler. The feedwater must be specially treated to avoid problems in the boiler. Untreated boiler feed water can cause corrosion and scaling. Most boiler systems use some form of water purification to treat feedwater.
+
+

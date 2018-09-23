@@ -1,0 +1,21 @@
+Aphelion (software)
+
+The Aphelion Imaging Software Suite is a set of computer programs for image processing and image analysis. It includes three base products: Aphelion Lab, Aphelion Dev, and Aphelion SDK.
+
+The Aphelion software product can be used to prototype applications using the graphical user interface. It provides a set of tools for programmers which have to develop software with image analysis needs.
+The Aphelion Imaging Software Suite is used by students, researchers, engineers, and software developers in application domains requiring image processing and computer vision, such as:
+
+All products of the Aphelion Imaging Software Suite can be run on equipped with Windows (Vista, 7, 8, 8.1, or 10) 32 or 64 bits.
+An online help and video tutorials are available to the user.
+
+Below is a list of Aphelion optional extensions:
+
+The Aphelion user can add his/her own macro-commands in the user interface that have been automatically recorded to process a batch of images. He/she can also add plugins and libraries in the that have been developed outside the Aphelion environment.
+
+
+
+
+
+
+
+

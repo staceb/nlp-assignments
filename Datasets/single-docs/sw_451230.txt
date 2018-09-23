@@ -1,0 +1,5 @@
+Virtual method table
+
+The virtual method table (VMT) is a table which contains pointers to virtual functions.
+
+

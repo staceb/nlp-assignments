@@ -1,0 +1,13 @@
+Three-body problem
+
+The three-body problem is a problem in the field of physics that experts find interesting. 
+
+When a thing is moving, it has energy of movement. Scientists use a short-cut when they talk about this energy, they call it 'E.' The energy "E" of movement is assumed by scientists to be small compared to their mass, allowing such experts to describe the bodies with non-relativistic mechanics. This implies that all the movement refers to velocities small compared to the speed of light "c".
+
+In a field called classical mechanics, experts say that movement with higher velocities causes the radiation of gravitational waves. Under this discipline, the system cannot be considered "conservative".
+
+Experts in another field called quantum mechanics, say, in addition, at high speed the creation and annihilation of particles becomes possible, so, it is not possible to keep the number of particles constant. 
+
+The three-body problem also happens in astronomy. The problem consists in calculating the course of three bodies, that influence each other with gravitation. The first to state the problem was Isaac Newton, in "Principia". Usually, two of the bodies are large, and the third is small. In the case where the two bodies have the same gravitational force, and that the bodies all have the same mass can be solved exactly. If this is not the case, the problem is solved through iteration and approximation.
+
+

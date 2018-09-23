@@ -1,0 +1,12 @@
+Greatest common divisor
+
+The greatest common divisor (gcd) or Highest common factor (HCF) of two integers is the greatest (largest) number that divides both of the integers evenly. Euclid came up with the idea of GCDs.
+
+The GCD of any two positive integers can be defined as a recursive function:
+formula_1
+
+The GCD of 20 and 12 is 4, since 4 times 5 equals 20 and 4 times 3 equals 12. You can notice 3 and 5 have no common factor, hence their GCD is 1.
+
+The GCD of 81 and 21 is 3.
+
+

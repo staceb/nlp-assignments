@@ -1,0 +1,6 @@
+Exponential distribution
+
+The exponential distribution is a probability distribution. It is only used on the positive real numbers. Its main use is to assess the duration of random time intervals. Examples where it can be used:
+
+
+

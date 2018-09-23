@@ -1,0 +1,16 @@
+Data Protection Act
+
+The Data Protection Act (DPA) is a law passed by the British government in 1984 and updated in 1998. 
+
+It sets out rules for people who use or store data about living people and gives rights to those people whose data has been collected. The law applies to data held on computers or any sort of storage system, even paper records. 
+
+The law covers personal data which are facts like your address, telephone number, e-mail address, job history etc. 
+
+People who use the information are called "data controllers". People who the data is about are called "data subjects".
+
+This is a brief simplified summary of the main principles of the UK Data Protection Act
+
+This applies to information kept on staff, customers and account holders, for example:
+
+
+

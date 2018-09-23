@@ -1,0 +1,5 @@
+Personal identification number
+
+A Personal identification number is a number that is used to authenticate a user of a system. The term is often called "PIN". At the start, PINs were used with automated teller machines. They only consisted of digits. Today, some banks use PINs made of digits and letters.
+
+

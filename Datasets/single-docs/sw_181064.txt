@@ -1,0 +1,8 @@
+Coset
+
+If G is a group and H a subgroup of G, x is an element in G, and h is an element in H the cosets of H in G are defined as follows: 
+
+
+When xH = Hx we say that H is normal in G.
+
+

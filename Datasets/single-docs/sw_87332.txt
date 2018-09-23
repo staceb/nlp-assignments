@@ -1,0 +1,31 @@
+Antiderivative
+
+Antidifferentiation (also called indefinite integration) is a part of mathematics. It is the opposite of differentiation. Antidifferentiation is integration with no limits (which is why it is called indefinite). The answer to an antiderivative is an equation.
+
+It is written as formula_1
+
+
+To integrate formula_6
+
+
+This can be shown as:
+
+formula_13
+
+When there are many formula_3 terms, integrate each part on its own:
+
+formula_15
+
+Changing fractions and roots into powers makes it easier:
+
+If you want to integrate a bracket like formula_21, we need to do it a different way. It is called the chain rule. It is like simple integration. It only works if the formula_3 in the bracket has a power of 1 (it is linear) like formula_3 or formula_24 (not formula_25 or formula_26).
+
+To do formula_27
+
+
+formula_35
+
+formula_36
+
+
+

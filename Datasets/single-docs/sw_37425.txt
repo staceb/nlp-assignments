@@ -1,0 +1,31 @@
+Pulsar
+
+Pulsars are neutron stars which spin rapidly and produce huge electromagnetic radiation along a narrow beam. Neutron stars are very dense, and have short, regular spins. This produces a very precise interval between pulses that range from roughly milliseconds to seconds for an individual pulsar. The pulse can only be seen if the Earth is close enough to the direction of the beam, similar to how one can only see a lighthouse when the beam is shining in one's direction.
+
+The pulses match the star's turns. The spinning causes a lighthouse effect, as the radiation is only seen at short intervals. Werner Becker of the Max Planck Institute for Extraterrestrial Physics recently said,
+
+The first pulsar was discovered in 1967 by Jocelyn Bell Burnell and Antony Hewish of the University of Cambridge. The observed emission had pulses separated by 1.33 seconds, coming from the same place in the sky. The source kept to sidereal time. At first, they did not understand why pulsars have a regular change in the strength of radiation. The word "pulsar" is short for "pulsating star".
+
+This original pulsar, now called CP 1919, produces radio wavelengths, but pulsars have later been found to produce radiation in the X-ray and/or gamma ray wavelengths. 
+
+In 1974, Antony Hewish became the first astronomer to be awarded the Nobel Prize in Physics. Controversy occurred because he was awarded the prize while Bell was not. She had made the initial discovery while she was his Ph.D student. Bell claims no bitterness upon this point, supporting the decision of the Nobel prize committee. "Some people call it the No-Bell prize because they feel so strongly that Jocelyn Bell Burnell should have shared in the award".
+
+In 1974, Joseph Hooton Taylor Jr. and Russell Hulse discovered for the first time a pulsar in a binary system. This pulsar orbits another neutron star with an orbital period of just eight hours. Einstein's theory of general relativity predicts that this system should emit strong gravitational radiation, causing the orbit to continually contract as it loses orbital energy. Observations of the pulsar soon confirmed this prediction, providing the first ever evidence of the existence of gravitational waves. As of 2010, observations of this pulsar continue to agree with general relativity. In 1993, the Nobel Prize in Physics was awarded to Taylor and Hulse for the discovery of this pulsar.
+
+Astronomers know that there are three different kinds of pulsars:
+
+
+Although all three kinds of objects are neutron stars, the things that they can be seen to do and the physics that causes this are very different. But there are some things that are similar. For example, X-ray pulsars are probably old rotation-powered pulsars that have already lost most of their energy, and can only be seen again after their binary companions expanded and matter from them started falling onto the neutron star. The process of accretion (matter falling onto the neutron star) can in turn give enough angular momentum energy to the neutron star to change it into a rotation-powered :millisecond pulsar.
+
+For some millisecond pulsars, the regularity of pulsation is more precise than an atomic clock.
+This stability allows millisecond pulsars to be used in establishing ephemeris time,
+or building pulsar clocks.
+
+"Timing noise" is the name for rotational irregularities observed in all pulsars. This timing noise is observable as random wandering in the pulse frequency or phase. It is unknown whether timing noise is related to pulsar glitches.
+
+The study of pulsars has resulted in many uses in physics and astronomy. Major examples include the proof of gravitational radiation as forecasted by general relativity and the first proof of exoplanets. In the 1980s, astronomers measured pulsar radiation to prove that the North American and European continents are drifting away from one another. This movement is evidence of plate tectonics.
+
+
+
+
+

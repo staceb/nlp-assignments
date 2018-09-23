@@ -1,0 +1,9 @@
+Knuth's up-arrow notation
+
+Knuth's up-arrow notation is a way of expressing very big numbers. It was made by Donald Knuth in 1976. It is related to the hyperoperation sequence. The notation is used in Graham's number. 
+
+One arrow represents exponentiation, 2 arrows represent tetration, 3 for pentation, etc.:
+
+This notation is used to describe the incredibly large Graham's Number
+
+

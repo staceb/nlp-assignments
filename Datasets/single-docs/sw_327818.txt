@@ -1,0 +1,9 @@
+Common year starting on Thursday
+
+This is the calendar for any common year starting on Thursday, January 1 (dominical letter D). The most recent year of this type was 2015 and the next one will be 2026 in the Gregorian calendar,
+or 2010 and 2021 in the Julian calendar (see bottom tables). This is the only common year with three occurrences of Friday the 13th, in February, March and November.
+
+A common year is a year with 365 days, i.e. not a leap year.
+This kind of year has 53 weeks in the ISO 8601 week - day format.
+
+

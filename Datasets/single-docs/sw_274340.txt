@@ -1,0 +1,13 @@
+Baryon
+
+Baryons are composite subatomic particles made of three quarks. The most familiar baryons are the protons and neutrons which make up most of the visible matter in the universe. Electrons (the other major component of the atom) are leptons.
+
+Since all quarks have a spin of 1/2, a baryon will always have a spin of either 1/2 or 3/2 (the spins can cancel out). The 3/2 spin baryons are extremely unstable, and only live for 10 seconds. After that, they will jump down to a lower energy state by releasing photons containing energy. These 3/2 spin baryons are known as higher energy resonances. The lowest energy state of a baryon is a simple 1/2 spin.
+
+All particles with 1/2 spin (or 3/2 spin) are called fermions, and obey Fermi-Dirac statistics. This means that no two fermions can be in the same point in space at the same time. This is not true for the other type of subatomic particle, called a boson. More than one boson--like a photon--can exist in the same point in space at the same time. 
+
+Baryons are part of a larger collection of subatomic compounds called hadrons. Hadrons are simply particles made of quarks. The other type of hadron is called a meson.
+
+The name baryon comes from Greek "barys," meaning heavy.
+
+

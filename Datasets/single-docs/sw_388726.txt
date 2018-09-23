@@ -1,0 +1,10 @@
+New General Catalogue
+
+The New General Catalogue of Nebulae and Clusters of Stars<ref name="The NGC/IC Project"></ref> is a list of stars and nebulae. It is abbreviated NGC, and is sometimes called just New General Catalogue. It has 7,840 objects on it. These objects are called "NGC objects". It was created by John Louis Emil Dreyer in 1888. It's the most famous and known deep-sky catalogue for amateur astronomy.
+Most of observations were rewarded by William Herschel and his son, and expanded by the known catalogue Index Catalogues I and II, adding about 5000 new objects.
+South Hemisphere objects are less studied than North Hemisphere objects, observed by John Herschel. "New General Catalogue" had some mistakes, that were corrected in a special revised edition: RNGC
+
+It's a copy of NGC objects using J2000.0 coordenates created in 1988
+
+
+

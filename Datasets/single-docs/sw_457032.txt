@@ -1,0 +1,11 @@
+Teaching machine
+
+Teaching machines were originally mechanical devices. They presented educational materials and taught students. They were first invented by Sidney L. Pressey. His machine originally administered multiple-choice questions. When the machine was set so it moved on only when the student got the right answer, tests showed that learning had taken place. Much later, Norman Crowder developed the Pressey idea much further.
+
+B.F. Skinner was responsible for a different type of machine which used his ideas on how learning should be directed with positive reinforcement. 
+
+There is extensive experience that both methods worked well, and so did programmed learning in other forms, such as books.
+The ideas of teaching machines and programmed learning provided the basis for later ideas such as open learning and computer-assisted instruction.
+
+
+

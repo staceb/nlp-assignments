@@ -1,0 +1,13 @@
+Limit (mathematics)
+
+In mathematics, a limit is a guess of the value of a function or sequence based on the points around it. Limits are used to define many topics in calculus, like continuity, derivatives, and integrals.
+
+Limit are written like this:
+
+formula_1
+
+and read as "the limit of f of x, as x approaches c". Limit is shortened to "lim".
+
+
+
+

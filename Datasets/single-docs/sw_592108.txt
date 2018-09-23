@@ -1,0 +1,14 @@
+Heukseok Station
+
+Heukseok(Chung-Ang University) Station is a train station of Seoul Subway Line 9, located in Dongjak District, Seoul, South Korea.
+
+When deciding station name of Line 9, Chung-Ang Univeristy, located near Heukseok Station, suggested the station name as "Chung-Ang University Station"() or "Chung-Ang University·Heukseok Station"(), but station name is decided as "Heukseok Station".
+
+Later, Seoul Government changed that decision, and add "Chung-Ang University" in station name. So, final station name is decided as "Heukseok(Chung-Ang University)"(.
+
+
+Station has 2 side platforms, 2 tracks.
+
+Data of 2009 is calculated from July 24 (First Opened) ~ December 31.
+
+

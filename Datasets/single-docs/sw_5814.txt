@@ -1,0 +1,52 @@
+Potential energy
+
+Potential energy is the energy that an object has because of its position on a gradient of potential energy called a potential field.
+The potential fields are irrotationally radial ("electric") fluxes of the vacuum and divide into two classes:
+
+The potential energy is negative. It is not a mere convention but a consequence of conservation of energy in the zero-energy universe—as an object descends into a potential field, its potential energy becomes more negative, while its actual energy becomes more positive. Negative potential energy is also known as binding energy.
+
+In accordance with the minimum total potential energy principle, the universe's matter flows towards ever more negative total potential energy. This cosmic flow is time.
+
+Bringing a rock uphill increases ("i.e.", makes less negative) its gravitoelectric potential energy. Stretching a rubber band increases its elastic potential energy, which is a form of the electric potential energy. A mixture of a fuel and an oxidant has a chemical potential energy, which is another form of the electric potential energy. Batteries too have chemical potential energy.
+
+The gravitational potential energy of a massive spherical cloud is proportional to its radius and causes the sphere to fall towards its own centre.
+
+Initially, the cold and rarefied cloud is transparent to its own blackbody radiation, so the collapse is isothermal (because any increase in temperature is immediately radiated away) and continues on a free-fall timescale "t", which is inversely proportional to the square root of the sphere's density "ρ":
+
+formula_1 (13.8)<br>
+Equation (13.8) implies that the denser clumps collapse more rapidly, which may lead to separation and fragmentation. As cores are observed to be densest near their centers, the interiors cave in most quickly, producing an inside-out collapse.
+
+Simply put, when a sphere's density increases a hundredfold, the sphere's free‑fall collapse becomes ten times quicker (the square root of 100 is 10).
+
+At that, the sphere's density increases as the inverse cube of the sphere's radius, so a free‑falling sphere whose radius has shrunk tenfold will have its density increased a thousandfold and will collapse 31.6228 times quicker (the square root of 1000 is 31.6228).
+
+Once the density of the gas is high enough that the cloud becomes opaque and can no longer freely radiate away the energy gained through gravitation, then the collapse will become stepwise—an adiabatic compression to a higher temperature will be followed by a period of radiative cooling, ending with another adiabatic compression to a still higher temperature:
+
+After each infinitesimal step of collapse the star has to wait until it has radiated away a half of the released gravitational energy before it can continue to contract.
+
+
+So, the densest self‑gravitating sphere shrinks fastest, and, in accordance with Lane's law, has the highest temperature. The densest object in the universe is the proton (5.96 × 10 g/cm). It is known that a system in the ground state (the lowest potential energy state, or, which is the same, the state of a zero rest mass) has a zero temperature. Therefore, since the proton has a nonzero rest mass, it is not in the ground state and must have a nonzero temperature. In 1983, numerical calculations on large computers predicted that as the temperature is raised the colour‑repelling physical vacuum should flip into the simple vacuum, of which protons consist, at a temperature of 2 × 10 K, which is the approximate temperature of the proton. The Stefan–Boltzmann law dictates that because of its enormously high temperature, the proton must radiate its energy away at a feverish rate, and consequently shrink to ever higher temperatures in accordance with Lane's law.
+
+Since material standards of length are themselves made of shrinking protons, the exponentially accelerating self‑gravitational shrinkage of the proton can only be inferred from the relative expansion of intergalactic spaces, which are less dense and thus self‑gravitationally shrink progressively slower than the proton:
+
+All change is relative. The universe is expanding relatively to our common material standards; our material standards are shrinking relatively to the size of the universe. The theory of the "expanding universe" might also be called the theory of the "shrinking atom". <...>
+Let us then take the whole universe as our standard of constancy, and adopt the view of a cosmic being whose body is composed of intergalactic spaces and swells as they swell. Or rather we must now say it keeps the same size, for he will not admit that it is he who has changed. Watching us for a few thousand million years, he sees us shrinking; atoms, animals, planets, even the galaxies, all shrink alike; only the intergalactic spaces remain the same. The earth spirals round the sun in an ever‑decreasing orbit. It would be absurd to treat its changing revolution as a constant unit of time. The cosmic being will naturally relate his units of length and time so that the velocity of light remains constant. Our years will then decrease in geometrical progression in the cosmic scale of time. On that scale man's life is becoming briefer; his threescore years and ten are an ever‑decreasing allowance. Owing to the property of geometrical progressions an infinite number of our years will add up to a finite cosmic time; so that what we should call the end of eternity is an ordinary finite date in the cosmic calendar. But on that date the universe has expanded to infinity in our reckoning, and we have shrunk to nothing in the reckoning of the cosmic being.
+We walk the stage of life, performers of a drama for the benefit of the cosmic spectator. As the scenes proceed he notices that the actors are growing smaller and the action quicker. When the last act opens the curtain rises on midget actors rushing through their parts at frantic speed. Smaller and smaller. Faster and faster. One last microscopic blurr of intense agitation. And then nothing.
+
+In 1998, Adam Riess and his team discovered that the apparent expansion of intergalactic spaces is accelerating. On 5 April 2016, Adam Riess "et al." announced that the rate of the acceleration is itself increasing—over the three years since 21 March 2013, when the Planck space observatory published the local Hubble constant value, the apparent expansion of intergalactic spaces had accelerated by nine percent more than expected. It means that over the three years from 2013 to 2016, the speed of the proton's exponentially accelerating self‑gravitational shrinkage relative to the intergalactic spaces had increased by nine percent more than expected. The 13.8‑billion‑year‑long "drama for the benefit of the cosmic spectator" has come to its finale.
+
+If an object is lifted a certain distance from the surface from the Earth, the force experienced is caused by weight and height.
+Work is defined as force over a distance, and work is another word for energy. This means gravitational potential energy is equal to
+or
+
+Total work done by gravitational potential energy in a moving object from position 1 to position 2 can be found by:
+or
+
+Electric potential energy is experienced by charges both different and alike, as they repel or attract each other. Charges can either be positive (+) or negative (-), where opposite charges attract and similar charges repel.
+If two charges were placed a certain distance away from each other, the potential energy stored between the charges can be calculated by:
+
+Elastic potential energy is experienced when a rubbery material is pulled away or pushed together. The amount of potential energy the material has depends on the distance pulled or pushed. The longer the distance pushed, the greater the elastic potential energy the material has.
+If a material is pulled or pushed, the potential energy can be calculated by:
+
+
+

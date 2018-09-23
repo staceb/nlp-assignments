@@ -1,0 +1,13 @@
+Phagocyte
+
+Phagocytes are the white blood cells that protect the body by eating (phagocytosing) dirt, bacteria and dead or dying cells. They are important for fighting infections. They are also important for becoming immune. Phagocytes are important in all animals and are very complex in vertebrates. One liter of human blood has about six billion phagocytes. 
+
+Their name comes from the Greek "phagein", 'to eat or devour ', and "kutos", 'hollow vessel'. Phagocytes were first seen in 1882 by Ilya Ilyich Mechnikov. Phagocytes can be found in many animals. Some amoebae behave like macrophages, and scientists think macrophages evolved a long time ago.
+
+Phagocytes of humans and other animals are called professional or non-professional, depending on how good they are at phagocytosis. The professional phagocytes are neutrophils, monocytes, macrophages, dendritic cells, and mast cells. The reason they are called professional phagocytes is because they have receptors on their surfaces which can detect harmful objects, such as bacteria. Phagocytes are very important in fighting infections and in getting rid of dead and dying cells.
+
+When there is an infection, phagocytes move to the bacteria by sensing chemicals. These chemicals may come from bacteria or from other phagocytes that are already there. The phagocytes move by a way called chemotaxis. When bacteria touch a phagocyte, they bind to the receptors on the phagocyte and are eaten (phagocytosed). When bacteria enter some phagocytes, the phagocytes use oxidants and nitric oxide to kill the pathogen. After phagocytosis, macrophages and dendritic cells can also do 'antigen presentation': this is when the phagocyte moves parts of the killed bacteria back to its surface. These parts are then shown to other cells of the immune system. Some phagocytes then move to the body's lymph nodes and show the bacterial parts to white blood cells called lymphocytes. This action is important in getting immunity. 
+
+Many bacteria have ways to not be eaten or killed by phagocytes. They may avoid contact by
+
+

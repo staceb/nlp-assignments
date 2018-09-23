@@ -1,0 +1,15 @@
+Particle detector
+
+A particle detector, also known as a radiation detector, is a device used to , , and/or high-energy particles. These particles can be made by nuclear decay, cosmic radiation, or reactions in a particle accelerator. Particle detectors are used in particle physics, nuclear physics, and nuclear engineering. Modern detectors are also used as calorimeters to measure the energy of radiation. They can measure other things, such as the momentum, spin, or charge of the particles.
+
+Detectors designed for modern accelerators are very big. They are also very expensive. They are called "counters" when they simply count particles, but do not measure anything else. Usually, particle detectors can also track ionizing radiation (high energy photons or even visible light).
+
+Many of the detectors invented so far are ionization detectors (such as gaseous ionization detectors and semiconductor detectors) and scintillation detectors. Other principles, such as Čerenkov light and transition radiation, have also been applied to detect particles.
+
+Some detectors are used to measure the amount of radiation so that people can protect themselves from it. Others are used to study nuclear and particle physics.
+
+
+
+
+
+

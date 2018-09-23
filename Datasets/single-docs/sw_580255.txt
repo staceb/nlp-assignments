@@ -1,0 +1,4 @@
+Leinster Group
+
+A Leinster Group is a group defined as being a group equal in order to the sum of its normal subgroups.
+

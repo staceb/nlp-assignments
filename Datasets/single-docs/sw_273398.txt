@@ -1,0 +1,17 @@
+Proposition
+
+A proposition is a term in philosophy and logic. It is a sentence which says something is true or false. The sentence must be a meaningful statement. It must be possible to decide whether the proposition is true or not.
+
+It is possible to express the same proposition in many ways, because a proposition is concerned with meaning, not with the mode of expression.
+Two meaningful declarative sentences express the same proposition if and only if they mean the same thing.
+
+This defines "proposition" in terms of synonymity. For example, "Snow is white" (in English) and "Schnee ist weiß" (in German) are different sentences, but they say the same thing, so they express the same proposition.
+
+In Aristotelian logic, a proposition is a particular kind of sentence, one which affirms or denies a predicate of a subject. Aristotelian propositions take forms like "All men are mortal" and "Socrates is a man".
+
+In logical positivism, a proposition whose truth value cannot possibly be decided is meaningless. This would include (in their opinion) statements about deities.
+
+Many modern philosophers take the view that 'statement' and 'proposition' are synonyms, or ought to be.
+
+
+

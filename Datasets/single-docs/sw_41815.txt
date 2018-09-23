@@ -1,0 +1,21 @@
+Basis (linear algebra)
+
+In linear algebra, a basis is a set of vectors in a given vector space with certain properties:
+
+
+The Dimension of a given vector space is the number of elements of the basis.
+
+If formula_1 is the vector space then :
+
+Bformula_2{formula_3} is a basis of formula_1
+
+It's easy to see that for any element of formula_1 it can be represented as a combination of the above basis.
+Let formula_6 be any element of formula_1, lets say formula_8
+
+Since formula_9 and formula_10 are elements of formula_11 then they can be written as formula_12 and so on.
+
+Then the combination equals the element formula_6
+
+This shows that the set B is a basis of formula_1
+
+

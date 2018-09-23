@@ -1,0 +1,20 @@
+List of dialling codes in the United Kingdom
+
+This is a list of dialling codes for telephones in the United Kingdom. Dialling codes are the basis for the national telephone numbering plan. They are prefixed to all telephone numbers, generally depending on the type of number and its geographic location. The numbering plan is maintained by Ofcom, which is an independent communications authority. This list is based on the official standard, but it also shows older codes and historical changes. Dialling codes do not match any specific political boundaries. For example, the dialling code for Coventry covers a large area of Warwickshire and the Manchester dialling code covers part or all of several neighbouring towns. When dialling a number from within the United Kingdom, all area codes start with a 0. When dialling from outside the country, the prefix is not dialed.
+
+"For an explanation of the two letter STD codes used below, see Introduction of area codes"
+
+01426, 01523 and other non-standard 01 prefixes were briefly used for pagers in the late 1990s and then moved to new 076 prefixes in the Big Number Change in 2000/2001.
+
+The 01632 area code is set aside for use as fictional numbers for drama as are parts of a number of other area codes.
+
+The length of the area code part and the local number part is found as follows:
+The number format '2+8' refers to, e.g. London, numbers using the (020) xxxx xxxx format.
+
+The number format '5+4' refers to, e.g. Brampton, numbers using the (0169 77) xxxx format.
+
+In the following area local calls must be dialled using the area code from the date shown.
+Unlike the Crown Dependencies of Jersey, Guernsey and the Isle of Man which use the UK area codes 01534, 01481 and 01624 respectively, telephone numbers in British Overseas Territories do not come under the UK telephone numbering plan. Some are within the North American Numbering Plan (NANP). These calls are treated as international calls. Below are the access codes for the overseas territories:
+
+
+

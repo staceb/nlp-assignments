@@ -1,0 +1,35 @@
+Mathematical proof
+
+A mathematical proof is a way to show that a math theorem is true. One must show that the theory is true in all cases.
+
+There are different ways of proving a mathematical theorem.
+
+One type of proof is called proof by induction. This is usually used to prove a theorem that is true for all numbers. There are 4 steps in a proof by induction.
+
+1. State that the proof will be by induction, and state which variable will be used in the induction step.
+
+2. Prove that the statement is true for some beginning case.
+
+3. Assume that for some value "n" = "n" the statement is true and has all of the properties listed in the statement. This is called the induction step.
+
+4. Show that the statement is true for the next value, "n"+1.
+
+Once that is shown, then it means that for any value of "n" that is picked, the next one is true. Since it's true for some beginning case (usually "n"=1), then it's true for the next one ("n"=2). And since it's true for 2, it must be true for 3. And since it's true for 3, it must be true for 4, etc. Induction shows that it is always true, precisely because it's true for whatever comes after any given number.
+
+An example of proof by induction:
+
+Prove that for all natural numbers "n", 2(1+2+3+...+"n"-1+"n")="n"("n"+1)
+
+Proof: First, the statement can be written "for all natural numbers "n", 2formula_1=n(n+1)
+
+By induction on n,
+
+First, for n=1, 2formula_2=2(1)=1(1+1), so this is true.
+
+Next, assume that for some "n"="n" the statement is true. That is, 2formula_3 = n(n+1)
+
+Then for "n"="n"+1, 2formula_4.
+
+Getting "x" by itself gives
+
+
